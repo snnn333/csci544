@@ -15,14 +15,19 @@ def add_set(line_list):
         # print(line_map)
         if (line_map["title"] == "Skills"):
             skills = line_map["content"]
+            skills = skills
             # print(skills)
             if _keys!=-1:
                 if _keys in skill_set.keys():
+
                     cset = skill_set[_keys]
                 else:
                     cset = set()
                 for skill in skills:
-                    cset.add(skill)
+                    skill = skill.split(', ')
+                    for s in skill:
+                        if s != '':
+                            cset.add(s)
                 skill_set[_keys] = cset
 
 
@@ -45,3 +50,4 @@ if __name__ == "__main__":
 
     out_put = "skill_set.txt"
     save_data(out_put)
+
