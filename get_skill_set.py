@@ -45,9 +45,9 @@ def save_data(path):
 
 
 if __name__ == "__main__":
-    path = "resume_content.txt"
+    path = "output/resume_content.txt"
     read_file(path)
 
-    out_put = "skill_set.txt"
+    out_put = "output/skill_set.txt"
     save_data(out_put)
 
