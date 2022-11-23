@@ -1,0 +1,1105 @@
+c:31
+autocad:23
+excel:23
+quality:17
+documentation:16
+windows:15
+word:14
+powerpoint:14
+project management:13
+microsoft office:13
+matlab:13
+access:13
+materials:13
+outlook:13
+troubleshooting:13
+sharepoint:12
+ansys:12
+inspection:11
+office:11
+clients:10
+research:10
+processes:10
+meetings:10
+solidworks:10
+engineer:9
+functional:9
+progress:9
+drafting:9
+basic:9
+hardware:9
+cad:9
+safety:9
+leadership:8
+scheduling:8
+catia:8
+drawing:8
+database:8
+budget:8
+personnel:7
+lean manufacturing:7
+budgets:7
+ms office:7
+features:7
+wiring:7
+inventory:7
+client:7
+specification:7
+troubleshoot:7
+forms:6
+oil:6
+reporting:6
+supervision:6
+minitab:6
+optimization:6
+calibration:6
+concept:6
+designing:6
+sales:6
+api:6
+automation:6
+com:6
+java:6
+scrum:6
+servers:6
+lan:6
+workflow:6
+linux:6
+quality assurance:5
+repairs:5
+team management:5
+iso:5
+d:5
+self motivated:5
+labview:5
+simulation:5
+market:5
+electronics:5
+http:5
+json:5
+oracle:5
+managing:5
+xml:5
+enterprise:5
+sql:5
+mechanical:5
+academic:5
+microsoft project:5
+migration:5
+program management:5
+javascript:5
+cli:5
+ca:5
+content:5
+ids:5
+video:5
+purchasing:5
+routers:5
+sap:5
+proposals:4
+switches:4
+microstation:4
+auto cad:4
+logic:4
+receiving:4
+statistical process control:4
+cnc:4
+product development:4
+welding:4
+failure analysis:4
+process control:4
+programming:4
+mentor:4
+data entry:4
+power point:4
+credit:4
+customer service:4
+phone:4
+laser:4
+networks:4
+supervisor:4
+multimeters:4
+oscilloscopes:4
+physics:4
+schematics:4
+mathcad:4
+contracts:4
+qa:4
+real time:4
+software development:4
+approach:4
+atl:4
+audio:4
+backup:4
+broadcast:4
+dynamic html:4
+editing:4
+ftp:4
+gui:4
+explorer:4
+mb:4
+mfc:4
+win:4
+nas:4
+oop:4
+page:4
+proxy:4
+rendering:4
+san:4
+threads:4
+video editing:4
+visual c:4
+layout:4
+network:4
+networking:4
+test equipment:4
+data analysis:4
+microsoft office suite:4
+machinery:3
+pick:3
+problem solving:3
+time management:3
+gps:3
+microsoft access:3
+surveys:3
+utilities:3
+works:3
+plc:3
+gd t:3
+manufacturing process:3
+packaging:3
+systems engineering:3
+ms office suite:3
+fortran:3
+automotive:3
+inspect:3
+transmission:3
+siemens:3
+teaching:3
+cognos:3
+sop:3
+esd:3
+soldering:3
+focus:3
+publisher:3
+supervising:3
+spc:3
+databases:3
+gis:3
+ms access:3
+operating systems:3
+vista:3
+statistics:3
+microsoft word:3
+carpentry:3
+balance:3
+consulting:3
+dc:3
+hvac:3
+coaching:3
+delivery:3
+forecasting:3
+agile:3
+php:3
+visual studio:3
+written:3
+innovation:3
+ip:3
+writer:3
+procurement:3
+shipping:3
+technical support:3
+mysql:3
+retail:3
+mail:3
+os:3
+telephone:3
+billing:3
+cisco:3
+css:3
+java script:3
+routing:3
+software installation:3
+insurance:3
+policies:3
+verbal communication skills:3
+financial:3
+unigraphics:3
+upgrades:3
+critical thinking:2
+doors:2
+navy:2
+requirement:2
+graphic:2
+profit:2
+six sigma:2
+strategic planning:2
+supply chain:2
+visual basics:2
+apqp:2
+benchmarking:2
+process engineering:2
+validation:2
+proactive:2
+billings:2
+quality control:2
+dfmea:2
+dimensions:2
+unique:2
+websites:2
+c programming:2
+controller:2
+engineering projects:2
+system design:2
+control systems:2
+sql server:2
+project:2
+maintenance:2
+assembly:2
+oscilloscope:2
+training:2
+electrical engineering:2
+quick:2
+transportation:2
+process improvement:2
+strategy:2
+architectural drafting:2
+book:2
+conversion:2
+fiber optics:2
+ms project:2
+next:2
+revit:2
+transformers:2
+data acquisition:2
+direction:2
+first aid:2
+email:2
+messaging:2
+microsoft office applications:2
+painting:2
+reading:2
+renovation:2
+filing:2
+ms powerpoint:2
+prime:2
+project plans:2
+express:2
+recording:2
+written communication:2
+continuous improvement:2
+erp:2
+director:2
+apache:2
+developer:2
+system architecture:2
+verbal communication:2
+modems:2
+technician:2
+atm:2
+cadence:2
+ethernet:2
+signal generators:2
+view:2
+estimating:2
+hand tools:2
+mathematics:2
+performance reviews:2
+plumbing:2
+read:2
+maintain inventory:2
+router:2
+data management:2
+staffing:2
+banking:2
+experiments:2
+website:2
+accounting:2
+english:2
+typing:2
+air force:2
+machining:2
+marketing:2
+camera:2
+robotic:2
+radio:2
+python:2
+solid works:2
+a:2
+account management:2
+alpha:2
+microsoft applications:2
+cat:2
+computer hardware:2
+dhcp:2
+dns:2
+firewall:2
+html:2
+exchange:2
+printers:2
+repairing:2
+tcp ip:2
+vpn:2
+voip:2
+wan:2
+cable:2
+council:2
+hiring:2
+apple:2
+encryption:2
+ibm:2
+peoplesoft:2
+jira:2
+content management:2
+fundraising:2
+statistical analysis:2
+scanning:2
+electrical systems:2
+osi:2
+lathe:2
+administrative support:1
+ap:1
+senior management:1
+organizational:1
+pearl:1
+personnel management:1
+troubles:1
+technical review:1
+blueprint understanding:1
+project support:1
+document control:1
+engineering operational functions:1
+manufacturing systems integration:1
+arcview:1
+file maintenance:1
+hazop:1
+pro e:1
+r:1
+product project management:1
+kanban:1
+kaizen:1
+fmea development toyota production systems:1
+ppap:1
+why:1
+kpi s:1
+reliability sae standards:1
+vehicle ergonomics:1
+dvp r:1
+qcc:1
+cnc engineering programming:1
+anatomy:1
+cost analysis:1
+ergonomics:1
+team player well versed in ap:1
+ar:1
+bank reconciliations:1
+cash flow projections:1
+government contracting:1
+and financial statements experienced with many accounting:1
+technical:1
+and office applications including quickbooks expert:1
+peachtree proficient:1
+jde proficient:1
+great plains trained:1
+know your consumer kyc:1
+cost reduction and avoidance:1
+systems engineering management:1
+software systems engineering:1
+tools of operations research:1
+process design:1
+system configuration:1
+cero:1
+hypermesh:1
+matlab simulink:1
+cnc programming:1
+automobiles:1
+business plan development:1
+gateways:1
+selling:1
+system engineering:1
+proficient in microsoft word:1
+spreadsheet ability to type in a excess of wpm with minimal error working knowledge of autocad with d rendering and micro station med gas certified and knowledgable in osha:1
+apollo:1
+fat:1
+isa:1
+nec:1
+philosophy:1
+plc programming:1
+scada:1
+siemens plc:1
+system analysis:1
+lead development:1
+build teams:1
+interface with customers and vendors:1
+architect end to end develop products in consumer electronics:1
+digital tv:1
+industrial automation:1
+jvm:1
+embedded linux:1
+lxc:1
+device drivers:1
+working with socs:1
+rtos os:1
+vxworks:1
+dvb:1
+mpeg:1
+h:1
+hls:1
+mp:1
+rest:1
+soap:1
+xml snmp tr:1
+microcontrollers:1
+octave:1
+mathematical modeling:1
+integrating content protection systems:1
+agile methodologies:1
+sdlc:1
+project planning and management:1
+sap time approval:1
+travel arranger:1
+access database:1
+purchase reqs in sap:1
+ios in sap:1
+pcard purchases:1
+royalty agreement tracking:1
+employee training:1
+equipment maintenance:1
+erp microsoft ax dynamics:1
+mechanical processes:1
+protocols execution:1
+supervisory:1
+system integration:1
+team player:1
+adobe captivate:1
+blackboard:1
+business objects:1
+clarity:1
+cerner:1
+echimp:1
+eclipsys:1
+ehrs:1
+epic:1
+hboc:1
+macess:1
+idx:1
+i max facet:1
+heat:1
+er studio:1
+mini tab:1
+sas:1
+sharepoint foundation:1
+spss:1
+and pcanywhere:1
+user level:1
+advanced user of the microsoft office suite of software packages to include excel:1
+one note:1
+and visio:1
+corrective maintenance:1
+industrial machinery:1
+preventive maintenance:1
+sensors:1
+biotechnology:1
+electrical mechanical:1
+estimation:1
+hydraulics:1
+mechanical technician:1
+pneumatics:1
+project manager:1
+circuit boards:1
+dmm:1
+electrical test:1
+first article inspection:1
+medical devices:1
+production process:1
+schematic:1
+surface mount:1
+test engineer:1
+through hole:1
+sensor:1
+temperature and humidity:1
+control system design:1
+electrical engineer:1
+entry level:1
+ieee:1
+mechanical electrical engineer:1
+testing:1
+pr:1
+public relations:1
+dispatching:1
+drivers:1
+budgeting:1
+construction management:1
+film hiring:1
+mechanical negotiations processes:1
+system administrator:1
+d studio max:1
+adobe:1
+photoshop:1
+crystal reports:1
+data dictionary:1
+edit:1
+hps:1
+illustrator:1
+indesign:1
+lighting:1
+mapper:1
+windows xp:1
+db:1
+coding:1
+transformer:1
+cpr certified:1
+digital design:1
+electronics i:1
+fashion:1
+html programming:1
+intel:1
+natural:1
+physics i:1
+pspice:1
+speaking:1
+supervisory control and data acquisition:1
+systems design i:1
+technical writing:1
+verilog:1
+vhdl:1
+vi:1
+web design:1
+bluebeam:1
+autocad civil d:1
+d modeling:1
+read blueprints:1
+detail oriented:1
+floor plans:1
+frame:1
+dsmax:1
+multi tasking:1
+problem solving skills:1
+accounting software:1
+capital expenditures:1
+handling cash:1
+civil engineering:1
+interpersonal communications:1
+prepare contract:1
+customer care:1
+design and construction:1
+engineering design:1
+expense reports:1
+marketing research:1
+ms excel:1
+ms word:1
+peak:1
+great organizational skills self motivated:1
+work well under minimum supervision lifelong learner:1
+manufacturing processes:1
+product design and development:1
+project lead:1
+testing software:1
+business intelligence:1
+cmm:1
+configuration management:1
+decision analysis:1
+direct sales:1
+directing:1
+enterprise resource planning:1
+global marketing:1
+industrial engineering:1
+latin:1
+mentoring:1
+ms dynamics:1
+microsoft sharepoint:1
+mis:1
+network engineer:1
+pdm:1
+plm:1
+raid:1
+software developer:1
+strategic planning and management:1
+systems management:1
+tableau:1
+employee development:1
+visio:1
+asp net:1
+capacity planning:1
+competitive:1
+crystal:1
+eclipse:1
+etl:1
+full life cycle:1
+iis:1
+mvc:1
+rapport:1
+excellent communication:1
+inspecting:1
+team lead:1
+trainer:1
+de bugging:1
+linux os:1
+orcad:1
+power supplies:1
+sonet:1
+t:1
+trouble shooting:1
+communication skills:1
+communication:1
+skills:1
+counseling:1
+customer services:1
+leadership skills:1
+payroll:1
+property management:1
+record keeping:1
+scanners:1
+staff:1
+type:1
+adobe acrobat:1
+cms:1
+customer relations:1
+train employees:1
+great plains:1
+inventory control:1
+manufacturing engineer:1
+mrp:1
+protel:1
+portfolio management:1
+process analysis:1
+solution design:1
+enterprise software:1
+systems integration:1
+product excellence:1
+agile methodology:1
+people development:1
+leadership development:1
+coaching mentoring:1
+aware of analog layout fundamentals like device matching:1
+shielding:1
+isolation:1
+latchup:1
+antenna:1
+em:1
+dfm:1
+physical verification layout using tools like k ver:1
+hercules:1
+caliber:1
+assura:1
+used auto routers tools like icct:1
+chip assembly router:1
+aprisa:1
+vsr on various blocks to reduce manual effort:1
+used post layout parasitic extraction tools:1
+used nucleus ti internal tool for esd and latchup spire ti internal tool for emir analysis:1
+voltrace ti internal tool for high voltage checks:1
+used data management tools like synchronicity and ic manage:1
+debugging:1
+iq:1
+layout design:1
+sun solaris:1
+chemical engineering technician:1
+engineering management:1
+equipment inventory:1
+validations:1
+calculus:1
+database management system:1
+mechanical engineering:1
+police:1
+vba:1
+civil engineer:1
+fast:1
+front office:1
+meeting facilitation:1
+multi line telephone:1
+proofing:1
+self starter:1
+spanish:1
+spreadsheets:1
+decision making:1
+experimentation:1
+instructor:1
+lesson planning:1
+mechanical design:1
+modeling:1
+nastran:1
+patran:1
+predict:1
+research and design:1
+army:1
+bridges:1
+inspects:1
+marconi:1
+radar:1
+multi meters:1
+vhf:1
+charts:1
+ims:1
+sap r:1
+strategy planning:1
+visual basic:1
+reduce waste:1
+application development:1
+b b:1
+bind:1
+customer support:1
+fax machines:1
+help desk:1
+human resources:1
+inventory management:1
+ipx:1
+jquery:1
+lans:1
+team leadership:1
+mac:1
+mac os:1
+all microsoft:1
+money:1
+windows applications:1
+msql:1
+nsf:1
+network administration:1
+network printers:1
+network security:1
+pc s:1
+pc hardware:1
+ss:1
+tech support:1
+software support:1
+telecom:1
+telephony:1
+voice over ip:1
+web development:1
+wans:1
+windows server:1
+lighting designs using visual professional:1
+live electrical:1
+arc flash:1
+lock out tag out:1
+functional testing:1
+test equipment repair and operation:1
+iso standards:1
+electrical equipment operation:1
+mechanical repair:1
+oil servicing:1
+power generation:1
+electrical component repair:1
+safety awareness:1
+blueprints:1
+drawings:1
+various testing equipment:1
+equipment wiring installation:1
+solenoid valves:1
+pc repair:1
+fabrication:1
+well organized:1
+excellent written and verbal communication skills:1
+premier:1
+back up:1
+internet usage:1
+leadership training:1
+exchange server:1
+mom:1
+novell servers:1
+performance management:1
+recruiting:1
+systems management server:1
+speech:1
+active directory:1
+antivirus:1
+bash:1
+bgp:1
+call center:1
+ccna:1
+cd rom:1
+cisco ios:1
+dell:1
+edge:1
+help desk support:1
+hp:1
+internet explorer:1
+laptops:1
+linux and os:1
+microsoft windows:1
+msi:1
+networking i:1
+ospf:1
+printer:1
+protocols:1
+scripting:1
+ssl:1
+system administration:1
+tables:1
+tv:1
+troubleshooting i:1
+video conferencing:1
+acrylic:1
+engineer in training:1
+eit:1
+graphics and design:1
+material science:1
+microsoft excel:1
+microsoft powerpoint:1
+design process:1
+robotics:1
+weighing:1
+dynamic ax:1
+powerpoint and word:1
+microsoft teams:1
+experienced with oracle:1
+sales force:1
+sharepoint and gantt chart scheduler:1
+possess strong written and verbal communication skills:1
+possess strong knowledge of project management lifecycle:1
+streamline:1
+ad:1
+advertisements:1
+advertising:1
+ad copy:1
+market trends:1
+workbench:1
+accounts receivable:1
+aia:1
+bank reconciliation:1
+daily cash receipts:1
+cash flow:1
+consultant:1
+financial reports:1
+financial statements:1
+general ledger:1
+general ledger accounts:1
+government:1
+pivot tables:1
+presentations:1
+spreadsheet:1
+tax:1
+timberline:1
+basic and advanced supervision training courses:1
+camc:1
+charleston:1
+wv:1
+certified biomedical equipment technician cbmet training at university of st louis:1
+toshiba certified service trained on aquilion:1
+and slice ct s:1
+toshiba certified service trained on vantage t channel mri:1
+toshiba certified service trained on siemens e cam nuclear medicine camera:1
+aramark service trained on ge amx and amx portable xr unit:1
+aramark service trained on ge:1
+portable c arm:1
+aramark service trained on ge precision radiology and fluoroscopic image system:1
+field trained on various other modalities and manufacturers of xr systems:1
+and outlook:1
+foresight imaging systems trained on dicom protocols:1
+imaging conversion to dicom for ris pacs:1
+skilled in the operation of ms:1
+unix:1
+skilled in the operation of networks:1
+dsl cable:1
+hubs:1
+cabling:1
+lan wan:1
+skilled in the operation of workstations and servers:1
+ide scsi devices:1
+network storage devices:1
+metallurgical:1
+metallurgical engineering:1
+mec:1
+exploration:1
+metallurgy:1
+laboratory:1
+operations:1
+xrf:1
+coatings:1
+corrosion:1
+materials engineering:1
+pipeline:1
+macintosh:1
+math:1
+operating system:1
+mm:1
+pro engineer:1
+net:1
+photo:1
+analyst:1
+business plan:1
+closing:1
+customer satisfaction:1
+data migration:1
+database administration:1
+driving:1
+e commerce:1
+imaging:1
+information technology:1
+interpretation:1
+market planning:1
+marketing and sales:1
+new product development:1
+order management:1
+presenting:1
+pricing:1
+product manager:1
+product management:1
+product marketing:1
+sales management:1
+stories:1
+television:1
+ui design:1
+venture capital:1
+vision:1
+year end:1
+finite element analysis fea:1
+ssoftware tools ibm maximo:1
+ddesign for manufacturability dfm:1
+computer aided design cad:1
+geometric dimensioning:1
+pprocess failure mode and effects analysis pfmea:1
+cnc and tolerancing gd t:1
+nx unigraphics:1
+mmachining:1
+design of exp doe:1
+v:1
+sstatistical data analysis:1
+quality function deployment:1
+s jmp:1
+pam stamp:1
+ddesign:1
+design of:1
+eexperiments doe:1
+funds:1
+product design:1
+experienced with microsoft office word:1
+sharepoint costpoint:1
+administrative assistant:1
+benefits:1
+clerical:1
+mailing:1
+microsoft office word:1
+office equipment:1
+reception:1
+electronic mechanical technology:1
+maintenance management:1
+lean six sigma principles:1
+mechanical component troubleshooting:1
+quality assurance control:1
+material management:1
+staff development leadership:1
+technical interface:1
+safety compliance microsoft office:1
+instruction:1
+letters:1
+logistics:1
+schedule maintenance:1
+project planning:1
+risk management:1
+staff development:1
+technical assistance:1
+upgrade:1
+author:1
+construct:1
+test and troubleshoot ac dc circuits:1
+determine voltage:1
+current:1
+resistance and power by calculations and measurements:1
+identify electronic components and schematic symbols:1
+utilize oscilloscopes to measure ac frequency:1
+very proficient in soldering:1
+troubleshoot and identify faulty capacitors:1
+inductors and transformers:1
+skilled in the use of hand tools for repairing and installing electronics:1
+create circuits with multisim cad software:1
+assemble disassemble pcs and electronics to the component level:1
+familiar in c:1
+microsoft team foundation:1
+microsoft test manager:1
+tera term:1
+gshell:1
+studied and understand programmable logic controllers:1
+digital communications with fiber optics:1
+understand different types of transmission lines twisted pair:1
+utp:1
+shielded pair and coaxial:1
+proficient with microsoft word:1
+strong oral and written communication skills:1
+adapt to new technology at an accelerated rate:1
+cd:1
+oral:1
+dvd:1
+ssh:1
+software developers:1
+test tools:1
+usb:1
+written communication skills:1
+years of experience with cad packages solidworks:1
+autodesk inventor:1
+ptc creo:1
+years of experience with cae softwares hypermesh:1
+abaqus:1
+optistruct:1
+years of experience with analysis linear non linear static:1
+dynamic:1
+tolerance analysis:1
+design optimization:1
+experience with sheet metal:1
+design for manufacturing:1
+generating bill of materials:1
+sculpting:1
+experience with advanced material selection for rapid prototyping:1
+advanced manufacturing:1
+welding and d printing:1
+cad cam:1
+dec:1
+engineering analysis:1
+material selection:1
+prototyping:1
+tutoring:1
+algebra:1
+geometry:1
+middle school high school math:1
+college math:1
+presentation:1
+analysis:1
+grading and evaluation:1
+esl students:1
+technology integration:1
+classroom monitoring:1
+student assistance:1
+customer care and satisfaction:1
+quantitative analysis:1
+operations management:1
+google docs:1
+technical management:1
+agile software development:1
+handsoft:1
+epdm:1
+customer management:1
+systems:1
+hardware software integration rational requisite pro clearquest:1
+visio doors:1
+lean six sigma:1
+safety engineering:1
+requirements engineering creation:1
+design:1
+creo solidworks:1
+dfma:1
+dfa dfm:1
+zemax:1
+i deas:1
+intralink:1
+windchill:1
+engineering drawings:1
+tolerances:1
+bill of materials:1
+cage codes:1
+asme standards:1
+weld and material callouts:1
+development:1
+simulink:1
+microsoft visual studio:1
+clearance:1
+active secret security clearance:1
+bc:1
+citrix:1
+laboratory equipment:1
+maintenance schedules:1
+natural gas:1
+process equipment:1
+dsc:1
+mill:1
+organizing:1
+scheme:1

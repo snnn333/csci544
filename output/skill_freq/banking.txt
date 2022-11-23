@@ -1,0 +1,892 @@
+sales:26
+financial:22
+credit:21
+clients:20
+excel:19
+documentation:18
+banking:17
+customer service:17
+policies:17
+quality:15
+processes:14
+powerpoint:13
+budget:13
+client:13
+microsoft word:12
+coaching:11
+marketing:11
+meetings:11
+inventory:10
+retail:10
+research:10
+reporting:10
+leadership:9
+managing:9
+market:9
+accounting:9
+access:9
+database:9
+delivery:8
+word:8
+presentations:8
+project management:8
+scheduling:8
+insurance:7
+risk management:7
+real estate:7
+pricing:7
+problem resolution:7
+recruiting:6
+problem solving:6
+office:6
+written:6
+outlook:6
+staffing:6
+strategic:6
+legal:6
+money:6
+personnel:6
+phone:6
+time management:6
+microsoft office:6
+coach:5
+budgets:5
+business development:5
+functional:5
+human resource:5
+hr:5
+payroll:5
+supervision:5
+tax:5
+telephone:5
+closing:5
+finance:5
+hiring:5
+financial statements:5
+atm:5
+budgeting:5
+materials:5
+negotiation:5
+cash management:5
+customer satisfaction:4
+excellent customer service:4
+call center:4
+data entry:4
+workflow:4
+selling:4
+directing:4
+power point:4
+networking:4
+recruitment:4
+accounts receivable:4
+billing:4
+hardware:4
+contracts:4
+forecasting:4
+process improvement:4
+trainer:4
+credit analysis:4
+quality assurance:4
+sharepoint:4
+advertising:4
+strategy:4
+databases:4
+direction:4
+lotus notes:4
+funds:4
+c:4
+change management:4
+director:4
+progress:4
+benefits:4
+organizational:4
+mail:4
+visio:4
+balance:4
+adobe photoshop:4
+microsoft excel:3
+credit risk:3
+underwriting:3
+account management:3
+content:3
+fast:3
+team leader:3
+publisher:3
+radio:3
+training programs:3
+senior management:3
+government:3
+letters:3
+oracle:3
+producing:3
+taxes:3
+filing:3
+team building:3
+operations management:3
+team lead:3
+detail oriented:3
+trading:3
+financial reporting:3
+microsoft outlook:3
+automation:3
+interpersonal skills:3
+oral:3
+email:3
+organizational skills:3
+due diligence:3
+investment banking:3
+strategic management:3
+supervisor:3
+supervising:3
+mentor:3
+negotiations:3
+spreadsheets:3
+communication skills:3
+forms:3
+cd:3
+windows:3
+coding:3
+programming:3
+relationship management:3
+sdlc:3
+cashier:3
+financial management:3
+bank reconciliation:3
+financial statement analysis:3
+editing:3
+general ledger:3
+illustrator:2
+html:2
+assistant manager:2
+employee training:2
+and microsoft outlook:2
+cms:2
+collections:2
+bankruptcy:2
+team player:2
+imaging:2
+mac:2
+risk analysis:2
+shipping:2
+tax returns:2
+approach:2
+business analysis:2
+decision making:2
+office manager:2
+researching:2
+accounts payable:2
+auditing:2
+balance sheet:2
+bookkeeping:2
+cash receipts:2
+human resources management:2
+leadership skills:2
+loss prevention:2
+quality control:2
+staff development:2
+lending:2
+liability:2
+fixed income:2
+mortgage loans:2
+operations:2
+cases:2
+solutions:2
+articulate:2
+dos:2
+fast learner:2
+loss mitigation:2
+mitigation:2
+strategic planning:2
+marketing and communication:2
+direct mail:2
+special events:2
+interpersonal:2
+outside sales:2
+san:2
+key:2
+com:2
+hogan:2
+sales reports:2
+settlements:2
+technical support:2
+relationship building:2
+financial analysis:2
+branding:2
+cold calling:2
+team development:2
+law:2
+performance management:2
+securities:2
+training:2
+compensation:2
+labor law:2
+capital markets:2
+award:2
+regulatory compliance:2
+competitive:2
+goal setting:2
+qa:2
+photoshop:2
+employee relations:2
+front office:2
+investments:2
+management reporting:2
+mis:2
+page:2
+commercial lending:2
+new business development:2
+counseling:2
+mentoring:2
+filenet:2
+reading:2
+bi:2
+proposals:2
+sql:2
+vendor management:2
+project planning:2
+logistics:2
+requirement:2
+treasury:2
+account reconciliation:2
+upgrade:2
+marketing plans:2
+profit:2
+mas:2
+negotiating:2
+debit:2
+legal environment of business:2
+business information systems:2
+managerial economics:2
+organizational behavior and management processes:2
+quantitative analysis for business decisions:2
+marketing management:2
+business solutions:2
+marketing strategies:2
+marketing sales:2
+safety:2
+presenting:2
+spanish:2
+phones:2
+instructor:2
+teaching:2
+human resources:2
+invoicing:2
+book:2
+adobe pagemaker:2
+dreamweaver:2
+unix:2
+sales software salesforce com:1
+tapscan:1
+public relations software bacon s mediasource:1
+factiva:1
+desktop publishing software photoshop:1
+reconciling:1
+customer engagement:1
+clerical support and the ability to interact effectively with a diverse group of individuals at various ages:1
+excel at interfacing with others at all levels to ensure organizational goals are attained:1
+proactive approach to build long lasting customer relationships and expanding my client portfolios:1
+possess excellent interpersonal analytical:1
+and organizational skills excel within a highly competitive environment through effectively managing:1
+training and motivating a diverse team:1
+excellent working knowledge using both ibm and mac systems microsoft excel:1
+fluent in english and spanish reading and writingbeing recognize from merchant manager retail small business credit consultant:1
+and payroll partner numerous times:1
+being nominated for searching for stars and attending the dinner ceremony:1
+notary public:1
+thorough and comprehensive knowledge of policies and procedures bankruptcy:1
+fdcpa:1
+fcra:1
+ssa:1
+fannie mae freddie mac usda guidelines:1
+dws:1
+msp:1
+lenderlive:1
+lps:1
+bart:1
+infosource:1
+agent desktop:1
+early resolution:1
+tas:1
+fortracs:1
+ivault:1
+vls:1
+icat:1
+cat:1
+ccw:1
+spo tool:1
+vendorscape:1
+control link:1
+expert user of ms word:1
+ms excel:1
+and oracle applications i have skills in escalation complaint handling and audit processes in modification:1
+shortsale:1
+recovery:1
+escrow:1
+property preservation:1
+reo and the executive office i possess strong leadership:1
+analytical:1
+critical logical thinking:1
+organizational and negotiation skills:1
+effective written and verbal communication presentation skills:1
+goal driven:1
+and results oriented:1
+administrative duties:1
+rrisk:1
+loan documentation:1
+switchboard:1
+underwriter:1
+general manager:1
+academic:1
+advertisements:1
+art:1
+conflict management:1
+customer service training:1
+direct marketing:1
+event planning:1
+fundraising:1
+international business:1
+microsoft suite:1
+presenter:1
+promotion:1
+proxy:1
+public speaker:1
+sales training:1
+business process:1
+lotus:1
+peach tree:1
+phone system:1
+sla:1
+solomon:1
+cash handling enthusiastic people person:1
+advanced problem solving:1
+great organizational skills knowledgeable of microsoft word:1
+excel spss:1
+in and outbound call center:1
+excellent customer service assistance:1
+fax:1
+answering phones:1
+type wpm:1
+microsoft word and excel:1
+accounts payable and receivable:1
+excellent communication:1
+conflict resolution:1
+checkout process:1
+customer relations:1
+forklifts:1
+internal audit:1
+internet connectivity:1
+labor relations:1
+performance reviews:1
+telephone etiquette:1
+warehousing:1
+loans:1
+mortgage:1
+loan processor:1
+mortgage lending:1
+processor:1
+ups:1
+fha:1
+foreclosure:1
+cash:1
+file:1
+state tax:1
+banking loan:1
+loan operations:1
+mortgage loan:1
+security:1
+mortgage banking:1
+audits:1
+fannie mae:1
+internal audits:1
+nss:1
+production environment:1
+ambitious:1
+loan closing:1
+microsoft sharepoint:1
+pipeline:1
+problem solver:1
+reviewing financial statements:1
+risk assessment:1
+real estate analysis:1
+highly creative:1
+financial analytical experience:1
+facilities management experience:1
+leading it related projects teams:1
+adobe acrobat:1
+agency:1
+executive management:1
+facilities management:1
+image:1
+investment strategies:1
+microsoft powerpoint:1
+new product development:1
+product development:1
+administrative support:1
+automotive:1
+customer care:1
+laboratory procedures:1
+lighting:1
+windows xp:1
+pc skills:1
+sap:1
+tax preparer:1
+tax preparation:1
+team work:1
+websites:1
+workbench:1
+written communication:1
+acquisitions:1
+equity:1
+financing:1
+mergers:1
+proposal:1
+type:1
+business administration:1
+cash deposits:1
+cpi:1
+customer service skills:1
+listening:1
+microsoft access:1
+microsoft power point:1
+next:1
+organizational development:1
+procurement:1
+protocols:1
+transportation:1
+industry partnership development:1
+recruiting and hiring:1
+operations oversight:1
+executive leadership:1
+data management:1
+developing business:1
+clients service:1
+mortgage compliance:1
+understands cfbp requirements:1
+mortgage loan origination:1
+proficient with unifi system:1
+policies and sales:1
+clientele:1
+direct sales:1
+instructing:1
+mechanical:1
+sales management:1
+statistics:1
+paralegal:1
+e discovery:1
+ada:1
+claims:1
+correspondence:1
+defendant:1
+deposition:1
+eeoc:1
+equal employment opportunity commission:1
+erisa:1
+executive compensation:1
+flsa:1
+intellectual property:1
+litigation:1
+nasd:1
+patent:1
+patents:1
+plaintiff:1
+sec:1
+trademark:1
+witness:1
+asbestos:1
+aml:1
+brokerage:1
+bsa:1
+business systems analysis:1
+data analytics:1
+fdic:1
+treasury department:1
+annuities:1
+healthcare:1
+mutual funds:1
+lexis:1
+pmp:1
+regulatory affairs:1
+westlaw:1
+wordperfect:1
+armed forces:1
+banking quality coaching:1
+market trend:1
+sales forecasting:1
+sales manager:1
+adobe products:1
+interpersonal and communication:1
+critical thinking:1
+resolve customer concerns:1
+focus:1
+improving processes:1
+self starter:1
+spanish fluency:1
+crm:1
+client expense reports:1
+market management:1
+sales and management:1
+tax return preparation:1
+excel and powerpoint knowledgeable:1
+goal oriented:1
+self sufficient:1
+strong team builder:1
+trid expert:1
+proficient in ms office and excel:1
+flexible:1
+manager:1
+on line and mobile banking:1
+cash handling:1
+disaster recovery planning:1
+training employees:1
+microsoft office and excel:1
+software applications:1
+peoplesoft:1
+commercial electronic office:1
+quickbooks:1
+sei trust:1
+trust real estate management system:1
+trust mineral management system:1
+kronos:1
+lexisnexis:1
+computer skills:1
+proficient in microsoft excel:1
+kspm ten key:1
+accurate typing wpm:1
+professional skills:1
+strong analytical skills:1
+ability to effectively multi task:1
+dependable:1
+outstanding customer service skills:1
+excellent problem solving skills:1
+accountant:1
+arbitration:1
+cash registers:1
+customer:1
+service:1
+financial accounting:1
+instruction:1
+layout:1
+processors:1
+shadow:1
+capacity planning:1
+client relations:1
+database analysis:1
+drivers:1
+essbase:1
+financial planning:1
+fp a:1
+hyperion:1
+long term care:1
+macros:1
+ms access:1
+modeling:1
+pivot table:1
+project lead:1
+trend:1
+variance analysis:1
+vba:1
+website design:1
+net:1
+apm:1
+agile:1
+api:1
+apple:1
+catalog:1
+designing:1
+disaster recovery:1
+drupal:1
+ecommerce:1
+features:1
+gateway:1
+ux:1
+php:1
+it management:1
+java:1
+javascript:1
+linux:1
+win:1
+mysql:1
+network:1
+networks:1
+objective c:1
+payment processing:1
+postgres:1
+scrum:1
+software developers:1
+software engineering:1
+sql server:1
+swift:1
+tv:1
+unique:1
+video:1
+web sites:1
+account analysis reconciliation:1
+accounts payable accounts receivable:1
+bank reconciliations business:1
+due diligence financial report preparation:1
+general ledger accounting:1
+administrative:1
+microsoft exchange:1
+monitors:1
+scripts:1
+space planning:1
+verbal communication skills:1
+visual basic:1
+business plans:1
+consultant:1
+management consultant:1
+ncis:1
+technical assistance:1
+vision:1
+data collection:1
+grants:1
+works:1
+improves processes:1
+report writing:1
+workflow analysis:1
+documentation project development:1
+computer proficiency customer satisfaction:1
+team leadership:1
+market research:1
+marketing negotiation:1
+product management:1
+business development sql:1
+active listener:1
+creative problem solver:1
+e commerce:1
+gross profit:1
+medical billing:1
+ms office:1
+peachtree accounting:1
+police:1
+pos:1
+quick:1
+written communicationaccounts payable:1
+bonds:1
+charts:1
+managerial accounting:1
+and professional paper and presentation managerial accounting:1
+and professional paper and presentation microsoft word:1
+microsoft excelmicrosoft powerpointmicrosoft projectmicrosoft accessmicrosoft outlook express:1
+analyst:1
+issue receipts:1
+navigation:1
+surveys:1
+phone skills:1
+trouble shooting:1
+website:1
+streamline:1
+conversion:1
+crystal reports:1
+laser:1
+nice:1
+requirements gathering:1
+rms:1
+software development:1
+tcl:1
+data warehouse knowledge:1
+database design:1
+oracle sql:1
+teradata sql testing:1
+unit testing:1
+business requirements gathering:1
+change management planning:1
+configuration management planning:1
+data analysis:1
+data mart development:1
+code deployment:1
+feasibility analysis:1
+integration testing:1
+application maintenance meta data analysis teradata pl sql teradata bteq teradata fastload requirements gathering:1
+semantic database design:1
+technical design:1
+technical specifications documents:1
+uat basic unix:1
+and power point software microsoft word:1
+outlook and databases clarity system:1
+boston post and hmis database system:1
+budget development:1
+business management:1
+business strategies:1
+negotiating contracts:1
+cost control:1
+customer services:1
+driving:1
+environmental health:1
+organizing:1
+patient care:1
+plan development:1
+cpr:1
+first aid:1
+french:1
+press:1
+press releases:1
+print media:1
+publicist:1
+publicity:1
+read:1
+recording:1
+spanish language:1
+television:1
+author:1
+accountability for:1
+proactive:1
+self motivated:1
+affirmative action:1
+discrimination:1
+eeo:1
+equal employment opportunity:1
+ofccp:1
+office of federal contract compliance programs:1
+executive level:1
+fact:1
+fact erp:1
+hr business partner:1
+hrbp:1
+virtual learning:1
+community outreach:1
+recruiting events:1
+premier:1
+storage area network:1
+aspect:1
+corporate recruiting:1
+its:1
+business operations:1
+sales planning:1
+architect:1
+strong interpersonal skills:1
+consulting:1
+contract negotiation:1
+management skills:1
+improve process:1
+program implementation:1
+risk analysis and assessment:1
+verbal communication:1
+language proficient in chinese:1
+fluent in english:1
+office microsoft word:1
+prezi:1
+programming vba:1
+key by touch:1
+developing business relationships:1
+focused:1
+management:1
+manufacturing process:1
+mrp:1
+purchasing:1
+retail management:1
+notary medallion microsoft word:1
+excel detail oriented:1
+strategic plans:1
+opening and closing:1
+routing:1
+microsoft word for windows:1
+oracle i and developer:1
+dba:1
+marketing materials:1
+online help:1
+developer:1
+reception:1
+sales skills:1
+seminars:1
+scripting:1
+telecommunications:1
+wiring:1
+conferences:1
+council:1
+graphics:1
+merchandising:1
+powerpoint presentations:1
+pr:1
+public speaking:1
+publications:1
+teacher:1
+workshops:1
+backup:1
+clerical:1
+phone support:1
+help desk:1
+mailing:1
+sales experience:1
+phone etiquette:1
+typing wpm:1
+written communication skills:1
+year end:1
+adobe:1
+ad:1
+basic:1
+citrix:1
+consolidations:1
+edit:1
+information technology:1
+marketing plan:1
+marketing collateral:1
+ms project:1
+organization skills:1
+print production:1
+problem solving skills:1
+project plans:1
+proofing:1
+rfi:1
+six sigma:1
+spreadsheet:1
+administration:1
+preparing trial balance:1
+balance sheet analysis:1
+forecasting cash flows:1
+cash management services:1
+financial analysis and modeling:1
+government grant proposals:1
+inventory management:1
+accounts payables:1
+accounts receivables:1
+legal issues:1
+investment valuation:1
+excellent verbal and written communication skills with strong interpersonal skills:1
+strong analytical and research skills:1
+excellent team player:1
+strong leadership abilities and team building skills:1
+dynamic and self motivated:1
+creative and result oriented:1
+excellent organizational:1
+project management and planning skills:1
+ability to work well under pressure:1
+adherence to deadlines:1
+multitask:1
+reliable:1
+responsible conscientious:1
+easy going:1
+demonstrated initiative and creativity in problem solving:1
+eager for self improvement:1
+proficiency with personal computers and pertinent mainframe systems and software packages:1
+including ms office suite:1
+aml ofac monitoring software:1
+serving:1
+solid communication:1
+and leadership skills:1
+business financial analysis:1
+month end close:1
+fixed assets:1
+streamline processes review implement software policies accounts payable:1
+and expense reports:1
+software:1
+accounting winteam:1
+citrix budgeting:1
+peoplesoft ability:1
+brio reporting:1
+accpac fas best:1
+and quickbooks:1
+general outlook:1
+microsoft:1
+corrigo work order network:1
+mortgageware:1
+as jack henry jd edwards:1
+and campus vue:1
+seo:1
+sem:1
+social media:1
+launch strategies:1
+social digital marketing:1
+traffic generation:1
+media and marketing analysis:1
+interactive web campaigns e commerce:1

@@ -1,0 +1,904 @@
+sales:35
+business development:28
+marketing:27
+clients:20
+customer service:16
+market:16
+client:14
+budget:13
+excel:13
+leadership:12
+presentations:12
+strategic:12
+strategy:12
+powerpoint:11
+inventory:11
+contracts:10
+director:9
+forecasting:9
+quality:9
+selling:9
+advertising:9
+pricing:9
+delivery:9
+managing:9
+research:9
+account management:8
+cold calling:8
+benefits:8
+meetings:8
+policies:8
+profit:8
+closing:8
+word:7
+competitive:7
+focus:7
+c:7
+crm:7
+networking:7
+strategic planning:6
+senior management:6
+outlook:6
+reporting:6
+insurance:6
+access:6
+problem solving:6
+training:6
+email:6
+personnel:6
+scheduling:6
+financial:5
+processes:5
+team building:5
+accounting:5
+online marketing:5
+budgets:5
+materials:5
+project management:5
+windows:5
+customer satisfaction:5
+marketing strategies:4
+retail:4
+documentation:4
+microsoft office suite:4
+negotiating:4
+filing:4
+coaching:4
+optimization:4
+team player:4
+decision making:4
+quality assurance:4
+approach:4
+content:4
+image:4
+marketing strategy:4
+recruitment:4
+product development:4
+client relations:4
+office:4
+network:4
+human resources:4
+phone:4
+new business development:4
+agency:4
+rapport:4
+outside sales:4
+vision:4
+direct mail:4
+seminars:4
+proposals:4
+customer relationship management:4
+inventory management:3
+logistics:3
+finance:3
+brochures:3
+credit:3
+mentoring:3
+oracle:3
+statistics:3
+budgeting:3
+transportation:3
+billing:3
+marketing plans:3
+of sales:3
+award:3
+ms office:3
+adobe photoshop:3
+basic:3
+functional:3
+recruiting:3
+relationship management:3
+quickbooks:3
+conferences:3
+microsoft word:3
+next:3
+positioning:3
+python:3
+time management:3
+contract negotiations:3
+public relations:3
+purchasing:3
+coach:3
+branding:3
+messaging:3
+computer literate:3
+crm systems:3
+consultant:3
+brand strategy:3
+merchandising:3
+hiring:3
+enterprise:3
+strong interpersonal skills:3
+concise:3
+event planning:3
+automotive:3
+driving:3
+counseling:3
+sql:3
+statistical analysis:3
+sales forecasting:2
+change management:2
+inventory levels:2
+fast learner:2
+administration:2
+interpersonal:2
+banking:2
+microsoft office applications:2
+progress:2
+scripts:2
+telemarketing:2
+safety:2
+mortgage loans:2
+for sales:2
+sales staff:2
+new products:2
+the sales:2
+project planning and development:2
+dreamweaver:2
+html:2
+leadership skills:2
+letters:2
+manufacturing processes:2
+ms office suite:2
+programming:2
+supply chain:2
+tax:2
+ad:2
+ads:2
+b b:2
+content management:2
+customer support:2
+designing:2
+e mail:2
+google analytics:2
+notes:2
+marketing collateral:2
+mentor:2
+trade shows:2
+websites:2
+ms dos:2
+linux:2
+sap pp:2
+outlook express:2
+corel draw:2
+charts:2
+concept:2
+erp:2
+market research:2
+operating systems:2
+pricing strategy:2
+sap:2
+market analysis:2
+market trends:2
+organizational skills:2
+sharepoint:2
+call center:2
+hr:2
+administrative support:2
+forms:2
+home health:2
+management skills:2
+staffing:2
+travel arrangements:2
+sales management:2
+business plan:2
+sales training:2
+written:2
+competitive analysis:2
+creativity:2
+illustrator:2
+technical sales:2
+creative problem solving:2
+customer needs assessment:2
+lead development:2
+articulate:2
+features:2
+twitter:2
+brand development:2
+direction:2
+negotiation:2
+pr:2
+procurement:2
+administrative:2
+back up:2
+conflict resolution:2
+pos:2
+receptionist:2
+spreadsheets:2
+bi:2
+sales plan:2
+promotional:2
+financial operations:2
+process control:2
+telecom:2
+and marketing:2
+solutions:2
+financials:2
+inspection:2
+proposal development:2
+san:2
+selling and:2
+human resource:2
+inside sales:2
+accounting software:2
+marketing management:2
+engineer:2
+operations:2
+business analysis:2
+internet marketing:2
+sales support:2
+recruiter:2
+six sigma:2
+com:2
+conversion:2
+negotiations:2
+website:2
+business strategy:2
+peak:2
+strategist:2
+academic:2
+leadership training:2
+organizer:2
+team builder:2
+java:2
+tableau:2
+sound:2
+business development sales leadership:1
+client development:1
+market expansion team:1
+building leadership:1
+client engagement:1
+market analysis competitive positioning:1
+sales presentations:1
+vendor sourcing relations:1
+process improvement:1
+profit improvement:1
+streamline:1
+compliance management:1
+inventory control:1
+mailing:1
+process management:1
+voip:1
+business process improvement:1
+excellent attention to detail:1
+advanced adobe:1
+microsoft excel:1
+and power point:1
+analytical and tactical planning:1
+flexible team player:1
+strong requirement tracing:1
+basic financial and operational reporting:1
+superb communication skills:1
+advanced problem solving abilities:1
+acute care:1
+cultured:1
+team work:1
+fca kain automotive training steps to digital success:1
+chrysler certified employee:1
+crm training:1
+atm:1
+counselor:1
+marketing materials:1
+risk assessment:1
+supervision:1
+workshops:1
+administrative functions:1
+contract negotiation:1
+expense reporting:1
+microsoft project:1
+networks:1
+physical therapy:1
+primary care:1
+quick books:1
+supply chain management:1
+trend:1
+careful and active listener:1
+self starter self motivated:1
+hungry for growth and continuous learning:1
+proactive and energetic:1
+banking credit decisions:1
+credit evaluation:1
+buyer:1
+buying procurement:1
+sales calls:1
+exceptions:1
+internet advertising:1
+leads:1
+incoming calls:1
+clerk:1
+invoices:1
+payments:1
+skip tracer:1
+bankruptcy:1
+sales account management business development:1
+territory management:1
+staff management and training:1
+financial services:1
+new hires:1
+patent:1
+project manager:1
+sales force:1
+with sales:1
+digital campaign:1
+digital marketing:1
+increased sales:1
+retail marketing:1
+satisfaction:1
+sales goals:1
+sales techniques:1
+set sales:1
+class:1
+comprehensive large array data stewardship system:1
+sales team:1
+territory:1
+to sales:1
+web services:1
+community outreach:1
+bpi:1
+managing projects:1
+sterling:1
+strong business acumen:1
+managing cross functional teams:1
+motivational management style:1
+sales and pricing strategies:1
+customer focused sales leader:1
+new product and market development:1
+strategic sourcing and hedging:1
+data driven decision making:1
+demand prediction:1
+supply chain and resource management:1
+cost control and profit maximization:1
+business forecasting and strategy ms office suite:1
+macromedia flash and:1
+programming skills html:1
+balance sheets:1
+chemistry:1
+cost control:1
+macromedia flash:1
+gross profit:1
+market development:1
+win:1
+negotiator:1
+pricing strategies:1
+publication:1
+researching:1
+self starter:1
+strategicsourcing:1
+tax returns:1
+teaching:1
+administrative duties:1
+budget planning:1
+e commerce:1
+managerial:1
+medical sales:1
+web development:1
+determined team player:1
+versatile sales techniques:1
+time management skills with ability to prioritize results:1
+proficient in powerpoint:1
+excel and online survey tools ms access:1
+oracle basic:1
+operating systems windows xp vista nt servers:1
+mac os x:1
+erp basic sap r:1
+sap mm knowledge:1
+software applications internet explorer:1
+editing tools adobe photoshop:1
+general productivity ms office:1
+project management tools microsoft word:1
+acquisitions:1
+automobiles:1
+color:1
+databases:1
+editing:1
+graphs:1
+hand tools:1
+hp:1
+internet explorer:1
+machine tools:1
+mac os:1
+ms access:1
+pp:1
+mis:1
+multi tasking:1
+nt servers:1
+order management:1
+power tools:1
+development of product:1
+marketing and product:1
+sales development:1
+sap materials management:1
+sap mm:1
+sap r:1
+strategic analysis:1
+vista:1
+welding:1
+client relationship builder:1
+alternative transportation specialist:1
+client account management:1
+customer driven:1
+proposal preperation:1
+crm planning and management:1
+budget preparation:1
+contract negotiations executive management:1
+financial analysis:1
+marketing transportation route planning and analysis:1
+customer relationship management crm software salesforce:1
+healthcare gpos:1
+government and education consortiums:1
+army:1
+international sales:1
+latin:1
+marketing and sales:1
+sales analysis forecasting:1
+translation:1
+proficient with large cooking machines:1
+great culinary skills:1
+highly motivated:1
+visio:1
+zendesk:1
+benefits administrator:1
+benefits administration:1
+fashion:1
+ibm:1
+investments i:1
+pick:1
+speaking:1
+script:1
+scheduling appointments:1
+contract administration:1
+data base:1
+home care:1
+maintaining inventory:1
+internet research:1
+patient safety:1
+salesforce crm:1
+brochure:1
+homecare:1
+hospice:1
+nursing:1
+adobe creative suite:1
+adobe acrobat:1
+photoshop:1
+api:1
+content development:1
+client support:1
+data management:1
+indesign:1
+marketing strategist:1
+media relations:1
+microsoft dynamics:1
+ms outlook:1
+works:1
+communicator:1
+presenter:1
+problem solver:1
+quality control:1
+real estate:1
+software development:1
+trainer:1
+training materials:1
+writer:1
+proficient in the use of ms office word excel powerpoint:1
+voyager:1
+shopper:1
+tally focus integrated erp software for retail garment stores:1
+sales and marketing strategy:1
+execution:1
+seasoned leadership:1
+experienced manager:1
+motivated:1
+balanced:1
+corporate training:1
+document management:1
+facsimile:1
+needs analysis:1
+photocopiers:1
+speaker:1
+sales software salesforce com:1
+tapscan:1
+public relations software bacon s mediasource:1
+factiva:1
+desktop publishing software photoshop:1
+microsoft office excel:1
+accounting and tax software quick books:1
+drake:1
+occupational safety osha:1
+federal energy management professional femp:1
+web design httml:1
+keynote:1
+sengrid:1
+facebook advertising:1
+instagram:1
+facebook analytics comfortable with all google suite products google analytics:1
+comfortable providing recommendations on basic elements of design:1
+brand marketing:1
+content creation:1
+fast:1
+fundraising:1
+unique:1
+video:1
+pos and inventory training:1
+internal conflict resolution:1
+training and development:1
+budgets cost reduction:1
+client retention:1
+pos applications software quickbooks pos:1
+pacific amber pos:1
+and lightspeed pos:1
+proficient in software such as quickbooks and microsoft office applications:1
+advanced use of the windows xp:1
+and windows operating systems:1
+cost reduction:1
+managment:1
+excel spreadsheets:1
+windows xp:1
+search engines:1
+pivot tables:1
+profit and loss:1
+promotional materials:1
+telephone:1
+answering phones:1
+banners:1
+developing business:1
+english:1
+promotional material:1
+sales reports:1
+sigma:1
+spanish:1
+roofing:1
+distributor sales:1
+territory sales:1
+district sales:1
+sales of solutions:1
+sales teams:1
+sales accounts:1
+national accounts:1
+strategic accounts:1
+sales promotions:1
+travel meeting sales:1
+technology application sales:1
+clients management:1
+forecasts:1
+travel meeting operations:1
+training development:1
+corporate operations:1
+employee engagement:1
+managing existing accounts:1
+finding new accounts:1
+relationship building and strategic direction:1
+pcb:1
+increase:1
+account manager:1
+new accounts:1
+circuit board:1
+printed circuit:1
+printed circuit board:1
+quality manager:1
+statistical process control:1
+accounts by:1
+aerospace:1
+business plans:1
+increasing sales:1
+integration:1
+integrator:1
+market share:1
+metrics:1
+odm:1
+retail sales:1
+sales to:1
+accounts and:1
+company sales:1
+regional sales:1
+sales award:1
+sales representatives:1
+system development:1
+in sales:1
+ipc:1
+key account:1
+new product introduction:1
+npi:1
+sales organization:1
+sales related:1
+salesforce com:1
+storage area network:1
+strategy planning:1
+general financial accounting and control:1
+strong analytical and attention detail:1
+multi tasking with strong deadline driven:1
+advanced computer skills microsoft office suites word:1
+and access and quickbooks:1
+database:1
+supervisory:1
+proficient in ntreis:1
+north texas real estate information services:1
+proficient in centralized showing services:1
+proficient in smart locating apartment data:1
+proficient in zumper:1
+creating:1
+generating and tracking leads:1
+proficient in craigslist:1
+creating ads and generating leads:1
+proficient in microsoft office:1
+such as word:1
+proficient in the use of microsoft office suite:1
+proficient in the use of crm zoho:1
+excels in:1
+fund raising with senior level executives:1
+in kind donations with business owners:1
+event planning with business owners:1
+charitable organizations:1
+wealthy individuals:1
+public presentation speaking to large groups on a weekly basis:1
+education:1
+birmingham southern college:1
+birmingham:1
+al:1
+awarded jimmy and emil hell scholarship arts scholarship for ballet accomplishments:1
+champions school of real estate licensed active realtor:1
+key:1
+accounts payable:1
+bookkeeping:1
+calculators:1
+clerical:1
+commodities:1
+fax:1
+financial statements:1
+general office duties:1
+government:1
+mail:1
+office equipment:1
+organizing:1
+payroll:1
+copy machines:1
+coding:1
+recording:1
+retail management:1
+speeches:1
+multi line telephone:1
+employee training:1
+typewriter:1
+voice mail:1
+word processing:1
+sales and:1
+consultative sales:1
+product support:1
+direct sales:1
+mixing:1
+chromatography:1
+equipment sales:1
+filtration:1
+product manager:1
+product positioning:1
+sales marketing:1
+sales in:1
+strategic direction:1
+thought leadership:1
+asset management:1
+offshore:1
+product lifecycle:1
+product lifecycle management:1
+auditing:1
+developed sales:1
+million:1
+product concept:1
+prototype:1
+prototypes:1
+sales channels:1
+sales for:1
+sales of:1
+search engine:1
+search engine optimization:1
+selling techniques:1
+seo:1
+testing:1
+through sales:1
+voice:1
+mba:1
+packaging:1
+accountable for:1
+maintenance:1
+associate:1
+autocad:1
+cbt:1
+computer based training:1
+fdot:1
+machine safety:1
+mes:1
+project engineer:1
+safety training:1
+vacuum:1
+fifo:1
+self directed:1
+warehouse management:1
+mitigation:1
+new product development:1
+transmissions:1
+and sales:1
+ibm svc:1
+integrated marketing campaign:1
+marketing campaign:1
+svc:1
+its:1
+jar:1
+exceed:1
+operations management:1
+financial management:1
+continuous improvement:1
+abc:1
+business intelligence software:1
+cms:1
+economics:1
+producer:1
+fluent in oral written spanish:1
+reading competency in french:1
+proficient in microsoft word:1
+and outlook mas:1
+mas:1
+greatplains:1
+computer:1
+analytical:1
+relationship driven:1
+presentational:1
+photo:1
+broadcast:1
+communication skills:1
+interpersonal skills:1
+frame:1
+listening:1
+package design:1
+photography:1
+presentation skills:1
+press:1
+print advertising:1
+print design:1
+proposal:1
+express:1
+report writing:1
+scientific:1
+self motivated:1
+teamwork:1
+behavioral health:1
+marketing plan:1
+staff development:1
+prospecting and cold calling:1
+strategic account development:1
+team building expertise:1
+proven sales track record:1
+strong communicator:1
+skilled in ms office:1
+relationship selling:1
+product training and placement:1
+strong deal closer:1
+exceptional customer service skills:1
+sales software cmr s salesforce com:1
+salesloft:1
+sales genius and rainking:1
+proficient in all microsoft office products:1
+business planning:1
+competitive intelligence:1
+multitasking:1
+oil:1
+sales and development:1
+strategic marketing:1
+responsible and reliable highly motivated for career advancement able to deal in a mature manner with problem solving willing to learn and accept constructive criticism willing to help good attitude around others calm and focused good knowledge of social media able to use own initiative and work as part of a team excellent communication and organizational skills versed in all aspects of marketing campaigns from concept development to execution and launch skilled marketing professional focused on exceeding revenue goals builder of strategic partnership new customer acquisition expert who emphasizes a mix online and offline marketing strategies:1
+prospecting cold calling:1
+knowledge of drug development cycle:1
+sales and marketing strategizing:1
+market research and analysis:1
+c level presentations:1
+rfp rfi bid preparation:1
+proficient with salesforce:1
+act:1
+sharpspring:1
+microsoft office:1
+mailchimp:1
+pardot:1
+yammer:1
+google chrome:1
+skype business:1
+goto meeting:1
+linkedin:1
+marketing automation software:1
+lead generation software:1
+concepts applications of chemistry:1
+contract research:1
+analytical lab equipment:1
+financing:1
+product management:1
+television:1
+translating:1
+analyzing market trends:1
+established track record of exceptional sales results:1
+excellent negotiating tactics:1
+skilled multi tasker:1
+salesforce lead management:1
+educational materials:1
+educational programs:1
+injury prevention:1
+team leader:1
+law:1
+problem resolution:1
+psychology:1
+sales plans:1
+career summary sales professional:1
+i am a professional that has extensive training and experience in technical sales:1
+and leadership development my career objective is to work as part of a team of people:1
+whose goals and ambition is to move a company forward to success in growth and profit i fit best in a place where creativity and vision are welcomed and technology and personal growth thrive i offer skills in the use of microsoft products:1
+and customer service and support i have what it takes to create vision:1
+establish and track goals:1
+and become a catalyst of influence through integrity and a positive attitude:1
+core strengths:1
+technical sales professional:1
+customer focused service:1
+proven sales success:1
+influencer:1
+engaging public speaker:1
+council:1
+leadership development:1
+microsoft products:1
+public speaker:1
+renovation:1
+reuters:1
+sales experience:1
+tax and accounting:1
+r:1
+multiple linear regression:1
+certification:1
+sun certified java associate:1
+dimensions:1
+team development:1
+sun:1
+vendor management:1
+salesforce:1
+siebel:1
+fox and bullhorn crm ats experience:1
+consultation:1
+directing:1
+graphic design:1
+graphic:1
+marketing sales:1
+draw:1
+customer service experience:1
+detail oriented:1
+fixed assets:1
+inspect:1
+organizational:1
+relationship building:1
+valuation:1
+verbal communication skills:1
+wastewater treatment:1
+ip:1
+microsoft office programs:1
+page:1
+predict:1
+relational databases:1
+research design:1
+sas:1
+professional writing:1
+zip:1
+computer proficient:1
+expense control:1
+multi tasking management:1
+html coding:1
+cna certificate:1

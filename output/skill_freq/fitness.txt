@@ -1,0 +1,677 @@
+customer service:22
+sales:19
+clients:13
+marketing:11
+inventory:10
+client:9
+financial:9
+payroll:9
+research:9
+scheduling:8
+policies:8
+excel:8
+safety:7
+office:7
+leadership:7
+microsoft word:7
+power point:6
+filing:6
+meetings:6
+training programs:6
+cpr:6
+budget:6
+quality:6
+first aid:6
+accounts payable:5
+contracts:5
+microsoft excel:5
+outlook:5
+documentation:5
+recruiting:5
+phone:5
+communication skills:5
+ms office:5
+word:4
+billing:4
+budgeting:4
+cpr certified:4
+client relations:4
+databases:4
+instructor:4
+team building:4
+director:4
+managing:4
+personnel:4
+project management:4
+written:4
+account management:4
+time management:4
+microsoft office suite:4
+database:4
+general manager:4
+seminars:4
+retail sales:4
+credit:4
+telephone:4
+coaching:4
+problem solving:4
+microsoft office:4
+powerpoint:4
+access:4
+conflict resolution:4
+customer satisfaction:4
+balance:3
+statistics:3
+accounting:3
+customer relations:3
+quickbooks:3
+interpersonal skills:3
+public relations:3
+organization:3
+les mills body attack:3
+internet research:3
+spreadsheets:3
+multi task management:3
+organizational skills:3
+delivery:3
+progress:3
+training:3
+computer proficient:3
+recording:3
+advertising:3
+administrative:3
+organizing:3
+reporting:3
+hiring:3
+materials:3
+validation:3
+health promotion:2
+fast:2
+auditing:2
+bookkeeping:2
+business development:2
+data entry:2
+economics:2
+finance:2
+human resources:2
+market research:2
+organizational:2
+purchasing:2
+teacher:2
+teaching:2
+competitive:2
+consulting:2
+network:2
+outside sales:2
+presentations:2
+selling:2
+problem solver:2
+aim ii body attack:2
+advanced problem solving:2
+computer proficiency:2
+coordination:2
+customer needs assessment:2
+email:2
+executive management support:2
+grammar:2
+service orientation:2
+speaking:2
+telephone skills:2
+writing:2
+letters and memos:2
+microsoft outlook:2
+microsoft powerpoint:2
+minute taking:2
+prioritization:2
+content:2
+pricing:2
+relationship building:2
+instruction:2
+risk management:2
+workshops:2
+receptionist:2
+closing:2
+correspondence:2
+increase:2
+maintenance:2
+merchandising:2
+satisfaction:2
+front desk:2
+financial management:2
+recruitment:2
+communication:2
+first aid cpr:2
+problem resolution:2
+benefits:2
+programming:2
+banking:2
+spanish:2
+strategic planning:2
+mechanical:2
+windows:2
+analytical:2
+dependable:2
+staff development:2
+hr:2
+multi tasking:2
+attention to detail:2
+clientele:2
+expense reports:2
+travel arrangements:2
+arts:2
+direction:2
+neat:2
+promotion:2
+counseling:2
+protocols:2
+cashier:2
+customer service oriented:2
+excellent customer service:2
+staff training:2
+inventory control:2
+laser:2
+call center:2
+rapport:2
+detail oriented:2
+blueprints:2
+equipment operation:2
+gmp:2
+glp:2
+iso:2
+lean manufacturing:2
+testing products:2
+sop:2
+troubleshooting:2
+clinical support:2
+computer literate excel:1
+mind body:1
+conferences consulting:1
+designing:1
+educator and bilingual:1
+accounts receivable:1
+administrative functions:1
+book:1
+cost accounting:1
+direct marketing:1
+editing:1
+financial analysis:1
+financial reports:1
+it support:1
+ledger:1
+letters:1
+mentoring:1
+newsletter:1
+physical therapy:1
+property management:1
+rehabilitation:1
+tax:1
+technical support:1
+answering phones:1
+website:1
+cable:1
+excellent communication:1
+ie:1
+people management:1
+market:1
+marketing materials:1
+max:1
+mom:1
+product management:1
+sales support:1
+television:1
+proficient in writing:1
+excellent communicator:1
+avid listener:1
+expert multi tasker:1
+mutual mediator:1
+appointment setter:1
+multi tasker:1
+adaptable:1
+onedrive:1
+excellent phone skills:1
+able to work in fast pace high volume environment:1
+flexible:1
+productive and efficient:1
+microsoft office power point:1
+presentation skills:1
+social media branding:1
+inspection and quality assurance:1
+health and wellness programing:1
+personal training:1
+drafting and editing publications:1
+scientific methods:1
+afaa group exercise:1
+boot camp training:1
+running:1
+afaa step certification:1
+afaa kickboxing certification:1
+yogafit certified level:1
+les mills body pump:1
+bts group power:1
+spinning:1
+ifta group fitness:1
+ifta personal trainer:1
+aim i body attack:1
+les mills cx worx:1
+les mills rpm:1
+les mills new zealand wks:1
+cpr thru:1
+aim i body pump:1
+les mills grit:1
+my yoga classes are fun:1
+inspirational:1
+thought provoking at age:1
+the wisdom humor i bring to classes is enjoyed and allows people to embrace their own practice and come back for more:1
+e:1
+nthusiastic people person:1
+great organizational skills:1
+active learning:1
+calendaring:1
+critical thinking:1
+data collection:1
+type wpm:1
+typing:1
+proofreading:1
+reading comprehension:1
+business management:1
+course development:1
+database management:1
+focus:1
+marketing plan:1
+marketing plans:1
+proposals:1
+publication:1
+articles:1
+apt:1
+consultant:1
+technician:1
+operations:1
+and sales:1
+cash:1
+cash register:1
+credit card:1
+new sales:1
+of sale:1
+point of sale:1
+promote sales:1
+sales and:1
+sales associates:1
+sales events:1
+sales team:1
+with sales:1
+associate:1
+conversational in american sign language:1
+all microsoft programs:1
+cpr aed certified:1
+first aid certified:1
+safe sitter certified:1
+bbp certified:1
+audit:1
+budgets:1
+delinquent accounts:1
+diversity and inclusion:1
+proactive:1
+sales staff:1
+self motivated:1
+trouble shooting:1
+customer support:1
+liaison:1
+payments:1
+account maintenance:1
+needs assessment:1
+writing editing:1
+phone call answering:1
+physically strong:1
+communication and presentation:1
+observation:1
+answering inbound calls:1
+hipaa and confidentiality:1
+client coordination:1
+personalized service:1
+monitoring progress:1
+patient relationships:1
+current fitness trends:1
+designing exercise programs:1
+fitness assessments:1
+exercise equipment operation:1
+safety conscious:1
+planning and coordination:1
+relationship development:1
+project organization:1
+exchange:1
+packaging:1
+paint:1
+record keeping:1
+shipping:1
+tables:1
+type:1
+composition:1
+fluent in english:1
+works:1
+pos:1
+retail:1
+acquisitions:1
+business operations:1
+data analysis:1
+decision making:1
+employee management:1
+strategic marketing:1
+administrative management:1
+creative lesson planning:1
+curriculum development:1
+goal setting and implementation athletic program development and management:1
+excellence and experience in customer service:1
+eager and fast learner:1
+honest:1
+exceptional organizational skills:1
+billings:1
+take messages:1
+fluent in spanish:1
+equipment operations:1
+stockroom organization:1
+processing vendor returns:1
+maintaining safety:1
+sales floor operations understanding:1
+operating equipment:1
+logistics oversight:1
+mentoring and training:1
+planning production:1
+store operations oversight:1
+staff training and development:1
+outstanding communication skills:1
+retail inventory management:1
+schedule management:1
+safety standards:1
+reliable and trustworthy:1
+working collaboratively:1
+d:1
+ansys:1
+api:1
+autocad:1
+c:1
+catia:1
+design of experiments:1
+labview:1
+linux:1
+machining:1
+mac os:1
+mathcad:1
+matlab:1
+ms excel:1
+microsoft project:1
+windows xp:1
+microstation:1
+oil:1
+os:1
+operating system:1
+peoplesoft:1
+plc programming:1
+plm:1
+pro engineer:1
+product design:1
+python:1
+sap:1
+simulation:1
+solidworks:1
+sql:1
+statistical analysis:1
+visio:1
+wiring diagrams:1
+s:1
+upervisory:1
+excellent written and verbal:1
+excellent computer skills microsoft word:1
+motivating:1
+presenting:1
+fitness training:1
+professional speaking radio:1
+tv:1
+tech and social media savvy microsoft office:1
+wordpress:1
+facebook:1
+twitter:1
+instagram:1
+outstanding leadership:1
+motivation:1
+i am a very organized person with a professional and positive attitude i am great at keeping an open dialogue and making myself easily approachable i enjoy working with others and troubleshooting to find solutions to any problems that may arise i am a big communicator and a great team player i am passionate about teaching children and i enjoy being a positive role model and influence in their lives:1
+sales accountmanagement:1
+budget development and achievement:1
+interpersonal communication skills:1
+client retention:1
+comprehension of policies procedures:1
+business:1
+self development:1
+employee training:1
+forms:1
+teambuilding:1
+supervision:1
+act:1
+administrative skills:1
+adobe:1
+analytical skills:1
+scheduling appointments:1
+conferences:1
+legal documents:1
+pathogen:1
+trainer:1
+arrange travel:1
+accounts payable receivable:1
+cold calling:1
+creative problem solving:1
+expense control:1
+internal auditing:1
+lead development:1
+product development:1
+territory sales experience:1
+patient assessment:1
+blood draws:1
+fecal sample analysis:1
+instrument packing:1
+surgical set up and assisting:1
+anesthetic nursing:1
+blood smears:1
+swine teeth clipping:1
+swine tail docking:1
+radiology:1
+surgical prep:1
+digital x ray:1
+film x ray:1
+ultrasound:1
+vaccination set up and administration:1
+post surgical care:1
+wound care:1
+swine ear notching:1
+ovine and caprine ear tagging:1
+parasite identification:1
+small and large animal restraining:1
+animal cpcr:1
+administer microchip:1
+dentistry:1
+refractometer reading:1
+compound microscope:1
+centrifuge:1
+anesthetic machine:1
+articulate:1
+ordering materials:1
+salesforce com:1
+advanced interpersonal communication skills:1
+teacher and mentor:1
+adaptable and flexible:1
+responsive:1
+art:1
+coach:1
+council:1
+harvard:1
+listening:1
+lisa:1
+profit:1
+psychology:1
+stress management:1
+forklift operator:1
+hand trucks:1
+machinery:1
+building materials read and interpret drawings safety service time management:1
+leadership development training:1
+process development:1
+bank reconciliations:1
+office management:1
+complex problem resolution:1
+records management:1
+performance tracking:1
+business recovery and sustainability:1
+interpersonal customer service:1
+spreadsheets reports:1
+all forms of communication including verbal:1
+written and digital:1
+computer skills:1
+workday program:1
+kronos:1
+regloginc:1
+arrow and cpi:1
+fidelity:1
+accounts receivables:1
+administrative support:1
+subordinate counseling:1
+financial report reconcile:1
+funds management:1
+logistics director:1
+secretarial duties:1
+total quality management:1
+lotus notes:1
+vendor management:1
+digital advertising:1
+verbal communication:1
+initiative:1
+flexibility:1
+features:1
+ons:1
+vast knowledge of strains and their affects:1
+trimming experience:1
+professional:1
+friendly and clean:1
+careful and active listener:1
+cash handling and pos system knowledge:1
+microsoft word literate:1
+agile:1
+business strategy:1
+cad:1
+interpersonal:1
+consultation:1
+driving:1
+special events:1
+drawing:1
+layout:1
+legal:1
+money:1
+procurement:1
+reconciling:1
+requirement:1
+teamwork:1
+workflow:1
+ar ap:1
+billing systems:1
+business processes:1
+insurance:1
+processes:1
+quick books:1
+supervision and trainingoperations management:1
+cross functional team management:1
+complex problem solving:1
+appointment scheduling:1
+front desk management:1
+spa maintenance:1
+inventory maintenance:1
+employee interviewing and hiring:1
+payment tracking systems:1
+understands spa services:1
+meeting maker familiarity:1
+knowledge of ups and fed ex shipping systems:1
+hospitality industry knowledge:1
+attentive to detail:1
+multi tasker extraordinaire:1
+human resource:1
+profit and loss:1
+sales training:1
+surveys:1
+creative problem solver:1
+financial planning:1
+paralegal:1
+persuasive:1
+speaker:1
+quick learner:1
+reading:1
+strategic:1
+abc:1
+training employees:1
+equipment maintenance:1
+expense reporting:1
+maintain inventory:1
+invoice processing:1
+logistics:1
+patient treatment:1
+physical therapy aide:1
+receiving:1
+phones:1
+therapy:1
+written communication skills:1
+investigations financial:1
+digital evidence:1
+surveillance:1
+undercover:1
+fraud:1
+websites:1
+mining social networks:1
+cell phone records tenacity:1
+interrogation:1
+interviewing high case closure rate:1
+management program management:1
+efficient case management:1
+use of gis programming:1
+proven leadership:1
+field work extremely fit:1
+desensitized to hardships:1
+flexible work schedule:1
+firearms instructor:1
+defensive tactics instructor:1
+driving instructor:1
+computer proficient microsoft word:1
+publisher esri arcview gis sequel vba:1
+avaya:1
+english:1
+general office duties:1
+phone system:1
+social media platforms:1
+supervisor:1
+organizing and recording data into microsoft word and excel:1
+mechanical assembly:1
+quality inspection:1
+leadership ability:1
+development and training:1
+strong communicator:1
+ability to work independently:1
+understanding of office operations:1
+ability to train volunteers:1
+ability to coordinate:1
+experience in conflict resolution:1
+test data summarization:1
+deliverables oversight:1
+operations leadership:1
+acknowledgment of customer needs:1
+strong analytical mind:1
+analysis and reporting:1
+cross functional training:1
+calibration:1
+functional:1
+inspecting:1
+inspection:1
+inspect:1
+communicator:1
+read:1
+anatomy:1
+faxes:1
+management consultant:1
+mail:1
+organization skills:1
+physiology:1
+staffing:1
+team player:1

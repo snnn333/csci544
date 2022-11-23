@@ -1,0 +1,851 @@
+safety:21
+inventory:15
+logistics:14
+excel:13
+customer service:13
+quality:12
+personnel:12
+troubleshooting:11
+inspection:11
+outlook:10
+word:10
+office:10
+documentation:10
+sales:10
+policies:10
+powerpoint:9
+navy:9
+leadership:9
+weapons:9
+c:9
+materials:8
+organizational:8
+six sigma:8
+microsoft office:7
+delivery:7
+access:7
+government:7
+scheduling:7
+transportation:7
+project management:7
+naval:7
+critical thinking:6
+basic:6
+quality assurance:6
+schematics:6
+test equipment:6
+spreadsheets:6
+supervisor:6
+inventory management:6
+accounting:6
+procurement:6
+database:6
+shipping:6
+managing:6
+team building:5
+forms:5
+budget:5
+strategic:5
+soldering:5
+technician:5
+meetings:5
+clients:5
+blueprints:5
+research:5
+time management:5
+administrative:5
+adobe:4
+html:4
+logic:4
+repairs:4
+troubleshoot:4
+financial:4
+functional:4
+supervision:4
+inventory control:4
+data entry:4
+trainer:4
+progress:4
+inspecting:4
+managerial:4
+receiving:4
+first aid:4
+microsoft office suite:4
+databases:4
+receptionist:4
+phone:4
+training programs:4
+windows:4
+mail:4
+purchasing:4
+report creation:3
+calibration:3
+credit:3
+inspector:3
+matlab:3
+radar:3
+oscilloscopes:3
+radio:3
+recording:3
+fluent in spanish:3
+technical manuals:3
+upgrades:3
+organization:3
+balance:3
+natural:3
+enterprise:3
+processes:3
+written:3
+communication:3
+fast learner:3
+excellent customer service:3
+team leader:3
+hand tools:3
+mentor:3
+microsoft word:3
+power tools:3
+switches:3
+aviation:3
+training:3
+python:3
+directing:3
+network:3
+staffing:3
+configuration management:3
+cpr:3
+instruction:3
+instructor:3
+conversion:3
+customer satisfaction:3
+contracts:3
+email:3
+pricing:3
+proposals:3
+reporting:3
+video:3
+quality control:3
+financial management:3
+management information system:3
+decision making:3
+listening:3
+supervising:3
+logistics management:3
+sap:3
+technical writing:3
+publications:3
+strategic planning:3
+conflict resolution:3
+autocad:3
+competitive:3
+paint:3
+letters:3
+oil:3
+scanner:3
+adaptive team player:2
+dependable and reliable:2
+materials transport:2
+team management:2
+attention to detail:2
+content:2
+english:2
+inspect:2
+labview:2
+multi meters:2
+navigation:2
+problem solver:2
+repairing:2
+servers:2
+wiring:2
+business management:2
+operations management:2
+army:2
+leadership development:2
+relationship building:2
+sound:2
+problem resolution:2
+process improvement:2
+budgeting:2
+ess:2
+monitors:2
+unique:2
+illustrator:2
+publisher:2
+customer support:2
+networking:2
+technical support:2
+testing:2
+scanning:2
+unix:2
+procedures:2
+air force:2
+frame:2
+organizational skills:2
+maintain records:2
+pick:2
+qa:2
+budgets:2
+direction:2
+management skills:2
+supply chain:2
+director:2
+market:2
+telephone:2
+written communication skills:2
+css:2
+designing:2
+exchange:2
+operating systems:2
+visio:2
+visual basic:2
+website:2
+vertical:2
+maintenance schedules:2
+inventory levels:2
+active directory:2
+windows xp:2
+mechanic:2
+quick:2
+mechanical:2
+charts:2
+team leadership:2
+cpr certified:2
+data analysis:2
+data base:2
+security clearance:2
+e commerce:2
+supply chain management:2
+streamline:2
+secret security clearance:2
+creativity:2
+nec:2
+public speaking:2
+team player:2
+ms office:2
+contact management:2
+legal:2
+painter:2
+phones:2
+accounts payable:2
+law:2
+machinery:2
+reading:2
+verbal communication:2
+class:2
+comprehensive large array data stewardship system:2
+maintenance:2
+word processing:2
+client:2
+researching:2
+typing:2
+strategy:2
+grinders:2
+mac:2
+profit:2
+freight operations:1
+skilled forklift operator:1
+cargo handling:1
+defensive driver training:1
+storage procedures:1
+reviewing records:1
+personnel mentoring:1
+reliable and trustworthy:1
+data management:1
+friendly:1
+positive attitude:1
+basic math:1
+people skills:1
+first aid cpr:1
+academic:1
+articulate:1
+auto cad:1
+canvas:1
+electrical schematics:1
+instructional design:1
+laser:1
+microsoft office programs:1
+communicator:1
+signal generators:1
+uhf:1
+vhf:1
+human resources management:1
+strategic analysis:1
+aviation systems troubleshooting:1
+electrical troubleshooting:1
+computer and it systems repair capable:1
+automotive diagnosis and repair:1
+uh a:1
+ambulance:1
+creative thinking:1
+maintenance schedule:1
+patient care:1
+theatre:1
+vision:1
+stockroom procedures:1
+product organization:1
+loss prevention:1
+project organization:1
+rfi scanners:1
+administrative support:1
+planning and coordination:1
+invoice generation:1
+adr:1
+oral communication:1
+purchasing research:1
+stock control:1
+salessoftware salesforce com tapscan:1
+public relations software:1
+bacon s mediasource:1
+factiva:1
+desktop publishing software:1
+photoshop:1
+inventory specialist:1
+leader:1
+computer:1
+travel agent:1
+flight hours keeper:1
+excellent communication:1
+high motivation:1
+manager of dts:1
+digital mapping:1
+manager of funds:1
+personnel tracker:1
+policies enforcer and trainer:1
+honest:1
+high levels of integrity:1
+efficient under high levels of stress:1
+enjoy challenges:1
+security clearance clearable:1
+travel arrangements coordinator:1
+fully bilingual spanish english:1
+approach:1
+ca:1
+product development:1
+fast:1
+project plans:1
+spanish:1
+technical project management:1
+computers sql:1
+oracle:1
+pl sql:1
+software configuration:1
+web based:1
+documenting:1
+subject matter expert:1
+analyst aircraft maintenance:1
+saas crystal reports:1
+linux unix:1
+microsoft project:1
+ms project:1
+remedy:1
+word enterprise resource planning:1
+full understanding of all applicable policies:1
+rules:1
+and regulations:1
+strong knowledge of supply chain management fundamentals:1
+strong knowledge of interfacing departments processes and priorities:1
+uses focused listening to understand others perspectives:1
+learns new informations and skills quickly:1
+strong performance improvement and equipment reliability focus:1
+demonstrated ability to apply applicable codes and regulations:1
+demonstrates initiative and proven ability to effectively manage cost of a business:1
+technical proficiency in this assigned function and specialty:1
+eleven plus years of supply chain and procurement experience:1
+administrative skills:1
+highly motivated:1
+computer literate:1
+e mail:1
+forklift:1
+intel:1
+payroll:1
+router:1
+supervisory:1
+trauma:1
+book:1
+counseling:1
+interpretation:1
+teamwork:1
+blueprint:1
+business correspondence:1
+computer knowledge:1
+draw:1
+estimating:1
+firing:1
+government regulations:1
+organizer:1
+project planning:1
+promotion:1
+read:1
+catia v:1
+risk management:1
+audio:1
+excellent oral:1
+dependable:1
+marketing:1
+trade shows:1
+net:1
+api:1
+automate:1
+backup:1
+bash:1
+ecommerce:1
+engineer:1
+xml:1
+google analytics:1
+php:1
+javascript:1
+linux:1
+ms access:1
+microsoft office package:1
+mvc:1
+mysql:1
+natural language processing:1
+nosql:1
+object oriented:1
+oop:1
+page:1
+perl:1
+postgresql:1
+programming:1
+scripts:1
+script:1
+software engineering:1
+software testing:1
+sql:1
+system administration:1
+visual studio:1
+website design development:1
+electro mechanical skill:1
+trouble shooting:1
+installation of pipes and pumps:1
+design of controls for pumps and motors installation of swimming pool heaters:1
+shielded metal arc weld flat:1
+horizontal and over head position:1
+flux core arc weld flat:1
+horizontal position:1
+navy publications record keeping:1
+aps:1
+cas impact:1
+csf:1
+aviation supply chain:1
+lean manufacturing:1
+materials microsoft excel:1
+a certification:1
+cisco:1
+hardware:1
+disaster recovery:1
+itil:1
+lan:1
+microsoft certified:1
+microsoft certified systems engineer:1
+microsoft windows:1
+network administrator:1
+network management:1
+network hardware:1
+network design and implementation:1
+network security:1
+network troubleshooting:1
+novell netware:1
+optimization:1
+proxy:1
+system configuration:1
+technical documentation:1
+windows server:1
+customer service skills:1
+information technology:1
+regulatory compliance:1
+mainframes:1
+performance analysis:1
+policy development:1
+program management:1
+project coordination:1
+en route air traffic controller:1
+from august january:1
+i am very accomplished ojti that is able to train many different learning styles:1
+good listing skills:1
+good team member:1
+strong understanding of atc automation processes:1
+strong understanding of atc rules and procedures:1
+expert vectoring and speed control skills:1
+friendly informative with residents:1
+guests:1
+and staff:1
+quick to respond:1
+strong sense of accountability:1
+achieves business and individual developmental goals:1
+able to handle medical emergencies technical problems in a calm and professional manner:1
+commitment in outstanding customer service:1
+very flexible work ethic:1
+administrative duties:1
+copying:1
+special events:1
+fax:1
+medical emergencies:1
+typist:1
+ada:1
+cad:1
+design software:1
+eit:1
+excel vba:1
+layout:1
+macros:1
+microstation:1
+producing:1
+utilities:1
+vba:1
+visual displays:1
+data processing:1
+personnel development:1
+visiprise:1
+kronos:1
+sap and ewi programs:1
+fiberglass:1
+composite and sheet metal:1
+fuel systems:1
+powerplant:1
+blade track and balance:1
+vibration analysis:1
+leadership skills:1
+aircraft inspection:1
+flight controls:1
+hydraulic systems:1
+transmissions:1
+flightline maintenance:1
+intermediate maintenance:1
+assembly:1
+analyst:1
+computer programmer:1
+human resources:1
+public safety:1
+routing:1
+sorting:1
+system administrator:1
+hand power tools:1
+thoroughly inspects work:1
+problem solving:1
+secret clearance:1
+ntcss:1
+technical publications:1
+six sigma green belt:1
+maintenance administration:1
+calculators:1
+information systems:1
+occupational safety:1
+real estate:1
+upper level management:1
+quality management:1
+tactical level analysis:1
+reconciliation budget management:1
+administrative management:1
+exceptionally organized:1
+excellent team builder:1
+analytical:1
+strong attention to detail:1
+effective time manager:1
+training specialist certified:1
+instructional technologies knowledge:1
+state certified nurse assistant:1
+green belt for lean sigma:1
+health care provider cpr qualified:1
+accounting systems:1
+adp:1
+erp:1
+forklift operator:1
+preparing forms:1
+obligating funds:1
+innovation:1
+requirement:1
+wiring troubleshooting:1
+army ethos and structure:1
+basic forms interpretation:1
+excel electronic component repairs wire routing:1
+interpretation of schematics:1
+supervisor skills:1
+service and field technician skills:1
+test equipment operation:1
+electrical upgrades:1
+wiring diagnostics and repair:1
+solid edge:1
+ug nx nx:1
+teamcenter:1
+digital engine visualization:1
+gd t:1
+fea ansys:1
+modifying designs:1
+lean six sigma:1
+adobe photoshop:1
+microsoft projects:1
+microsoft visio:1
+fea abacus:1
+data acquisition:1
+solid works:1
+anesthesia:1
+presenting:1
+surgery:1
+therapy:1
+vital signs:1
+x rays:1
+windows office suites:1
+citrix:1
+jira and trello project management applications:1
+service now itsm:1
+aviation management:1
+flight of aircraft:1
+managerial strategic planning:1
+budget analysis:1
+training development:1
+schedule management:1
+written and oral communication skills:1
+microsoft office suite expert:1
+experience in leadership:1
+quantitative skills:1
+improvement plan knowledge:1
+ability to analyze reports:1
+working collaboratively:1
+quality assurance controls:1
+data evaluation:1
+intuitive:1
+multitasking capabilities:1
+benefits:1
+coaching:1
+counselor:1
+human resource:1
+insurance:1
+personnel training:1
+recruiting:1
+recruiter:1
+selling:1
+seminars:1
+supply inventory:1
+wiring diagrams:1
+assembler:1
+lcd:1
+aims:1
+arbitration:1
+cash flow:1
+conferences:1
+council:1
+grants:1
+secretarial:1
+technical assistance:1
+research and design:1
+root cause failure modes and effects analysis:1
+lubrication:1
+armed forces:1
+cable:1
+electrical engineering:1
+electrician:1
+hp:1
+manufacturing engineer:1
+microsoft dynamics:1
+microsoft visual c:1
+mpe:1
+multi meter:1
+pdm:1
+plc:1
+power distribution:1
+scada:1
+solidworks:1
+tomcat:1
+sae:1
+aircraft:1
+ohsa:1
+hse:1
+ieee:1
+nema:1
+ul:1
+cable harness:1
+mrp:1
+ansi:1
+gas:1
+flow:1
+calculations:1
+design:1
+operating a air separation unit to produce fda quality oxygen:1
+nitrogen:1
+and argon liquids:1
+troubleshoot maintain repair all motors:1
+pumps:1
+compressors:1
+heat exchangers:1
+piping and electrical components within plant site:1
+dc:1
+electronics:1
+mathematics:1
+fm:1
+asset management:1
+buying procurement:1
+invoicing:1
+material control:1
+bsi:1
+cost point:1
+inventory records:1
+million:1
+proposal preparation:1
+provisioning:1
+training initiatives:1
+hazmat:1
+inspections:1
+great people skills:1
+fueling aircrafts:1
+airport ramp knowledge:1
+private pilot knowledge:1
+worked at two airports:1
+aircraft knowledge:1
+invoice knowledge:1
+customer service experience:1
+aviation knowledge:1
+color:1
+painting:1
+maintain files:1
+type:1
+welding:1
+accounts receivable:1
+accounts receivables:1
+advertising:1
+attorney:1
+drafting:1
+filing:1
+litigation:1
+excel spreadsheets:1
+paralegal:1
+phone system:1
+pos:1
+record keeping:1
+answering phones:1
+westlaw:1
+personable:1
+client relationships:1
+dedicated:1
+flexible:1
+adaptability:1
+ability to work under pressure:1
+ability to work on a team:1
+spreadsheet:1
+microsoft excel:1
+microsoft programs:1
+months experience in cbp seal process admin office work:1
+compiling information for applications:1
+typing and submitting applications to cbp:1
+managing approved and rejected applicants:1
+handled weekly meeting with cbp provided updated based of meeting to management:1
+maintained red black seal count and list:1
+provided weekly seal list to hr and management:1
+directing employees when coming in office for assistance:1
+professionally handling calls directing callers:1
+assisting senior managers with office needs such as copying:1
+computer input:1
+uniform issuing and sorting:1
+coding:1
+accounting system:1
+multi tasking:1
+underwriter:1
+underwriting:1
+verbal communication skills:1
+security:1
+apqp:1
+circuits:1
+operations:1
+clinical trial:1
+fda:1
+associate:1
+janitorial duties:1
+analog:1
+cabling:1
+calendaring:1
+cashier:1
+cdl:1
+cellular:1
+clean room:1
+data warehouses:1
+employee relations:1
+fitter:1
+invoices:1
+landscaping:1
+mail room:1
+marketing analysis:1
+material handler:1
+mil spec:1
+mil std:1
+org development:1
+organizational development:1
+posting:1
+purchase orders:1
+retail:1
+retail marketing:1
+retail sales:1
+san:1
+sheet metal:1
+short term disability:1
+solder:1
+splicing:1
+std:1
+storage area network:1
+technical writer:1
+ups:1
+wireless:1
+nas:1
+network attached storage:1
+military aircraft:1
+account management:1
+negotiation:1
+self starter:1
+business process improvement:1
+change management:1
+continuous improvement:1
+cost reduction:1
+driving:1
+forecasting:1
+funds:1
+managing inventory levels:1
+materials management:1
+negotiating:1
+performance management:1
+presentations:1
+proposal:1
+warehousing:1
+balance budgets:1
+personnel policies:1
+program development:1
+ability to lead:1
+motivate and build successful teams:1
+understand all legal:1
+regulatory:1
+information security and compliance requirements:1
+proven influencer negotiator:1
+achieving targets in a dynamic and complex business environment team leading people development skills:1
+able to manage and develop a diverse group of highly skilled people:1
+a pragmatic approach to getting the required results:1
+ability to manage operations within budgetary constraints:1
+client relations software dynamics crm:1
+desktop publishing software photoshop:1
+microsoft ms access:1
+ms excel:1
+ms outlook:1
+ms power point:1
+microsoft publisher:1
+ms word:1
+business management software erp netsuite:1
+blue print reading:1
+cnc:1
+lathes:1
+machining:1
+forklifts:1
+iso:1
+organizing:1
+dedication to customer service:1
+often remaining flexible with availability to accommodate as many customers as possible:1
+proven competency in learning all aspects of state and federal regulations:1
+and ensuring compliance from those i work with:1
+accepts challenges with no hesitation never retreated from opportunities of greater responsibility:1
+exceptional ability to recognize potential problems and work to resolve them quickly and discreetly affirming the customers confidence:1
+customer care:1
+fundraising:1
+interior design:1
+marketing materials:1
+norton:1
+quickbooks:1
+sage:1
+strategic plans:1
+teaching:1
+travel arrangements:1
+vista:1

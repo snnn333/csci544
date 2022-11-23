@@ -1,0 +1,326 @@
+xx:6
+documentation:4
+client:4
+sales:4
+win:4
+filing:3
+vendor management:3
+leadership:3
+meetings:3
+office:3
+clients:3
+quality:3
+k:3
+email:2
+ms office:2
+sap:2
+outlook:2
+customer services:2
+english:2
+financial:2
+microsoft office:2
+phone:2
+customer service:2
+hp:2
+marketing:2
+enterprise:2
+policies:2
+real time:2
+reporting:2
+scheduling:2
+ex:2
+powerpoint:2
+troubleshooting:2
+excel:2
+c:2
+closing:2
+credit:2
+inventory:2
+mail:2
+oracle:2
+problem solving:2
+purchasing:2
+administrative duties:1
+active learning:1
+calendaring:1
+client relations:1
+computer proficiency:1
+coordination:1
+creative problem solving:1
+critical thinking:1
+customer needs assessment:1
+customer service data entry:1
+executive management support:1
+grammar:1
+internet research:1
+letters and memos multi task management:1
+organizational skills:1
+prioritization scheduling:1
+service orientation:1
+telephone skills:1
+time management:1
+travel arrangements type wpm:1
+typing:1
+documentation auditor hospice assistant:1
+human resources assistant invoice processing order entry re pricing of claims:1
+receptionist:1
+recruiting and trainer:1
+people skills:1
+great enthusiastic people person:1
+advanced problem solving:1
+great organizational skills:1
+computer skills:1
+data entry:1
+rims:1
+data warehouse maintenance:1
+provider maintenance microsoft excel:1
+microsoft office suite:1
+microsoft outlook:1
+microsoft powerpoint:1
+microsoft word:1
+attention to detail:1
+billing:1
+data analysis:1
+e mail:1
+organize files:1
+financial reports:1
+investments:1
+portuguese:1
+risk management:1
+selling:1
+spanish:1
+strategic planning:1
+web page:1
+account management:1
+b b:1
+balance:1
+budgets:1
+budget:1
+business development:1
+business intelligence:1
+contract negotiations:1
+clientele:1
+e commerce:1
+executive management:1
+senior management:1
+gateway:1
+help desk:1
+hiring:1
+kronos:1
+director:1
+market:1
+materials:1
+optimization:1
+performance reviews:1
+proposals:1
+speaking:1
+qa:1
+quality assurance:1
+recruiting:1
+specification:1
+staffing:1
+symantec:1
+technical support:1
+telecommunications:1
+training materials:1
+routers cisco xx:1
+xx xx series asr k k series:1
+switches cisco:1
+xx series:1
+nexus k:1
+load balancer cisco css:1
+f networks:1
+wan optimization cisco waas:1
+ppp multilink routing ospf:1
+eigrp:1
+bgp:1
+rip:1
+pbr:1
+route filtering:1
+redistribution summarization:1
+static routing:1
+switching vlan:1
+vtp:1
+stp:1
+pvst:1
+rpvst:1
+inter vlan routing multi layer switching:1
+multicast operations:1
+layer switches:1
+ether channels:1
+transparent bridging:1
+lan ethernet:1
+fast ethernet:1
+gigabit ethernet:1
+fddi:1
+cddi:1
+token ring:1
+atm lan emulation:1
+wan leased lines k mb ppp hdlc:1
+channelized links e t e t:1
+fiber optic circuits:1
+frame relay:1
+isdn:1
+and load balancing:1
+various features services ios and features:1
+hsrp:1
+glbp:1
+irdp:1
+nat:1
+snmp:1
+syslog ntp:1
+dhcp:1
+cdp:1
+dns:1
+tftp and ftp management:1
+ip telephony ip telephony utilizing cisco routers:1
+fxo fxs e m t isdn pri:1
+call manager publisher subscriber aaa architecture tacacs:1
+radius:1
+cisco acs:1
+security firewalls cisco asa firewalls xx:1
+ipsec ssl vpns:1
+ips ids:1
+dmz setup:1
+cbac:1
+cisco nac:1
+acl:1
+ios firewall features:1
+ios setup security features:1
+juniper ex:1
+mx:1
+m series:1
+srx srx:1
+vpn remote vpn site to site vpn:1
+dmvpn:1
+wireless site assessment using airmagnet ekahua adaptors:1
+installation:1
+configuration and maintenance of palo alto firewalls:1
+adobe:1
+advertisements:1
+art:1
+coaching:1
+interpersonal communication:1
+excellent communication:1
+creative design:1
+client satisfaction:1
+dependable:1
+adaptable learner:1
+staff training:1
+first aid:1
+government security clearance:1
+graphic design:1
+computer graphics:1
+leadership ability:1
+organized individual:1
+messaging:1
+weapons training:1
+page layout:1
+critical thinker:1
+photography:1
+very fast learner:1
+tear gas training:1
+honesty:1
+loyalty:1
+integrity:1
+proficient in sap:1
+evms:1
+microsoft office word:1
+pp:1
+vurv:1
+taleo:1
+banner:1
+brass peoplesoft:1
+hireexpress:1
+sap hris policy:1
+and fmp:1
+a level:1
+analyst:1
+arts:1
+as:1
+bridges:1
+call centre:1
+ccna:1
+cisco:1
+coach:1
+computer hardware:1
+hardware:1
+desktops:1
+engineer:1
+event management:1
+gui:1
+hindi:1
+ids:1
+maintaining inventory:1
+itil:1
+itil v:1
+knowledge management:1
+lan:1
+laptops:1
+logging:1
+managing:1
+access:1
+microsoft exchange:1
+windows:1
+nt:1
+msn:1
+network:1
+networking:1
+operating system:1
+printer:1
+punjabi:1
+san:1
+sla:1
+sql server:1
+ssl:1
+tax:1
+technical documentation:1
+troubleshoot:1
+video:1
+vpn:1
+vista:1
+vc:1
+xerox machine:1
+accounts payable:1
+accruals:1
+ad:1
+ap:1
+automation:1
+trial balance:1
+book:1
+debit:1
+dell:1
+fixed assets:1
+forms:1
+indexing:1
+processing of invoices:1
+invoice processing:1
+invoicing:1
+legal:1
+letters:1
+ms word:1
+process improvement:1
+procurement:1
+purchase requisitions:1
+receiving:1
+reconciling:1
+shared service:1
+sla i:1
+sun:1
+team player:1
+acquisitions:1
+banking:1
+cl:1
+cpa:1
+database:1
+hr:1
+insurance:1
+inventory control:1
+microsoft dynamics:1
+mis:1
+navision:1
+negotiation:1
+requirement:1
+stock control:1
+supervising:1
+wise:1

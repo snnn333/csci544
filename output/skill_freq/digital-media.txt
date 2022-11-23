@@ -1,0 +1,837 @@
+marketing:19
+sales:17
+clients:17
+excel:13
+budget:12
+photoshop:12
+illustrator:11
+html:11
+advertising:10
+content:10
+managing:10
+client:10
+powerpoint:10
+project management:9
+meetings:8
+website:8
+processes:8
+customer service:7
+microsoft office:7
+market:7
+strategy:7
+research:6
+strategic:6
+agency:6
+indesign:6
+ad:6
+email:6
+optimization:6
+public relations:6
+materials:6
+presentations:6
+progress:6
+javascript:6
+windows:6
+google analytics:6
+billing:5
+database:5
+network:5
+inventory:5
+css:5
+english:5
+personnel:5
+quality:5
+human resources:5
+leadership:4
+networking:4
+networks:4
+office:4
+microsoft word:4
+com:4
+documentation:4
+image:4
+promotion:4
+sql:4
+troubleshooting:4
+e commerce:4
+word:4
+enterprise:4
+newsletters:4
+press releases:4
+scheduling:4
+market research:4
+recruitment:4
+selling:4
+mysql:4
+php:4
+web based:4
+marketing strategy:4
+reporting:4
+marketing strategies:4
+recording:3
+customer satisfaction:3
+retail:3
+oracle:3
+trade shows:3
+adobe illustrator:3
+acrobat:3
+publisher:3
+adobe:3
+ads:3
+messaging:3
+access:3
+coding:3
+web design:3
+websites:3
+flash:3
+art:3
+logistics:3
+video:3
+databases:3
+graphic design:3
+proposals:3
+radio:3
+tv:3
+written:3
+lotus notes:3
+hiring:3
+mac:3
+policies:3
+profit:3
+adobe creative suite:3
+budgeting:3
+credit:3
+graphics:3
+microsoft office suite:3
+competitive:3
+delivery:3
+special events:3
+features:3
+outlook:3
+functional:3
+online marketing:3
+search engine optimization:3
+public speaking:2
+contract negotiation:2
+team building:2
+vendor relations:2
+approach:2
+speaker:2
+researching:2
+spreadsheet:2
+greeting:2
+shipping:2
+filing:2
+receptionist:2
+c:2
+phone:2
+adobe premiere:2
+quark xpress:2
+freehand:2
+pagemaker:2
+power point:2
+advertisements:2
+color:2
+contracts:2
+client relations:2
+client support:2
+designing:2
+fast:2
+http:2
+works:2
+unique:2
+visio:2
+after effects:2
+adobe package indesign:2
+ms office word:2
+keynote:2
+basic:2
+business processes:2
+concept:2
+customer relations:2
+media relations:2
+ms office:2
+pr:2
+social media platforms:2
+spanish:2
+adobe photoshop:2
+data entry:2
+event planning:2
+navision:2
+receiving:2
+desktop publishing software photoshop:2
+great organizational skills:2
+brochures:2
+copywriting:2
+corporate communications:2
+fashion:2
+financial:2
+government:2
+graphic:2
+media plans:2
+merchandising:2
+packaging:2
+automotive:2
+project manager:2
+testing:2
+training:2
+solutions:2
+associate:2
+crm:2
+vbscript:2
+facebook:2
+instagram:2
+linkedin:2
+product development:2
+microsoft outlook:2
+customer support:2
+focus:2
+exchange:2
+microsoft windows:2
+time management:2
+vista:2
+excellent customer service skills:2
+twitter:2
+automation:2
+brand identity:2
+business development:2
+content management:2
+microsoft excel:2
+marketing plans:2
+apple:2
+hardware:2
+printers:2
+problem resolution:2
+problem solving:2
+technical support:2
+technical documentation:2
+telephone:2
+accounting:2
+bi:2
+newsletter:2
+payroll:2
+quickbooks:2
+sap:2
+troubleshoot:2
+office manager:2
+press:2
+strategic planning:2
+increase:2
+promotional:2
+liaison:2
+contract management:2
+media plan:2
+sharepoint:2
+very organized:2
+proofreading:2
+social media marketing:2
+ms access:2
+page:2
+dreamweaver:2
+translation:2
+workflow:2
+legal:2
+recruiting:2
+natural:2
+e mail:2
+proficient in adobe photoshop and adobe premiere:1
+drawing storyboarding:1
+explaining complex topics in simple terms:1
+problem solving troubleshooting:1
+directing on camera talent:1
+sound design:1
+remixing sweetening:1
+musical scoring:1
+video format conversions and codecs:1
+communicating with others:1
+writing:1
+spelling:1
+grammar:1
+punctuation:1
+voice overs:1
+available for international travel:1
+ad building:1
+ad order entry:1
+advertising sales:1
+automotive advertising:1
+cold calling:1
+digital advertising:1
+needs analysis:1
+proposal generation:1
+recruitment advertising:1
+telephone skills:1
+sales force proficient:1
+comfortable working with all windows applications:1
+effective sales training:1
+benefits:1
+business management:1
+editorial:1
+executive management:1
+home care:1
+marketing research:1
+promotional materials:1
+quick:1
+scientific:1
+supply chain:1
+valuation:1
+telephones:1
+invoices:1
+incoming calls:1
+security:1
+switchboards:1
+clerk:1
+medical records ms word:1
+shipping and receiving:1
+database systems:1
+incoming mail:1
+adp:1
+jms:1
+office assistant:1
+office management skills:1
+seminars:1
+animation toon boom harmony:1
+tv paint:1
+adobe flash:1
+illustration adobe photoshop:1
+aseprite:1
+paintool sai:1
+gimp:1
+post production adobe after effects:1
+final cut pro:1
+pitstop:1
+quite a box of tricks:1
+fetch and asura:1
+dot net:1
+go live:1
+book:1
+concise:1
+customer service skills:1
+data management:1
+desktop publishing:1
+direct mail:1
+fetch:1
+layout:1
+nms:1
+presenting:1
+various printers:1
+quality assurance:1
+quality control:1
+requirement:1
+trainer:1
+transmission:1
+trouble shooting:1
+web design development:1
+traditional art media black and white photography:1
+oil painting:1
+sculpture:1
+print media:1
+digital art programs photoshop:1
+digital animation maya:1
+salesforce:1
+cloud based calendars:1
+diverse multicultural background dual citizenship american and brazilian:1
+educated in the san francisco bay area and in switzerland salesforce:1
+bloomberg:1
+business solutions:1
+consulting:1
+cooking:1
+erp:1
+conversational french:1
+mailing:1
+camera:1
+portuguese:1
+positioning:1
+prime minister:1
+reuters:1
+san:1
+security clearance:1
+fluent in spanish:1
+teamwork:1
+web content:1
+adobe dreamweaver:1
+audio:1
+closing:1
+cool edit pro:1
+corel:1
+forklifts:1
+inspection:1
+machinery:1
+access database:1
+painter:1
+protools:1
+repairing:1
+safety:1
+proficient with video editing software final cut pro and edius:1
+photojournalism and videography:1
+copy editing and proofreading:1
+managing skills advanced problem solving:1
+acquisitions:1
+advertising copy:1
+art direction:1
+bonds:1
+branding:1
+driving license:1
+competitive analysis:1
+data mining:1
+drafting:1
+driving:1
+economics:1
+funds:1
+italian:1
+logos:1
+marketing analysis:1
+marketing communication:1
+mathematics:1
+media planning and buying:1
+office applications:1
+multimedia:1
+performance analysis:1
+purchasing:1
+reception:1
+securities:1
+specification:1
+speech:1
+statistics:1
+telemarketing:1
+web marketing:1
+architecture:1
+best practices:1
+lean manufacturing:1
+maintenance:1
+operations:1
+premier:1
+provisioning:1
+service level agreement:1
+software development:1
+structured software:1
+engineer:1
+data visualization:1
+integration:1
+integrator:1
+visualization:1
+streaming:1
+customer relationship management:1
+deployment:1
+trouble tickets:1
+xml:1
+xsl:1
+image processing:1
+leads:1
+real estate:1
+sorting:1
+title insurance:1
+visual basic:1
+visual basic for applications:1
+data warehouse:1
+information technology infrastructure library:1
+it procurement:1
+itil:1
+metrics:1
+perl:1
+procurement:1
+technology infrastructure:1
+web services:1
+xslt:1
+project management including agile methodologies:1
+years of workfront experience as well as jira:1
+trello:1
+slack:1
+and others:1
+html css:1
+vba:1
+multiple libraries jquery:1
+angular:1
+etc:1
+marketing strategy for audience definition and strategy to tactics mapping:1
+with high proficiency in microsoft excel:1
+adobe analytics implementation and measurement proficiency:1
+capable of writing user research scripts and testing plans:1
+conducting focus groups:1
+usability tests:1
+surveys:1
+and other testing methods:1
+freelance media production crew member with both on set and office experience extensive experience dslr s lighting equipment:1
+talented at creating:1
+producing:1
+supervising and budgeting a diverse range of network and independent productions detail orientated and committed to creating high quality finished products:1
+skilled editor with a background in final cut pro x and adobe software experienced in development:1
+production and post production with a strong sense of grasping visual aesthetics:1
+excels at relationship building organization and making sound judgment under pressure and within tight deadlines:1
+mac and pc user:1
+experienced with canon eos and other dslr camera operating systems:1
+advanced proficiency in microsoft office word:1
+outlook and publisher:1
+premiere:1
+and lightroom and expert in final cut pro x:1
+expert in social media outlets twitter:1
+vimeo:1
+pinterest:1
+wordpress:1
+tumblr:1
+blogger:1
+snapchat:1
+vine:1
+indiegogo and kickstarted marketing skills:1
+creative strategies:1
+social campaigns:1
+etc within platforms:1
+m:1
+edia planning buying softward mediaocean:1
+dds:1
+mediavisor:1
+aspen:1
+strata:1
+dart dfa and dfp:1
+research software ims clear decisions mri:1
+comscore:1
+adviews:1
+snapshot:1
+srds:1
+emarketer:1
+other software salesforce:1
+central desktop vzai:1
+hyperion:1
+mircsoft office suite:1
+google drive and docs:1
+box:1
+quarkxpress:1
+mac pc platform proficient:1
+project management tools workamajig:1
+basecamp:1
+donedone:1
+strong analytical skills:1
+strong collaborative skills:1
+mobile application development:1
+market research and analysis:1
+product development and launch:1
+strategic alliances:1
+streamline:1
+business process:1
+share point:1
+validation:1
+multi line phone system:1
+articulate:1
+avid:1
+counseling:1
+directing:1
+training employees:1
+team lead:1
+mentor:1
+multi line telephone:1
+operating system:1
+phone system:1
+problem solving skills:1
+protocols:1
+supervisor:1
+supervisory:1
+writing skills:1
+high ability to perform under stressful circumstances:1
+exceptional organizational skills:1
+effective problem solving skills:1
+people skills enthusiastic people person:1
+advanced problem solving:1
+weahter forecast smartmet work station:1
+statistical analysis software:1
+numerical models analysis:1
+observational data analysis:1
+satellite and radar workstation:1
+social media:1
+digital video and multimedia:1
+content curation:1
+digital strategy:1
+web metrics and seo optimization:1
+digital engagement:1
+community engagement:1
+digital insights and analytics adobe experience cloud:1
+and looker:1
+conversion rate optimization a b testing qubit and adobe target:1
+email marketing marketing automation responsys and sfmc:1
+salesforce marketing cloud social studio:1
+data visualization tableau and chartio:1
+tagging attribution gtm and dtm:1
+ap style:1
+sitecore web management:1
+moz pro:1
+social media sites such as facebook:1
+youtube and instagram:1
+skype for business:1
+air force:1
+catalogs:1
+creative writing:1
+gateway:1
+ibm:1
+ip:1
+managerial:1
+marketing and sales:1
+navy:1
+organizing:1
+photography:1
+processors:1
+producer:1
+reengineering:1
+strategic management:1
+web programming:1
+website development:1
+independent self starter with analytical and statistical skills passion for data driven decision making:1
+strong organization and time management skills handles multiple projects and details simultaneously:1
+excellent oral and written communication skills communicates and collaborates cross functionally:1
+possesses an unquenchable thirst for learning and an insatiable hunger for self improvement:1
+creativity:1
+market trends:1
+press kits:1
+publicity:1
+visual merchandising:1
+active directory:1
+broadband:1
+cisco router:1
+cisco ios:1
+client server:1
+communication skills:1
+network systems:1
+curriculum design:1
+help desk:1
+hp:1
+it support:1
+lesson plans:1
+linux:1
+marketing collateral:1
+medisoft:1
+mcse:1
+windows xp:1
+modems:1
+cameras:1
+pos:1
+printer:1
+sco:1
+switches:1
+user support and training:1
+terminal server:1
+unix:1
+upgrades:1
+upgrade:1
+accounts receivable:1
+administrative:1
+ad copy:1
+as:1
+business objects:1
+call center:1
+copywriter:1
+detail oriented:1
+hr:1
+inventory management:1
+performance management:1
+pricing:1
+retek:1
+staffing:1
+supervision:1
+employee training:1
+vantive:1
+workshops:1
+academic:1
+banners:1
+conferences:1
+newspaper:1
+publication:1
+scripts:1
+television:1
+website content:1
+account manager:1
+interactive media:1
+satisfaction:1
+usability:1
+usability test:1
+usability testing:1
+prototype:1
+prototypes:1
+sales team:1
+the sales:1
+web portal:1
+active server pages:1
+financial services:1
+intranet:1
+organizational communication:1
+technical marketing:1
+brand management:1
+excellent use of word:1
+excel and powerpoint:1
+imovie:1
+ms publisher:1
+and final cut pro:1
+advance knowledge of social networks and social media tools:1
+pinterest youtube and snapchat:1
+sendible:1
+cyfe:1
+basecamp and more:1
+strong writing skills:1
+research abilities:1
+strong organization and planning skills:1
+confidentiality:1
+customer care:1
+rfp:1
+reconciliations:1
+closing procedures:1
+ap:1
+ar:1
+bank reconciliations:1
+gl:1
+property management:1
+travel arrangements:1
+correspondence:1
+credit card reconciliations:1
+change orders:1
+interviewing:1
+leasing:1
+helpdesk ticketing system and reporting:1
+process payroll:1
+purchaser:1
+highly organized:1
+quick books pro:1
+team player:1
+typing:1
+basis:1
+monthly sales:1
+sales associate:1
+sales or:1
+stocking:1
+posting:1
+problem solver:1
+games:1
+analytics software google analytics:1
+omniture:1
+looker:1
+adobe social:1
+netbase:1
+simon data:1
+email service provider bronto:1
+apsis:1
+digital marketing strategy:1
+search engine marketing:1
+vendor relations invodo product videos:1
+bloomreach merchandising analytics:1
+loopcommerce gift now:1
+olapic ugc:1
+certona suggested selling tool:1
+amazon amazon a pages:1
+website platforms ocp site manager:1
+atg oracle:1
+endeca:1
+professional skills email marketing:1
+retail marketing:1
+product analysis:1
+management:1
+digital marketing:1
+styling:1
+campaign management:1
+etl:1
+german:1
+hindi:1
+ms excel:1
+ms project:1
+minitab:1
+punjabi:1
+python:1
+tableau:1
+tsql:1
+draw:1
+senior management:1
+asset management:1
+calibration:1
+digital photography:1
+fireworks:1
+freelance:1
+government regulations:1
+ink:1
+mechanical:1
+network management:1
+pre press:1
+print production:1
+process improvement:1
+proofing:1
+publications:1
+retail sales:1
+software developers:1
+turkish:1
+typesetting:1
+word processing:1
+arts:1
+budgets:1
+ca:1
+danish:1
+event planner:1
+basic html:1
+human resource:1
+information technology:1
+innovation:1
+law:1
+marketing communications:1
+philosophy:1
+program planning:1
+project development:1
+structured:1
+swedish:1
+translator:1
+vc:1
+web site content:1
+budget management:1
+coach:1
+conversion:1
+crest:1
+dialog:1
+forecasting:1
+invoicing:1
+pen:1
+project plans:1
+speaking:1
+general:1
+software proficiency microsoft office:1
+microsoft works:1
+microsoft customer relationship management system:1
+microsoft publisher:1
+creative design and media proficiency adobe photoshop:1
+pro tools:1
+web proficiency wordpress:1
+sitecore content management system:1
+hootsuite:1
+certifications hootsuite:1
+photoshop video editing software including avid:1
+final cut pro and apple imovie content development and strategy content management systems including blogger:1
+sitecore and wordpress copywriting and editing email campaigns google analytics apple mac platforms and applications microsoft office suite seo ppc campaigns salesforce radian and other social media listening tools social media platforms and engagement consoles video content development including scriptwriting and storyboarding:1
+b b:1
+dbm:1
+ux:1
+negotiation:1
+proposal:1
+qa:1
+servers:1
+technical assistance:1
+web development:1
+solid knowledge of ap style:1
+excellent knowledge of use of microsoft office excel:1
+compliance:1
+website content management with opensource platforms:1
+proficient use of mass marketing systems:1
+proficient use of google analytics:1
+proficient use of hootsuite sprout social to maintain social media networks:1
+technical writing background with experience writing for national publications:1
+basic knowledge of adobe acrobat pro:1
+and illustrator:1
+adobe acrobat:1
+develop content:1
+marketing manager:1
+marketing materials:1
+rehabilitation:1
+tax law:1
+technical writing:1
+training materials:1
+business intelligence:1
+excellent communication:1
+creative thinking:1
+film:1
+insurance:1
+marketing plan:1
+marketing plan development:1
+product marketing:1
+real time:1
+self starter:1
+underwriting:1
+website design:1

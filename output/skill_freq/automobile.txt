@@ -1,0 +1,421 @@
+sales:9
+excel:8
+customer service:8
+clients:7
+word:6
+outlook:6
+call center:5
+powerpoint:5
+phone:5
+scheduling:4
+ca:4
+data entry:4
+insurance:4
+client:3
+documentation:3
+meetings:3
+ms office:3
+personnel:3
+quality:3
+safety:3
+police:3
+supervision:3
+strong problem solver:3
+database management:3
+database:2
+inventory:2
+marketing strategies:2
+contracts:2
+engineer:2
+managing:2
+windows:2
+nt:2
+profit:2
+purchasing:2
+administrative support:2
+conversion:2
+self directed:2
+attention to detail:2
+attorney:2
+research:2
+direction:2
+instruction:2
+network:2
+real time:2
+strategy:2
+accounts payable:2
+excel spreadsheets:2
+microsoft office:2
+cashiering:2
+databases:2
+access:2
+san:2
+telephone:2
+meticulous attention to detail:2
+microsoft word:2
+microsoft excel:2
+agency:2
+case management:2
+credit:2
+customer services:2
+quality assurance:2
+troubleshooting:2
+written:2
+settlements:2
+excellent customer service:2
+meeting planning:2
+office:2
+vehicle repairs:1
+expertise in ibm datastage and versions to perform etl elt operations on data:1
+proficiency in unix shell scripting:1
+proficiency in writing and debugging complex sql:1
+informatica etl support experience version:1
+hands on experience on ibm db netezza sql server oracle:1
+data archival into ibm biginsights with hive tables:1
+experience in control m scheduling tool:1
+api:1
+arabic:1
+arts:1
+auditing:1
+automotive:1
+c:1
+catia v:1
+contract management:1
+cost control:1
+dec:1
+delivery:1
+fluent english:1
+financial:1
+frame:1
+french:1
+inspection:1
+inspector:1
+invoicing:1
+iso:1
+logistics:1
+logos:1
+manufacturing process:1
+material science:1
+ms outlook:1
+ms project:1
+oct:1
+oil:1
+organizing:1
+organizational:1
+page:1
+painting:1
+pascal:1
+producing:1
+progress:1
+project lead:1
+quality management:1
+qa:1
+quality control:1
+recruitment:1
+reporting:1
+six sigma:1
+specification:1
+suppliers selection:1
+systems management:1
+validation:1
+veritas:1
+welding:1
+key calculator:1
+administrative duties:1
+customer service skills:1
+faxes:1
+letters:1
+medical terminology:1
+ms office suite:1
+multi line telephone phone system:1
+problem solving:1
+proofreading:1
+scanners:1
+trouble shooting:1
+vectoring:1
+web browsing:1
+xerox copiers:1
+claims file management processes:1
+litigation resolution:1
+strong interpersonal and communication skills:1
+team player:1
+critical thinker:1
+coverage analysis:1
+presentations:1
+litigation management:1
+claim investigations and time management:1
+administrative:1
+legal documents:1
+fluent in spanish:1
+billing:1
+cancer:1
+clerical:1
+coaching:1
+customer satisfaction:1
+fast:1
+team leader:1
+market:1
+operating system:1
+speaking:1
+selling:1
+scanning:1
+staffing:1
+typing:1
+microsoft office outlook:1
+accountant:1
+accounting systems:1
+accounting system:1
+balance sheet:1
+financial statements:1
+tax returns:1
+year end:1
+accounting:1
+accounts payable and receivable:1
+cpt:1
+icd:1
+inspect:1
+inventory control:1
+microsoft access:1
+policies:1
+programming:1
+proposals:1
+reconciling:1
+maintain files:1
+tax:1
+able to demonstrate exceptional communication skills:1
+able to maintain effective and efficient communication within a team environment:1
+skillful initiation in organizing and coordinating team meetings to manage and planned performance adherence:1
+exceptional talent for accuracy analyzing projecting conflict and resolving issues continually providing input or solutions in problem solving on operational issues or procedures and perform administrative follow up:1
+strong leader with proven development abilities:1
+capable of clearly presenting ideas:1
+plans and strategies to all levels of management:1
+solid background in setting priorities and deadlines:1
+adjusting the flow and sequencing of the work to meet team needs:1
+criminal justice:1
+public safety:1
+excellent research skills:1
+detail oriented:1
+human resource laws knowledge:1
+data collection and analysis:1
+analytical thinker:1
+creative problem solver:1
+performance metrics specialist:1
+strong work ethic:1
+good written communication:1
+exceptional communication skills:1
+strong presentation skills:1
+strong research skills:1
+strong communicator:1
+report analysis:1
+employee training and developmentbusiness process improvement:1
+professional and mature:1
+articulate and well spoken:1
+works well under pressure:1
+basis:1
+metrics:1
+operations:1
+training:1
+audit:1
+audits:1
+governance:1
+planview:1
+business intelligence:1
+leads:1
+oracle:1
+associate:1
+data sources:1
+microsoft sharepoint:1
+posting:1
+process improvement:1
+security:1
+sharepoint:1
+microsoft powerpoint:1
+regular care coordinator:1
+perform household task and run errands:1
+perform personal care activities hygiene:1
+ambulation:1
+eating:1
+dressing:1
+toileting and shaving:1
+talk and give company to clients and participate in resident activities:1
+take and record vital signs:1
+assist with moving to bath:1
+bed:1
+and wheelchairs:1
+take care of pets:1
+nurse assistant caregiver:1
+medical case management fort worth:1
+tx to:1
+maintain and set up patient rooms:1
+perform preventive maintenance on emergency equipment:1
+assist with patient and family education:1
+assist r n and l v n with sterile and non sterile dressing changes:1
+cpr qualified:1
+answer multi line phone:1
+operate fax and copy machine:1
+prioritize patient daily care according to acuity and scheduled patient procedures conduct analysis and recommend suitable solutions to real time performance issues years:1
+handle:1
+inbound calls and provide one call resolution to problems reported years:1
+responded to client calls and:1
+provided instructions for troubleshooting years:1
+provided technical and analytical support at the call:1
+center year:1
+proficient in ms excel:1
+word and various database management applications:1
+proven ability:1
+to learn and operate software applications quickly years:1
+analytics year:1
+problem resolution less:1
+than year:1
+analytical skills:1
+caregiver:1
+cash register:1
+interpersonal communication:1
+oral communication:1
+cpr:1
+customer care:1
+doors:1
+equipment operation:1
+fax:1
+hoists:1
+home care:1
+ivr:1
+listening:1
+notes:1
+machinist:1
+maintenance schedule:1
+materials:1
+mechanical:1
+ms excel:1
+navy:1
+naval:1
+assist patients:1
+copy machine:1
+problem resolution:1
+problem solving skills:1
+quick:1
+repairing:1
+schematics:1
+self motivated:1
+scripts:1
+telecommunications:1
+toileting:1
+tops:1
+verbal communication skills:1
+record vital signs:1
+interpersonal and communication:1
+file management:1
+legal research writing:1
+litigation:1
+mediation:1
+medical record review:1
+high level claim evaluation:1
+commercial needs:1
+negotiation:1
+processes:1
+risk management:1
+benefits:1
+iq:1
+mentoring:1
+valuation:1
+account management:1
+accounts payable receivable:1
+adobe:1
+bookkeeping:1
+expense reports:1
+hiring and human resources:1
+inventory management and control:1
+new product development:1
+office management:1
+online marketing:1
+peachtree accounting:1
+policies and procedures:1
+property management:1
+quickbooks pro:1
+real estate:1
+production scheduling:1
+baset:1
+atm:1
+atm network:1
+cd roms:1
+hardware:1
+email:1
+ethernet:1
+network cabling:1
+firewall:1
+frame relay:1
+ghost:1
+novell groupwise:1
+hard drives:1
+phone support:1
+ibm:1
+lan:1
+laptops:1
+lotus suites:1
+meridian:1
+microsoft products:1
+exchange server:1
+ms exchange:1
+microsoft office suites:1
+win:1
+windows nt workstation:1
+modems:1
+network interface cards:1
+network security:1
+network servers:1
+nortel:1
+novell:1
+office suites:1
+pbx:1
+phone system:1
+printer:1
+ram:1
+routers:1
+servers:1
+switches:1
+software support:1
+desktop support:1
+user training:1
+technician:1
+telephones:1
+token ring:1
+training manuals:1
+troubleshoot:1
+unix:1
+upgrades:1
+video cards:1
+cash handling:1
+communication skills:1
+cpr certified:1
+resolving customer complaints:1
+decision making:1
+leadership:1
+medisoft:1
+retail:1
+type wpm:1
+ms word:1
+dispatching:1
+call center and excel:1
+advanced ms office suite knowledge:1
+strong aptitude for microsoft excel including macros and pivot tables excellent critical thinking:1
+decision making and communication skills:1
+responsible time manager:1
+understands grammar:1
+resourceful:1
+software salesforce com:1
+desktop publishing software photoshop:1
+illustrator:1
+scheduling appointments:1
+addressing customer concerns:1
+special events:1
+arranging travel:1
+and tutoring:1
+consultation:1
+english:1
+hindi:1
+lathe:1
+repairs:1
+television:1
+wiring:1
+basic:1
+law:1

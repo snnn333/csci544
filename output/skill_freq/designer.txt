@@ -1,0 +1,818 @@
+illustrator:18
+excel:17
+photoshop:15
+powerpoint:14
+sales:14
+quality:14
+customer service:13
+clients:12
+materials:12
+designing:11
+html:11
+indesign:11
+d:11
+adobe photoshop:10
+microsoft word:10
+meetings:10
+client:10
+advertising:9
+graphic design:9
+autocad:9
+adobe illustrator:8
+microsoft office:8
+dreamweaver:8
+marketing:8
+budget:7
+office:7
+presentations:7
+arts:6
+art:6
+adobe indesign:6
+adobe creative suite:6
+posters:6
+graphic:6
+scheduling:6
+research:6
+budgets:6
+documentation:6
+progress:6
+adobe:6
+processes:6
+english:5
+word:5
+css:5
+edit:5
+layout:5
+animation:5
+inventory:5
+cad:5
+color:5
+modeling:5
+safety:5
+website:5
+direction:5
+project management:5
+microstation:5
+team player:5
+outlook:5
+mac:5
+photo:4
+basic:4
+database:4
+brochures:4
+microsoft office suite:4
+packaging:4
+profit:4
+sql server:4
+organizational:4
+drafting:4
+forms:4
+managing:4
+policies:4
+phone:4
+ms word:4
+lighting:4
+maya:4
+delivery:4
+flash:4
+illustration:4
+written:4
+email:4
+acrobat:4
+photography:4
+access:3
+ms office:3
+selling:3
+microsoft excel:3
+windows:3
+troubleshooting:3
+printer:3
+branding:3
+logos:3
+marketing materials:3
+typography:3
+web design:3
+payroll:3
+fashion:3
+drawing:3
+type:3
+content:3
+mechanical:3
+personnel:3
+product development:3
+read:3
+supervisor:3
+supervising:3
+mvc:3
+c:3
+decision making:3
+xml:3
+financial:3
+graphics:3
+image:3
+mentoring:3
+windows nt:3
+coaching:3
+data entry:3
+works:3
+adobe dreamweaver:3
+filing:3
+retail:3
+concept:3
+quarkxpress:3
+engineer:3
+transportation:3
+event planning:3
+functional:3
+publications:3
+purchasing:3
+reporting:3
+ads:3
+proofreading:3
+director:3
+camera:3
+sketching:3
+spanish:3
+editing:3
+window:3
+after effects:3
+printers:3
+catalogs:3
+d rendering:2
+communication skills:2
+conceptual design:2
+artist:2
+computer literate:2
+french:2
+languages:2
+leadership skills:2
+math:2
+organizing:2
+pos:2
+time management:2
+adobe after effects:2
+logo:2
+publicity:2
+real estate:2
+inventory management:2
+coding:2
+catalog:2
+design process:2
+features:2
+quality control:2
+asp:2
+asp net:2
+visual basic net:2
+microsoft sql server:2
+sql:2
+javascript:2
+jquery:2
+php:2
+mysql:2
+accounting:2
+crystal reports:2
+legal:2
+qa:2
+upgrading:2
+video:2
+academic:2
+backup:2
+conferences:2
+course development:2
+instruction:2
+instructor:2
+multimedia:2
+task analysis:2
+trainer:2
+training programs:2
+painting:2
+reality:2
+rendering:2
+cash register:2
+receiving:2
+specification:2
+spreadsheets:2
+adobe acrobat:2
+promotional materials:2
+attention to detail:2
+resourceful researcher:2
+quick learner:2
+sorting:2
+multitasking:2
+administrative:2
+publisher:2
+finance:2
+hiring:2
+proposal:2
+vision:2
+written communication:2
+interior design:2
+space planning:2
+solidworks:2
+logo design:2
+prepress:2
+public relations:2
+marketing collateral:2
+translating:2
+ad:2
+corel draw:2
+dos:2
+estimating:2
+government:2
+welding:2
+laser:2
+supervision:2
+presenting:2
+programming:2
+microsoft office word:2
+sharepoint:2
+travel arrangements:2
+fax:2
+web development:2
+leader:2
+market:2
+quality assurance:2
+publication:2
+banners:2
+bi:2
+persuasive:2
+d modeling:2
+autocad drafting:1
+material board:1
+material organizational:1
+critical thinker using logic and reasoning to identify the strengths and weaknesses of alternative solutions:1
+conclusions or approaches to problems:1
+time management communication managing one s time:1
+as well as team s:1
+to adhere to drop dead dates:1
+adaptability being flexible to change as it comes and resolving in a timely manner:1
+social perceptiveness working with team and taking leadership role to maintain brand direction:1
+attention to detail thorough and complete work in all related processes to end product:1
+innovation demonstrated creative ability to design within business budgets:1
+while following consumers needs trends:1
+arabic:1
+agency:1
+good communication skills:1
+creativity:1
+dec:1
+economics:1
+filling:1
+paint:1
+physics:1
+typing skills:1
+world wide web:1
+adobe premiere:1
+adobe dream weaver:1
+sketchbook pro:1
+intermediate html coding:1
+calculator:1
+fax machine:1
+etc:1
+microsoft powerpoint:1
+chinese:1
+coreldraw:1
+due diligence:1
+interpretation:1
+property management:1
+translation:1
+webpage design:1
+business management:1
+chemistry:1
+computer networking:1
+database analysis:1
+basic html:1
+nmr:1
+hr:1
+information systems:1
+collecting samples:1
+trend:1
+blueprints:1
+budgeting:1
+negotiate contracts:1
+equipment operation:1
+fertilizers:1
+inspect:1
+employee management:1
+mark:1
+product design:1
+product improvement:1
+proposals:1
+maintain records:1
+renovations:1
+upgrades:1
+water quality:1
+visual studio net:1
+stored procedures:1
+tfs team foundation server:1
+angularjs:1
+linq:1
+adobe design suite:1
+agile software development methodology:1
+net:1
+vb net:1
+adobe suite:1
+agile:1
+auditing:1
+credit:1
+forth:1
+insurance:1
+legal compliance:1
+mentor:1
+microsoft access:1
+migration:1
+developer:1
+processors:1
+sarbanes oxley:1
+scrum:1
+software development:1
+testing software:1
+upgrade:1
+user interface:1
+visual basic:1
+vb:1
+visual studio:1
+websites:1
+xslt:1
+counseling:1
+curriculum design:1
+curriculum development:1
+information mapping:1
+instructional design:1
+knowledge management:1
+team leader:1
+lesson plans:1
+needs analysis:1
+order entry:1
+writing prescriptions:1
+quick:1
+reading:1
+supply chain:1
+teacher:1
+technical writing:1
+user documentation:1
+training materials:1
+training manuals:1
+tutoring:1
+workshops:1
+adobe premiere pro:1
+adobe lightroom:1
+adobe animate:1
+html css coding:1
+written and social communication skills:1
+microsoft word excel:1
+visual design:1
+team building:1
+calm under pressure:1
+flexible creative approach:1
+excellent workflow management:1
+swimming:1
+cooking photographing:1
+playing piano:1
+game design:1
+painter:1
+people skills:1
+sound:1
+sound design:1
+resolve customer complaints:1
+focus:1
+tables:1
+telephones:1
+pricing:1
+procurement:1
+html coding:1
+extensive direct mail experience:1
+self motivated:1
+sense of humor:1
+conceptual thinker:1
+strong design sense:1
+advanced typography knowledge:1
+friendly attitude:1
+professional behavior:1
+expert juggling skills:1
+creative and artistic:1
+civil d:1
+civil engineering:1
+office skills:1
+leadership:1
+problem solving:1
+relationship building:1
+self starter:1
+planograms:1
+design software:1
+detail oriented:1
+merchandising:1
+human resources leadership:1
+interpersonal skills:1
+inventory control:1
+problem resolution:1
+staff training staffing:1
+bilingual english and spanish:1
+expert knowledge in the following software programs:1
+html css:1
+corel applications:1
+advanced adobe cs:1
+familiar with autocad:1
+studio designer:1
+with goals to learn sketchup and revit in near future:1
+administrative support:1
+budget management:1
+cancer:1
+data collection:1
+fundraising:1
+grant writing:1
+grant proposals:1
+multi tasking:1
+promotion:1
+record keeping:1
+recruitment:1
+articles:1
+personal rhino revit cinema d all adobe cs autocad hdr imaging lighting market research dmax maya revit modeler sculptor:1
+professional imaginative and creative thinking skills ability to analyze and critically assess problems ability to see the big picture as well as giving attention to the smallest detail ability to communicate effectively understanding of history cultural and environmental concerns lateral thinking skills to solve complex problems coordination and interpersonal skills to manage a complex project team:1
+qualifications design talent engineering ability social awareness business aptitude:1
+direction graphic:1
+and vision:1
+extremely computer literate and proficient in the use of microsoft suites:1
+autodesk inventor pro routed systems tube and pipe and autodesk vault professional:1
+certification in pro engineer:1
+creo:1
+computervision d personal designer:1
+cadds x sunhardware:1
+autocad r:1
+fastcad:1
+procad:1
+basis:1
+translated:1
+solutions:1
+brand identity:1
+freehand:1
+hansen:1
+premier:1
+promotional:1
+pr:1
+corporate communications:1
+point of purchase:1
+pop:1
+content management:1
+copy writing:1
+front desk:1
+marketing strategy:1
+receptionist:1
+san:1
+storage area network:1
+tradeshow:1
+web content management:1
+keypoint:1
+prototyping:1
+wireframes and illustrations:1
+aftereffects:1
+avid:1
+film:1
+natural:1
+composer:1
+next:1
+consultant:1
+macromedia flash:1
+hindi:1
+information technology:1
+page maker:1
+primavera:1
+reporter:1
+video editing:1
+profound ability to address customer concerns:1
+demonstrating empathy while consistently moving the customer towards commitment:1
+proved ability to be persistence:1
+overcome obstacles:1
+and consistently strives to improve skills and achieve goals:1
+uncommon ability to organize and control job responsibilities:1
+particularly the accuracy and productivity related to work flow in depth ability to multi task and manage multiple projects in fast paced environment:1
+uncommon detail oriented with excellent problem solving and follow up skills strong interpersonal skills remarkable ability to achieve results through team leadership:1
+excellent time management skill knowing how long a subject will take to be made up and working quickly and accurately in time pressured conditions:1
+pos system:1
+answering phone:1
+blueprint reading:1
+bridges:1
+computer experience:1
+german:1
+auto cad:1
+data entry databases:1
+esri:1
+gis:1
+gps:1
+sap:1
+technician:1
+desktop publishing software photoshop:1
+active listening skills:1
+advanced problem solving:1
+great organizational skills:1
+confidence and empathy:1
+critical thinking:1
+networking:1
+presentation skills:1
+projectwise explorer:1
+adobe professional:1
+jd edwards:1
+erp:1
+hart communication:1
+some sap experience:1
+sketch:1
+invision:1
+omnigraffle:1
+keynote:1
+revit:1
+rhino:1
+watercolor:1
+bluebeam:1
+design thinking:1
+ui ux:1
+story boarding:1
+mandarin:1
+account receivables and payables:1
+administrative duties:1
+aia billing:1
+scheduling appointments:1
+expense reports:1
+general office duties:1
+real estate legal documents:1
+office equipment:1
+scanning:1
+telephony:1
+transcription:1
+typing wpm:1
+managing executive calender:1
+internet and social media proficient:1
+bentley autoplant:1
+cadworx:1
+autodesk vault:1
+navisworks:1
+flexcad:1
+powerpoint and access:1
+user centered design:1
+invoicing quick books:1
+software adobe illustrator cc cs:1
+adobe photoshop cc:1
+corel draw x:1
+omega composer:1
+printers hp:1
+hp designjet l:1
+vinyl plotters summa d r:1
+graphtec:1
+ioline:1
+hs:1
+fc:1
+sign tracking software keyed in and pace:1
+and acrobat professional:1
+strongly familiar with microsoft word:1
+and publisher also quarkxpress:1
+basic knowledge of web development with adobe dreamweaver:1
+wordpress:1
+able to perform graphic design and administrative functions:1
+able to work as a team player and independently:1
+experienced using phone:1
+copiers and printers:1
+provides excellent customer service in person:1
+by phone:1
+or interoffice mail:1
+prioritizes and calmly handles multiple projects and requests:1
+listens to directions:1
+takes notes for later reference:1
+follows procedures:1
+knowledge of design setup on computer for jobs to be printed by outside vender or in office copiers:1
+administrative functions:1
+business cards:1
+conversion:1
+excellent customer service:1
+direct mail:1
+macintosh computers:1
+marketing communications:1
+mail:1
+monitors:1
+network:1
+newsletters:1
+takes notes:1
+pdf:1
+copiers:1
+proofing:1
+supply inventory:1
+unix:1
+web pages:1
+cad drafter:1
+ffe:1
+project finance:1
+soon ncidq certified:1
+beginner in golf and expert skier:1
+creative:1
+relational:1
+engaging:1
+painting drawing:1
+athletic:1
+guest relations:1
+takeout management:1
+front of house organization:1
+table management seating assignment:1
+reservations:1
+wine pairings:1
+table bussing:1
+high volume dining:1
+fine dining customer service:1
+dining crew workflow optimization:1
+buffet setup and takedown:1
+price memorization:1
+service prioritization:1
+safe food handling:1
+table setting arrangements:1
+adobe cs adobe illustrator flex plm grovesite:1
+webpdm microsoft word excel:1
+optitex:1
+garment specs and sketches fit assessment:1
+technical direction:1
+line and product review flat pattern making and corrections:1
+garment construction draping:1
+balance:1
+costing:1
+plm:1
+develop product:1
+sourcing strategy:1
+strategy:1
+tops:1
+z brush:1
+xp professional vista windows:1
+os:1
+sketch up:1
+daz d:1
+analog integrated circuits:1
+cinema d:1
+d design:1
+cartooning:1
+cash registers:1
+computer networks:1
+databases:1
+direct sales:1
+directing:1
+dollies:1
+staff training:1
+forklifts:1
+innovation:1
+inspecting:1
+interactive design:1
+logging:1
+mac os:1
+personnel management:1
+shipping:1
+store manager:1
+strategic plans:1
+vista:1
+workflow:1
+children s trade k:1
+book packaging:1
+medical publication:1
+product packaging:1
+trade show graphics:1
+catalogs brochures:1
+presentations hand outs:1
+adobe cs:1
+book design:1
+creative design:1
+graphic designer:1
+graphics design:1
+ie:1
+marketing and sales:1
+packaging design:1
+package design:1
+print production:1
+radio:1
+technical illustration:1
+training material:1
+web graphics:1
+author:1
+cashier:1
+greek:1
+leadership development:1
+letters:1
+lotus:1
+mailing:1
+management information systems:1
+news releases:1
+paradox:1
+photo manipulation:1
+press releases:1
+quarkexpress:1
+seminars:1
+tax:1
+user support:1
+answer phones:1
+acrylics:1
+air force:1
+bash:1
+book:1
+brochure:1
+cd:1
+hardware:1
+computer hardware:1
+digital cameras:1
+editorial:1
+inkjet printers:1
+marketing strategies:1
+newspaper:1
+operating systems:1
+page:1
+mm:1
+cameras:1
+pre press:1
+print shop:1
+scaling:1
+scanners:1
+sculpture:1
+tv:1
+typing:1
+visio professional:1
+web page:1
+over years of customer service experience:1
+years in branch management position with permanent employees also to include or holiday employees and drivers:1
+talented multi tasker:1
+exceptional time management skills:1
+bookkeeping:1
+budget development:1
+content development:1
+database creation and maintenance:1
+employee training:1
+salesforce:1
+zoho:1
+online networking:1
+ada:1
+advertisements:1
+business communications:1
+business development:1
+copyediting:1
+fast:1
+performance reviews:1
+pearl:1
+producer:1
+proposal development:1
+rfi:1
+rfp:1
+web site design:1
+well organized:1
+cad software iman teamcenter:1
+unigraphics nx:1
+software ms excel:1
+ms access:1
+ms powerpoint:1
+ms windows:1
+am proficient with graphics programs such as adobe photoshop:1
+illustrator plus word programs such as microsoft word and excel:1
+highly skilled at product development from the envisioning:1
+researching:1
+making visual:1
+and creating actual product:1
+working with other s ideas:1
+and especially enjoy creating my own ideas into visuals:1
+have great organizational skills needed for freelance self employment:1
+technology orientated:1
+and excellent collaboration skills:1
+creative and innovating:1
+extensive success in product development:1
+software proficiency vcastle:1
+netlab:1
+xendesktop:1
+ec council ilabs:1
+blooms taxonomy:1
+strong attention to detail:1
+ds max:1
+automotive:1
+cms:1
+sc:1
+cvs:1
+http:1
+windows platform:1
+optimization:1
+softimage:1
+staff development:1
+web development and graphic design:1
+cold calling:1
+contracts:1
+clientele:1
+customer service specialist:1
+logistics:1
+notes:1
+memory:1
+negotiator:1
+telecom:1
+telecommunication:1
+telecommunications:1
+telephone:1
+cad cam:1
+e commerce:1
+microsoft office applications:1
+army:1
+budget analysis:1
+drivers:1
+driving:1
+job analysis:1
+listening:1
+power point:1
+powerpoint presentations:1
+weapons:1
+navy:1
+naval:1
+program management:1
+technical manuals:1

@@ -1,0 +1,640 @@
+customer service:21
+sales:13
+policies:12
+clients:11
+quality:11
+excel:11
+microsoft office:10
+client:10
+filing:10
+data entry:9
+financial:9
+processes:9
+coaching:9
+meetings:9
+customer satisfaction:8
+progress:8
+powerpoint:8
+scheduling:8
+database:8
+billing:7
+documentation:7
+forms:7
+leadership:7
+materials:7
+agency:7
+presentations:7
+microsoft word:6
+microsoft outlook:6
+benefits:6
+counseling:6
+mentoring:6
+insurance:6
+training:6
+safety:6
+word:6
+microsoft excel:5
+coach:5
+money:5
+phone:5
+letters:5
+supervisor:5
+call center:5
+credit:5
+personnel:5
+recruiting:5
+problem solving:5
+time management:5
+administrative:5
+clerical:4
+quality assurance:4
+research:4
+typing:4
+focus:4
+payroll:4
+training programs:4
+staffing:4
+project management:4
+operations:4
+case management:4
+inventory:4
+receptionist:4
+ms office:4
+marketing:4
+budget:3
+excellent communication:3
+excellent customer service:3
+email:3
+mail:3
+receiving:3
+sound:3
+transportation:3
+written:3
+conflict resolution:3
+hr:3
+instructor:3
+six sigma:3
+strategic:3
+teaching:3
+employee development:3
+government:3
+hiring:3
+human resources:3
+access:3
+multi tasking:3
+problem solver:3
+telephone:3
+team player:3
+outlook:3
+approach:3
+cash handling:3
+office:3
+works:3
+public relations:3
+customer service skills:3
+english:3
+retail sales:3
+detail oriented:3
+direction:3
+recruitment:3
+power point:3
+strategic planning:3
+microsoft power point:2
+balance:2
+bonds:2
+consultant:2
+decision making:2
+managing:2
+purchasing:2
+type:2
+mentor:2
+multimedia:2
+organizational:2
+quick learner:2
+computer proficient:2
+file records maintenance:2
+client relations:2
+customer needs assessment:2
+networking:2
+scanning:2
+professional and friendly:2
+careful and active listener:2
+basic:2
+statistics:2
+phone system:2
+law:2
+medical terminology:2
+self motivated:2
+creativity:2
+leadership skills:2
+publisher:2
+reporting:2
+copying:2
+faxing:2
+legal:2
+organizing:2
+police:2
+researching:2
+supervising:2
+adaptability:2
+billing system:2
+army:2
+recording:2
+troubleshooting:2
+account management:2
+analyst:2
+customer care:2
+san:2
+phone etiquette:2
+accounting:2
+basis:2
+archiving:2
+cash:2
+credit card:2
+data archiving:2
+forecasting:2
+contracts:2
+pricing:2
+strategy:2
+sharepoint:2
+enterprise:2
+newsletter:2
+underwriter:2
+underwriting:2
+interviewing:2
+data collection:2
+wpm:2
+store management:2
+strong work ethic:2
+interpersonal skills:2
+workflow:2
+quality control:2
+translation:2
+budgets:2
+patient focused care:2
+employee engagement:2
+mostly microsoft excel and microsoft word:1
+adding machines:1
+business administration:1
+calculators:1
+cashier:1
+discharge planning:1
+funds:1
+human resource:1
+exchange:1
+photography:1
+problem resolution:1
+maintain records:1
+sla:1
+treasury:1
+consulting:1
+quick:1
+workshops:1
+child care:1
+council:1
+social services:1
+results oriented:1
+client focused:1
+training and development:1
+multi task management:1
+including microsoft office:1
+creative problem solving:1
+reports creation:1
+associate supervision:1
+clerical skills:1
+acquisitions:1
+billings:1
+senior management:1
+information security:1
+mailing:1
+mba:1
+share point:1
+windows xp:1
+pos:1
+generating reports:1
+myrounding application and press ganey:1
+customer service expert customer focused:1
+strong organizational skills skilled multi tasked:1
+creative problem solver deadline oriented:1
+active listening skills scheduling:1
+quick learner bilingual:1
+training development aptitude dentrix open dental training:1
+credit card processing:1
+case manager:1
+cna:1
+creative problem solver:1
+fast:1
+insurance sales:1
+listening:1
+strong organizational skills:1
+patient care:1
+range of motion:1
+training development:1
+clerk:1
+heavy machinery:1
+forensic:1
+security:1
+community outreach:1
+compensation:1
+multi line:1
+multi line phone:1
+multi line phone system:1
+cases:1
+dynamics:1
+engines:1
+learning center:1
+learning centers:1
+microsoft dynamics:1
+allergies:1
+attention to detail:1
+cpt:1
+emotional support:1
+home health:1
+hospice icd:1
+ids:1
+coordinate patient care:1
+coding:1
+administrative support:1
+customer services:1
+event planning:1
+fund raising:1
+leadership training:1
+mental health:1
+neat:1
+cameras:1
+program development:1
+quickbooks:1
+risk management:1
+phones:1
+trauma:1
+type wpm:1
+vision:1
+key:1
+adding machine:1
+banking:1
+crisis intervention:1
+driving:1
+trains employees:1
+fundraising:1
+law enforcement:1
+director:1
+record keeping:1
+secretarial:1
+supervisory:1
+taking messages:1
+typing wpm:1
+warrants:1
+excellent communication skills:1
+investigative skill:1
+inventory clerk:1
+exceptional writing skills:1
+and research skills:1
+client advocacy:1
+collaboration:1
+self starter:1
+analytics:1
+data analysis business artifacts documentation:1
+strategic planning business development:1
+team player workflow analysis:1
+product launches brand management:1
+ms project sql and databases:1
+risk mitigation and management data mapping:1
+service oriented architecture release planning:1
+collaboration tools test case scenarios:1
+requirements gathering gap analysis:1
+blood pressure:1
+brand management:1
+business development:1
+business processes:1
+cancer:1
+data analysis:1
+sql:1
+telecommunications:1
+telecom:1
+blueprints:1
+catalogs:1
+hand tools:1
+inspect:1
+logistics:1
+mechanical:1
+power tools:1
+read:1
+soldering:1
+solder:1
+supply chain management:1
+wiring:1
+administrative assistant:1
+microsoft applications:1
+as:1
+a s:1
+communication skills:1
+computer applications:1
+cooking:1
+customer relationship management:1
+dos:1
+languages:1
+people soft:1
+presentation skills:1
+procurement:1
+public speaking:1
+security clearance:1
+phone skills:1
+accounts to:1
+customer inquiries:1
+invoices:1
+invoicing:1
+payments:1
+shipping:1
+the accounting:1
+account analysis:1
+cash management:1
+customer service representative:1
+data integrity:1
+etiquette:1
+invoice:1
+peoplesoft:1
+ces:1
+claims:1
+pirs:1
+fips:1
+ebill:1
+aclaims:1
+rmim:1
+rmih:1
+seiu:1
+strong work ethnic:1
+professionalism:1
+honesty and integrity:1
+willingness to learn:1
+strong verbal skills:1
+excellent written skills:1
+icd and cpt coding:1
+auditing:1
+cable:1
+features:1
+finance:1
+human resources management:1
+marketing strategies:1
+order entry:1
+servers:1
+speech:1
+staff training:1
+trend:1
+video:1
+chinese:1
+conferences:1
+business presentations:1
+cisco:1
+com:1
+customer relations:1
+kronos:1
+ms windows:1
+needs analysis:1
+peak:1
+performance reviews:1
+pivot tables:1
+improve processes:1
+selling:1
+sales support:1
+technical support:1
+training materials:1
+articles:1
+product positioning:1
+community relations:1
+recruiter:1
+solid waste:1
+solid waste management:1
+waste management:1
+liaison:1
+hipaa:1
+maintenance:1
+truck driving:1
+food distribution:1
+storage area network:1
+computer skills:1
+financial planning:1
+goal setting:1
+microsoft office outlook:1
+and excel:1
+organizational skills:1
+problem solving skills:1
+and public speaking:1
+quality analysis:1
+life coaching:1
+advertising:1
+databases:1
+multitasking:1
+communicator:1
+rapport:1
+sales and training:1
+spreadsheet:1
+phon:1
+client relations specialist:1
+conflict resolution techniques:1
+focused on customer satisfaction:1
+skilled multi tasker:1
+high customer service standards:1
+call center management experience:1
+telecommunications knowledge:1
+proficient with microsoft office suite:1
+multi tasking computer proficiency:1
+microsoft office suite:1
+microsoft office word:1
+outlook programs aimsi:1
+oms systems:1
+ups worldship and alice:1
+apricot type wpm:1
+key touch by sign touch:1
+associate:1
+cash register:1
+greetings:1
+its:1
+new sales:1
+sales associate:1
+sales associates:1
+administrative tasks:1
+ordering:1
+correspondence:1
+accounts and:1
+cardiology:1
+medical insurance:1
+medical records:1
+of accounts:1
+outpatient:1
+paying:1
+satisfaction:1
+testing:1
+experience with epic system:1
+epicare:1
+emdeon:1
+training and educating staff on epic wq s:1
+creating workers comp cases in epic:1
+signature:1
+idx:1
+medical manager:1
+ms word:1
+nc tracks:1
+collect payment over the phone and posting payments in epic:1
+superb sales professional store planning and design strong communication skills detail oriented personnel training and development time management proficient in ms office:1
+cash receipts:1
+cash registers:1
+closing:1
+strong communication skills:1
+fashion:1
+merchandising:1
+negotiations:1
+personnel training:1
+reconciling:1
+skills:1
+microsoft suite proficiency:1
+rightfax ventura:1
+lotus notes:1
+key by sight:1
+dispatch:1
+collections:1
+analyzed official documents in order for migrant families to receive benefits:1
+did outreach work to find and recruit migrant families:1
+knowledge with windows:1
+microsoft word power point:1
+and printshop:1
+operations management:1
+team leadership:1
+customer experience:1
+peer counseling:1
+internet applications:1
+e mail:1
+healthcare claims authorization:1
+computerized and paper claims submission people skills advanced problem solving:1
+great organizational skills:1
+verbal and written communication:1
+team collaboration:1
+problem solving and decision making:1
+strong analytics:1
+working independently and in a team environment:1
+strong leadership:1
+avaya:1
+citrix:1
+ibm:1
+mainframe:1
+messaging:1
+navigation:1
+ocr:1
+website:1
+strong clerical:1
+management:1
+and administrative skills:1
+compassionate:1
+active listener:1
+experienced in working with individuals and groups:1
+independent:1
+strong communicator:1
+knowledge of child development:1
+self awareness:1
+empathy:1
+boundary setting:1
+detail oriented merchandising:1
+backup:1
+business management:1
+competitive:1
+cost control:1
+clientele:1
+delivery:1
+electronic mail:1
+food safety:1
+inspection:1
+inspects:1
+isis:1
+team leader:1
+managerial:1
+market:1
+network:1
+strategic plans:1
+technical assistance:1
+total quality management:1
+benchmarking:1
+client support:1
+designing:1
+functional:1
+leadership development:1
+payroll processing:1
+performance management:1
+process improvement:1
+trainer:1
+employee training:1
+maintains strict confidentiality:1
+knowledge of hmos:1
+medicare and medi cal:1
+medical manager software:1
+electronic medical record emr software:1
+hipaa compliance:1
+team player with positive attitude:1
+proven patience and self discipline:1
+personal and professional integrity:1
+relationship and team building:1
+staff training and development:1
+effectively influences others:1
+critical thinking proficiency:1
+cultural awareness and sensitivity:1
+excellent interpersonal skills:1
+compassionate and trustworthy caregiver:1
+effectively interacts with patients and families:1
+charting and record keeping:1
+i am confident in my ability to navigate computers:1
+communicate effectively:1
+value teamwork:1
+respect all members of the healthcare team:1
+value all walks of life:1
+build strong relationships:1
+listen intently:1
+clarify uncertainties:1
+and educate thoroughly:1
+i am growing in my ability to practice confidently:1
+formulate differentials:1
+and build a suitable plan of care accordingly:1
+employee relations:1
+organizational development:1
+equal employment opportunity:1
+labor law:1
+employment law:1
+labor laws:1
+human resource management:1
+screening:1
+expense reports:1
+automation:1
+catalog:1
+corporate training:1
+educator:1
+profit:1
+program design:1
+stress management:1
+structured:1
+unique:1
+author:1
+administrative duties:1
+fluent in english:1
+farsi:1
+health education:1
+hindi:1
+instructing:1
+lesson plans:1
+prime:1
+speaking:1
+rehabilitation:1
+seminars:1
+translator:1
+urdu:1
+sales goals:1
+cpr:1
+therapeutic:1
+and sell:1
+assistant director:1
+writing skills:1
+audits:1
+financial reports:1
+tle:1
+and sales:1
+award:1
+collection:1
+my sales:1
+patience:1
+sales and:1
