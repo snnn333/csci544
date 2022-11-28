@@ -1,101 +1,299 @@
-research:7
-excel:6
-powerpoint:5
-c:4
+excel:15
+research:15
+office:12
+project management:10
+powerpoint:10
+sales:10
+marketing:10
+leadership:9
+meetings:8
+word:8
+c:8
+customer service:8
+materials:7
+power point:7
+quality:7
+microsoft word:7
+english:6
+presentations:6
+strategic planning:6
+progress:6
+documentation:6
+safety:6
+data entry:6
+reporting:6
+government:5
+agency:5
+finance:5
+managing:5
+proposals:5
+credit:5
+recruitment:5
+clerical:5
+data collection:5
+teaching:5
+processes:5
+database:5
+written:5
+html:5
+sql:5
+search engine optimization:5
+clients:5
+training materials:4
+goal setting:4
+budget:4
+delivery:4
 financial:4
-managing:4
-presentations:4
-word:4
-customer service:4
-sales:4
-agency:3
-power point:3
-safety:3
-processes:3
-quality:3
-credit:3
-marketing:3
-reporting:3
-documentation:3
-data entry:3
-teaching:3
-budgeting:2
-budget:2
-delivery:2
-finance:2
+strategic:4
+training:4
+accounting:4
+microsoft office:4
+ms office:4
+administrative:4
+css:4
+javascript:4
+years of experience:4
+python:4
+matlab:4
+windows:4
+public relations:4
+access:4
+focus:4
+risk management:4
+inventory:4
+typing:3
+workshops:3
+time management:3
+instruction:3
+budgeting:3
+business development:3
+human resources:3
+producing:3
+spanish:3
+data analysis:3
+content management:3
+spss:3
+award:3
+liaison:3
+network:3
+teamwork:3
+communication skills:3
+client:3
+data management:3
+funds:3
+articles:3
+team leadership:3
+public speaking:3
+conferences:3
+publisher:3
+statistics:3
+multi tasking:3
+retail:3
+net:3
+designing:3
+speaker:3
+web site:3
+direction:3
+basic:3
+cash handling:3
+consultant:3
+innovation:3
+accounts payable:3
+director:3
+mac os:3
+organizational:3
+customer relations:3
+process improvement:3
+filing:3
+outlook:3
+surveys:3
+quality control:3
+competitive:2
+irrigation:2
+management:2
 financial reporting:2
-human resources:2
 ms word:2
+needs assessment:2
 enterprise:2
-proposals:2
+profit:2
 researching:2
+dreamweaver:2
+flash:2
+cash:2
+databases:2
+mentor:2
+basis:2
+claims:2
+operations:2
+pmo:2
 attention to detail:2
-network:2
-teamwork:2
-data collection:2
+logistics:2
+organizational skills:2
+coaching:2
+drafting:2
+organizing:2
+self motivated:2
+strong verbal communication:2
+extremely organized:2
+staff development:2
+process implementation:2
+powerful negotiator:2
+academic:2
+lesson plans:2
+proposal development:2
+funding source research:2
+maintenance repair:2
+microsoft office gis:2
+community development:2
+international aid:2
 statistical analysis:2
-microsoft office:2
+chemistry:2
+edit:2
+gis:2
+strategy:2
+technical assistance:2
+closing:2
+coach:2
 editing:2
-office:2
-microsoft word:2
-multi tasking:2
+conflict resolution:2
+mongodb:2
+tableau:2
+node js:2
+frameworks net:2
+devexpress:2
+tensorflow:2
+keras:2
+scikit learn:2
+pandas:2
+nltk:2
+api:2
+database development:2
+image processing:2
+system architecture:2
+turkish:2
+user interface:2
+basic computer skills:2
+banking:2
+charts:2
+instructor:2
+tax:2
+vision:2
+careful and active listener:2
+professional and friendly:2
+event planning:2
+supervising:2
+hplc:2
 gc:2
-accounting:2
-accounts payable:2
 billing:2
+financial management:2
 financial statements:2
 law:2
-access:2
 quickbooks:2
+sap:2
 scheduling:2
 regulatory compliance:2
-meetings:2
-ms office:2
 oct:2
+supervision:2
 tax returns:2
-communication skills:2
-mac os:2
+elisa:2
+os:2
 validation:2
-clients:2
+hardware:2
+customer satisfaction:2
+human resource:2
+quality assurance:2
+view:2
 decision making:2
-inventory:2
 loss prevention:2
 mail:2
-statistics:2
-training materials:2
-time management:1
+radio:2
+telephone:2
+telephones:2
+acrobat:2
+business operations:2
+grant proposals:2
+publications:2
+functional:2
+inspection:2
+optimization:2
+contract negotiations:2
+project planning:2
+modeling:2
+phd:2
+maintenance:2
+recruiting:2
+games:2
+training and development:2
+visionary:2
+microsoft office suite expert:2
+land use planning:2
+managerial:1
+police:1
+translations:1
 classroom discipline:1
-instruction:1
-management:1
 creative lesson planning:1
-goal setting:1
 implementation:1
 and program development:1
 dream weaver:1
 adobe illustrator:1
-business development:1
 business plans:1
-english:1
 estimating:1
 latin:1
 macromedia:1
 market:1
-needs assessment:1
 peoplesoft:1
-producing:1
-profit:1
-progress:1
 project design:1
-project management:1
 proposal:1
 quattro pro:1
-spanish:1
-strategic:1
 word perfect:1
+class:1
+comprehensive large array data stewardship system:1
+marketing analysis:1
+usda:1
+animal science:1
+career development:1
+front page:1
+integration:1
+integrator:1
+its:1
+leadership development:1
+sales and:1
+adjustments:1
+audit:1
+audits:1
+correspondence:1
+patient account:1
+payments:1
+technical support:1
+vouchers:1
+instructional design:1
+adult education:1
+content management systems:1
+frontpage:1
+learning management:1
+learning management systems:1
+mac:1
+deployment:1
+dissemination of information:1
+fundraising:1
+logging:1
+program manager:1
+steering:1
+collection:1
+product development:1
+transmissions:1
 continuous improvement:1
-logistics:1
 internet research:1
-organizational skills:1
+approach:1
+computer literate:1
+concept:1
+council:1
+financing:1
+maintaining inventory:1
+oil:1
+publication:1
+report writing:1
+making travel arrangements:1
 excellent classroom management:1
 experience working with special needs students:1
 as i feel ag and special needs go and and hand:1
@@ -104,18 +302,42 @@ motivating students:1
 innovative lesson planning:1
 positive atmosphere promotion:1
 advise students on academic and vocational curricula and on career issues:1
-public speaking:1
+creativity:1
 student involvement:1
 and organizational:1
+maintain inventory statistical analysis:1
+prepare sample and microsoft office:1
 maintain inventory:1
 prepare samples:1
 statistical analysis software sas:1
+adobe photoshop:1
+anatomy:1
+biology:1
+direct marketing:1
+drupal:1
+environmental health:1
+grants:1
+health education:1
+health promotion:1
+information technology:1
+microsoft powerpoint:1
+photo editing:1
+physiology:1
+press releases:1
+program evaluation:1
+program development and evaluation:1
+public health:1
+qualitative research:1
+quantitative analysis:1
+strategic plans:1
+supervisor:1
+video:1
+great organizational skills:1
+good numerical and analytical skills:1
 microsoft word documents:1
 excel spreadsheets and power point presentations experienced in arc geographic information systems:1
 carpentry:1
 cashier:1
-closing:1
-coach:1
 equipment operation:1
 fast:1
 information systems:1
@@ -127,12 +349,34 @@ excel spreadsheets:1
 natural resources:1
 plumbing:1
 power tools:1
-retail:1
 technician:1
+client assessment and analysis:1
+risk management processes and analysis:1
+huge experience with therapeutic recreational services:1
+activities and programs:1
+outstanding knowledge of psychiatric patient care techniques:1
+thorough knowledge of working in acute care:1
+assisted living and other healthcare setting:1
+good understanding of abuse reporting protocols:1
+familiarity with recreational therapy and therapeutic recreation programs:1
+amazing ability to develop recreational therapy plans:1
+ability to design:1
+implement:1
+and coordinate therapeutic programming:1
+immense ability to build positive working relations with patients and colleagues:1
+remarkable ability to provide therapies independently or in groups:1
+cpr:1
+laboratory equipment management skills:1
+reading:1
+rehabilitation:1
+sound:1
+spread sheet:1
 strong interpersonal skills:1
 customer service skills:1
 dependable worker:1
 excellent attention to detail:1
+cashiering:1
+directing:1
 deep expertise in designing developing:1
 implementing and running mission critical systems involving oltp olap and htap workloads:1
 extensive experience in building and deploying large scale applications in cloud environment aws:1
@@ -162,7 +406,6 @@ production and processing:1
 industrial and environmental safety:1
 mechanical aptitude and equipment troubleshooting ability:1
 basic math skills and the ability to compute decimals and perentage:1
-basic computer skills:1
 good oral and written communication skills:1
 previous manufacturing skills:1
 able to lift up to pounds:1
@@ -184,11 +427,19 @@ water quality testing:1
 wastewater treatment systems:1
 hour osha hazard recognition training for the construction industry:1
 microsoft office and microsoft excel:1
+brief counseling:1
+resistance and prevention program rapp certified trainer:1
+group and individual counseling:1
 skillful application of bench chemistry in a lab setting by adhering to standard operating procedures:1
 ability to analyze and test basic wet and dry chemistry obtaining qualitative and quantitative chemical measurements:1
 capacity to follow recipes and formulate mixtures based on manufacturer s specifications:1
 keen technical and mechanical ability:1
 strong work ethic and the ability to work collaboratively or independently under a variety of challenging conditions:1
+balance:1
+oral:1
+protocols:1
+telemetry:1
+written communication:1
 operations management:1
 financial records and processing:1
 quick learner:1
@@ -207,11 +458,15 @@ energetic work attitude:1
 adaptive team player:1
 cheerful and energetic:1
 telecommunication skills:1
-cash handling:1
-careful and active listener:1
 strong public speaker:1
-professional and friendly:1
-hplc:1
+book:1
+fund raising:1
+managing people:1
+media plans:1
+mentoring:1
+newspapers:1
+publicity:1
+writing skills:1
 physical chemistry:1
 uv vis:1
 accounts receivable:1
@@ -224,13 +479,10 @@ conversion:1
 certified public accountant:1
 essbase:1
 financial analysis:1
-financial management:1
 general manager:1
 hyperion:1
 jdedwards:1
-leadership:1
 leadership and development:1
-director:1
 management consultant:1
 mas:1
 migration:1
@@ -242,102 +494,199 @@ problem solver:1
 process re engineering:1
 purchasing:1
 reconciling:1
-sap:1
-tax:1
 visio:1
-basic:1
 bloomberg:1
-charts:1
 credit risk:1
 senior management:1
 analyze financial statements:1
-focus:1
-funds:1
 ms excel:1
 new construction:1
 pivot tables:1
 repairs:1
 assess risk:1
-risk management:1
-spss:1
-supervision:1
 training material:1
 underwriting:1
-designing:1
-elisa:1
+shipping and receiving:1
+computer:1
+hand and power tools:1
 glp:1
 gmp:1
 ms office suite:1
-windows:1
-os:1
 presenting:1
 rt pcr:1
 troubleshoot:1
-administrative:1
-clerical:1
-content management:1
-client:1
-customer satisfaction:1
+business intelligence:1
+business law:1
+customer services:1
+economics:1
+insurance:1
+inventory management:1
+inventory control:1
+legal:1
+microsoft certified professional:1
+mcp:1
+packaging:1
+requirement:1
+scripts:1
+stock control:1
 microsoft excel:1
 microsoft outlook:1
 neat:1
 office equipment:1
-radio:1
-telephone:1
-telephones:1
-web site:1
-banking:1
-chemistry:1
+adobe creative suite:1
+after effects:1
+photoshop:1
+premiere:1
+autocad:1
+business strategies:1
+computer aided design:1
+cad:1
+content:1
+creative design:1
+clientele:1
+e commerce:1
+engineering design:1
+drawing:1
+graphic art:1
+graphic:1
+indesign:1
+internet marketing:1
+layout:1
+market and trend:1
+marketing communications:1
+microsoft certified systems engineer:1
+mcse:1
+window:1
+needs analysis:1
+networking:1
+online marketing:1
+operating systems:1
+press:1
+television:1
+website:1
+business process improvement:1
+change management:1
+contracts:1
+negotiating:1
+organizational development:1
+policy development:1
+sales training:1
+salesforce crm:1
+store manager:1
+reducing waste:1
+arts:1
+child care:1
+facsimile:1
+faxing:1
+leadership skills:1
+lesson planning:1
+notes:1
+office machines:1
+photocopiers:1
+receptionist:1
+scanners:1
+scanning:1
+spreadsheets:1
+switch:1
+take messages:1
+teacher:1
+phone:1
+type:1
+typewriters:1
+verbal communication skills:1
+voice mail:1
+r studio:1
+time management and strategic goal setting:1
+critical thinking and problem solving:1
+interviews:1
+participant observation:1
+questionnaires:1
+sociocultural perceptiveness:1
+and recruiting:1
+organized:1
+determined:1
+professional:1
+personable:1
+and adaptable:1
+computer literacy:1
+e mail:1
+management consulting:1
+policies:1
+effective leader:1
+consistently meet goals:1
+experienced in legislative processes:1
+customer service oriented:1
+exceptional interpersonal communication:1
+budget development:1
+accounting software:1
+long term business planning and execution:1
+negotiation:1
+effective communication:1
+staff training development:1
+executive presentation development:1
+constant contact:1
+print advertising:1
+special events planning:1
+accomplished manager:1
+public speaking talent:1
+non profit management:1
+excellent planner and coordinator:1
+accurate and detailed:1
+advanced ms office suite knowledge:1
+conference planning:1
 customer support:1
 dna:1
-government:1
-materials:1
 trainer:1
 troubleshooting:1
-typing:1
 automation:1
-consultant:1
 dec:1
 fertilizer:1
-grant proposals:1
-irrigation:1
-modeling:1
-phd:1
 scientific:1
 simulation:1
 translation:1
-articles:1
+team mediation:1
+budget management:1
+delegation expert with a focus on results and team growth:1
 a tenacious:1
 courteous:1
 diplomatic:1
 and professional self motivated individual who requires minimal supervision:1
 microsoft office word outlook excel power point:1
+acid:1
+bsc:1
+com:1
+dc:1
+dsc:1
+exhibitions:1
+http:1
+max:1
+exchange:1
+msc:1
+neural:1
+novel:1
+page:1
+pathway:1
+pcr:1
+researcher:1
+technology research:1
+transportation:1
+uv:1
 sas spss statistical applications:1
 windows xp:1
 adobe in design:1
 banner web baseline curriculum advising and program planning:1
 early alert system and drupal content management system content manager for the college of agriculture related sciences editing creating information for university website:1
 analytical skills:1
-quality control:1
-surveys:1
 water quality:1
 soil fertility:1
 printers:1
 loans:1
 clerk:1
 multiline:1
-maintenance:1
-recruiting:1
-recruitment:1
 testing:1
-games:1
-instructor:1
-training:1
 weapons:1
-cash:1
 pricing:1
 arranged meetings:1
-claims:1
 front desk:1
 linguistics:1
 system software:1
@@ -350,7 +699,6 @@ database verifications:1
 statistics reports performed complexity installation and maintenance of software skills in electronic medical records:1
 adobe flash:1
 help desk software:1
-html:1
 libm mainframes:1
 microsoft operating systems:1
 network support:1
@@ -365,7 +713,6 @@ application software products:1
 and peripheral hardware installs software and hardware in order to manage:1
 monitor and support extensive computer network assisted in monitoring performance and efficiency of an enterprise network:1
 understand protocols tcp ip active directory:1
-database:1
 epic and ibm database programming skills:1
 html website design:1
 trained professional and users on the system:1
@@ -376,7 +723,32 @@ excellent verbal and written communication skills with emphasis in customer supp
 including experience handling difficult customers and conflict resolution excellent interpersonal skills and the ability to work collaboratively in team environment capable of seeing and managing project through from start to finish problem solving skills:1
 certification:1
 candidate project management professional pmp:1
-acrobat:1
+project management software microsoft project:1
+project server:1
+sharepoint:1
+team foundation server:1
+process methodologies project planning:1
+pmi:1
+cmmi:1
+agile:1
+iterative:1
+rational:1
+waterfall:1
+requirements management:1
+vendor selection:1
+vendor management:1
+portfolio management:1
+industries served higher education:1
+computer manufacturing:1
+software development:1
+pharmaceuticals:1
+federal government:1
+technology consulting:1
+professional services:1
+staffing and recruiting:1
+testing and certification services:1
+systems integration:1
+telecommunications:1
 adobe contract auditing:1
 backup case management:1
 citrix:1
@@ -387,7 +759,6 @@ council meetings:1
 dictaphone:1
 dos:1
 email:1
-filing:1
 file management financial management:1
 waiver forms:1
 grants gateway knowledge:1
@@ -397,19 +768,120 @@ mailing:1
 mainframe:1
 meetings access database:1
 microsoft office suites:1
-outlook:1
 monitors:1
 notary public:1
 oracle copy machines receptionist duties when necessary scanners:1
 spreadsheet:1
 transcription:1
+a proven professional:1
+experienced in sales:1
+and business development public and private sector experience with valuable network of contacts excellent communication and public relation skills event planning public speaking experience presented an international honor award by the u s department of agriculture s foreign agricultural service for outstanding leadership and commitment to the promotion of u s agricultural trade worldwide:1
+may:1
+skilled multi tasker:1
+focused on customer satisfaction:1
+marketing savvy:1
+team management:1
+deadline oriented:1
+trade show:1
+buyer:1
+buying procurement:1
+market research:1
+accounts through:1
+cold calling:1
+commodities:1
+import export:1
+prospecting:1
+sales in:1
+sales manager:1
+fleet management:1
+assistant director:1
+trading:1
+promotional:1
+staffing:1
+strategic direction:1
+account executive:1
+quotations:1
+shipping:1
+commercial real estate:1
+in sales:1
+northern telecom:1
+peachtree:1
+property management:1
+real estate:1
+real estate lending:1
+sales representative:1
+telecom:1
+training programs:1
+induction:1
+mba:1
+advertising:1
+associate:1
+taams:1
+arcgis:1
+trimble unit:1
+garmin:1
+atv:1
+personal computer microsoft excel:1
+write and read legal descriptions:1
+read and translate title status reports:1
+identify plants:1
+forbs and weeds:1
 document control:1
-quality assurance:1
 auditor:1
 gmp iso nsf:1
 calibration:1
 medical coding:1
 databases microsoft office sharepoint:1
-process improvement:1
 product testing:1
-project planning:1
+budgeting and finance:1
+recruitment and talent development:1
+personnel management:1
+customer oriented:1
+accounts payable and receivable:1
+flexible thinker:1
+complex problem solving:1
+customer needs assessment:1
+business management:1
+microsoft access:1
+office manager:1
+quick book:1
+typing wpm:1
+problem resolution:1
+leadership communication skills:1
+performance analysis:1
+departmental operations leadership:1
+negotiations:1
+art:1
+doors:1
+special events:1
+french:1
+l:1
+machinery:1
+mathematics:1
+money:1
+personnel:1
+problem solving:1
+read:1
+recording:1
+physical planning and land management:1
+urban and regional planning:1
+geographic information system gis:1
+strong organizational and planning skills:1
+strong leadership qualities with flexibility able to work alone:1
+as team member:1
+or as supervisor:1
+skilled in communications:1
+both written and verbal:1
+document creation and information management leadership activities director of sports students union:1
+university of technology:1
+jamaica university of technology student union award for exemplary service as director of sports:1
+land use:1
+global positioning:1
+gps:1
+geographic information system:1
+survey technician:1
+excellent written and verbal communication skills:1
+written and verbal:1
+documenting:1
+mapping:1
+topo:1

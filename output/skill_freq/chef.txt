@@ -1,106 +1,225 @@
-inventory:20
-safety:18
-purchasing:16
-quality:15
-scheduling:11
-cooking:11
-customer service:11
-sales:11
-marketing:11
-inventory control:9
-hiring:9
-delivery:8
-retail:8
-budget:8
-excel:8
-inventory management:7
-problem solving:7
-cost control:7
-customer satisfaction:7
-special events:7
-pricing:7
-leadership:7
-supervision:7
-leadership skills:6
-producing:6
-meetings:6
-profit:6
-powerpoint:6
-policies:6
-detail oriented:5
-english:5
-microsoft word:5
-personnel:5
-team building:5
-managing:5
-receiving:5
-time management:5
-food safety:5
-staffing:5
+inventory:36
+quality:32
+safety:32
+purchasing:29
+sales:26
+cooking:23
+customer service:22
+scheduling:21
+excel:19
+marketing:18
+retail:15
+budget:15
+powerpoint:15
+inventory control:15
+personnel:14
+cost control:14
+hiring:14
+leadership:13
+budgeting:12
+meetings:12
+clients:11
+english:11
+market:11
+customer satisfaction:11
+special events:11
+managing:11
+policies:11
+delivery:10
+pricing:10
+profit:10
+receiving:10
+client:10
+staff training:10
+operations management:10
+leadership skills:9
+microsoft word:9
+problem solving:9
+team building:9
+budgets:9
+financial:9
+focus:9
+supervision:9
+inventory management:8
+costing:8
+quality control:8
+staffing:8
+outlook:8
+concept:8
+forecasting:8
+office:7
+producing:7
+spanish:7
+word:7
+recruiting:7
+food safety:7
+arts:6
+closing:6
+detail oriented:6
+logistics:6
+work flow:6
+ca:6
+direction:6
+time management:6
+access:6
+director:6
+research:5
+team player:5
+shipping:5
+credit:5
+payroll:5
+servers:5
+recruitment:5
+selling:5
+basic:5
+french:5
+contracts:5
+windows:5
+restaurant operations:5
+microsoft office:5
+consultant:5
+product development:5
+self motivated:5
+supervisor:5
+counseling:5
 coaching:5
-closing:4
-logistics:4
-team player:4
-market:4
-costing:4
-payroll:4
-quality control:4
-restaurant operations:4
-client:4
-focus:4
+quickbooks:5
+administrative:5
+project management:5
+organizational skills:4
+fast learner:4
+conflict resolution:4
+team leader:4
+features:4
+customer relations:4
+general manager:4
+teaching:4
+excel spreadsheets:4
+pos:4
+instruction:4
+trainer:4
+employee relations:4
+materials:4
 strong communication skills:4
-counseling:4
-director:4
-recruiting:4
-project management:4
+accounting:4
+next:4
+training programs:4
+data entry:4
+seminars:4
+beautiful presentation of food:4
+food presentation talent:4
+fashion:4
+strategic:4
+menu planning:4
+unique:4
+performance management:4
+quest:4
+quick problem solver:3
 cashier:3
 communication skills:3
-organizational skills:3
-fast learner:3
-spanish:3
-work flow:3
 portion and cost control:3
 budgeting and cost control:3
 food preparation techniques:3
 dish preparation:3
-shipping:3
-arts:3
-selling:3
-budgets:3
-contracts:3
-clients:3
-excel spreadsheets:3
-outlook:3
-instruction:3
-direction:3
-staff training:3
-next:3
-access:3
-product development:3
-servers:3
-strategic:3
+attention to detail:3
+sales reports:3
+tables:3
+photoshop:3
+health and safety standards:3
+works:3
+leadership communication skills:3
+budgeting expertise:3
+agency:3
+consultation:3
+clientele:3
+customer oriented:3
+power point:3
+creativity:3
+government:3
+supervising:3
+machinery:3
+client relations:3
+vendor negotiations:3
+account management:3
+hr:3
+effective planner:3
+employed at:3
+featured in:3
+optimization:3
+advertising:3
+documentation:3
+caterease:3
+benefits:3
+phone:3
+microsoft office suite:3
+strong attention to safe food handling procedures:3
+com:3
+italian:3
+cash handling:3
+food plating and presentation:3
+forecasting and planning:3
+recipes and menu planning:3
+payroll and scheduling:3
+critical thinking:3
+high volume production capability:3
+financial management:3
+processes:3
+business development:3
+reception:3
+workshops:3
+quality management:3
+legal:3
+understands mobility assistance needs:2
+charting expertise:2
+understands medical procedures:2
+trained in grooming and bathing assistance:2
+general housekeeping ability:2
+trained in catheter change and preparation:2
+natural:2
 interpersonal skills:2
 customer service skills:2
+adaptable:2
 excellent communication skills:2
+balance:2
 microsoft excel:2
 well organized:2
 math:2
-recruitment:2
+c:2
+supervisory:2
 enthusiastic people person:2
 goal setting:2
 self driven:2
+abc:2
+computer literate:2
+articles:2
 consulting:2
-general manager:2
-health and safety standards:2
-pos:2
-works:2
+merchandising:2
+negotiating:2
+communicator:2
 public speaking:2
-trainer:2
-microsoft office:2
-consultant:2
-financial:2
-forecasting:2
-materials:2
+retail sales:2
+new product delivery:2
+negotiations expert:2
+benchmarking:2
+budget development:2
+competitive:2
+designing:2
+event planning:2
+indexing:2
+newspapers:2
+multi tasking:2
+vista:2
+word perfect:2
+marketing strategies:2
+ms word:2
+employee training:2
+vendor relations:2
+army:2
+inspection:2
+weapons:2
+reporting:2
+requirement:2
+telephone:2
 customer service oriented:2
 banquets and catering:2
 resource management:2
@@ -111,57 +230,132 @@ high volume dining:2
 outstanding cleanliness:2
 trained in food safety guidelines:2
 flexible schedule:2
-customer relations:2
-operations management:2
-basic:2
-government:2
+public relations:2
+type:2
+strategic planning:2
+process development:2
+creative problem solving:2
+proven leadership skills:2
+special dietary needs expert:2
+fluent in english:2
+cpr:2
+cuisine expert:2
+extensive catering background:2
+organizing:2
+presentations:2
+speaker:2
+customer service training:2
+fast:2
+negotiations:2
+procurement:2
 instructor:2
+law:2
+mentoring:2
+quality assurance:2
+dedicated:2
 communication:2
 coding:2
-supervisor:2
-attention to detail:2
 color:2
-benefits:2
-teaching:2
-critical thinking:2
+cash register:2
+forms:2
+insurance:2
+adobe:2
+money:2
+hospitality and service industry background:2
+website:2
+kitchen management:2
+performance assessments:2
+written communication:2
+strong work ethic:2
+inventory levels:2
 organizational:2
 interpersonal:2
-word:2
-concept:2
-administrative:2
+networking:2
+listening skills:2
+focused and disciplined:2
+focus on portion and cost control:2
+well tuned palette:2
+computer proficiency:2
 arabic:2
-business development:2
 customer relationship management:2
 energy efficient:2
-french:2
 pivot tables:2
-quickbooks:2
 search engine optimization:2
 tax:2
 tax returns:2
-training programs:2
-high volume production capability:2
+natural leader:2
+hebrew:2
+letters:2
+written:2
 team leadership:2
-hr:2
-seminars:2
 staff development:2
-workshops:2
-sales reports:2
-supervising:2
+profit generation:2
 functional:2
-account management:2
+kitchen design workflows:2
+product costing cost control:2
+innovative menu development:2
+team building leadership:2
+quality customer service:2
+new restaurant openings:2
+revenue growth p l:2
+imenupro:2
+aloha:2
+solomon:2
+eteac:2
+eventmaster:2
+kitchen equipment operation and maintenance:2
+business process:2
+negotiation:2
+dc:2
+greek:2
+kronos:2
+business administration:2
+relationship management:2
 excellent customer service:2
-client relations:2
+baking:2
+organized:2
+dependable:2
+direct sales:2
+recording:2
+autocad:2
+adobe illustrator:2
+revit:2
+teamwork:2
+trade shows:2
 human resources management:2
+calm and level headed under duress:1
+valid state driver s license:1
+reliable transportation:1
+medical terminology knowledge:1
 warehouse worker:1
 line cook:1
-research:1
 very friendly:1
-adaptable:1
 waste control:1
 kitchen equipment and tools:1
 verbal and written communication:1
 cleaning and sanitizing methods:1
+classically trained chef proficient in all facets of food production:1
+cleanliness and diligence to prevent any possibility of cross contamination:1
+extensive knowledge of nutrition and various specialty diets:1
+proven ability to manage daily culinary operations for multiple households with changing needs and demands:1
+expertise with various forms of protocol and table service appropriate to a multitude of settings:1
+able to shop and manage acquisition of specialty foods and foods which are maximally nutrient dense:1
+communicates effectively:1
+and values discretion and privacy:1
+wine and liquor inventory and management:1
+flexible temperament:1
+able to accomodate changes of plans and special requests smoothly proficient cooking for specialty diets including various allergy and food sensitivities gluten free:1
+vegan:1
+raw:1
+paleo:1
+specific carbohydrate diet scd:1
+gut and psychology diet gaps:1
+kosher:1
+halal:1
+heritage diets proven ability to manage daily demands of planning menus:1
+shopping and preparing meals for multiple households with changing plans and schedules professional:1
+respectful communication skills:1
+eager to learn and able to teach:1
 physically active:1
 out going:1
 willingness to learn:1
@@ -183,9 +377,7 @@ able to multitask in a fast paced environment:1
 knowledge of state health and safety codes including labeling:1
 dating and rotating:1
 able to keep to budget concerning labor and food cost:1
-balance:1
 forklift operator:1
-natural:1
 oil:1
 organization skills:1
 video editing:1
@@ -194,6 +386,14 @@ adobe premiere:1
 art:1
 reading:1
 structured:1
+excellent customer service customer service specialist:1
+documentation inventory control:1
+goal driven:1
+microsoft office proficient:1
+acf:1
+platinum:1
+publication:1
+teacher:1
 strong public speaking skills:1
 motivational and inspirational:1
 goal achieving:1
@@ -208,43 +408,96 @@ encouraging group participation:1
 implementing team incentives:1
 creating performance motivation:1
 high level of professionalism:1
-abc:1
-computer literate:1
+skilled and experienced managing food production for high volume restaurants:1
+luxury hotel:1
+and large event catering for people while coordinating the activities of kitchen employees computer literate in word:1
+photoshop internet skills:1
+ventura:1
+internet skills:1
+vc:1
 e commerce:1
 facility maintenance:1
 government regulations:1
-merchandising:1
 ms office suite:1
-windows:1
-negotiating:1
 adobe software:1
 marketing i:1
-communicator:1
 controlling budget:1
 designing menus:1
 organizational inventory skills:1
 management:1
 conducting meetings:1
 publisher:1
-retail sales:1
-agency:1
-benchmarking:1
-budget development:1
-competitive:1
-consultation:1
-clientele:1
-designing:1
-indexing:1
-newspapers:1
-multi tasking:1
+human resources:1
+management skills:1
+public speaker:1
+menu development:1
+staff retention:1
+staff motivation:1
+cost controlling:1
+international sales:1
+newspaper:1
+san:1
+television:1
 devoted to sustainability:1
 allergen awareness:1
 multi ethnic cuisines:1
+computer experience include windows nt:1
+android:1
+rbms:1
+as:1
+sms:1
+creativity in menu planning and presentation:1
+knowledgeable in heart healthy cooking:1
+safe and healthy work atmospher:1
+haccp:1
+serv safe certified:1
+customer service focuses:1
+passionate about cooking:1
+forward thinking:1
+highly organized:1
+excellent communicator:1
+delegates effectively:1
+motivational:1
+good sense of humor:1
+team builder and self motivated:1
+and p l:1
+proficient in ms office including word:1
+and outlook:1
+implements effective systems:1
+team builder:1
+data base:1
+driving:1
+managment:1
+oracle:1
+upgrades:1
+urinalysis:1
+inspect:1
+ma:1
+mac os:1
+ms excel:1
 accounting customer service airfreight delivery:1
 operating airport vehicles to tug aircraft and luggage:1
 maintaining safety in highly secure areas of airport terminal:1
 preparing quality entrees and beverages:1
-quick problem solver:1
+operations streamlining:1
+product management:1
+budget management:1
+vendor administration:1
+food trak birchstreet word excel:1
+personal and professional integrity:1
+relationship and team building:1
+proven patience and self discipline:1
+effectively influences others:1
+exceptional listener and communicator who can convey information verbally and in writing computer literate with extensive knowledge:1
+covering applications of word processing:1
+spreadsheets and e mail resourceful team player:1
+which excels at building and trusting relationships with customers and colleagues problem solver who can generate workable situations and resolve complaints:1
+multi operation hospitality management:1
+high degree of drive and determination:1
+staff development talent:1
+public:1
+relations:1
+conversational french:1
 thrives in fast paced environment:1
 committed team player:1
 courteous:1
@@ -252,19 +505,42 @@ professional demeanor:1
 able to work in continuously standing position:1
 prefer to work nights and weekends:1
 assumes responsibility for quality of products:1
-army:1
-ca:1
+ada compliance:1
+auditing:1
+computer programming:1
+customer:1
+service:1
+department of health:1
+cost accounting:1
+pbx:1
+american french classic:1
+cooking technique:1
+mexican american:1
+campeon:1
+village voice:1
+critics picks column:1
+lolita redlulu:1
+the new york times:1
+critics picks column two stars:1
+charts:1
+directing:1
+bi:1
+business plan development:1
+contract negotiations:1
+layout:1
+marketing plan:1
+organizer:1
+performance reviews:1
+radio:1
+sales forecasting:1
+author:1
 controller:1
 drivers:1
 leadership development:1
-law:1
 local government:1
-mentoring:1
-quality assurance:1
 excellent leadership qualities:1
 passion for culinary arts:1
 excellent customer service skills:1
-dedicated:1
 consistently working to high standards:1
 gain in depth familiarity with any kitchen s operations:1
 serve safe management certified:1
@@ -277,14 +553,11 @@ well tuned palate:1
 fluent in spanish:1
 food science:1
 software shopkeep:1
-caterease:1
 assistant manager:1
 front office:1
 receptionist:1
 business operations:1
-creativity:1
 purchasing receiving:1
-c:1
 leadership training:1
 advanced sushi skills:1
 very organized:1
@@ -292,15 +565,10 @@ creating team engagement:1
 understanding client needs:1
 controlling the bottom line:1
 can multi task well:1
-cash register:1
 cpt:1
-forms:1
 icd:1
-insurance:1
 mainframe:1
 medical terminology:1
-telephone:1
-phone:1
 kitchen:1
 sanitation:1
 contamination:1
@@ -321,16 +589,80 @@ cash:1
 cash deposits:1
 stocking:1
 paralegal:1
+pc:1
+imac:1
+windows xp:1
+amicus attorney:1
+internet resourcing:1
+social media facebook:1
+twitter:1
+instagram:1
+doh:1
+ledger:1
+sat:1
+sun:1
+employee handbooks:1
+chef at:1
+the cork tree:1
+awarded best restaurant in:1
+west ways magazine:1
+bing crosby s:1
+desert sum magazine:1
+chefs surprise column august:1
+banking:1
+allergies:1
+oral communication:1
+cost analysis:1
+presentation skills:1
+safety codes:1
+health department certified:1
+culinary attributes:1
+strong desire to instill good practice and procedures in those working with you:1
+training and supporting junior chefs:1
+ability to bring creative and commercially viable new lines to the market before any competitors do:1
+physically fit and able to lift heavy goods and stand for long periods of time:1
+able to communicate well with both superiors and subordinates:1
+can accurately estimate food and labor costs:1
+enforcing strict health and hygiene standards in the cooking food preparation area:1
+assisting head chef in the basic and full preparation of food:1
+management of meal preparations by properly overseeing the quantities of foods to be cooked and the size of portions to be served:1
+creating dishes for clients with special dietary or cultural needs:1
+management of health and osha regulations by making sure that kitchen staff always wore appropriate clothing and head wear in:1
+accordance with the relevant state and local law guidelines:1
+negotiating price and productivity of supplies with sales representatives upon purchase orders:1
+maintaining the correct level of fresh:1
+frozen and dried foods in the walk in as well as store room:1
 five years of experience with r s i:1
 proficient in menulink and shiftnote:1
+food spoilage prevention:1
+recruiting and hiring:1
+cooking skills:1
+supply ordering:1
+signature dish creation:1
+baking and broiling skills:1
+sanitation guidelines:1
+workflow optimization:1
+food inventories:1
+adaptability:1
+cultural awareness:1
+premier ordering:1
+fms food management systems:1
+hospitality suite:1
+servsafe certification:1
+high energy:1
+vendor relations sysco u s foods:1
+premier:1
+police:1
 fiduciary:1
 event floor planning:1
 skills:1
 listening and understanding:1
 logistical:1
 computer:1
+desktop publishing:1
+illustrator:1
+some spanish:1
 blueprints:1
-credit:1
 debit:1
 dimensions:1
 training employees:1
@@ -343,13 +675,29 @@ power tools:1
 soldering:1
 welder:1
 welding:1
+brand development:1
+butchery:1
+farmer relationships:1
+mentor and development of culinary talent:1
+recipe research and development:1
+ingredient procurement:1
+gastronomic technique:1
+development coaching:1
+associate engagement:1
+small business development:1
+business operations organization:1
+fluent in spanishcommunicates effectively:1
+exceptional multi tasker:1
+hospitality expertise:1
+servsafe certified:1
+excellent multi tasker:1
+hand made pastas:1
+staff management:1
 excellent oral:1
 customer services:1
 microsoft office products:1
-power point:1
 problem solving skills:1
 requirements gathering:1
-unique:1
 written communication skills:1
 bilingual:1
 hands on knowledge of all phases of food preparation from casual to fine dining and catering:1
@@ -366,23 +714,49 @@ knowledge of p l accountability:1
 kitchen equipment maintenance and repair:1
 customer service orientated:1
 employee hiring training:1
-computer proficiency:1
 equipment maintenance and repair:1
-financial management:1
 forth:1
-inventory levels:1
-processes:1
-procurement:1
 ads:1
 mentor:1
-networking:1
 payroll processing:1
 highly focused and driven:1
 high profile events:1
 reliable:1
+business operations expertise:1
+inventory control and record keeping:1
+trained in performance and wage reviews:1
+service oriented:1
+conversion:1
+delphi:1
+dutch:1
+financials:1
+german:1
+internet literate:1
+management training:1
+nt:1
+mill:1
+institutional and batch cooking:1
+cake decorating expertise:1
+mediterranean:1
+menu marketing expertise:1
+special events planning:1
+skilled waitstaff:1
+catering:1
+inventory management systems:1
+courteous and helpful:1
+hotel operations and management:1
+event planning and coordination:1
+pos systems:1
+hospitality background:1
+five star hotel experience:1
+resort experience:1
+food and beverage services:1
+skilled negotiator:1
+interior design:1
+languages:1
+strategy:1
 influential:1
 problem solver:1
-strategic planning:1
 risk management:1
 service quality improvement:1
 staff retention programs:1
@@ -398,7 +772,6 @@ direction and facilitation of safety:1
 sanitation and maintenance programs:1
 hiring and training of personnel for f o h and b o h accountability for all time line expectations and procedures created and implemented grading rubrics haacp and food flow:1
 administrative duties:1
-cash handling:1
 mac:1
 record keeping:1
 compliance audits:1
@@ -408,40 +781,68 @@ outside sales:1
 administrative assistant:1
 administrative support:1
 behavioral health:1
-conflict resolution:1
-cpr:1
 first aid:1
 team development:1
 payment processing:1
-reporting:1
-type:1
-vendor relations:1
 highly skilled in cooking and preparing a variety of cuisines:1
 inborn ability to explore new cooking avenues:1
 thorough understanding of sanitation needs of the kitchen:1
 operate kitchen equipment such as ovens and grills for cooking purposes:1
 maintain knowledge of all recipes so that the head chef s place can be filled in effectively in case of absenteeism:1
-fashion:1
+multi business operations management:1
+new business development:1
+vendor partnerships:1
+time and resource optimization:1
+inventory control and management:1
+weekly payroll:1
 mcp:1
 microsoft windows:1
 restaurant management:1
+food cost control specialist:1
+skillful kitchen staff trainer:1
+international culinary skills:1
+strong customer relationship builder:1
+sophisticated seasonal menus:1
+motivated leader:1
 computer proficient:1
 staff development and training:1
 servsafe certified operations management:1
 follows propers sop s of all organizations:1
-focused and disciplined:1
 cross functional team management:1
-well tuned palette:1
 supervision and training:1
-focus on portion and cost control:1
 bilingual english spanish:1
 featured in the carroll county times:1
 estimating:1
-team leader:1
 negotiator:1
 program development:1
 team management:1
-advertising:1
+self motivated training and developing of staff core accomplishments staff development launched well received program of professional development courses for all staff mentored and coached employees resulting in a increase in productivity:1
+acute care:1
+conferences:1
+profit and loss:1
+staff development and motivation:1
+team leadership and team building:1
+general accounting:1
+biology:1
+chemistry:1
+customer support:1
+environmental scientist:1
+environmental science:1
+finance:1
+genetics:1
+human resource management:1
+interpretation:1
+marketing management:1
+marketing and sales:1
+needs assessment:1
+paint:1
+persuasive:1
+physiology:1
+proposal:1
+real estate:1
+sales analysis:1
+strategic management:1
+surveys:1
 automobiles:1
 data management:1
 financial planning:1
@@ -451,6 +852,21 @@ new construction:1
 performance appraisals:1
 spanish speaking:1
 telecommunications equipment operations and maintenance:1
+documentation procedures expert:1
+patient positioning understanding:1
+chart preparation filing aptness:1
+body mechanics competency:1
+alphabetical numerical filing mastery:1
+adept in oxygen machine maintenance:1
+feeding assistance specialist:1
+enthusiastic caregiver:1
+patient focused care:1
+compassionate and trustworthy caregiver:1
+effectively interacts with patients and families:1
+hospice care provider:1
+preparation of healthy meals and snacks:1
+catheter preparation and change:1
+charting and record keeping:1
 grill cook specialist:1
 fry cook specialist:1
 saucier:1
@@ -465,7 +881,6 @@ profit and lost specialist:1
 training of employee:1
 dependability focused:1
 human relations:1
-listening skills:1
 time and personnel management skills:1
 stress management:1
 enthusiasm:1
@@ -473,7 +888,6 @@ passion for cooking:1
 knowledge of the personal chef private catering business:1
 maintain great quality of food:1
 fast and capable of handling large projects:1
-baking:1
 packaging:1
 proofing:1
 and supervising:1
@@ -491,23 +905,26 @@ establishing good rapport:1
 self motivation:1
 ability to analyze sales as well as guest satisfaction:1
 and ability to work well with others:1
+computer systems:1
+self starter:1
+grammar:1
+communicates well:1
 internet research:1
-kitchen management:1
+basic computer skills:1
+legal documents:1
+notes:1
+stata:1
+professional and friendly:1
+careful and active listener:1
 knife skills:1
 mother sauce knowledgeable:1
 ability to adapt to any situation:1
 employee development:1
 fast pace and efficient:1
 typing speed of wpm:1
-photoshop:1
 multi tasking and organizational training:1
 completed course training in customer service and confrontation at first council casino hotel:1
-data entry:1
-dependable:1
-direct sales:1
-documentation:1
 human resource:1
-legal:1
 marketing plans:1
 motivational speaker:1
 new product development:1
@@ -516,33 +933,97 @@ predict:1
 presenter:1
 recruiter:1
 sales training:1
-employee training:1
-inspection:1
 managerial:1
 tax preparer:1
-written:1
+clerical:1
+exchange:1
+mail:1
+monitors:1
+pick:1
+repairs:1
+sabre:1
+scanning:1
+warehousing:1
+workflow:1
+autocad civil d:1
+civil engineering basics:1
+ds max design:1
+autocad inventor pro:1
+architectural knowledge:1
+ability to work under pressure:1
+decision making strength:1
+deadline oriented:1
+ms windows proficient:1
+creative problem solver:1
+quick learner:1
+strategic sales knowledge:1
+multi line phone talent:1
+strong verbal communication:1
+risk management processes and analysis:1
+civil engineering:1
+cleaning equipment:1
+microsoft office access:1
+medisoft electronic medical records practice management software:1
+eyefinity officemate practice management software:1
+eyefinity examwriter electronic health record software:1
+bookkeeping:1
+cash registers:1
+electronics:1
+medisoft:1
+newsletters:1
+tax preparation:1
+phones:1
+answer phones:1
+troubleshooting:1
+leadership with great communication skills:1
+budgeting and analysis expertise:1
+expense control expert:1
+food and labor cost expert:1
+diverse industry market knowledge:1
+excellent customer employee communications:1
+address customer complaints:1
+customer service experience:1
+home health:1
+hospice:1
+inspiration:1
+marketing material:1
+win:1
+nursing:1
+patient flow:1
+surgery:1
 sharepoint bpc and sap microsoft suite word:1
 microsoft access microsoft project microsoft dynamics seminars classes social media marketing facebook for business project management profitability simulation nielsen syndicated data analysis power presentations technical writing:1
+self directed:1
+hardworking:1
+exceptional time management:1
+decision making skills:1
+honest:1
 creative development:1
 instructing:1
 personnel management:1
 sop:1
 enforcing strict health and hygiene standards in the cooking food preparation area strong desire to instill good practice and procedures in those working with you physically fit and able to lift heavy goods and stand for long periods of time:1
-relationship management:1
+proofreading:1
+prioritization:1
+secretarial skills:1
+time management accounting:1
+data collecting:1
+proposal preparation education cooking:1
+and i can teach a non english speaking person to speak:1
+read and write in english:1
+computer skills microsoft office suite word:1
+excel powerpoint:1
+outlook inspiration software publisher open to learning new software:1
 adaptable advertising:1
 contract and proposal preparation:1
 form creation:1
 materials development:1
 meeting and event planning:1
 travel arrangements:1
-presentations:1
-process development:1
 project plans:1
 research gathering:1
-trade shows:1
 accounts payable receivable:1
 client relations computer proficient:1
-creative problem solving:1
 domestic and international experience:1
 training and development:1
 benefits administration:1

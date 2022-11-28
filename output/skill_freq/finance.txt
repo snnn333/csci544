@@ -1,351 +1,561 @@
-accounting:32
-financial:31
-sales:27
-budget:26
-finance:26
-processes:23
-payroll:22
-credit:20
-reporting:20
-forecasting:20
-excel:18
-budgets:18
-general ledger:18
-inventory:17
-clients:15
-accounts payable:15
-financial statements:15
-policies:14
-financial reporting:14
-budgeting:14
-office:14
-balance sheet:14
-documentation:13
-auditing:13
-meetings:12
-sap:12
-cash flow:12
-contracts:12
-tax:12
-managing:12
-billing:12
-marketing:11
-leadership:11
-microsoft office:11
-director:10
-personnel:10
-purchasing:10
-filing:10
-accounts receivable:10
-client:10
-research:10
-quality:9
-financial reports:9
-funds:9
-bank reconciliations:9
-quickbooks:9
-closing:9
-oracle:8
-retail:8
-progress:8
-outlook:8
+financial:56
+accounting:55
+finance:48
+budget:46
+sales:44
+excel:41
+payroll:37
+budgets:35
+reporting:35
+processes:31
+forecasting:31
+general ledger:30
+inventory:29
+office:29
+accounts payable:29
+financial statements:26
+credit:25
+client:25
+tax:25
+documentation:24
+financial reporting:24
+budgeting:23
+policies:23
+project management:22
+leadership:22
+meetings:22
+balance sheet:21
+clients:21
+director:21
+cash flow:21
+managing:21
+word:20
+marketing:20
+personnel:20
+quickbooks:20
+contracts:19
+sap:18
+filing:18
+microsoft office:18
+access:17
+billing:17
+funds:17
+quality:17
+accounts receivable:17
+oracle:16
+auditing:16
+closing:15
+research:15
+pricing:15
+database:15
+legal:14
+senior management:14
+purchasing:14
+administrative:14
+customer service:14
+profit:13
+retail:13
+powerpoint:13
+government:12
+variance analysis:12
+erp:12
+procurement:12
+financial reports:12
+hyperion:12
+power point:12
+outlook:12
+english:11
+bank reconciliations:11
+process improvement:11
+year end:11
+insurance:11
+ms excel:11
+strategic:11
+bank reconciliation:11
+scheduling:11
+sarbanes oxley:10
+strategy:10
+progress:10
+benefits:10
+strategic planning:10
+proposals:10
+customer relations:9
+ms office:9
+financial analysis:9
+grants:9
+risk management:9
+forms:9
+functional:9
+peoplesoft:9
+ms word:9
+cpa:9
+financing:9
+fixed assets:9
+c:8
+accountant:8
+ap:8
+cash management:8
+microsoft word:8
+ad:8
+decision making:8
+negotiating:8
+financial management:8
+tax returns:8
+treasury:8
+time management:8
+controller:8
 account reconciliation:8
-database:8
-variance analysis:7
-tax returns:7
-government:7
-english:7
-fixed assets:7
-legal:7
-scheduling:7
-administrative:7
-year end:7
-project management:6
-forms:6
-senior management:6
-sarbanes oxley:6
-strategy:6
-erp:6
-ms excel:6
-benefits:6
-payables:6
-accounting software:6
-power point:6
-controller:6
-ap:6
-balance:6
-c:6
-profit:6
-process improvement:6
-strategic planning:6
+balance:8
+direction:8
+customer satisfaction:7
+enterprise:7
+market:7
+negotiations:7
+hiring:7
+delivery:7
+organizational:7
+payables:7
+taxes:7
+accounting software:7
+spreadsheets:7
+banking:7
+leadership communication skills:7
+due diligence:7
+bookkeeping:7
+windows:7
+microsoft office suite:7
+self motivated:7
+business objects:7
+presentations:7
+acquisitions:6
+book:6
+coaching:6
+certified public accountant:6
+financial audits:6
+human resources:6
+written:6
+logistics:6
+organizing:6
+general accounting:6
+negotiation:6
+adp:6
+quick books:6
+clerical:6
+microsoft excel:6
+financials:6
+financial planning and analysis:6
 agency:6
-proposals:6
-ms office:6
+essbase:6
+basic:6
+materials:6
 team player:6
-spreadsheets:6
-decision making:5
-access:5
-hiring:5
-negotiating:5
-organizing:5
-procurement:5
-general accounting:5
-cash management:5
-negotiation:5
-organizational:5
-pricing:5
-adp:5
-quick books:5
-time management:5
+team building:6
+ar:5
+supervising:5
+financial modeling:5
+databases:5
+macros:5
+month end close:5
+sql:5
+proposal:5
+approach:5
+drivers:5
+supervision:5
 general ledger accounting:5
-banking:5
-ms word:5
-bookkeeping:5
-word:5
-windows:5
-microsoft office suite:5
-customer service:5
+jd edwards:5
+coding:5
+data entry:5
+organizational skills:5
+letters:5
+equity:5
+hr:5
+mis:5
+customer oriented:5
+human resource:5
+inventory control:5
+financial operations:5
+gl:5
+financial accounting:5
+internal audit:5
+works:5
+ledger:5
+product development:5
 supervisor:5
-cpa:5
-bank reconciliation:5
-accountant:5
-materials:5
-financials:5
-presentations:5
-customer satisfaction:4
-financial modeling:4
-insurance:4
-ad:4
-negotiations:4
+hardware:5
+telephone:5
+investments:5
+advertising:5
+arabic:5
+oracle financials:5
+accounts receivables:5
+accrual:5
+website:5
+business operations organization:5
+accruals:4
+business processes:4
+modeling:4
+payroll processing:4
+real estate:4
+workflow:4
+recording:4
+seminars:4
 business management:4
-customer relations:4
-delivery:4
-financial management:4
-human resources:4
-supervision:4
-taxes:4
-hyperion:4
+ms access:4
+ms powerpoint:4
+operations management:4
+quality assurance:4
+trial balance:4
+communication skills:4
+competitive:4
+sound:4
 peachtree:4
-peoplesoft:4
-clerical:4
 account reconciliations:4
-coding:4
-data entry:4
-strategic:4
-financial accounting:4
-works:4
-financing:4
-direction:4
-grants:4
+balance sheets:4
+statistics:4
+securities:4
+bi:4
+publisher:4
+office equipment:4
+phone:4
+annual reports:4
+problem solving:4
+valuation:4
+business operations:4
+operating system:4
+cost analysis:4
+budgeting expertise:4
 invoicing:4
-microsoft word:4
+billings:4
+streamline:4
+six sigma:4
 basis:4
-advertising:4
-due diligence:4
-accrual:4
-microsoft excel:4
+designing:4
+as:4
+great plains:4
+mentor:4
+counseling:4
 inventory management:4
-business objects:4
+com:4
+reconciling:4
+ms outlook:4
+lawson:4
 cost accounting:4
+business analysis:4
+quick:4
 academic:4
-recording:3
-seminars:3
+self motivated professional:3
+critical thinking:3
+attention to detail:3
+promotion:3
+mentoring:3
+accounting system:3
+backup:3
+business development:3
+consulting:3
+conversion:3
+financial audit:3
+presenting:3
+recruitment:3
+strategic plans:3
+analytical skills:3
+features:3
+networking:3
 business intelligence:3
-databases:3
+charts:3
+data analysis:3
+executive management:3
+external audits:3
 fp a:3
-macros:3
-month end close:3
-risk management:3
-sql:3
-logistics:3
-operations management:3
-quality assurance:3
-functional:3
-treasury:3
-jd edwards:3
-organizational skills:3
-equity:3
-hr:3
-business operations:3
+optimization:3
+pivot tables:3
+kronos:3
+management reporting:3
+lotus notes:3
+crm:3
+driving:3
+economics:3
+managerial:3
+microsoft powerpoint:3
+bonds:3
+foreign exchange:3
+accounts payables:3
+brochures:3
+budget analysis:3
+law:3
+promotional materials:3
+san:3
+a p:3
+regulatory compliance:3
+corporate finance:3
+financial planning:3
+next:3
+adp payroll:3
 general ledger accounts:3
-human resource:3
-powerpoint:3
+business process re engineering:3
+cash flow analysis:3
+exchange:3
+automobiles:3
+focus:3
+small business development:3
 budget preparation:3
+contract negotiations:3
+quality control:3
 rapport:3
-billings:3
+public relations:3
+program management:3
+general manager:3
+cash handling:3
+spreadsheet:3
+conferences:3
+cost reduction:3
+financial analyst:3
+vista:3
+reconciliation:3
+compensation:3
 quickbooks pro:3
-arabic:3
-basic:3
-book:3
-inventory control:3
-ledger:3
-as:3
-great plains:3
+home office:3
 mas:3
 sas:3
-written:3
-statistics:3
+supply chain:3
+audits:3
 debit:3
-accounts receivables:3
-financial audits:3
-problem solving:3
+prepare financial statements:3
+selling:3
+unique:3
+safety:3
+staff development:3
+transportation:3
+travel arrangements:3
+performance reviews:3
+researching:3
+cash:3
 operations:3
-ms outlook:3
+adjustments:3
+maintenance:3
+costing:3
 iso:3
 business planning:3
-letters:3
-financial analysis:3
-financial operations:3
-telephone:3
-ar:3
-certified public accountant:3
+cost control:3
+sage:3
+client relations:3
+merchandising:3
+employee relations:3
+project planning:3
+read:3
+treasury management:3
+websites:3
 gaap:3
+strong interpersonal skills:2
+contract negotiation:2
+go live:2
+edge:2
+hris:2
+management skills:2
+risk assessment:2
+ms office suite:2
+interpersonal skills:2
+leadership skills:2
 clientele:2
-features:2
+litigation:2
 marketing strategies:2
-market:2
 settlements:2
 underwriter:2
-charts:2
-data analysis:2
-executive management:2
-external audits:2
-enterprise:2
-optimization:2
-pivot tables:2
-ms access:2
-ms powerpoint:2
-proposal:2
+ms project:2
+product management:2
 quicken:2
-accruals:2
-approach:2
-trial balance:2
-communication skills:2
-competitive:2
-lotus notes:2
 analysis of financial statements:2
-bonds:2
-mis:2
-securities:2
+office manager:2
+epicor:2
+fluent in spanish:2
+microsoft outlook:2
+assembly:2
+performance management:2
+financial statement preparation:2
+preparation of financial statements:2
+fsa:2
+investment management:2
+taxation:2
+us gaap principles:2
+international business:2
+mergers:2
+performance analysis:2
+tax compliance:2
 accounting systems:2
-adp payroll:2
-balance sheets:2
-payroll processing:2
-internal audit:2
-operating system:2
-automobiles:2
-focus:2
+mergers and acquisitions:2
+excellent communication:2
+computerized accounting:2
+sun:2
+book keeping:2
+financial and accounting:2
+multitasking:2
+office automation:2
+printer:2
+switches:2
+wise:2
 graphs:2
-self motivated:2
-contract negotiations:2
-annual reports:2
+employee training:2
+client account management:2
 automotive:2
+accounts payable receivable:2
 financial statement analysis:2
 citrix:2
-a p:2
-coaching:2
-hardware:2
 engineer:2
 money:2
-program management:2
+internal audits:2
+telecommunications:2
+trend:2
 creative writing:2
-financial audit:2
-exchange:2
-phone:2
+draw:2
+repairs:2
+sales reports:2
+telephones:2
+data collection:2
+mba:2
+spanish:2
 state tax:2
-compensation:2
-streamline:2
-cash handling:2
-designing:2
+posting:2
 hindi:2
-oracle financials:2
+sales analysis:2
 urdu:2
-home office:2
-supply chain:2
-bi:2
 hospice:2
 analysis:2
-investments:2
 forecasts:2
+sarbanes oxley sox:2
+sox:2
+testing:2
 daily sales:2
 sales and:2
-mentor:2
-audits:2
-prepare financial statements:2
+budget planning:2
 microsoft project:2
-office equipment:2
 tax preparation:2
 consultant:2
-counseling:2
-selling:2
-unique:2
-com:2
+budget development:2
+corporate accounting:2
+peach tree:2
 dependable:2
 filling:2
+fixed asset register:2
 office administration:2
-reconciling:2
 type:2
+brand marketing:2
+mainframe:2
+sharepoint:2
+teamwork:2
+loans:2
+and sales:2
 metrics:2
-cash:2
-essbase:2
-adjustments:2
-maintenance:2
+training:2
 file maintenance:2
 mac:2
 millennium:2
 internet:2
 sabre:2
 oracle r:2
-acquisitions:2
-costing:2
 expense reports:2
 analyze financial information:2
-gl:2
-lawson:2
+office management:2
+art:2
+email:2
 business plans:2
-economics:2
-financial planning and analysis:2
-modeling:2
+teaching:2
 continuous improvement:2
-business analysis:2
+author:2
 call center:2
 computer applications:2
 firing:2
-microsoft powerpoint:2
-website:2
-workflow:2
+rfp:2
 conflict resolution:2
 fast learner:2
 problem solver:2
+financial analysis reporting:2
+filemaker:2
+minitab:2
+wordperfect:2
+d:2
+strategen:2
+accpac:2
+monarch:2
+network:2
+networks:2
+real time:2
 photoshop:2
 customer services:2
+languages:2
+interpretation:2
+pos:2
+quality improvement:2
 invoices:2
-cost analysis:2
+team leadership:2
+interpersonal:2
+premier:2
+decision support:2
+visio:2
+staffing:2
+vision:2
+fiscal budgeting:2
+analyst:2
+notes:2
+information technology:2
+faxing:2
+receiving:2
 sap r:2
-quick:2
+bloomberg:2
+information systems:2
+contract management:2
+project plans:2
+strategic analysis:2
+website development:2
 mail:2
-researching:2
 typing:2
-conferences:2
+financial reporting and analysis:2
+accounting operations:2
+sales tax:2
+staff training:2
 excel spreadsheets:2
-travel arrangements:2
-websites:2
 adobe photoshop:2
+forex:2
+tds:2
 excellent customer service:2
 vendor relations:2
-cost reduction:2
+ms power point:2
+accounts and:2
+journal:2
+reconciliations:2
+retail marketing:2
+audit:2
 management accounting:2
-general manager:2
-mentoring:1
-analytical skills:1
+series:2
+special events:2
+superior time management:1
+excellent communication skills:1
+multilingual in:1
+english and indonesian languange:1
+proficient in:1
+creative thinker:1
+excellent managerial techniques:1
+public and private accounting:1
+income statement certified audits:1
+knowledge of gaap guidelines:1
+forward thinking mindset:1
+strong initiative:1
+resourcefulness:1
+benefits administration:1
+compliance audits:1
+compliance audit:1
+compliance reporting:1
+electronic health records:1
+external auditor:1
+financial reporting requirements:1
+preparation of financial statement:1
+health care industry:1
+home health:1
+internal auditor:1
+public safety:1
+re engineering:1
+social services:1
+surgery:1
 complex problem solving:1
-self motivated professional:1
-ms office suite:1
-interpersonal skills:1
-leadership skills:1
 binder:1
-litigation:1
-networking:1
 police:1
 sigma:1
 technical assistance:1
@@ -356,20 +566,12 @@ processors:1
 system administrator:1
 teradata:1
 vba:1
-business development:1
-business processes:1
 business solutions:1
 financial management and control:1
-kronos:1
-management reporting:1
-ms project:1
-product management:1
 analyze cash flow:1
 interpersonal communication:1
-drivers:1
 analyze financial data:1
 hub:1
-sound:1
 telecommunication:1
 vendor management:1
 microsoft excel intermediate skill level:1
@@ -397,86 +599,133 @@ verifying coding applied to vouchers by other offices within the company:1
 entering bills and paying them:1
 full charge bookkeeping:1
 trial balance account reconciliations:1
-office manager:1
 real estate contracts:1
 escrow:1
 erp implemenations:1
 nvision:1
 oracle i:1
 essbase tools:1
-epicor:1
 assurenet blackline:1
 intercompany accounting:1
 balance sheet consolidations:1
 purchase accounting:1
+excellent attention to details:1
+excellent driving skills:1
+excellent skills in microsoft outlook:1
+excel and powerpoint:1
+first aid:1
+painting:1
 budget management:1
 derivatives:1
 fixed income:1
-foreign exchange:1
 frame:1
 outlook express:1
 migration:1
+team training and development:1
+highly analytical:1
+budgeting and forecasting expertise:1
+accounting and finance lead:1
+human resource management:1
+inventory levels:1
+medical billing:1
+sales reporting:1
+strategic financial planning:1
+risk management performance analysis:1
+forecasting and analysis:1
+external audit actuarial work finalization:1
+accounting auditing:1
+corporate operational finance:1
+mergers acquisition:1
+financial reporting and executive presentation:1
+financial modeling capability:1
+ifrs proficiency:1
+expert in gaap and statutory reporting:1
+auditing proficiency:1
+erp enterprise resource planning software:1
+internal control management:1
+client management:1
+clients i:1
+page:1
 budget control administration:1
 financial statement reporting and analysis:1
 data compilation:1
 journal entries:1
 taxes return analysis puerto rico and us:1
 ad hoc reporting:1
-accounting system:1
-consulting:1
 financial analysis and reports:1
 pr:1
 profit and loss statements:1
 bilingual spanish:1
-tax compliance:1
 tax return preparation:1
 general accounting acquisitions:1
 cost analysis and analytical reporting:1
 facilities management:1
 governmental accounting:1
 quickbooks workamajig ms office suite indesign photoshop concrete cms google analytics googledocs intervals seo sem social media digital and film photography proficient in both mac and pc environments:1
-excellent communication:1
+corporate consolidations:1
+complex change management:1
+system integration:1
+strategic and operational planning:1
+p l management:1
+communications:1
+finance operations:1
+p p:1
+o c:1
+compensation services:1
+acquisition integration:1
+change management:1
+process re engineering:1
 people management:1
 quick learner:1
 siemens:1
+accountancy:1
+computer training:1
+dbase:1
+ids:1
+informix gl:1
+lotus:1
+msdos:1
+unix:1
+wordstar:1
 prepaid expenses:1
 marketing and sales:1
+cash flow statement:1
+fax:1
+financial report:1
+ink:1
+lighting:1
+windows operating system:1
+copier:1
+excellent presentation skills:1
+press:1
+transformers:1
+uv:1
 sales and management:1
-employee training:1
-leadership communication skills:1
-product development:1
-budgeting expertise:1
-small business development:1
-client account management:1
-customer oriented:1
 commercial lending:1
 department of health:1
 financial controls:1
 financial operation:1
 mental health:1
 p c:1
-quality control:1
 tax planning:1
 relationship building:1
 career minded personality with expertise in sales and management strong communication and customer service skills experience in creating a positive sale environment finance director experience:1
 strong attention to detail and follow up skills administrative duties:1
 preparing contracts:1
-accounts payable receivable:1
 e commerce:1
 windows applications:1
-public relations:1
 web site development:1
 web marketing:1
 strong communication:1
 interpersonal and organizational skills:1
 computer skills in the following areas microsoft access:1
-microsoft outlook:1
 onyx:1
 computer literate:1
-conversion:1
-financial statement preparation:1
-preparation of financial statements:1
 software design:1
+develop financial models:1
+sox testing:1
+tableau:1
+utilities:1
 public speaking:1
 social media savvy:1
 event planning:1
@@ -485,8 +734,22 @@ prepare the company s financial statements:1
 php:1
 inspection:1
 maintaining files:1
-posting:1
-reconciliation:1
+cash deposits:1
+legal documents:1
+logging:1
+nsf:1
+processing payments:1
+reading:1
+capital expenditures:1
+cognos:1
+economic analysis:1
+financial forecasts:1
+latin:1
+mfg:1
+win:1
+recruiting:1
+supply chain management:1
+vaccine:1
 account receivable:1
 billing audit:1
 disability:1
@@ -499,36 +762,30 @@ fund ez:1
 paychex:1
 medical invoicing:1
 micro strategy iwr:1
-book keeping:1
-corporate finance:1
 directing:1
-financial and accounting:1
 olap:1
 requirement:1
-sales analysis:1
 statutory accounts:1
-strategic plans:1
 negotiator:1
 osi:1
 prime:1
 proposal preparation:1
-go live:1
+microsoft office software excel:1
+powerpoint and access experience with accounting and financial reporting systems including oracle:1
+jd edwards and hyperion:1
+automate:1
+fireworks:1
+microsoft office software:1
 ba:1
 business process:1
 sbt:1
-trend:1
 inspecting:1
 bathing:1
 patient care:1
-budget analysis:1
 interest payable savings:1
 schedules:1
 management:1
 prophix software administrator:1
-financial analyst:1
-sarbanes oxley sox:1
-sox:1
-testing:1
 therapeutic:1
 accounts with:1
 of sales:1
@@ -539,36 +796,50 @@ daily accounting:1
 reconcilements:1
 subject matter expert:1
 tableau software:1
+technician:1
 automation:1
-managerial:1
 revenue recognition:1
-accounts payables:1
 administrative duties:1
-backup:1
-budget planning:1
 double entry:1
-edge:1
 fast:1
 needs analysis:1
 floor plan:1
 forth:1
 gmc:1
-law:1
 sales training:1
 phone skills:1
 work shops:1
+extensive knowledlge of real estate programs:1
+management experience:1
+extensive customer service and problem solving experience:1
+proficient in quick books:1
+act:1
+and microsoft outlook microsoft office:1
+newsletter:1
+office machines:1
+presentation development:1
+word processing:1
+develops financial models:1
+prepares financial statement:1
+government reports:1
+prepare invoices:1
+microsoft dynamics:1
+monitors:1
+managing cash flow:1
 articulate:1
 caseware:1
 creditor:1
-fixed asset register:1
 process management:1
 shared service:1
 take messages:1
-telephones:1
 vat returns:1
-loans:1
+baan:1
+data management and analysis:1
+access database:1
+month end close process:1
+siebel:1
+simulation:1
 mortgage:1
-and sales:1
 annuities:1
 life insurance:1
 process improvements:1
@@ -576,14 +847,12 @@ sales compensation:1
 cash balances:1
 integration:1
 integrator:1
-training:1
 trust operations:1
 process controls:1
 residential mortgage:1
 securitization:1
 cash forecasting:1
 employee benefits:1
-mba:1
 excellent people and self management techniques:1
 excellent client or business partner relations:1
 excellent written and oral communication abilities:1
@@ -599,41 +868,32 @@ excel knowledge of financial management and human resource:1
 sox compliant procedures and iso:1
 oral communication:1
 ghost:1
-hris:1
 month end closing:1
-office management:1
 problem solving skills:1
-san:1
 sox compliance:1
 excellent written:1
+making appointments:1
+sales manager:1
 business warehouse:1
 business planning and consolidation:1
 crystal reporting:1
 content:1
-draw:1
 crystal:1
 electronic data interchange:1
 financial forecasting:1
-teaching:1
-valuation:1
 microsoft office suite various crm systems omni salesforce quickbooks slack:1
-crm:1
 process analysis:1
-author:1
 budgeting and planning:1
-business process re engineering:1
 cost reduction analysis:1
 finance reporting:1
 inventory reconciliations:1
 manufacturing costing analysis:1
 system conversions implementations:1
-six sigma:1
 trend analysis:1
 air force:1
 commercial loans:1
 loan documentation:1
 performance appraisals:1
-rfp:1
 monthly:1
 quarterly billing:1
 flow charts:1
@@ -642,6 +902,43 @@ legal research:1
 very efficient minded:1
 very adaptable:1
 team oriented:1
+contractual procedures:1
+quality control stock:1
+control:1
+preparation of tender documents:1
+organize workshops:1
+seminars and trainings:1
+strategic financial planning operations management:1
+data development:1
+functional integration:1
+budget creation:1
+tool system development:1
+team building management:1
+system integrations:1
+mergers acquisitions:1
+turnarounds restructurings:1
+international hyperion essbase hyperion enterprise:1
+hyperion retrieve:1
+storm:1
+fas:1
+boss:1
+daly wolcott:1
+great plain dynamics:1
+macpac:1
+oneglobe:1
+magnitude:1
+tms:1
+nsimms:1
+razorsight:1
+billing system:1
+billing systems:1
+contract review:1
+data warehouse:1
+excel and vba:1
+process design:1
+improve product:1
+producing:1
+tax laws:1
 autocad:1
 dialog:1
 estimating:1
@@ -649,16 +946,26 @@ gross profit:1
 http:1
 instructing:1
 international sales:1
-languages:1
-team building:1
 mac os:1
 operating systems:1
 pdf:1
 plan development:1
-presenting:1
-safety:1
-supervising:1
 workshops:1
+administrative support:1
+bsc:1
+consultation:1
+italian:1
+director ms office:1
+prince:1
+translating:1
+translation:1
+help desk:1
+hubs:1
+printers:1
+retail sales:1
+routers:1
+servers:1
+user support:1
 extensive customer service:1
 ability to manage work flow of office:1
 microsoft office proficient:1
@@ -670,6 +977,27 @@ meeting planning:1
 create power point presentations for executives:1
 effective communicator:1
 self starter:1
+budgeting expertise capital and operating:1
+negotiations expert:1
+excellent time management:1
+organization and multi tasking skills:1
+take charge individual:1
+no one s fault attitude we are one team:1
+technology:1
+microsoft office suite proficient:1
+blackbaud financial software s:1
+powerplan budget forecasting solutions:1
+datatel financial solutions:1
+media services group magazine software:1
+business plan:1
+concise:1
+messaging:1
+process engineering:1
+underwriting:1
+workbench:1
+cancer:1
+personnel management:1
+primary care:1
 accounting financial audit:1
 quickbook:1
 finance budgeting forecasting:1
@@ -679,91 +1007,156 @@ financial control:1
 technical presentations:1
 people skills customer service oriented:1
 result oriented and goal driven:1
-attention to detail:1
 flexible:1
 initiative:1
 dedicated:1
 honest:1
 passionate:1
 multi task:1
-budget development:1
-cash flow analysis:1
+exceptional interpersonal communication:1
+effective leader:1
+customer service oriented:1
+human resources management:1
+ca:1
+investor relations:1
+quantitative analysis:1
+swaps:1
+technical support:1
+venture capital:1
+product line expansion:1
+business strategy:1
+written verbal:1
+office administration phones:1
+spreadsheet development management:1
+analytical problem solving:1
+organizational and follow up skills:1
+multi tasking time management:1
+invoice processing oracle ebs:1
+administrative skills:1
+account management:1
+accounting i:1
+copying:1
+french i:1
+sorting mail:1
+microsoft office products:1
+order entry:1
+publications:1
+purchase requisitions:1
+routing:1
+secretarial:1
+arranging travel:1
 cash flow projections:1
 internal auditing:1
 invoice processing:1
 staff management development:1
-bloomberg:1
 ecommerce:1
-financial planning:1
-information systems:1
 iq:1
 publication:1
-real estate:1
-contract management:1
 forecasting and financial:1
-performance reviews:1
-project planning:1
-project plans:1
-strategic analysis:1
-website development:1
 photo:1
 atm:1
-critical thinking:1
 detail oriented:1
 qa:1
 supervisory:1
+budgeting forecasting:1
+expense control:1
+p l balance sheet management:1
+cost reductions:1
+matrix management:1
+sap oracle:1
+mfg pro:1
+khalix:1
+trahq:1
+finance transformation:1
+finance and it strategy:1
+team and resource cultivation:1
+individual tax returns:1
+federal state tax preparation:1
+peoplesoft and essbase:1
+local area network:1
+back office:1
 cost management:1
 financial reporting analytics:1
 investments and return on investment roi:1
 npv:1
 and eva:1
 sox tax footnotes:1
-receiving:1
+key by touch:1
+cisco:1
+customer care:1
+internet explorer:1
+window:1
+people soft:1
+vantive:1
 balance sheet risk management:1
-treasury management:1
 technical us gaap accounting proficient:1
 board communications:1
 multi disciplinary team lead:1
+maintain update general ledger:1
+process improvement finance controls implementation:1
+sarbannes oxley compliance:1
+gl account reconciliations:1
+sales commission analysis:1
+sales d a analysis:1
+inventory reconciliation:1
+payroll management:1
+staff training management:1
+fixed asset management:1
+state reporting incl sales tax filings:1
+asset keeper:1
+discovery payroll:1
+adp etime:1
+msoffice:1
+general ledger reconciliations:1
+payroll and pr reconciliations:1
+asset mgmt:1
+inventory reconcilations:1
+journal entry maintenance:1
+adp payroll system:1
+asset management:1
+trade finance operations:1
+branch banking:1
+client relations customer satisfaction:1
+customer service credit and collections marketing global trade services computer proficient:1
 customer support:1
 dictation:1
 faxes:1
-notes:1
 receptionist:1
-transportation:1
 upgrades:1
 web applications:1
+cisa:1
+itil v:1
 audit reports:1
-decision support:1
-internal audits:1
 monthly financial close:1
-staffing:1
+accurate:1
+dtcc:1
+pace:1
+asset arena:1
+eledger sap:1
+fiscal budgeting knowledge and financial reporting:1
 dari:1
 persian:1
 pashto:1
 russian:1
 operating systems ms dos:1
 xp:1
-vista:1
 office suite ms word:1
 ms publisher:1
 ms frontpage networking linksys routers wirelessbroadband:1
 web designing html dhtml frontpage:1
+budgeting and forecasting:1
+balance sheet analysis:1
+excel powerpoint:1
 computer knowledge:1
-forex:1
-management skills:1
-tds:1
 administrative functions:1
 adobe illustrator:1
-art:1
 bookkeeper:1
-brochures:1
 brochure:1
 business cards:1
 business correspondence:1
 desktop publishing:1
 edit:1
 filemaker pro:1
-fsa:1
 grant writing:1
 graphic design:1
 instruction:1
@@ -773,15 +1166,18 @@ myob:1
 paralegal:1
 quarkxpress:1
 shipping:1
-spreadsheet:1
 make travel arrangements:1
 hyperion planing:1
 sap bpc:1
-sharepoint:1
-accounts and:1
+erp packages sap ecc:1
+tally erp:1
+operating system windows nt xp:1
+office tools ms word:1
+office xp:1
+nt:1
+express:1
 internal controls:1
 of accounts:1
-sales tax:1
 accounting analysis:1
 concrete:1
 cost tracking:1
@@ -790,59 +1186,64 @@ employee resource group:1
 enterprise resource planning:1
 exploration:1
 invoice:1
-journal:1
 liaison:1
 manage accounts:1
 petroleum:1
 receivables:1
-reconciliations:1
-taxation:1
-brand marketing:1
 closings:1
 consumer products:1
 generate sales:1
-premier:1
 prepared sales:1
-retail marketing:1
-sales reports:1
 trading:1
 ad hoc analysis:1
 air conditioning:1
-audit:1
 compressors:1
 hvac:1
 manufacturing process:1
 material flow:1
 million:1
-accounting operations:1
 cma:1
-cost control:1
 cost controls:1
 governance:1
-mainframe:1
 system development:1
 team management:1
 warehouse management:1
 warehouse management system:1
 accounting and finance:1
-faxing:1
-next:1
 scanning:1
 switchboard:1
-teamwork:1
 team work:1
-analyst:1
 media placement:1
 profit and loss:1
 arts:1
 e mail:1
-email:1
-employee relations:1
-publisher:1
-real time:1
-recruitment:1
-spanish:1
 employee development:1
+skills office software ms word:1
+access systems solar:1
+pc links general ledger:1
+fci:1
+fc links:1
+fec:1
+core:1
+sam:1
+national sales:1
+account executive:1
+executive compensation:1
+sales revenue:1
+arrangements:1
+sales assistant:1
+account for:1
+front end:1
+security:1
+accounts for:1
+mapping:1
+payments:1
+payroll accounting:1
+systems support:1
+tax accounting:1
+topo:1
+web based:1
+deferred compensation:1
 project reporting:1
 accounts payables receivables:1
 exchange rate control:1
@@ -856,11 +1257,8 @@ account reconciling:1
 ifrs:1
 forecast vs actuals for weekly and monthwise:1
 computer applications clients:1
-office automation:1
-peach tree:1
 programmer:1
 programming:1
-read:1
 scheme:1
 standard and actual costing:1
 six sigma trained:1
@@ -873,9 +1271,22 @@ excellent interpersonal and communication skills:1
 aia:1
 clarify:1
 data base:1
-sage:1
 structured:1
 timberline:1
+organizational development:1
+business development and expansion in domestic and international markets:1
+global business expertise:1
+financial and strategic planning and execution:1
+contracts management:1
+staff development and management:1
+multimillion dollar p l management:1
+budget and forecasting development and management:1
+policy and process development and implementation:1
+performance management project accounting:1
+maintain service relationships:1
+microsoft dynamics gp:1
+salesforce:1
+projector psa:1
 proficient in microsoft office suite applications windows word excel powerpoint outlook:1
 ms office cloud experience drive:1
 reporting excel based forecasting:1
@@ -892,8 +1303,7 @@ extremely resourceful there s always a solution to a given situation:1
 desktop publishing software photoshop:1
 wordpress:1
 html:1
-special events:1
 microsoft windows:1
 packaging:1
 production manager:1
-quality improvement:1
+troubleshoot:1

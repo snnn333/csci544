@@ -1,251 +1,462 @@
-safety:16
-project management:16
-quality:14
-scheduling:14
-budget:13
-procurement:13
-contracts:12
-office:12
-excel:11
-materials:11
-sales:10
-outlook:9
-personnel:9
-progress:9
-policies:9
-customer service:8
-managing:8
-supervision:8
-budgeting:8
-word:8
-clients:7
-client:7
-budgets:7
-marketing:7
-quality control:7
-leadership:7
-access:7
-hvac:6
-inventory:6
+safety:26
+project management:26
+materials:25
+excel:21
+quality:21
+scheduling:20
+budget:19
+office:18
+procurement:18
+word:17
+progress:16
+contracts:15
+autocad:14
+inspection:14
+customer service:14
+outlook:14
+personnel:14
+powerpoint:13
+sales:12
+client:11
+managing:11
+budgets:11
+marketing:11
+microsoft project:11
+supervision:11
+meetings:11
+budgeting:11
+supervisor:11
+policies:11
+microsoft word:10
+clients:10
+inventory:10
+reporting:10
+estimating:10
+quality control:10
+documentation:10
+engineer:10
+leadership:9
+delivery:9
+hvac:8
+windows:8
+painting:8
+construction management:8
+first aid:8
+proposals:8
+government:8
+access:8
+c:7
+time management:7
+microsoft excel:7
+commercial construction:7
+cost control:7
+microsoft office:7
+proposal:7
+purchasing:7
+plumbing:6
+networking:6
+contract negotiations:6
 hiring:6
-supervisor:6
-inspection:6
-government:6
-meetings:6
+network:6
+new construction:6
+decision making:6
+qa:6
+cpr:6
+pricing:6
+building codes:6
+quickbooks:6
+research:6
+materials handling:6
+data entry:5
+insurance:5
+billing:5
 forklift:5
+power tools:5
+repairs:5
+works:5
 auto cad:5
-contract negotiations:5
-networking:5
-reporting:5
-delivery:5
-estimating:5
-microsoft project:5
-network:5
-construction management:5
+legal:5
+retail:5
+construction manager:5
+primavera:5
+problem solving:5
+project planning:5
+presentations:5
+processes:5
+project scheduling:5
+english:5
+organizational skills:5
+administrative:5
 finance:5
-research:5
-autocad:5
-proposals:5
-engineer:5
-purchasing:5
-building codes:5
+closing:5
+financial:5
+negotiation:5
+conflict resolution:5
+detail oriented:5
+renovation:5
 design and construction:5
+technical support:5
+customer satisfaction:5
 direction:5
-first aid:5
-powerpoint:5
-billing:4
+power point:5
+transportation:5
+renovations:5
+supervising:5
+payroll:4
+basic:4
 excellent customer service:4
+inspect:4
+reading:4
+read:4
 inventory management:4
+framing:4
+mac:4
 human resources:4
-legal:4
-microsoft word:4
-new construction:4
-retail:4
-cost control:4
-painting:4
-english:4
-administrative:4
-documentation:4
-closing:4
-pricing:4
-conflict resolution:4
-detail oriented:4
-cpr:4
-renovation:4
-repairs:4
-technical support:4
-customer satisfaction:4
+ms office:4
+debris removal:4
+team oriented and dependable:4
+blueprints and schematics:4
+preventive and reparative maintenance:4
+safety and compliance:4
+strong team player:4
+contract administration:4
+drafting:4
+filing:4
+forms:4
+operations management:4
+transmission:4
+agency:4
+functional:4
+blueprints:4
+civil engineering:4
+team leadership:4
+spanish:4
+welding:4
+credit:4
+strategic planning:4
+accounting:4
+financial reporting:4
+bridges:4
+customer relations:4
+team player:4
+timberline:4
+employee relations:4
+operations:4
+project development:4
+value engineering:4
+oral and written communication:4
 microsoft office suite:4
-supervising:4
-presentations:4
-primavera:4
+team building:4
+adobe photoshop:3
+organizing:3
 multi tasking:3
-reading:3
-read:3
+shipping:3
+paint:3
+frame:3
+machinery:3
+problem solving skills:3
+microsoft powerpoint:3
+content:3
 cpr certified:3
-windows:3
+layout:3
+materials management:3
 quick:3
-microsoft excel:3
 real estate:3
-ms office:3
+relationship building:3
 troubleshooting:3
-blueprints:3
-decision making:3
+forklift operation:3
+good communication skills:3
+contract management:3
+quality assurance:3
+surveys:3
+coaching:3
+inventory control:3
+invoicing:3
+osha certified:3
+excellent customer relations:3
+subcontractor management:3
+knowledgeable in construction safety:3
+strong interpersonal skills:3
+negotiations:3
 leadership skills:3
-spanish:3
-accounting:3
-financial reporting:3
-problem solving:3
-quickbooks:3
-filing:3
-team player:3
+regulatory compliance:3
+quality management:3
+project design:3
+carpentry:3
+dc:3
+accounts receivable:3
+banking:3
+general ledger:3
+heavy lifting:3
+nursing:3
+telephone:3
+accounts payable:3
+streamline:3
+sap:3
+staffing:3
+visio:3
+self motivated:3
 million:3
-operations:3
+security:3
 award:3
-project development:3
+energy management:3
+new business development:3
+due diligence:3
 equipment maintenance:3
 problem resolution:3
 account management:3
-financial:3
-qa:3
+budget planning:3
 budget management:3
 bi:3
-plumbing:3
-proposal:3
-timberline:3
+utilities:3
+san:3
+water treatment:3
+cost analysis:3
+oil:3
+shell:3
+multi task management:3
+database:3
 logistics:3
-functional:3
-processes:3
-forms:3
 strategy:3
-team building:3
-renovations:3
+project plans:3
 risk management:3
-agency:3
-transportation:3
+inspector:3
+schedule management:3
 weld:3
-basic:2
-inspect:2
+project planning and development:3
+p:3
+illustrator:2
+interior design:2
+revit:2
 team lead:2
-power tools:2
-shipping:2
+soldering:2
+roofing:2
 strong communication skills:2
+typing:2
+teaching:2
+assembly:2
 financial planning:2
-layout:2
+forecasting:2
 law:2
 director:2
-materials management:2
-payroll:2
 programming:2
-c:2
+supply inventory:2
 negotiating contracts:2
-relationship building:2
 unique:2
 multitasking:2
+protective gear:2
+scaffold erection:2
+measurement and calculation accuracy:2
+lifting pounds:2
+construction knowledge:2
 mechanical:2
 civil:2
 instrumentation:2
+subcontractor supervision:2
+construction materials knowledge:2
+blueprint interpretation:2
+good multi task:2
+supervisory experience:2
+works well independently:2
+commercial site supervision:2
+prolog experience:2
+construction scheduling experienced in p:2
+sure track:2
+project management skills:2
+power and hand tools:2
+computer proficient:2
+billings:2
+interpersonal communication:2
+senior management:2
+report writing:2
+strategic:2
+technician:2
+variance analysis:2
+cables:2
+cable:2
+continuous improvement:2
+radio:2
+telecommunications:2
+best building practices:2
+interior and exterior renovation:2
+scaffolding:2
+fall protection plan fpp:2
+design experience:2
+building systems and services:2
+designed and built custom homes:2
 arabic:2
 change management:2
+interpersonal skills:2
 contract negotiation:2
-regulatory compliance:2
-problem solving skills:2
-quality management:2
 organized:2
+strong work ethic:2
 dependable:2
-carpentry:2
-banking:2
-credit:2
+microsoft office word:2
+photoshop:2
+compliance management:2
+masonry:2
+matlab:2
+mail:2
+goal setting:2
+general ledger accounts:2
+general ledger accounting:2
 managerial:2
 tax:2
+safe equipment operation:2
+warehouse operations knowledge:2
+stocking and replenishing:2
+product restocking:2
+store merchandising:2
+merchandise stocking:2
+shelving of products:2
+inventory planning:2
+warehouse safety:2
+driving:2
+legal documents:2
+police:2
+receiving:2
+record keeping:2
+honest:2
 a:2
 coach:2
-customer relations:2
 equipment operator:2
 fast:2
-nursing:2
-organizing:2
 pos:2
-drafting:2
+account reconciliations:2
+adobe:2
+auditing:2
+draw:2
+costing:2
+graphics:2
+imaging:2
+lighting:2
+presenting:2
+sage:2
+selling:2
+logging:2
 proofing:2
+case management:2
+litigation:2
+paralegal:2
+business operations organization:2
+customer oriented:2
+problem solver:2
+great organizational skills:2
 sales and:2
 energy conservation:2
 technical assistance:2
 maintenance:2
+scada:2
 fire protection:2
-security:2
-energy management:2
+sql:2
+budget finances:2
+personnel acquisition training:2
+team management:2
+site management:2
+business writing:2
+adp:2
 asset management:2
-due diligence:2
-staffing:2
-project design:2
 hand tool operations:2
 standard operating procedures understanding:2
 basic welding skills:2
 forklift driving:2
-materials handling:2
-organizational skills:2
 maintenance repair:2
 staff training:2
+contract coordination:2
+osha safety requirements:2
 business development:2
 business operations:2
 competitive:2
-contract administration:2
-strategic planning:2
+process improvement:2
+type:2
 workflow:2
 ada:2
 art:2
 electrical systems:2
+rfi:2
 blueprint:2
 budget analysis:2
+budget development:2
 market:2
 ms excel:2
 ms word:2
-utilities:2
+repairing:2
 army:2
 cad:2
-insurance:2
 equipment repair:2
-framing:2
+staff development:2
+fast learner:2
 consulting:2
 enterprise:2
 osha:2
-multi task management:2
+natural gas:2
+specification:2
+reconciling:2
 strategic sourcing:2
-cost analysis:2
 osha hour:2
 training:2
-inventory control:2
-database:2
 backup:2
 hardware:2
-mac:2
+charts:2
 site assessments:2
-data entry:2
-time management:2
-microsoft office:2
+personnel management:2
+public relations:2
 cash flow:2
-construction manager:2
-project plans:2
+letters:2
 paradox:2
-inspector:2
+interpretation:2
 written:2
-bridges:2
+self starter:2
+hospital acquisition due diligence:2
+excellent communication skills:2
+construction estimating management:2
+procore project management:2
+primavera project scheduling p:2
+field operations inspections:2
+troubleshooting problem solver:2
+quality control inspection:2
+team building leadership:2
+project coordination development:2
+osha regulation project safety:2
+cost profit analysis:2
+project supervision:2
 ms project:2
-welding:2
-dc:2
+mentor:2
+cabinetry:2
+material prepping:2
+construction drawing interpretation:2
+carpentry techniques:2
+new construction and renovation:2
+drywalling:2
+scheduling of meetings:2
+client interfacing:2
+residential construction:2
+effective communication:2
+team oversight:2
+project estimation and bidding:2
+good multitasker:2
+knowledgeable in excel:2
+cmic:2
+procore:2
+bluebeam:2
+navigate through revit:2
+navisworks:2
+advanced problem solving:2
 welder:2
-power point:2
+administrative duties:1
+color:1
+digital illustration:1
+researching:1
 benefits:1
 hammer:1
 pallet jack:1
 cameras:1
 schematics:1
-soldering:1
 tape measure:1
 answer phones:1
 phone:1
 tv:1
+window:1
 customer relations customer service:1
 driving hand truck pallet jack:1
 hiring recruiting:1
@@ -255,14 +466,36 @@ supply chain management time management:1
 merchandising organizing packaging:1
 presenting promotional materials:1
 reporting safety scanning spreadsheets:1
+microsoft:1
+apple:1
+computer:1
+formatting:1
+learning:1
+client negotiations:1
+paint shop:1
+web development:1
+html:1
+xhtml:1
+css:1
+xml:1
+scripting languages:1
+javascript:1
+asp net:1
+actionscript:1
+php:1
+programming languages:1
+visual basic:1
+java:1
+applications:1
+adobe flash:1
+adobe dreamweaver:1
+microsfot visual studio:1
+eclipse:1
 accruals:1
 adobe suite:1
-adobe photoshop:1
-content:1
 copying:1
 fax:1
 faxing:1
-forecasting:1
 invoice preparation:1
 kronos:1
 mail sorting:1
@@ -272,7 +505,6 @@ microsoft certified:1
 microsoft office xp:1
 people soft:1
 printers:1
-supply inventory:1
 tops:1
 group leader:1
 able to read blueprints:1
@@ -300,7 +532,32 @@ facilities:1
 i have a strong understanding of safety requirements:1
 the one thing and most important i have the ability to understand how important it is to keep a strong relations ship with the owner and the engineers of the project:1
 thank you foryour consideration i look forward from hearing from you:1
-interpersonal skills:1
+features:1
+logic:1
+micro station:1
+network analysis:1
+next:1
+material procurement:1
+swift:1
+acquisitions:1
+budget preparation:1
+win:1
+monitors:1
+program development:1
+system design:1
+telephony:1
+upgrade:1
+commercial construction expert:1
+state certified erosion and sedimentation control inspector:1
+considered a subject matter expert in all construction trades:1
+held state certifications in concrete field:1
+asphalt field:1
+soils and aggregate:1
+state certified as an erosion and sedimentation control inspector:1
+held and recertified in field concrete testing:1
+soils and aggregate compaction nuclear gauge safety and hot mix asphalt field:1
+panned:1
+subject matter expert in all construction trades:1
 forklifts:1
 hindi:1
 protocols:1
@@ -309,18 +566,47 @@ energetic work attitude:1
 following directions:1
 able to lift lbs:1
 responsible:1
-strong work ethic:1
 reliable:1
+publisher microsoft visio adobe photo deluxe photoshop microsoft project autocad windows linux mac osx matlab simulink xilinx ise v cadence orcad proteus cadence allegro pcb design tool mdk arm atmel studio codevision solidworks:1
+adobe photo deluxe:1
+analytical skills:1
+cadence:1
+computer literate:1
+concise:1
+customer relationship management:1
+engineer in training:1
+eit:1
+engineering design:1
+environmental engineering:1
+equipment installation:1
+french:1
+hydraulics:1
+linux:1
+publisher:1
+microsoft visio:1
+orcad:1
+solidworks:1
 academic:1
 presentation skills:1
-accounts receivable:1
+claims processing:1
+healthcare operations:1
+process improvements:1
+monitoring tools:1
+organizational standards:1
+verbal and written communication:1
+interdepartmental collaboration:1
+multitasking ability:1
 adobe software:1
 ar:1
-general ledger:1
-general ledger accounts:1
-general ledger accounting:1
 quickbooks pro:1
 tax returns:1
+approach:1
+home healthcare:1
+notes:1
+radar:1
+navigation:1
+on foot:1
+warrants:1
 in depth knowledge of residential construction materials:1
 methods:1
 and systems:1
@@ -333,7 +619,6 @@ and time and resource management:1
 proficient in ms office:1
 and planswift e:1
 stimating software:1
-honest:1
 hardworking:1
 confident:1
 and patient individual:1
@@ -357,11 +642,45 @@ excel most other office programs:1
 understanding construction plans:1
 managing change orders:1
 detailed knowledge of florida building codes:1
-cables:1
+adobe acrobat:1
+cash receipts:1
+controller:1
+expense reports:1
+graphic:1
+hyperion:1
+illustration:1
+imageready:1
+inspecting:1
+macros:1
+page layout:1
+pdm:1
+pivot tables:1
+website:1
+bilingual and biliterate in spanish:1
+proficient technical skills in autocad:1
+quality control safety on project work field:1
+able to perform management and communicative orientated tasks under heavy pressure:1
+ability to quickly understand the customers needs and expectations:1
 calibration:1
 laboratory testing:1
-logging:1
-masonry:1
+prepare contracts:1
+home office:1
+windows operating systems:1
+coding:1
+safety codes:1
+supervisory:1
+budgeting expertise:1
+lean implementations:1
+change agent:1
+labor negotiations:1
+ethical:1
+ability to select talent:1
+multi unit operational experience:1
+p l responsibilities:1
+communications:1
+teacher:1
+microsoft office professional:1
+energetic:1
 solutions:1
 commercial buildings:1
 ecms:1
@@ -373,9 +692,7 @@ long term disability:1
 ltd:1
 collection:1
 project engineer:1
-project planning:1
 real time:1
-scada:1
 testing:1
 estimation:1
 estimator:1
@@ -389,13 +706,18 @@ siemens:1
 csr:1
 roi:1
 selling of:1
-sql:1
 building inspector icc ibc and icc irc:1
 navfac army corps engineering contractor quality management cqm:1
 electrical safety high voltage low voltage:1
 overhead cranes jib hoist inspection:1
 nfpa e electrical safety:1
 grounding and bonding electrical systems:1
+buildium:1
+appfolio:1
+yardi:1
+realpage:1
+workforce:1
+salesforce:1
 computer literate in ms office:1
 word excel powerpoint:1
 crisis management:1
@@ -407,7 +729,6 @@ real estate valuation:1
 safety behaviors expertise:1
 collaboration:1
 work ethic:1
-good communication skills:1
 decision making ability:1
 commercial awareness:1
 ability to motivate other:1
@@ -434,22 +755,15 @@ analysis:1
 business development and operations:1
 leadership development:1
 management information systems:1
-process improvement:1
 control:1
-roofing:1
 supplier management:1
-type:1
 welds:1
 xrays:1
 air force:1
 office suite:1
-rfi:1
-budget development:1
-interpersonal communication:1
 compliance manager:1
 information technology:1
 improve process:1
-repairing:1
 switch:1
 switchgear:1
 transformers:1
@@ -474,10 +788,19 @@ positive attitude:1
 people skills:1
 flexible:1
 basic math:1
+account reconciliation expert:1
+financial statement analysis:1
+excellent attention to detail:1
+highly dependable:1
+corporate accounting:1
+document management:1
+external audits:1
+financial reports:1
+sarbanes oxley:1
+structured query language:1
 arcview:1
 business management:1
 council:1
-employee relations:1
 international business:1
 natural:1
 statistics:1
@@ -499,9 +822,50 @@ goggle docs:1
 amp:1
 jasper soft:1
 sales and marketing software:1
+automation:1
+ca:1
+ventura:1
+d w p:1
+gis:1
+naval:1
+p c:1
+pearl:1
+prime:1
+process equipment:1
+fluent in spanish:1
+general contracting professional:1
+d:1
+data collection:1
+grants:1
+fluent in:1
+arabic english:1
+directing:1
+risk assessment:1
+great customer service:1
+work well with coworker s:1
+professional and friendly:1
 customer service satisfaction:1
 expense control:1
 soft account budgeting:1
+administrative support:1
+filenet:1
+job costing:1
+oracle:1
+process payroll:1
+make travel arrangements:1
+academically educated:1
+residential builds:1
+residential renovations:1
+commercial builds:1
+commercial renovations:1
+building additions:1
+experienced cost estimator:1
+direct communicator:1
+uniquely bringing a mechanical engineering background alongside a general contractor license allows for a great relationship with clients:1
+architects and engineers due to higher education and experience:1
+consulting naturally plays a valuable skill set some hands on experience over the past years includes energy efficiency:1
+new builds:1
+building add ons all within the scope as a senior manager and owner with leadership experience of jobs ranging from to million:1
 legal experience years administrative law:1
 corporate law:1
 ip:1
@@ -519,7 +883,6 @@ microsoft office suite word:1
 architect:1
 budget development and management:1
 office manager:1
-sage:1
 solomon:1
 active secrete clearance:1
 current licenses:1
@@ -539,6 +902,11 @@ radiation safety officer:1
 radioactive commodity identification transportation:1
 hazmat:1
 and cpr:1
+engineering activities:1
+filling:1
+hr:1
+solid works:1
+technical writer:1
 buying procurement:1
 invoices:1
 health and safety:1
@@ -553,7 +921,6 @@ purchasing agent:1
 accountant:1
 receptionist:1
 retail sales:1
-continuous improvement:1
 forecasts:1
 lean manufacturing:1
 materials manager:1
@@ -561,7 +928,6 @@ materials procurement:1
 buyer:1
 office supplies:1
 construction safety:1
-auditing:1
 industrial hygiene:1
 machine safety:1
 quality auditing:1
@@ -574,17 +940,14 @@ increase:1
 invoice:1
 point of sale:1
 purchase orders:1
-reconciling:1
 apics:1
 industrial engineering:1
 a a s:1
 active directory:1
-adobe:1
 back up:1
 business analysis:1
 cisco:1
 client and server:1
-coaching:1
 databases:1
 documentum:1
 e mail:1
@@ -596,18 +959,13 @@ ms windows:1
 needs analysis:1
 network administration:1
 operating systems:1
-operations management:1
 performance management:1
 property management:1
-selling:1
-san:1
 upgrades:1
 vpn:1
-visio:1
 web server:1
 broadband:1
 check point certified security administrator:1
-charts:1
 computer hardware:1
 computer networks:1
 data communications:1
@@ -622,7 +980,6 @@ networks:1
 settlements:1
 software training:1
 technical training:1
-transmission:1
 web hosting:1
 site safety safety standards:1
 liaison:1
@@ -633,7 +990,6 @@ construction schedules integration:1
 qa qc:1
 emergency response:1
 proactive problem solving:1
-self motivated:1
 excellent written skills:1
 industrial maintenance:1
 accomplished and driven project manager delivering managerial oversight to a construction project or series of construction projects proven track record leading overall direction:1
@@ -648,8 +1004,6 @@ budget and schedule:1
 to establish operational priorities and maintain strong relationships:1
 audio:1
 bookkeeping:1
-budget planning:1
-case management:1
 basic computer skills:1
 computer knowledge:1
 counseling:1
@@ -659,44 +1013,71 @@ instruction:1
 mgmt:1
 mechanic:1
 money:1
-microsoft powerpoint:1
-personnel management:1
-problem solver:1
-public relations:1
 stress management:1
-teaching:1
 team work:1
 trouble shooting:1
 propricer:1
 peoplesoft and deltek costpoint:1
-streamline:1
 blue print reading:1
 equity:1
-senior management:1
-letters:1
 peoplesoft:1
 fluent in english:1
-interpretation:1
 management information system:1
 rendering:1
-specification:1
 verbal communication skills:1
-accounts payable:1
 arts:1
 capital expenditures:1
 special events:1
 facilities management:1
-natural gas:1
-negotiations:1
 plan development:1
-police:1
-telephone:1
-water treatment:1
-lighting:1
+professional verbal and written communication:1
+type wpm:1
+strong analytical and organizational skills:1
+excellent interpersonal skills:1
+professional phone manner and office etiquette:1
+employee training and development:1
+microsoft office proficiency:1
+meticulous attention to detail:1
+results oriented:1
+self directed:1
+spreadsheet development:1
+deadline oriented:1
+staff motivation:1
+professional and mature:1
+strong problem solver:1
+resourceful:1
+understands grammar:1
+proofreading:1
+mail management:1
+meeting planning:1
+legal administrative support:1
+detailed meeting minutes:1
+executive management support:1
+microsoft outlook:1
+telephone skills:1
 network installation:1
 sound:1
 type iii:1
 type ii:1
+health care business planning:1
+experience in all aspects of health care support services:1
+team leader in process improvement combined with facility design:1
+full design:1
+construction and implementation planning for new hospital development:1
+management of integrated staff of design and construction professionals:1
+boundary spanning professional:1
+management of large capital budgets:1
+contract development and negotiation for multiple project delivery methods:1
+integrated facility planning across multiple organizations:1
+academic medical center cultural awareness:1
+all aspects of health care construction:1
+business planning and product line development:1
+marketing analysis:1
+conceptual design:1
+consulting management:1
+contracts development:1
+database design and development:1
+real estate acquisition and leasing:1
 generator operation maintenance skills including automatic transfer switches and aircraft arresting systems:1
 extensive knowledge of equipment operation including:1
 ability to troubleshoot and fix generators of all brands and sizes:1
@@ -747,8 +1128,6 @@ attorney:1
 fashion:1
 file management:1
 financial analyst:1
-goal setting:1
-litigation:1
 loan documentation:1
 proposal preparation:1
 recruitment:1
@@ -764,7 +1143,6 @@ refining:1
 offshore inland water projects:1
 interpersonal communication skills:1
 excellent written and verbal skills:1
-excellent communication skills:1
 leader worksite safety:1
 team building mentoring:1
 workflow planning:1
@@ -782,11 +1160,22 @@ project scope development and management:1
 process hazard analyses pha leader participant:1
 pipeline hot tap stopple:1
 korean:1
-works:1
-oil:1
 organizational:1
-quality assurance:1
 routing:1
+proficient in microsoft windows:1
+general knowledge of gaap that continues to grow through hard work:1
+years progressively advancing experience in civil construction materials testing and inspection:1
+constant communication with contractors:1
+craft:1
+and co workers in collaborative effort to complete task at hand:1
+natural leader who is team oriented with strong desire succeed in accounting field:1
+able to communicate effectively both verbally and in writing to clients:1
+co workers:1
+and superiors:1
+productive worker in fast paced:1
+time sensitive environment:1
+while remaining within budget:1
+courteous team member who works with high levels of integrity and professionalism:1
 people skills interpersonal and communication:1
 client employee student relations:1
 cultural diversity experience and advanced problem solving:1
@@ -796,7 +1185,6 @@ financial statements transactions:1
 basic hr procedures:1
 c level management:1
 real estate knowledge:1
-report writing:1
 market research:1
 translation:1
 spreadsheet:1
@@ -804,24 +1192,30 @@ employee training:1
 travel arrangements:1
 typing speed wpm:1
 word processing and editing:1
-draw:1
+msword excel:1
 jd edwards:1
-negotiation:1
-presenting:1
 fm:1
-mentor:1
 regulatory documents:1
-strategic:1
 consolidations:1
-driving:1
 facility management:1
-legal documents:1
 market planning:1
 mergers and acquisitions:1
 program management:1
 six sigma:1
 strategic development:1
 vendor management:1
+data base:1
+psychology:1
+administration and management:1
+customer and personal service:1
+judgment and decision making:1
+sales and marketing:1
+building and construction:1
+operation and control:1
+branding:1
+carpenter:1
+merchandising:1
+seminars:1
 blueprint reading years:1
 documentation years:1
 problem solving years:1
@@ -849,36 +1243,67 @@ strong communication and management skills:1
 proficient in ms office and e builder software:1
 and cost control:1
 years in construction industry:1
-fast learner:1
 committed team player strong in consistently meeting and exceeding business and performance goals:1
 ability to work independently:1
-osha certified:1
 computer skills windows:1
 xp:1
 internet research:1
-invoicing:1
+color codes:1
+fiber splicing:1
+inspections:1
+splicing:1
+verizon:1
+dsl:1
+ac:1
+circuits:1
+component level repair:1
+ddl:1
+schematic:1
+telecommunication:1
+telecommunications equipment:1
+aviation:1
+class:1
+comprehensive large array data stewardship system:1
+dispatcher:1
+promotional:1
+systems security:1
+microsoft windows:1
+windows me:1
+ddm:1
+hdsl:1
+microscope:1
+multimeters:1
+oc:1
+solder:1
+firewalls:1
+red hat:1
+iss:1
+finance and accounting:1
+negotiations expert:1
+contract review and recommendations:1
+safety oversight:1
+prime contract negotiations:1
+competitive contracts management:1
+pro core project management:1
+systems protocols and implementation and quality control:1
+a level ii:1
+counselor:1
 welders:1
 quickens included quick books:1
 timberland:1
 virtual basic:1
 ms office excel:1
 primavera p:1
-p:1
 primavera contract management:1
 hold civil engineer license affiliated with the chamber of civil engineering turkey:1
 aia:1
 civil engineer:1
-civil engineering:1
-contract management:1
-costing:1
 hydroelectric:1
 italian:1
 quick books:1
-surveys:1
 turkish:1
 articles:1
 api:1
-shell:1
 office administrative tasks filing:1
 market analysis:1
 marketing plans:1
@@ -886,8 +1311,6 @@ outreach marketing:1
 answering multi line phones:1
 appointment scheduling:1
 billing and collections:1
-typing:1
-microsoft office word:1
 access powerpoint:1
 and publisher:1
 mac office suit pages:1
@@ -907,11 +1330,31 @@ and yardi:1
 technology and drafting software revit bim:1
 windographer:1
 c and c programming languages:1
+project management and planning:1
+leadership communication skills:1
+budget administration:1
+change implementation:1
+project estimating:1
+report matrix development:1
+operational restructure and change:1
+departmental operations management:1
+eagle scout:1
+controlling costs:1
+talent review:1
+technical aptitude:1
+motivated team player:1
+goal oriented:1
+pos systems knowledge:1
+skilled problem solver:1
+opening and closing procedures:1
+attention to detail with all things regarding budgets and p l statements excellent communication with customers and non customers:1
+employee and corp office relationship building:1
+technical adversity and very comfortable with must pos systems and data bases:1
+orical p scheduling and working knowledge of setting up schedules:1
 community relations:1
 environmental management:1
 safety management:1
 deployment:1
-self starter:1
 concrete:1
 loader:1
 cabinets:1
@@ -920,6 +1363,58 @@ software word outlook:1
 as:1
 knowledge of medical equipment:1
 physical therapy:1
-advanced problem solving:1
 enthusiastic people person:1
-great organizational skills:1
+spreadsheet management:1
+program files maintenance:1
+advanced ms office suite knowledge:1
+customer client relations:1
+multi line telephone systems:1
+office team management:1
+avimark veterinary software knowledge:1
+autocad software knowledge:1
+foxitpdf software knowledge:1
+sales marketing:1
+file conversion sharing:1
+expense reporting:1
+invoice processing:1
+transcription dictation:1
+wpm typing speed:1
+residential painting preparation:1
+heavy equipment operations:1
+flooring removal installation:1
+telemarketing:1
+billing collections:1
+cloud database management:1
+cash register operations:1
+inventory management support:1
+business correspondence:1
+contract preparation:1
+recordkeeping:1
+purchase order preparation:1
+conference planning:1
+cleaning:1
+predictive and preventive maintenance:1
+materials packing:1
+concrete mixing:1
+building maintenance:1
+environmental coordination:1
+adherence with all safety regulations:1
+excellent leadership skills:1
+customer service oriented:1
+efficient time management:1
+effective problem solving:1
+acid:1
+calculus i:1
+chemistry:1
+design software:1
+economic analysis:1
+economics:1
+experiment:1
+experiments:1
+flash:1
+materials science:1
+phd:1
+platinum:1
+process control:1
+quick learner:1
+simulation:1

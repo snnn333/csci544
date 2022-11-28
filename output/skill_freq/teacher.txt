@@ -1,138 +1,285 @@
-teaching:13
-teacher:10
-microsoft office:9
-meetings:9
-excel:9
-policies:8
-time management:8
-materials:8
-powerpoint:8
-progress:7
-academic:6
-instruction:6
-conferences:6
-lesson plans:6
-classroom management:6
-customer service:6
-mathematics:5
-math:5
-critical thinking:5
-communication skills:5
-sales:5
-outlook:5
-leadership:5
-lesson planning:4
-reporting:4
-curriculum development:4
-safety:4
-english:4
-word:4
-arts:4
-workshops:4
-director:4
-managing:4
-microsoft word:3
+teaching:27
+excel:23
+teacher:23
+powerpoint:18
+progress:16
+microsoft office:16
+instruction:15
+meetings:15
+lesson plans:15
+materials:15
+word:14
+outlook:13
+customer service:13
+conferences:12
+classroom management:11
+payroll:11
+time management:10
+academic:10
+math:10
+english:10
+policies:10
+lesson planning:9
+mathematics:9
+reading:9
+research:8
+critical thinking:8
+problem solving:8
+leadership:8
+workshops:8
+arts:8
+sales:8
+managing:7
+communication skills:7
+basic:7
+administrative:7
+database:7
+safety:7
+director:7
+office:6
+cpr:6
+budget:6
+content:6
+inventory:6
+scheduling:6
+team player:6
+instructional design:5
+microsoft word:5
+coaching:5
+classroom discipline:5
+team building:5
+reporting:5
+quality:5
+spanish:5
+curriculum development:5
+publisher:5
+educator:5
+phone:5
+supervision:5
+power point:5
+clients:5
+charts:4
+conflict resolution:4
+written:4
+positive learning environment:4
+self motivated:4
+fast learner:4
+documentation:4
+functional:4
+organizing:4
+personnel:4
+council:4
+staff development:4
+access:4
+budgets:4
+multi tasking:4
+recruiting:4
+first aid:4
+supervising:4
+accounting:4
+marketing:4
+listening:4
+billing:4
+purchasing:4
+email:4
+forms:4
+tutoring:4
+course development:3
+adobe photoshop:3
+calm under pressure:3
+excellent communication:3
+focus:3
 attention to detail:3
 verbal communication skills:3
+great organizational skills:3
+increase:3
 training:3
-coaching:3
-cpr:3
-staff development:3
+typing:3
+chemistry:3
+biology:3
+delivery:3
+mentor:3
+benefits:3
+human resource:3
+training programs:3
 enthusiastic people person:3
-access:3
-problem solving:3
-reading:3
-supervising:3
-phone:3
-written:3
-administrative:3
-content:3
-multi tasking:3
+organizational skills:3
+technological instruction:3
+effective time management:3
+book:3
+structured:3
+art:3
+administrative support:3
+contracts:3
+windows:3
+quickbooks:3
+record keeping:3
+recruitment:3
+credit:3
+editing:3
+market:3
+read:3
+website:3
 counseling:3
-clients:3
+budgeting:3
 databases:3
-database:3
-email:3
-marketing:3
+internet explorer:3
 receiving:3
-tutoring:3
+hiring:3
+selling:3
+proposals:3
+insurance:3
 organizational:3
-calm under pressure:2
+problem solving skills:3
+interpersonal:3
+presentations:3
+creation of forms for data:3
+schedule activities and field trips:3
+knowledge of excel word power point:3
+work within a budget snack meal planning:3
+maintained tuition payment schedule posting payments maintaining records provided receipts:3
+conducted peer council with youth to nature problem solving skills:3
+assigned books based on reading level:3
+supported students with special needs by developing behavioral and academic plans:3
+engaged student with positive verbal and body language:3
+instructed personalized lesson plans based on classroom nature and interest:3
+critiqued student project rather than correcting it:3
+progress monitoring:2
+evernote:2
+slack:2
+social media:2
+management staff:2
+projects:2
+daily scheduling:2
+financial analysis:2
+security trading:2
+portfolio managament:2
+liability structuring:2
+analysis:2
+and planning:2
+critical thinker:2
 mediation and advocacy talent:2
 computer literacy:2
 microsoft powerpoint:2
+c:2
+technology savvy:2
+filing:2
+liaison:2
 wpm:2
-typing:2
-delivery:2
-conflict resolution:2
-instructional design:2
-research:2
-great organizational skills:2
-budget:2
-educator:2
+medical technology:2
+communication:2
+creative problem solving:2
+vision:2
+coach:2
+educational programs:2
+flash:2
+proposal writing:2
+sound:2
+supervisor:2
+trouble shooting:2
+active listener:2
+invoice processing:2
+accounting familiarity:2
+appointment setting:2
+works well under pressure:2
+excellent planner and coordinator:2
+accurate and detailed:2
+customer service oriented:2
+articulate and well spoken:2
+database management:2
+internet browsers:2
+infinite campus:2
+next:2
+speaking:2
+able to lift:2
+pounds:2
+strong work ethic:2
+autism:2
+fundraising:2
+patient care:2
+grants:2
+leadership skills:2
 child care:2
-first aid:2
 instructing:2
 mental health:2
 program evaluation:2
-recruitment:2
 problem solver:2
-team player:2
-accounting:2
 approach:2
 cash handling:2
+cashier:2
 closing:2
-documentation:2
+client:2
+customer satisfaction:2
 microsoft excel:2
-windows:2
+neat:2
+pricing:2
 retail:2
+advertising:2
+client relations:2
+producing:2
+project management:2
+public relations:2
+public speaking:2
+radio:2
+video:2
 notes:2
-organizational skills:2
 teamwork:2
 type:2
-listening:2
-organizing:2
+iso:2
+anatomy:2
 interpersonal skills:2
-training programs:2
-self motivated:2
+accounts receivable:2
 effectively work with parents:2
 strong interpersonal skills:2
-forms:2
-internet explorer:2
-inventory:2
-office:2
-payroll:2
-quality:2
-scheduling:2
-structured:2
+microsoft office word:2
+accounts payable:2
+operations:2
+data entry:2
+associate:2
+purchase orders:2
+supply chain:2
+auditing:2
+invoicing:2
+shipping:2
 telephone:2
-hiring:2
 merchandising:2
-recruiting:2
-insurance:2
-mentor:2
+recording:2
+wpm typing speed:2
+dependable:2
+bookkeeping:2
+mail:2
+money:2
+technology integration:2
 creative lesson planning:2
 special needs students:2
-problem solving skills:2
+packaging:2
+rapport:2
 unique:2
-budgets:2
+oral:2
+seminars:2
+written communication skills:2
+researching:2
 behavior modeling:2
 compliance:2
 individualized care:2
-classroom discipline:2
+programming:2
 active listening:2
-proposals:2
-supervision:2
-website:2
+ms office:2
+interpersonal communication:2
+mathematica:2
+managing classroom for diverse populations:2
+strong collaborator:2
+tailoring curriculum plans:2
+student motivation:2
 current virginia:1
 postgraduate professional license:1
-critical thinker:1
 decisive:1
 curriculum development and long term planning:1
 highly organized:1
 excellent work ethic:1
 proficiency with promethean board:1
 interpersonal skills and communication:1
+processes:1
 excellent analytical skills:1
 strong verbal communication:1
 computer proficient:1
@@ -146,28 +293,100 @@ service now ticketing system:1
 desktop publishing software photoshop:1
 answer phones:1
 excellent written:1
-increase:1
+e:1
+ducator people skills:1
+enthusiasti:1
+problem solve:1
+r:1
+encouraging:1
+eager to learn:1
+communicates great with colleagues and parents:1
+sets high and clear expectations for students:1
+eager to teach:1
+loves to teach students how to love to learn:1
+always looking for ways to grow as a person and educator:1
 clerical:1
-filing:1
 class:1
 comprehensive large array data stewardship system:1
-liaison:1
 translate:1
 writing test:1
 cpr and first aid:1
-charts:1
+national board certified:1
+ap bio certified:1
+ap chem certified summer:1
+trained in educating at risk youth:1
+teacher mentor:1
+national board grader:1
+hematology:1
+immunology:1
+machinery:1
+urinalysis:1
+mentoring:1
+social skills:1
+medical microbiology:1
+purposeful lesson planning:1
+managing difficult behaviors:1
+coordinating multiple groups:1
+managing a team of adults:1
+communicating effectively with clients:1
+managers:1
+and team members:1
+setting goals:1
+data tracking for effective goals:1
+writing measurable goals:1
+creating materials for teaching multiple styles of learners:1
+arizona teaching certificate with special education endorsement:1
+coordinating meetings and preparing materials for all attendees:1
+support:1
+coordinating services:1
+technology:1
+data collection:1
+data driven goal setting:1
+avenue:1
+driving:1
+monitors:1
+rehabilitation services:1
+trainer:1
+vi:1
 equity:1
-course development:1
-trouble shooting:1
+continuous improvement:1
+leadership training:1
+project mgmt:1
+strategic:1
+adobe premier:1
+microsoft words:1
+needs assessment:1
+peoplesoft:1
+sales training:1
+training material:1
 bi lingual farsi and english:1
 coaching experience:1
 esol endorsed:1
 event planning fundraising experience:1
 marketing experience:1
+people person:1
+corporate trainer:1
+member ge capital president s council:1
+quality control and customer service management motivational strategist:1
 cpr certified:1
 orgnization skills:1
 teaching skills:1
+filing and data archiving:1
+employee training and development:1
+microsoft office excel:1
+multi line phone proficiency:1
+advanced clerical knowledge:1
+social media knowledge:1
+teaching tutoring:1
 organizational development:1
+microsoft windows xp professional word:1
+learning google chrome applications:1
+in k:1
+inspiration:1
+microsoft windows xp professional:1
+non fiction:1
+scientific:1
+writer:1
 creative at lesson planning and hands on instruction:1
 student assessment:1
 able to inspire:1
@@ -175,12 +394,47 @@ comfort and build self esteem:1
 outstanding communication skills:1
 dependable and detail orientated:1
 excellent organizational skills:1
+understands mobility assistance needs:1
+charting expertise:1
+understands medical procedures:1
+trained in grooming and bathing assistance:1
+hipaa compliance:1
+trained in catheter change and preparation:1
+general housekeeping ability:1
+valid:1
+pennsylvania:1
+driver s license:1
+enthusiastic caregiver:1
+feeding assistance specialist:1
+cpr bls certified:1
+experienced in obtaining charting vital signs:1
+well versed with the standards of hygiene and sanitation:1
+demonstrated ability to perform duties in a busy environment:1
+strong interpersonal and communication skills:1
+good time management skills:1
+courteous with clients:1
+residents and staf:1
+f:1
+sound ability to perform physically demanding chores:1
+willing to stretch existing working hours to accommodate work:1
 records of progress:1
 small group guided reading instruction:1
 hands on math instruction:1
+acute care:1
+biochemistry:1
+law:1
+pediatrics:1
+physical therapy:1
+resuscitation:1
+urology:1
+vital signs:1
 conference organization:1
 microsoft office suite:1
 non profit management:1
+financial reports:1
+lesson plan:1
+internet research:1
+philosophy:1
 family servicing:1
 directing:1
 management information system:1
@@ -190,24 +444,33 @@ teaching and computing:1
 creative thinking:1
 back up:1
 cash register:1
-cashier:1
 cooking:1
-credit:1
-client:1
-customer satisfaction:1
 fat:1
 health and safety standards:1
 inventory management:1
-neat:1
 pos:1
-pricing:1
 knowledge of store:1
 tables:1
 tops:1
+photoshop:1
+cancer:1
+competitive:1
+consultant:1
+creative design:1
+direct mail:1
+government:1
+illustrator:1
+marketing plan:1
+presenter:1
+quick learner:1
+robotics:1
+sales manager:1
+scripts:1
+speak spanish:1
+technical writing:1
+web site:1
 edit:1
 facsimile:1
-leadership skills:1
-publisher:1
 office machines:1
 photocopiers:1
 scanners:1
@@ -217,25 +480,47 @@ typewriters:1
 voice mail:1
 motivation:1
 management:1
-speaking:1
-editing:1
 development:1
 implementing:1
-anatomy:1
+cash handlingprofessional and friendlycareful and active listenermulti tasking:1
+microbiolog a:1
+director general:1
+directora:1
+industrial:1
+jefe de laboratorio:1
+acta:1
+bpm:1
+bpm business process management:1
+carne de cerdo:1
+carne porcina:1
+control de calidad:1
+data mining:1
+farmac utica:1
+farmac utico:1
+manipuladores:1
+microbiologia:1
+producci n:1
+programaci n:1
+qu mica:1
+qu mico:1
+sas:1
+seguridad:1
+toxicolog a:1
+tutor:1
+vigilancia:1
+discharge planning:1
+evaluate patients:1
 emr software:1
 front office:1
 injections:1
 letters:1
 medical terminology:1
-patient care:1
 physiology:1
 ultra sound:1
-art:1
 camera:1
-basic:1
 express:1
-fast learner:1
-sound:1
+microsoft works internet research:1
+speaking teacher:1
 counselor:1
 native spanish speaker:1
 goal setting and implementation:1
@@ -252,37 +537,82 @@ provenleader:1
 specialist with building relationships with students and parents:1
 dedicated:1
 hard working:1
-microsoft office word:1
-infinite campus:1
+invoices:1
+cash:1
+of accounts:1
+accountant:1
+audits:1
+buying procurement:1
+general accounting:1
+payments:1
+receptionist:1
+retail sales:1
+basis:1
+assistant director:1
+aviation:1
+career development:1
+credit card:1
+excellent customer service skills:1
+executive assistant:1
+fixed assets:1
+maintenance:1
+pipeline:1
+reconciling:1
+the accounts:1
+clerk:1
+estimation:1
+finance:1
+with accounts:1
+and accounting:1
+audit:1
+collection:1
+financial report:1
+healthcare:1
+insurance billing:1
+reconciliation:1
+solutions:1
+administrative assistant:1
+disbursement:1
+filings:1
+great customer service skills:1
+legal documents:1
+medicaid:1
+quota:1
 accounts payables:1
 aol:1
-auditing:1
 banking:1
-benefits:1
 business works:1
 financial:1
 funds:1
-human resource:1
 internet applications:1
-invoicing:1
 lotus:1
 mediation:1
-power point:1
 netscape navigator:1
 peachtree:1
 peachtree accounting software:1
-producing:1
 sap:1
-shipping:1
-supervisor:1
 good team member:1
-communication:1
 childcare:1
-selling:1
-recording:1
-bookkeeping:1
-mail:1
-money:1
+ms office proficient:1
+multilingual in:1
+and:1
+bilingual in:1
+art designer children project:1
+children music finger play flyers:1
+webs ex facebook:1
+loves children:1
+adept at working with special needs children:1
+energetic caregiver:1
+home school educator:1
+course planning:1
+performing artist:1
+emotionally supportive:1
+friendly and likeable:1
+streamline:1
+document management:1
+fast:1
+project coordination:1
+proposal development:1
 notary public:1
 secretarial:1
 tax:1
@@ -297,7 +627,6 @@ logistics:1
 ms word:1
 page:1
 sales development:1
-supply chain:1
 academic assessment methods:1
 whole brain teaching techniques as classroom management procedures:1
 certified esl instructor:1
@@ -308,7 +637,6 @@ experienced with smart board:1
 proficient in ms word:1
 co teach with lbs inclusion and ell students differentiated instruction:1
 excellent student and parent relations:1
-technology integration:1
 character development:1
 smart board:1
 ms word powerpoint excel:1
@@ -321,49 +649,58 @@ communication presentation:1
 interpersonal relationships:1
 compliance policies procedures:1
 ms office word:1
+computer literate:1
+drivers:1
+natural:1
+quickbooks and onenote:1
+buying experience:1
+selection of materials:1
+plumbing:1
 creativity:1
 effective communication:1
 patience:1
 organizational planning:1
+consultation:1
+speech therapy:1
+technical support:1
 bookkeeper:1
 human resources:1
 internet navigation:1
 microsoft office products:1
-next:1
 evaluation of patients:1
+strong communication skills:1
+staff motivator:1
+commitment to quality and service:1
+profit enhancement:1
+employee hiring and retention:1
 economics:1
-functional:1
 team work:1
 serve meals:1
 preschool teacher:1
 computer skills:1
 publishing software skills:1
-autism:1
-book:1
-purchasing:1
 quick:1
-read:1
 sabre:1
 staffing:1
 inspect vehicles:1
-administrative support:1
+branding:1
+business case:1
+relationship building:1
 scheduling appointments:1
 arts i:1
-billing:1
-dependable:1
 diagnosis:1
 all microsoft:1
 providing treatment:1
 reception:1
-written communication skills:1
 cost control:1
 financial accounting:1
 inventory levels:1
-personnel:1
 positioning:1
 surveys:1
 microsoft:1
 excel experienced:1
+advanced floral designer:1
+entrepenuer:1
 people skills:1
 brochures:1
 motivating:1
@@ -372,10 +709,30 @@ bilingual speaking and reading fluently in english and spanish:1
 demonstrate your ability to work well with a team:1
 handles details coordinates and completes tasks plans and arranges activities multi tasks writes clearly and concisely listens attentively openly expresses ideas provides and asks for feedback:1
 and cooperates and works well with others:1
+games:1
+health and wellness:1
+arrangements:1
+exchange:1
+travel arrangements:1
+field operations:1
+packing:1
+program manager:1
+vouchers:1
+award:1
 computer proficiency in microsoft word:1
 and power point:1
 smart board notebook software:1
 photography editing and slide shows:1
+number:1
+professional phone etiquette:1
+excellent communication skills:1
+human resource laws knowledge:1
+conference planning:1
+flexible:1
+microsoft office applications:1
+telephone etiquette:1
+answering phones:1
+typing wpm:1
 i have a lot patience:1
 i communicate really well with children:1
 i can usually calm a stressful situation quickly:1
@@ -383,7 +740,6 @@ video conferencing:1
 smartboard technology:1
 proficient in google classroom aries:1
 activity planning:1
-technology savvy:1
 proctoring:1
 quizzes:1
 tests and exams:1
@@ -395,6 +751,22 @@ behavioral cognitive skills development:1
 team collaboration:1
 positive student engagement:1
 behavior modification:1
+ten key:1
+direction:1
+keyboard:1
+profit:1
+supervisory skills:1
+microsoft office with modern classroom technology:1
+conflict resolution training:1
+iep familiarity:1
+organization planning:1
+first aid and bls cpr training:1
+student centered learning:1
+grading procedures:1
+punctual:1
+inquiry based learning:1
+test proctoring:1
+staff training:1
 teambuilding:1
 work ethic:1
 multitasking:1
@@ -406,7 +778,6 @@ meticulous and organized:1
 security understanding:1
 superb communication both verbal and written:1
 reliability and self sufficiency:1
-strong work ethic:1
 organizational and problem solving skills:1
 team player and multi tasker:1
 career minded:1
@@ -416,15 +787,32 @@ adaptable:1
 positive:1
 eager to contribute in any capacity:1
 fluent in french and english:1
+planning and coordination:1
+customer relations:1
+turkish:1
+classroom management creation of forms for data payroll schedule activities and field trips maintain tuition data and receipts knowledge of excel word power point work within a budget snack meal planning:1
+prepare meals:1
+pr:1
+create forms:1
+conducted peer council with youth assigned books based on reading level supported students with special needs engaged student with positive language instructed personalized lesson plans critiqued student project rather than correcting it addressed challenging student behavior developed strong problem solving skills:1
+financial reporting:1
+spreadsheets:1
+kind and empathetic:1
+strong written and verbal communicator:1
+positive and encouraging:1
+standardized testing scoring:1
+dibels knowledge:1
+strong background in mathematics:1
+and powerpoint advanced knowledge and skills in using media tools for teaching purposes such as prezi presentations:1
+youtube video creation:1
+wiki pages:1
+and popplet:1
+arabic:1
+balance:1
+microsoft programs:1
 agency:1
-budgeting:1
 business strategy:1
 cold calling:1
-interpersonal:1
-excellent communication:1
-oral:1
-contracts:1
-client relations:1
 customer service skills:1
 fluent in english:1
 ftp:1
@@ -436,14 +824,12 @@ executive presentations:1
 process improvement:1
 quality assurance:1
 sales and training:1
-spanish:1
 strategic marketing:1
 vendor relations:1
 positive reinforcement methods:1
 professional babysitter and nanny:1
 qualified tutor:1
 understands developmental disorders:1
-active listener:1
 infant:1
 toddler and preschool curriculum expert:1
 skilled in working with special needs children:1
@@ -467,8 +853,29 @@ highly effective teacher:1
 motivator:1
 innovator:1
 successful leader:1
-public speaking:1
 active learning:1
+aseptic techniques:1
+bachelors:1
+calculators:1
+calibration:1
+department of health:1
+dna:1
+equipment maintenance:1
+forth:1
+good laboratory practices:1
+interpretation:1
+laboratory procedures:1
+laboratory tests:1
+pathology:1
+pcr:1
+physiology i:1
+qa:1
+real time:1
+statistics:1
+technician:1
+troubleshoot:1
+composition i:1
+composition:1
 administrative duties:1
 transcription skills:1
 proofing ads and sales:1
@@ -481,20 +888,56 @@ online research:1
 preparing proposals:1
 file maintenance:1
 record keeing:1
-public relations:1
 scheduling travel:1
 excel spreadsheet preparation and maintenance:1
+academic planning:1
+administrative skills:1
+case management:1
+clerical documentation and shorthand:1
+research lesson planning:1
+newsletter development:1
+coding and filing:1
+effective efficient dedicated positive:1
+computer literate and valid texas driver s license insurance:1
+great communication and note taking skills:1
 content development management:1
 content creation:1
 dimensions:1
 event planning coordination:1
-grants:1
 logic:1
-programming:1
-proposal writing:1
 proposal:1
 maintain files:1
 strategic planning:1
 trend:1
 usability testing:1
 websites:1
+inspect:1
+laundry:1
+transport materials:1
+meal prep:1
+operating systems windows xp:1
+android:1
+and ms dos software autodesk civil d:1
+autodesk autocad:1
+autodesk inventor professional:1
+pro e:1
+solidworks:1
+gis analyst:1
+lidar data:1
+autodesk revit architectural:1
+microstation:1
+mathcad:1
+cad cam:1
+fortran:1
+and frontpage:1
+i deas:1
+elite hvac:1
+trace:1
+carrier:1
+nc programming:1
+adobe acrobat:1
+and photoshop:1
+firefox:1
+and html:1
+css:1
+wordpress:1

@@ -1,246 +1,512 @@
-safety:21
-inventory:15
-logistics:14
-excel:13
-customer service:13
-quality:12
-personnel:12
-troubleshooting:11
-inspection:11
-outlook:10
-word:10
-office:10
-documentation:10
-sales:10
-policies:10
-powerpoint:9
-navy:9
-leadership:9
-weapons:9
-c:9
-materials:8
-organizational:8
-six sigma:8
-microsoft office:7
-delivery:7
-access:7
-government:7
-scheduling:7
-transportation:7
-project management:7
-naval:7
-critical thinking:6
-basic:6
-quality assurance:6
-schematics:6
-test equipment:6
-spreadsheets:6
-supervisor:6
-inventory management:6
-accounting:6
-procurement:6
-database:6
-shipping:6
-managing:6
+safety:39
+excel:32
+personnel:26
+inventory:24
+troubleshooting:23
+logistics:23
+quality:22
+word:22
+customer service:21
+microsoft office:20
+documentation:19
+powerpoint:19
+policies:19
+materials:18
+research:17
+sales:17
+inspection:16
+scheduling:15
+outlook:15
+office:15
+c:14
+access:14
+navy:14
+organizational:14
+windows:14
+government:14
+quality assurance:13
+supervisor:13
+weapons:13
+managing:13
+database:12
+budget:12
+leadership:12
+shipping:12
+project management:11
+delivery:11
+forms:11
+six sigma:11
+receiving:10
+time management:10
+basic:10
+accounting:10
+financial:10
+spreadsheets:10
+inventory management:10
+procurement:10
+transportation:10
+meetings:10
+naval:10
+hardware:9
+schematics:9
+quality control:9
+data entry:9
+functional:9
+strategic:9
+phone:9
+microsoft word:9
+clients:9
+presentations:9
+instruction:8
+budgets:8
+critical thinking:8
+test equipment:8
+reporting:8
+processes:8
+progress:8
+network:8
+team player:8
+purchasing:8
+english:7
+matlab:7
+technical support:7
+written:7
+aviation:7
+blueprints:7
+training:7
+army:7
+supervision:7
+email:7
+instructor:7
+contracts:7
+administrative:7
+mechanical:7
+interpretation:6
+repairs:6
+calibration:6
+maintenance:6
+ms office:6
+adobe:6
+upgrades:6
+mail:6
+inventory control:6
+balance:6
+databases:6
+pricing:6
+trainer:6
+fast:6
+technician:6
+scanning:6
+director:6
+training programs:6
+active directory:6
+autocad:6
+supply chain management:5
+ms word:5
 team building:5
-forms:5
-budget:5
-strategic:5
+attention to detail:5
+content:5
+servers:5
+technical manuals:5
+wiring:5
+staffing:5
+process improvement:5
+monitors:5
+team leader:5
+microsoft excel:5
+technical writing:5
 soldering:5
-technician:5
-meetings:5
-clients:5
-blueprints:5
-research:5
-time management:5
-administrative:5
-adobe:4
+managerial:5
+risk management:5
+oil:5
+first aid:5
+microsoft office suite:5
+proposals:5
+telephone:5
+financial management:5
+logistics management:5
+word processing:5
+spanish:4
+team leadership:4
+conflict resolution:4
+forklift:4
+testing:4
+security:4
+credit:4
 html:4
+inspector:4
 logic:4
-repairs:4
+radar:4
+navigation:4
 troubleshoot:4
-financial:4
-functional:4
-supervision:4
-inventory control:4
-data entry:4
-trainer:4
-progress:4
+budgeting:4
+funds:4
+power point:4
+reading:4
+visio:4
+natural:4
+packaging:4
+fast learner:4
+microsoft powerpoint:4
+san:4
+approach:4
+mentor:4
+switches:4
+unix:4
 inspecting:4
-managerial:4
-receiving:4
-first aid:4
-microsoft office suite:4
-databases:4
+organizational skills:4
+personnel management:4
+conversion:4
+iso:4
+problem solving:4
+profit:4
+statistics:4
+cpr:4
+customer satisfaction:4
 receptionist:4
-phone:4
-training programs:4
-windows:4
-mail:4
-purchasing:4
+operating systems:4
+mechanic:4
+program management:4
+management information system:4
+streamline:4
+sap:4
+publications:4
+strategic planning:4
+law:4
+competitive:4
+presenting:4
+quick learner:4
+agency:4
+legal:4
+negotiation:4
+continuous improvement:4
+typing:4
+letters:4
+peoplesoft:4
+mac:4
+optimization:3
+data management:3
+self motivated:3
+relationship building:3
+ms excel:3
+ms outlook:3
+printers:3
+technical publications:3
+aviation maintenance:3
+general aviation:3
+operations:3
+associate:3
 report creation:3
-calibration:3
-credit:3
-inspector:3
-matlab:3
-radar:3
+inspect:3
 oscilloscopes:3
 radio:3
 recording:3
 fluent in spanish:3
-technical manuals:3
-upgrades:3
+leadership development:3
+public speaking:3
+read:3
+answering phones:3
+operations management:3
+sound:3
+vision:3
+loss prevention:3
+problem resolution:3
 organization:3
-balance:3
-natural:3
 enterprise:3
-processes:3
-written:3
+payroll:3
 communication:3
-fast learner:3
 excellent customer service:3
-team leader:3
 hand tools:3
-mentor:3
-microsoft word:3
 power tools:3
-switches:3
-aviation:3
-training:3
+customer support:3
 python:3
 directing:3
-network:3
-staffing:3
+maintain records:3
+employee relations:3
+sheet metal:3
+data analysis:3
+drivers:3
+film:3
 configuration management:3
-cpr:3
-instruction:3
-instructor:3
-conversion:3
-customer satisfaction:3
-contracts:3
-email:3
-pricing:3
-proposals:3
-reporting:3
+management skills:3
+supply chain:3
+marketing:3
+market:3
 video:3
-quality control:3
-financial management:3
-management information system:3
+css:3
+engineer:3
+exchange:3
+lan:3
+microsoft windows:3
+windows xp:3
+quick:3
+charts:3
+leadership skills:3
+flight controls:3
 decision making:3
 listening:3
 supervising:3
-logistics management:3
-sap:3
-technical writing:3
-publications:3
-strategic planning:3
-conflict resolution:3
-autocad:3
-competitive:3
+insurance:3
+forklift operator:3
+coaching:3
+detail oriented:3
+performance management:3
+travel arrangements:3
+self disciplined:3
+program development:3
+account management:3
+change management:3
+problem solving skills:3
 paint:3
-letters:3
-oil:3
+client:3
+dispatching:3
+spreadsheet:3
+inspections:3
+type:3
+filing:3
 scanner:3
+scientific:3
+art:3
+training program implementation:2
+scheduling tools:2
+cad:2
+data acquisition:2
+trouble shooting:2
+goal attainment:2
+photoshop:2
+quickbooks:2
+assembly:2
+avionics:2
+engines:2
+hydraulics:2
+turbine:2
+aircraft maintenance:2
 adaptive team player:2
 dependable and reliable:2
 materials transport:2
 team management:2
-attention to detail:2
-content:2
-english:2
-inspect:2
+friendly:2
 labview:2
+laser:2
 multi meters:2
-navigation:2
+communicator:2
 problem solver:2
 repairing:2
-servers:2
-wiring:2
+uhf:2
+vhf:2
+human resources:2
+labor relations:2
+math:2
+medical terminology:2
+psychology:2
+tax:2
+training materials:2
 business management:2
-operations management:2
-army:2
-leadership development:2
-relationship building:2
-sound:2
-problem resolution:2
-process improvement:2
-budgeting:2
+ambulance:2
 ess:2
-monitors:2
 unique:2
 illustrator:2
+cash handling:2
+driving:2
+excellent communication:2
+c programming:2
+derivatives:2
+electronics:2
+special events:2
+teaching:2
 publisher:2
-customer support:2
 networking:2
-technical support:2
-testing:2
-scanning:2
-unix:2
+oracle:2
+pl sql:2
+microsoft project:2
 procedures:2
 air force:2
+computer literate:2
 frame:2
-organizational skills:2
-maintain records:2
+router:2
+trauma:2
+accident investigation:2
+aircrew:2
+staff training:2
+api:2
+color:2
+specification:2
 pick:2
 qa:2
-budgets:2
 direction:2
-management skills:2
-supply chain:2
-director:2
-market:2
-telephone:2
+estimating:2
+government regulations:2
+dependable:2
 written communication skills:2
-css:2
 designing:2
-exchange:2
-operating systems:2
-visio:2
+linux:2
+ms access:2
+perl:2
+sql:2
 visual basic:2
+visual studio:2
 website:2
 vertical:2
 maintenance schedules:2
+lean manufacturing:2
 inventory levels:2
-active directory:2
-windows xp:2
-mechanic:2
-quick:2
-mechanical:2
-charts:2
-team leadership:2
+cisco:2
+technical documentation:2
+customer service skills:2
+regulatory compliance:2
+administrative duties:2
+producing:2
+data processing:2
+analyst:2
 cpr certified:2
-data analysis:2
 data base:2
 security clearance:2
+secret clearance:2
 e commerce:2
-supply chain management:2
-streamline:2
+calculators:2
+real estate:2
+quality management:2
 secret security clearance:2
+recruitment:2
+seminars:2
+welding:2
+workflow:2
+accounting systems:2
+adp:2
 creativity:2
 nec:2
-public speaking:2
-team player:2
-ms office:2
+requirement:2
+mentoring:2
+cost control:2
+budget development and management:2
+process management:2
+relationship management:2
+billing:2
+executive management:2
+finance:2
+negotiating:2
+teamcenter:2
+microsoft outlook:2
+vital signs:2
+root cause analysis:2
+invoicing:2
+benefits:2
 contact management:2
-legal:2
+selling:2
+physics:2
+mathematics:2
+proposal:2
+routers:2
+cables:2
+multi tasking:2
+fm:2
+vista:2
 painter:2
 phones:2
 accounts payable:2
-law:2
+arbitration:2
+conferences:2
 machinery:2
-reading:2
+cashier:2
+retail:2
+retail marketing:2
+tomcat:2
+dc:2
 verbal communication:2
 class:2
 comprehensive large array data stewardship system:2
-maintenance:2
-word processing:2
-client:2
+dell:2
+migration:2
+architectural drafting:2
+clerical:2
+reconciling:2
+spread sheets:2
+word perfect:2
+painting:2
 researching:2
-typing:2
+calm under pressure:2
+communication skills:2
+retail sales:2
+calendaring:2
+client relations:2
+accounting system:2
 strategy:2
+cabling:2
 grinders:2
-mac:2
-profit:2
+storage area network:2
+nas:2
+facsimile:2
+mediation:2
+office machines:2
+photocopiers:2
+scanners:2
+voice mail:2
+well organized:2
+cost analysis:2
+forecasting:2
+organizing:2
+exhaust:2
+fuel:2
+electrical:2
+fire protection:2
+process piping:1
+semi conductor machine design:1
+structural red line revisions electrical drafting:1
+capital expenditures:1
+catia:1
+crm:1
+experiment:1
+french:1
+maple:1
+nastran:1
+novel:1
+scheme:1
+licensed faa rated airframe and powerplant a p technician:1
+yellow belt lean sigma certified:1
+five years of experience in key aircraft systems and quality assurance processes:1
+trusted:1
+highly reliable aviation professional responsible for maintaining state of the art aircraft:1
+performs scheduled and unscheduled maintenance:1
+major and minor repairs:1
+post flight inspections:1
+and record keeping:1
+management of large maintenance crews:1
+navigation of faa regulated publications:1
+proficiency with mechanical and pneumatic tools:1
+mechanical aptitude:1
+military leadership experience:1
+job status reports:1
+knowledgeable of applicable local codes:1
+typing speed words per minute quickbooks apple or macintosh computers ms outlook photoshop ms powerpoint ms excel ms word fork lift operation cherry picker:1
+and stand up forklift:1
+team liaison:1
+process implementation:1
+risk management processes and analysis:1
+staff development:1
+timeline management:1
+customer relations:1
+deadline oriented:1
+staff training development:1
+efficient multi tasker:1
+customer service oriented:1
+coaching and mentoring:1
+effective leader:1
+employee scheduling:1
+apple:1
+cherry picker:1
+fork lift:1
+macintosh computers:1
+ms powerpoint:1
+camera:1
+typing speed:1
+accountability for:1
+electrical systems:1
+hazardous waste:1
+internal controls:1
+sequencing:1
+audits:1
+solutions:1
+osha:1
 freight operations:1
 skilled forklift operator:1
 cargo handling:1
@@ -249,8 +515,6 @@ storage procedures:1
 reviewing records:1
 personnel mentoring:1
 reliable and trustworthy:1
-data management:1
-friendly:1
 positive attitude:1
 basic math:1
 people skills:1
@@ -261,12 +525,13 @@ auto cad:1
 canvas:1
 electrical schematics:1
 instructional design:1
-laser:1
 microsoft office programs:1
-communicator:1
 signal generators:1
-uhf:1
-vhf:1
+hr:1
+psychology i:1
+treasury:1
+typing wpm:1
+composition:1
 human resources management:1
 strategic analysis:1
 aviation systems troubleshooting:1
@@ -274,15 +539,12 @@ electrical troubleshooting:1
 computer and it systems repair capable:1
 automotive diagnosis and repair:1
 uh a:1
-ambulance:1
 creative thinking:1
 maintenance schedule:1
 patient care:1
 theatre:1
-vision:1
 stockroom procedures:1
 product organization:1
-loss prevention:1
 project organization:1
 rfi scanners:1
 administrative support:1
@@ -297,13 +559,28 @@ public relations software:1
 bacon s mediasource:1
 factiva:1
 desktop publishing software:1
-photoshop:1
+next:1
+tables:1
 inventory specialist:1
 leader:1
 computer:1
+quality assurance of aircraft parts and subsystems:1
+determining aircraft airworthiness:1
+experience troubleshooting and repairing:1
+aircraft engines:1
+auxiliary power units:1
+propellers rotor systems:1
+power train systems:1
+and associated airframe and systems specific electrical components:1
+maintaining and repairing aircraft fuselages:1
+wings:1
+rotor blades:1
+fixed and movable flight control surfaces:1
+bleed aircraft air:1
+hydraulic:1
+and fuel systems:1
 travel agent:1
 flight hours keeper:1
-excellent communication:1
 high motivation:1
 manager of dts:1
 digital mapping:1
@@ -317,16 +594,16 @@ enjoy challenges:1
 security clearance clearable:1
 travel arrangements coordinator:1
 fully bilingual spanish english:1
-approach:1
+avl:1
+edge:1
+lockheed martin:1
+simulation:1
+conversational spanish:1
 ca:1
 product development:1
-fast:1
 project plans:1
-spanish:1
 technical project management:1
 computers sql:1
-oracle:1
-pl sql:1
 software configuration:1
 web based:1
 documenting:1
@@ -334,7 +611,6 @@ subject matter expert:1
 analyst aircraft maintenance:1
 saas crystal reports:1
 linux unix:1
-microsoft project:1
 ms project:1
 remedy:1
 word enterprise resource planning:1
@@ -352,49 +628,47 @@ technical proficiency in this assigned function and specialty:1
 eleven plus years of supply chain and procurement experience:1
 administrative skills:1
 highly motivated:1
-computer literate:1
 e mail:1
-forklift:1
 intel:1
-payroll:1
-router:1
 supervisory:1
-trauma:1
+leadership communication skills:1
+labor management skills:1
+budget management:1
+aviation administration:1
+safety management:1
+workplace safety:1
+rotary wing:1
+engine repair:1
+equal employment opportunity:1
+ground support equipment:1
+petroleum:1
+human factors:1
+transportation safety:1
+downstream:1
 book:1
 counseling:1
-interpretation:1
 teamwork:1
 blueprint:1
 business correspondence:1
 computer knowledge:1
 draw:1
-estimating:1
 firing:1
-government regulations:1
 organizer:1
 project planning:1
 promotion:1
-read:1
 catia v:1
-risk management:1
 audio:1
 excellent oral:1
-dependable:1
-marketing:1
 trade shows:1
 net:1
-api:1
 automate:1
 backup:1
 bash:1
 ecommerce:1
-engineer:1
 xml:1
 google analytics:1
 php:1
 javascript:1
-linux:1
-ms access:1
 microsoft office package:1
 mvc:1
 mysql:1
@@ -403,19 +677,15 @@ nosql:1
 object oriented:1
 oop:1
 page:1
-perl:1
 postgresql:1
 programming:1
 scripts:1
 script:1
 software engineering:1
 software testing:1
-sql:1
 system administration:1
-visual studio:1
 website design development:1
 electro mechanical skill:1
-trouble shooting:1
 installation of pipes and pumps:1
 design of controls for pumps and motors installation of swimming pool heaters:1
 shielded metal arc weld flat:1
@@ -427,17 +697,12 @@ aps:1
 cas impact:1
 csf:1
 aviation supply chain:1
-lean manufacturing:1
 materials microsoft excel:1
 a certification:1
-cisco:1
-hardware:1
 disaster recovery:1
 itil:1
-lan:1
 microsoft certified:1
 microsoft certified systems engineer:1
-microsoft windows:1
 network administrator:1
 network management:1
 network hardware:1
@@ -445,18 +710,13 @@ network design and implementation:1
 network security:1
 network troubleshooting:1
 novell netware:1
-optimization:1
 proxy:1
 system configuration:1
-technical documentation:1
 windows server:1
-customer service skills:1
 information technology:1
-regulatory compliance:1
 mainframes:1
 performance analysis:1
 policy development:1
-program management:1
 project coordination:1
 en route air traffic controller:1
 from august january:1
@@ -475,25 +735,20 @@ achieves business and individual developmental goals:1
 able to handle medical emergencies technical problems in a calm and professional manner:1
 commitment in outstanding customer service:1
 very flexible work ethic:1
-administrative duties:1
 copying:1
-special events:1
 fax:1
 medical emergencies:1
 typist:1
 ada:1
-cad:1
 design software:1
 eit:1
 excel vba:1
 layout:1
 macros:1
 microstation:1
-producing:1
 utilities:1
 vba:1
 visual displays:1
-data processing:1
 personnel development:1
 visiprise:1
 kronos:1
@@ -504,35 +759,25 @@ fuel systems:1
 powerplant:1
 blade track and balance:1
 vibration analysis:1
-leadership skills:1
 aircraft inspection:1
-flight controls:1
 hydraulic systems:1
 transmissions:1
 flightline maintenance:1
 intermediate maintenance:1
-assembly:1
-analyst:1
 computer programmer:1
-human resources:1
 public safety:1
 routing:1
 sorting:1
 system administrator:1
 hand power tools:1
 thoroughly inspects work:1
-problem solving:1
-secret clearance:1
+ctc:1
 ntcss:1
-technical publications:1
 six sigma green belt:1
 maintenance administration:1
-calculators:1
 information systems:1
 occupational safety:1
-real estate:1
 upper level management:1
-quality management:1
 tactical level analysis:1
 reconciliation budget management:1
 administrative management:1
@@ -543,17 +788,17 @@ strong attention to detail:1
 effective time manager:1
 training specialist certified:1
 instructional technologies knowledge:1
+photo:1
+bridges:1
+dec:1
+works:1
 state certified nurse assistant:1
 green belt for lean sigma:1
 health care provider cpr qualified:1
-accounting systems:1
-adp:1
 erp:1
-forklift operator:1
 preparing forms:1
 obligating funds:1
 innovation:1
-requirement:1
 wiring troubleshooting:1
 army ethos and structure:1
 basic forms interpretation:1
@@ -564,9 +809,63 @@ service and field technician skills:1
 test equipment operation:1
 electrical upgrades:1
 wiring diagnostics and repair:1
+executive summary:1
+financial analyst with extensive experience in all aspects of corporate expenses exceptional coaching:1
+leading departments and support operating budgets procedures in the development of financial forecasts:1
+guidelines and models of operational cost:1
+core qualifactions:1
+financial accounting procedures in corporate finance:1
+reporting and presentations:1
+procurement and pricing analysis:1
+sourcing strategies development:1
+performance optimization:1
+effective communication:1
+document reporting:1
+advanced with microsoft products for reporting and presenting:1
+bi:1
+corporate finance:1
+expense reporting:1
+financial accounting:1
+financial analysis:1
+analyze financial information:1
+financial analyst:1
+financial forecasting:1
+financial forecasts:1
+microsoft products:1
+nt:1
+month end close:1
+pricing analysis:1
+sourcing strategies:1
+annual reports:1
+logistics forecasting planning:1
+project manager:1
+purchasing procurement:1
+qa qc:1
+record organization maintenance:1
+multi site operations:1
+multi unit operations:1
+supply policies:1
+supply process and procedures:1
+customer support services:1
+data entry process:1
+documentation and record keeping proofreading editing:1
+file system development:1
+written and oral communication:1
+property book unit supply enhanced pbuse:1
+property managementprograms:1
+wbflis:1
+logdat:1
+logistics information warehouse liw:1
+ssn lin automated management integrating system slamis:1
+fedlog:1
+faast:1
+exchange pricing:1
+fmsweb:1
+general fund enterprise business system gfeb:1
+wright express wex planning future operations and managing current operations of a battalion and brigade level command post familiar with staff operations:1
+brigade combat teams and unit readiness ability to type wpm:1
 solid edge:1
 ug nx nx:1
-teamcenter:1
 digital engine visualization:1
 gd t:1
 fea ansys:1
@@ -576,13 +875,19 @@ adobe photoshop:1
 microsoft projects:1
 microsoft visio:1
 fea abacus:1
-data acquisition:1
 solid works:1
+administrative assistant:1
+bachelors:1
+interpersonal:1
+criminal justice:1
+general office:1
+lesson plan:1
+excellent people skills:1
+switchboard:1
+type wpm:1
 anesthesia:1
-presenting:1
 surgery:1
 therapy:1
-vital signs:1
 x rays:1
 windows office suites:1
 citrix:1
@@ -591,11 +896,28 @@ service now itsm:1
 aviation management:1
 flight of aircraft:1
 managerial strategic planning:1
+s lean kaizen principles:1
+compliance regulations:1
+identify analyze resolve problems:1
+supplier quality:1
+staff training and development:1
+policy reinforcement:1
+knowledge of quality systems:1
+audit coordination:1
+process control:1
+employee supervision:1
 budget analysis:1
 training development:1
 schedule management:1
 written and oral communication skills:1
 microsoft office suite expert:1
+hour current osha cfr hazardous waste:1
+adept multi tasker:1
+category mixed waste worker training:1
+life harness qualified:1
+u s navy article:1
+radiological control technician qualification:1
+respirator qualified:1
 experience in leadership:1
 quantitative skills:1
 improvement plan knowledge:1
@@ -605,31 +927,90 @@ quality assurance controls:1
 data evaluation:1
 intuitive:1
 multitasking capabilities:1
-benefits:1
-coaching:1
+substantial knowledge of all microsoft windows operating systems and ms office:1
+nx unigraphics:1
+moderate knowledge of computer networking including lan:1
+wlan:1
+domestic international regulatory compliance:1
+aircraft import export experience strong management complex problem solving skills:1
+d modeling:1
+catalogs:1
+civil aviation authority:1
+computer networking:1
+delivery documentation:1
+all microsoft:1
+windows operating systems:1
+process development:1
+sales support:1
 counselor:1
 human resource:1
-insurance:1
 personnel training:1
 recruiting:1
 recruiter:1
-selling:1
-seminars:1
 supply inventory:1
 wiring diagrams:1
+analytical skills:1
+chi:1
+ma:1
+physiology:1
+able to lift pounds:1
+careful and active listener:1
+strong public speaker:1
+the mathworks matlab:1
+energy management systems:1
+engineering software:1
+strong presentation skills:1
+operations research:1
+reliability testing:1
+geometric dimensioning:1
+material properties:1
+failure analysis:1
+product engineering:1
+d:1
+auditing:1
+data mining:1
+etl:1
+minitab:1
+modeling:1
+proofing:1
+rfp:1
+spc:1
+gps:1
+graphs:1
+inspects:1
+sop:1
 assembler:1
 lcd:1
 aims:1
-arbitration:1
 cash flow:1
-conferences:1
 council:1
 grants:1
 secretarial:1
 technical assistance:1
+ordnance:1
+airborne weapons:1
+aircraft mechanical:1
+corrosion:1
+corrosion control:1
+missile:1
+systems design:1
+weapon:1
+f:1
+pcs:1
+x ray:1
+acrobat:1
+adobe acrobat:1
+enterprise resource planning:1
+fedex:1
 research and design:1
 root cause failure modes and effects analysis:1
 lubrication:1
+vital signs patient monitoring:1
+electronic health record:1
+hippa regulations privacy:1
+patient safety care:1
+patient advocacy and support:1
+medication administration:1
 armed forces:1
 cable:1
 electrical engineering:1
@@ -645,7 +1026,6 @@ plc:1
 power distribution:1
 scada:1
 solidworks:1
-tomcat:1
 sae:1
 aircraft:1
 ohsa:1
@@ -668,13 +1048,17 @@ pumps:1
 compressors:1
 heat exchangers:1
 piping and electrical components within plant site:1
-dc:1
-electronics:1
-mathematics:1
-fm:1
+and powerpoint proficiency:1
+outstanding interpersonal skills:1
+issue resolution:1
+excellent analytical skills:1
+cooperative team member:1
+computer proficient:1
+extremely organized:1
+energetic and organized:1
+interpersonal skills:1
 asset management:1
 buying procurement:1
-invoicing:1
 material control:1
 bsi:1
 cost point:1
@@ -684,7 +1068,21 @@ proposal preparation:1
 provisioning:1
 training initiatives:1
 hazmat:1
-inspections:1
+cd:1
+desktops:1
+hard drive:1
+ide:1
+internet connectivity:1
+memory:1
+exchange server:1
+motherboards:1
+networking i:1
+nics:1
+pc hardware:1
+power supply:1
+sound cards:1
+video cards:1
+wan:1
 great people skills:1
 fueling aircrafts:1
 airport ramp knowledge:1
@@ -694,25 +1092,58 @@ aircraft knowledge:1
 invoice knowledge:1
 customer service experience:1
 aviation knowledge:1
-color:1
-painting:1
+fashion:1
 maintain files:1
-type:1
-welding:1
 accounts receivable:1
 accounts receivables:1
 advertising:1
 attorney:1
 drafting:1
-filing:1
 litigation:1
 excel spreadsheets:1
 paralegal:1
 phone system:1
 pos:1
 record keeping:1
-answering phones:1
 westlaw:1
+customer service specialist:1
+federal aviation administration faa regulations:1
+cabin technologies:1
+expert problem solver:1
+cpr certification:1
+multi line phones:1
+passion for travel:1
+general accounting:1
+business solutions:1
+business strategies:1
+good communication skills:1
+oral:1
+client management:1
+essays:1
+financing:1
+flight test management:1
+uas operations:1
+flight test engineering:1
+systems integration and test:1
+aircraft modification management:1
+concept:1
+conceptual design:1
+consultant:1
+fortran:1
+performance appraisals:1
+real time:1
+system integration:1
+telemetry:1
+test director:1
+vms:1
+avionics systems:1
+electrical components:1
+aircraft instruments:1
+process change and implementation:1
+maintenance management:1
+team leadership and training:1
+deadline adherence:1
+collateral duty inspector:1
 personable:1
 client relationships:1
 dedicated:1
@@ -720,8 +1151,6 @@ flexible:1
 adaptability:1
 ability to work under pressure:1
 ability to work on a team:1
-spreadsheet:1
-microsoft excel:1
 microsoft programs:1
 months experience in cbp seal process admin office work:1
 compiling information for applications:1
@@ -735,29 +1164,83 @@ professionally handling calls directing callers:1
 assisting senior managers with office needs such as copying:1
 computer input:1
 uniform issuing and sorting:1
+computer proficiency:1
+coordination:1
+creative problem solving:1
+customer needs assessment:1
+data collection:1
+executive management support:1
+grammar:1
+internet research:1
+letters and memos:1
+multi task management:1
+prioritization:1
+proofreading:1
+reading comprehension:1
+report transcription:1
+telephone skills:1
+travel booking:1
+travel planning:1
+vendor management:1
 coding:1
-accounting system:1
-multi tasking:1
+server side:1
+technologies servlets:1
+jsp:1
+j ee technologies:1
+hibernate x:1
+jpa:1
+spring:1
+struts:1
+ejb:1
+jms:1
+design patterns:1
+client side:1
+scripting html:1
+java script:1
+angularjs:1
+jquery and bootstrap:1
+consuming and producing soap and restful web services xml and json:1
+c unix system programming:1
+cuda:1
+data structures:1
+operating system concepts:1
+multicore and multi threaded programming:1
+tools:1
+eclipse:1
+iometer:1
+code warrior:1
+vi editor:1
+arduino:1
+oracle g:1
+code blocks:1
+iscsi initiator:1
+netapp internal tools:1
+navicat:1
+jconsole:1
+jmeter:1
+jboss:1
+git:1
 underwriter:1
 underwriting:1
 verbal communication skills:1
-security:1
+accountancy:1
+business plan:1
+contract negotiation:1
+senior management:1
+conversational french:1
+italian:1
+reception:1
+websites:1
 apqp:1
 circuits:1
-operations:1
 clinical trial:1
 fda:1
-associate:1
 janitorial duties:1
 analog:1
-cabling:1
-calendaring:1
-cashier:1
 cdl:1
 cellular:1
 clean room:1
 data warehouses:1
-employee relations:1
 fitter:1
 invoices:1
 landscaping:1
@@ -770,42 +1253,103 @@ org development:1
 organizational development:1
 posting:1
 purchase orders:1
-retail:1
-retail marketing:1
-retail sales:1
-san:1
-sheet metal:1
 short term disability:1
 solder:1
 splicing:1
 std:1
-storage area network:1
 technical writer:1
 ups:1
 wireless:1
-nas:1
 network attached storage:1
 military aircraft:1
-account management:1
-negotiation:1
+clinical administrative skills:1
+phlebotomy:1
+ekg s:1
+urinalysis:1
+pharmacology:1
+clinical asepsis:1
+health insurance:1
+filing appointment scheduling:1
+ms word ms excel ms powerpoint:1
+trustworthy:1
+hard working:1
 self starter:1
+antivirus:1
+budget planning:1
+cat:1
+electronic mail:1
+hp ux:1
+windows platform:1
+network administration:1
+peripherals:1
+switch:1
+software support:1
+trend:1
+dts:1
+police:1
+surveys:1
 business process improvement:1
-change management:1
-continuous improvement:1
 cost reduction:1
-driving:1
-forecasting:1
-funds:1
 managing inventory levels:1
 materials management:1
-negotiating:1
-performance management:1
-presentations:1
-proposal:1
 warehousing:1
 balance budgets:1
 personnel policies:1
-program development:1
+fiber optics repair technical skill set formal training learjet:1
+piper cherokee:1
+aerocommander:1
+and cessna airframe and powerplant systems general inspections:1
+and airworthiness determinations made on aircraft utilizing technical publications:1
+far s:1
+manufacturer maintenance manuals:1
+part catalogs and schematics completed logbook and paperwork documentation powerplant performed inspection:1
+repair:1
+installation and troubleshooting on turbine:1
+turboshaft:1
+reciprocating engines:1
+and systems therein including induction:1
+ignition:1
+communication navigation:1
+ice and rain:1
+instruments and apu airframe performed maintenance and inspections on hydraulic pneumatic systems:1
+and interiors fabricated airfoils sheet metal and composite from blue print drawings performed registration marking and painting of aircraft surfaces:1
+airframe:1
+security guard:1
+cash:1
+cash register:1
+of sales:1
+sales associate:1
+sales floor:1
+the sales:1
+games:1
+fiber optic:1
+faa:1
+kaizen:1
+mapping:1
+process controls:1
+actuators:1
+seats:1
+fcc:1
+airfoils:1
+apu:1
+aviation electronics:1
+black belt:1
+e:1
+e carrier:1
+fiber optics:1
+hydraulic pneumatic:1
+induction:1
+operators license:1
+optics:1
+ordering points to identify the clustering structure:1
+advanced vocabulary and reading comprehension skills:1
+college level mathematics skills intermediate algebra and statistics:1
+collaborative and successful in team environments:1
+client customer focused:1
+organized and task oriented:1
+professional:1
+responsible and dependable:1
+typing words a minute:1
 ability to lead:1
 motivate and build successful teams:1
 understand all legal:1
@@ -816,36 +1360,65 @@ achieving targets in a dynamic and complex business environment team leading peo
 able to manage and develop a diverse group of highly skilled people:1
 a pragmatic approach to getting the required results:1
 ability to manage operations within budgetary constraints:1
+b b strategic selling:1
+business development and planning:1
+territory management:1
+market research:1
+growth oriented:1
 client relations software dynamics crm:1
 desktop publishing software photoshop:1
 microsoft ms access:1
-ms excel:1
-ms outlook:1
 ms power point:1
 microsoft publisher:1
-ms word:1
 business management software erp netsuite:1
+aia:1
+business plans:1
+controller:1
+database administration:1
+database development:1
+focus:1
+hvac:1
+mark:1
+mod:1
+occupational health:1
+risk assessment:1
+system design:1
+systems engineering:1
+systems support:1
 blue print reading:1
 cnc:1
 lathes:1
 machining:1
 forklifts:1
-iso:1
-organizing:1
+a certified:1
+backup hardware:1
+computer troubleshooting:1
+client support:1
+dhcp:1
+file servers:1
+ip configuration:1
+mcse:1
+network security routing:1
+tcp ip protocol:1
 dedication to customer service:1
 often remaining flexible with availability to accommodate as many customers as possible:1
 proven competency in learning all aspects of state and federal regulations:1
 and ensuring compliance from those i work with:1
 accepts challenges with no hesitation never retreated from opportunities of greater responsibility:1
 exceptional ability to recognize potential problems and work to resolve them quickly and discreetly affirming the customers confidence:1
+graphics:1
+graphic:1
+human relations:1
+hyperion:1
+i:1
+negotiations:1
+workshops:1
+software installation:1
+user training:1
 customer care:1
 fundraising:1
 interior design:1
 marketing materials:1
 norton:1
-quickbooks:1
 sage:1
 strategic plans:1
-teaching:1
-travel arrangements:1
-vista:1

@@ -1,179 +1,401 @@
-customer service:13
-excel:13
-microsoft office:11
-arts:10
-sales:10
-word:10
-research:8
-microsoft word:8
-teaching:7
-time management:7
-english:7
-marketing:7
-instruction:6
-reading:6
-workshops:6
-progress:6
-meetings:6
-inventory:6
-documentation:6
-outlook:6
-access:6
-photoshop:5
-problem solving:5
-materials:5
-clients:5
-powerpoint:5
-training:5
-recruitment:5
-contracts:5
-html:5
-power point:5
-team building:4
-scheduling:4
-teacher:4
-publisher:4
-managing:4
-receiving:4
-art:4
-illustrator:4
-instructor:4
-academic:4
-leadership:4
-retail sales:4
-receptionist:4
-pricing:4
-human resources:4
+arts:22
+customer service:22
+excel:21
+sales:18
+microsoft office:17
+teaching:17
+research:15
+instruction:14
+microsoft word:14
+access:14
+word:14
+marketing:13
+academic:12
+powerpoint:12
+english:12
+progress:11
+meetings:11
+basic:11
+leadership:11
+reading:11
+budget:10
+database:10
+scheduling:10
+time management:10
+workshops:10
+documentation:10
+outlook:10
+inventory:9
+teacher:9
+art:9
+materials:8
+quality:8
+contracts:8
+training:8
+publisher:8
+clients:8
+office:8
+filing:8
+receiving:7
+safety:7
+photoshop:7
+project management:7
+problem solving:7
+billing:7
+credit:7
+director:7
+phone:7
+fundraising:7
+policies:7
+team player:7
+html:7
+power point:7
+illustrator:6
+coaching:6
+administrative:6
+advertising:6
+critical thinking:6
+mentoring:6
+processes:6
+logistics:6
+retail sales:6
+team building:6
+client:6
+managing:6
+website:6
+data entry:6
+instructor:6
+recruitment:6
+human resources:6
+indesign:5
+special events:5
+leadership skills:5
+presentations:5
+budgets:5
+receptionist:5
+supervision:5
+legal:5
+telephone:5
+content:5
+email:5
+pricing:5
+insurance:5
+spreadsheets:5
+mail:5
+great organizational skills:4
+photography:4
+desktop publishing software photoshop:4
+microsoft office suite:4
+quality control:4
+financial:4
+hiring:4
+lesson plans:4
+shipping:4
+supervisor:4
+forms:4
+unique:4
+math:4
+painting:4
+enthusiastic people person:4
+classroom management:4
+management:4
+seminars:4
+websites:4
+letters:4
+creative writing:4
+self motivated:4
+personnel:4
+written:4
+next:4
+multi tasking:4
+networking:4
+performance management:4
+key:4
+liaison:4
+troubleshooting:4
+programming:4
+cpr:4
+telephones:4
+coding:4
+notes:4
+works:4
+quickbooks:4
+recruiting:4
+asr:4
+series:4
+faxing:4
+cpt:4
+icd:4
 advanced problem solving:3
-great organizational skills:3
-management:3
-safety:3
-letters:3
-presentations:3
+drawing:3
+inventory control:3
+purchasing:3
+sap:3
+approach:3
+organizational skills:3
+inventory management:3
+maintenance:3
+operations:3
+payroll:3
+accounting:3
+finance:3
+sales and:3
+strong communication skills:3
+canvas:3
 promotion:3
 read:3
-supervisor:3
-fundraising:3
-mentoring:3
-basic:3
-office:3
-personnel:3
+strategy:3
+short stories:3
+lesson planning:3
+data analysis:3
+multi task management:3
+creative problem solving:3
+branding:3
+c:3
+image:3
 public relations:3
-quality:3
-liaison:3
-critical thinking:3
-email:3
-billing:3
+retail:3
+employee relations:3
+microsoft excel:3
+organizational:3
+ca:3
+focus:3
+mac:3
+organizing:3
+microsoft office proficiency:3
 business development:3
-team player:3
+invoicing:3
 teamwork:3
-budget:3
-cpr:3
-leadership skills:3
-shipping:3
-telephones:3
-insurance:3
-policies:3
-quickbooks:3
-filing:3
+enterprise:3
+council:3
+newsletter:3
+security:3
+citrix:3
+ad:3
+conferences:3
+packaging:3
+producing:3
+clerical:3
+windows:3
+staffing:3
+attention to detail:3
+grants:3
+databases:3
+directing:3
+inspection:3
+type:3
+ada:3
+ospf:3
+bgp:3
+cisco ios:3
+cisco:3
+hr:3
+benefits:3
 project manager:3
-database:3
-data entry:3
-phone:3
-drawing:2
-enthusiastic people person:2
-classroom management:2
-inventory management:2
+graphic arts:2
+wordpress:2
+ordering:2
+food safety:2
+latin:2
+mentor:2
+psychology:2
+mathematics:2
+sat:2
+scientific:2
+staff development:2
+structured:2
 communication:2
-lesson plans:2
+drivers:2
+invoices:2
+satisfaction:2
+procurement:2
+change management:2
 public speaking:2
-math:2
+spanish:2
 tutoring:2
-creative writing:2
 delivery:2
-short stories:2
-multi task management:2
-creative problem solving:2
-advertising:2
+fiction:2
+poetry:2
+speech:2
+analytical skills:2
+strategic marketing:2
+conflict resolution:2
+coach:2
+counseling:2
+crisis management:2
+office manager:2
+community relations:2
+auditing:2
 consultant:2
 customer relations:2
-image:2
 monitors:2
-next:2
-processes:2
-telephone:2
-indesign:2
-website:2
-written:2
-project management:2
-employee relations:2
+repairs:2
+preventative care:2
 risk management:2
+data collection:2
+features:2
+functional:2
+logging:2
+qa:2
+servers:2
+process improvement:2
+selling:2
+technical support:2
+writing skills:2
+telephone skills:2
 simulation:2
 testing:2
 associate:2
 personnel management:2
-lesson planning:2
 microsoft outlook:2
-ca:2
+excel spreadsheets:2
+professional and mature:2
 account management:2
-invoicing:2
-supervision:2
-special events:2
-newsletter:2
-sales and:2
-security:2
-microsoft excel:2
-credit:2
+cpr certified:2
+edge:2
+network:2
+quality assurance:2
+adobe creative suite:2
+twitter:2
+administrative support:2
+graphic design:2
+mailing:2
+promotional materials:2
+leadership communication skills:2
+negotiating:2
+reconciling:2
+cash register:2
+cash handling:2
+multi tasker:2
 answering:2
-windows:2
-accounting:2
-administrative:2
-budgets:2
-logistics:2
-notes:2
-works:2
-sap:2
-staffing:2
+general office duties:2
+statistics:2
+mysql:2
+dynamic html:2
+illustration:2
+dreamweaver:2
+photo:2
+brochures:2
+catalogs:2
+sc:2
+ftp:2
+customer services:2
+information technology:2
+travel arrangements:2
+publicity:2
+streamline:2
+ar:2
+protocols:2
+problem resolution:2
+increase:2
+budget management:2
 suicide risk assessments:2
+exceptional problem solver:2
 public relations software bacon s mediasource:2
 factiva:2
-desktop publishing software photoshop:2
 fast paced worker:2
-attention to detail:2
 editing:2
-troubleshooting:2
 web design and graphic design:2
-grants:2
-spreadsheets:2
 cost analysis:2
-key:2
-databases:2
-inspection:2
-director:2
-type:2
-hr:2
+etc:2
+supervising:2
+funds:2
+government:2
+profit:2
+promotional material:2
+composition:2
+drafting:2
+persuasion:2
+eigrp:2
+route redistribution:2
+acls:2
+policy based routing:2
+nat:2
+pat:2
+switching hsrp:2
+vrrp:2
+glbp vlans:2
+vtp:2
+link aggregation lacp:2
+pagp:2
+stp:2
+pvst:2
+firewalls palo alto:2
+cisco asa:2
+check point:2
+routers cisco routers:2
+catalyst:2
+nexus:2
+switches cisco switches nexus series:2
+catalyst series:2
+security concepts app id:2
+user id:2
+wildfire:2
+globalprotect:2
+url filtering:2
+blue coat proxy:2
+pki:2
+ssl decryption:2
+ike:2
+ipsec:2
+hip checks:2
+site to site vpns:2
+load balancers f big ip ltm gtm:2
+citrix netscaler:2
+wireless networking cisco meraki:2
+aruba:2
+clear pass:2
+cisco wlan:2
+wireless aps:2
+x a b g n ac:2
+software applications panorama:2
+nx os:2
+smart dash board:2
+vmware:2
+tools splunk:2
+solar winds:2
+sevone:2
+wireshark:2
+ms visio:2
+lucid chart:2
+bmc remedy:2
+fast:2
 compensation:2
-benefits:2
 employee benefits:2
-payroll:2
 terminations:2
 client relations:2
-ada:2
 flsa:2
 fmla:2
 new hires:2
+highly organized:2
 microsoft project:2
 ms office:2
+customer service skills:2
 tables:2
+modern:2
+ballet:2
 excellent multitasker:2
 simultaneously:2
 administrative assistant:2
-faxing:2
+color:2
+publications:2
 sales software salesforce com:2
 electronics:2
+ink:2
 money:2
+act:2
+vendor management:2
 sharepoint:2
-clerical:2
+exceptional communication skills:2
+quick learner:2
+copying:2
+medical terminology:2
+film:2
+television:2
+faxes:2
+copiers:2
+scanners:2
+self directed:2
 valid and current teaching certification in florida earth space science:1
 art k:1
 elementary education k:1
@@ -182,12 +404,10 @@ people skills enthusiastic people person:1
 art education curriculum design and development:1
 goal setting and leadership and organizational skills:1
 instructional skills in mural painting:1
-photography:1
 hand built ceramics:1
 claymation:1
 computer animation:1
 serrigraphy:1
-graphic arts:1
 lesson plan development utilizing creative problem solving skills:1
 proficient in moodle:1
 sphere video creation and google classroom:1
@@ -208,6 +428,36 @@ analyzed data trends from assessments:1
 worked collaboratively as member of professional learning community plc:1
 developed assessments to adhere to state testing format:1
 functionality and common core standards:1
+outstanding sight reader:1
+piano accompanist:1
+vocal coach:1
+sales software showare:1
+audio video software pro tools:1
+qlab:1
+adobe premiere:1
+over years of supervisor experience:1
+this includes production operations:1
+export and domestic shipping:1
+budgeting and distribution also responsible for inventory in system applications and products sap:1
+conduct inventory plans and select teams for a monthly cycle count of over materials:1
+supervise while earning respect from others:1
+maintain transactions in sap for all warehouse:1
+shipping and inventory functions:1
+sap system knowledge:1
+computer:1
+small and larger appliances:1
+maintain timeliness and quality in high volume kitchen:1
+strong leadership skills:1
+very skillful in teaching:1
+motivating:1
+training employees and students:1
+budgeting:1
+training employees:1
+international business:1
+therapeutic interventions:1
+balance:1
+oral:1
+wordperfect:1
 word processing programs:1
 mac and windows proficient:1
 excellent classroom management:1
@@ -216,23 +466,27 @@ educational leadership:1
 variety of teaching strategies:1
 multimedia teaching and learning:1
 inquiry based learning:1
+basis:1
+translated:1
+buying procurement:1
+exceed:1
+accounting and finance:1
+and marketing:1
+business management:1
+problem solver:1
+msm:1
+human resource management:1
+mba:1
 ap style:1
 mla style:1
-canvas:1
 goal setting:1
 health and safety standards:1
 meeting leader:1
 windows operating systems:1
 project planning:1
 researching:1
-seminars:1
-structured:1
-websites:1
-latin:1
 logic:1
-spanish:1
 spanish language:1
-strategy:1
 vista:1
 research journal databases:1
 writing apa style:1
@@ -245,21 +499,52 @@ evaluating and analyzing data:1
 typing:1
 powerpoint presentations:1
 excel spreadsheet:1
+helping student learn how to apply their faith to critically engage the world:1
+identify how our culture and the society subtlety challenge our faith:1
+identify and explaining the forces and trends that propel human history:1
+instructional planning and implementation:1
+differentiating instruction to address students learning styles:1
+challenging students to pursue excellence in all things:1
+assist students in developing a dynamic and personal writing style:1
 ba:1
-fiction:1
 novels:1
-poetry:1
-psychology:1
-speech:1
+student records management:1
+differentiated instruction:1
+group and individual instruction:1
+conflict resolution techniques:1
+flexible adaptable:1
+interpersonal communication:1
 program development:1
 goal setting and implementation:1
-community relations:1
-auditing:1
-branding:1
+virology:1
+molecular biology:1
+cell culture techniques:1
+chemistry:1
+dna sequencing:1
+scientific writing:1
+molecular biology techniques:1
+real time pcr:1
+rt pcr:1
+sample preparation:1
+assay design:1
+assay development:1
+assay troubleshooting:1
+scientific presentations:1
+leadership sales:1
+time and territory management:1
+process implementation:1
+strong verbal communication:1
+extremely organized:1
+advisement:1
+community health:1
+counselor:1
+crisis intervention:1
+educator:1
+team lead:1
+law:1
+legal documents:1
 business administration:1
-c:1
 cable:1
-client:1
 client liaison:1
 direction:1
 financial statements:1
@@ -267,8 +552,6 @@ employee management:1
 market:1
 page layout:1
 project design development:1
-repairs:1
-retail:1
 strategic:1
 supervisory:1
 user interface design:1
@@ -278,6 +561,32 @@ adobe:1
 com:1
 exhibitions:1
 sculpture:1
+handed dentistry:1
+instrument sterilization:1
+diagnostic x rays:1
+infection control:1
+ortho:1
+emergency treatments:1
+prosthetics restorations:1
+prep for oral surgery:1
+bleaching trays:1
+casts impressions:1
+patient education:1
+prepare tray setups for dental procedures:1
+obtain dental records prior to appointments:1
+prepare patients for procedures ensure comfort and develop trust calm distressed patients instruct patients on postoperative and general oral health care:1
+oversee cleanliness of operatories and instruments insure safe sanitary conditions using the autoclave:1
+ultrasonic and dry heat instrument sterilization:1
+assist dentist with extractions:1
+fillings:1
+rcts:1
+implants:1
+crown preps:1
+assist hygiene and srp cases:1
+eaglesoft:1
+dentrix:1
+open dental:1
+exceptional phone etiquette:1
 project coordination:1
 administrative functions:1
 content creation:1
@@ -289,10 +598,61 @@ learning mangement system:1
 learning technologies:1
 technology integration:1
 online programs:1
+macintosh and pc:1
+microsoft power point:1
+google drive:1
+word press godaddy website builder:1
+calm conflict resolution:1
+working under pressure:1
+clear written and spoken communication:1
+promoting:1
+active learner:1
+d:1
+alpha:1
+animation:1
+ai:1
+client server:1
+codebase:1
+debugging:1
+editor:1
+game design:1
+navigation:1
+developer:1
+physics:1
+real time:1
+script:1
+telemetry:1
+workflow:1
+banking:1
+oral communication:1
+decision making:1
+general ledger:1
+reporting:1
+service level agreements:1
+highly accountable and experienced in operational effectiveness:1
+performance improvement initiatives:1
+bsa compliance:1
+regulatory and audit procedures excellent research and analytical skills:1
+process development:1
+and delivering exceptional customer service ability to acquire technology quickly and proficient with various banking and credit union internal financial systems:1
+banking systems:1
+credit union systems epysis symitar:1
+meridian link:1
+star network:1
+patriot officer:1
+visa:1
 great a building a rapport with students:1
-writing skills:1
 creating small interest groups for students great consultant for staff members:1
-operations:1
+excel powerpoint:1
+keynote:1
+notary years:1
+proofreading:1
+proficient in spanish:1
+strengths finders results:1
+includer:1
+achiever:1
+responsible:1
+disciplined consistent:1
 training programs:1
 case management:1
 armor:1
@@ -301,32 +661,67 @@ needs assessment:1
 trading:1
 curriculum:1
 literacy:1
-organizational:1
 reading comprehension:1
 travel planning:1
 writing:1
-coaching:1
-content:1
 csu:1
 filemaker pro:1
-focus:1
-mac:1
-mathematics:1
 internet search engines:1
-organizing:1
 report writing:1
-staff development:1
 training materials:1
+meticulous attention to detail:1
+travel administration:1
+strong problem solver:1
+customer service oriented:1
+meeting planning:1
+msoffice powerpoint:1
+word excel:1
 articulate:1
 interpersonal skills:1
 emergency preparedness:1
-networking:1
 operations management:1
 public speaker:1
 phone answering:1
 political communication:1
 community outreach:1
-cpr certified:1
+billing system:1
+competitive:1
+hardware:1
+consulting:1
+database programming:1
+e commerce:1
+filemaker:1
+mvs:1
+team leadership:1
+new business development:1
+novell network:1
+sales manager:1
+system integration:1
+desktop support:1
+google apps:1
+facebook:1
+instagram:1
+pinterest:1
+tumblr:1
+google:1
+youtube:1
+blogger:1
+vertical response:1
+constant contact:1
+raiser s edge:1
+proclass:1
+campuscafe:1
+retailpro:1
+ils:1
+rentrak additional workshops visual thinking strategy:1
+arts healthcare:1
+community art projects:1
+art storytelling:1
+encaustic painting:1
+ceramics:1
+printmaking:1
+event planning and management:1
+marketing strategy:1
 set and design:1
 peer counseling:1
 dramatic theater:1
@@ -347,13 +742,14 @@ affinity for logic and working independently proactive:1
 self sufficient:1
 and self motivated:1
 bi:1
-coach:1
-council:1
 cpt certified with nasm:1
 adult and pediatric cpr aed:1
+customer oriented:1
+training and development:1
+performance evaluations:1
+book:1
 cash:1
 in sales:1
-reconciling:1
 sales activities:1
 security practices:1
 medical assistant:1
@@ -361,21 +757,50 @@ fulfillment:1
 material flow:1
 medical assistant diploma:1
 fda:1
-quality assurance:1
-cash register:1
-cash handling:1
 excellent multi tasker:1
-multi tasker:1
 osha certificate:1
-strong communication skills:1
 promote sales:1
 sales associate:1
 dictation:1
 general office:1
-general office duties:1
 laboratory:1
 medical records:1
-statistics:1
+adobe cs acrobat:1
+illustrator photoshop dreamweaver:1
+microsoft office excel:1
+access powerpoint:1
+retrieve:1
+oil and acrylic painting:1
+drawing mural work:1
+tile working:1
+furniture restoration and re invention:1
+basic knowledge of javascript and eclipse:1
+painting with acrylic and oils:1
+the creative suite adobe cs:1
+banners:1
+billing systems:1
+cancer:1
+catalog:1
+concept:1
+creativity:1
+data analyst:1
+data warehousing:1
+eclipse:1
+javascript:1
+layout and design:1
+logo creation:1
+maple:1
+marketing materials:1
+oil:1
+proofing:1
+shorthand:1
+web site design:1
+comptia project certification:1
+cis web design specialist certification:1
+closing:1
+financial planning:1
+grant applications:1
+reception:1
 knowledge of telecom industry:1
 experience in way radio systems:1
 satellite systems and fcc faa:1
@@ -386,7 +811,6 @@ active directory:1
 tcp ip networking:1
 tablet technologies:1
 smartphone technologies:1
-microsoft office proficiency:1
 messaging technologies including but not limited to exchange and smtp:1
 wireless technologies:1
 vpn technologies:1
@@ -394,12 +818,18 @@ pc security:1
 telecommunications:1
 web technologies:1
 video conferencing:1
+relationship building and networking:1
+policy and procedure adherence:1
+common core learning standards:1
+group facilitation and presentations:1
+elementary:1
+middle:1
+and high school education:1
+high performance standards:1
 skills:1
 social media tools and management facebook:1
-twitter:1
 hootsuite:1
 medium com:1
-publicity:1
 video and audio production:1
 tech savy:1
 interests and hobbies:1
@@ -412,26 +842,31 @@ video games and etc:1
 computer hardware and software:1
 and music theory:1
 ap ar:1
-streamline:1
 ap:1
-ar:1
 ceridian:1
-conferences:1
 excellent customer service:1
 forecasting:1
 gross profit:1
 ie:1
-inventory control:1
 iso:1
-packaging:1
 payables:1
-procurement:1
 marketing and product:1
-protocols:1
-purchasing:1
-qa:1
 sop:1
 supply chain:1
+self starter:1
+collaboration and coordination:1
+service orientation:1
+collections:1
+video teleconferencing:1
+cases:1
+compressors:1
+control systems:1
+fire control:1
+generators:1
+industrial machinery:1
+interior renovations:1
+preventive maintenance:1
+logistics management:1
 knowledge of the ins and outs of child protective services cps:1
 practiced in family assessments:1
 family therapy aptitude:1
@@ -448,7 +883,6 @@ outreach programming specialist:1
 solution focused counseling:1
 extensive dsm iv knowledge:1
 clinical documentation mastery:1
-exceptional problem solver:1
 member of the national association of social workers n a s w:1
 mood disorders specialist:1
 dual diagnosis expertise:1
@@ -476,28 +910,89 @@ meeting minutes:1
 job descriptions:1
 policies and procedures:1
 handbooks:1
-etc:1
 accounts payable:1
 back up:1
 book keeping:1
 copy writing:1
-directing:1
 edit:1
 final cut pro:1
-financial:1
 inspects:1
-legal:1
 new construction:1
 camera:1
 researches new products:1
 producer:1
 proposals:1
-supervising:1
 swing:1
 video:1
 video production:1
 videography:1
 videographer:1
+curriculum development:1
+educational programs:1
+author:1
+essays:1
+instructional design:1
+shell:1
+routing eigrp:1
+risk management processes and analysis:1
+ads:1
+anti virus:1
+antivirus:1
+aps:1
+cabling:1
+cli:1
+cisco routers:1
+encryption:1
+decryption:1
+designing:1
+dhcp:1
+disaster recovery:1
+engineering support:1
+ethernet:1
+event management:1
+firewalls:1
+firewall:1
+frame relay:1
+gateways:1
+gateway:1
+gui:1
+ids:1
+ip:1
+lan:1
+loss prevention:1
+migration:1
+nac:1
+network access control nac:1
+network administration:1
+network servers:1
+networks:1
+os:1
+optimization:1
+pci:1
+policy analysis:1
+proxy:1
+requirement:1
+router:1
+routers:1
+routing:1
+snmp:1
+ssl:1
+switches:1
+cisco switches:1
+tcp ip:1
+technical assistance:1
+technical documentation:1
+troubleshoot:1
+upgrades:1
+upgrading:1
+view:1
+vpn:1
+visio:1
+vm:1
+web servers:1
+wide area network:1
+wan:1
+wireless lan:1
 operating systems windows and below:1
 databases constant contact:1
 connectwise:1
@@ -517,23 +1012,15 @@ new hire orientation:1
 payroll processing:1
 performance appraisal:1
 personnel records:1
-recruiting:1
-increase:1
-finance:1
-office manager:1
 accounts and:1
-problem resolution:1
 product sales:1
-satisfaction:1
 employee engagement:1
 hr issues:1
 labor laws:1
 managerial:1
-performance management:1
 claims:1
 compensation and benefits:1
 excellent written:1
-highly organized:1
 very organized:1
 workers compensation:1
 mitigation:1
@@ -542,9 +1029,20 @@ hris:1
 human resources management:1
 ms project:1
 ms publisher:1
+patient:1
+goal oriented:1
 people and goal oriented:1
 proven ability to mentor and coach:1
 verbal and written communications:1
+new hire on boarding:1
+training solutions development:1
+budget planning:1
+conversion:1
+document management:1
+file management:1
+ledger:1
+ucc:1
+year end:1
 good written communication skills:1
 working knowledge of wordpress and photoshop:1
 pr and marketing experience:1
@@ -554,9 +1052,24 @@ experience with banner:1
 patriot web:1
 live and eva purchasing systems:1
 familiarity with fundraising and development tactics:1
-customer service skills:1
 cycle counting:1
 supervisory skills:1
+counseling skills eclectic theoretical approach client centered therapy:1
+gestalt therapy:1
+dbt dialectical behavior therapy:1
+cbt cognitive behavior therapy:1
+mindfulness:1
+and expressive therapies:1
+interpersonal skills empathetic:1
+compassionate:1
+creative and open minded:1
+expressive arts therapy dance movement:1
+music:1
+drama:1
+dance creative movement:1
+jazz and tap:1
+computer skills proficient in microsoft office suite word:1
+google docs and avator:1
 healthcare:1
 cobra:1
 reconciliation:1
@@ -596,7 +1109,14 @@ management experience for up to people on manufacturing floor installation of un
 ability to install and operate electrical products such as meter centers and panels:1
 ability to favorably introduce change in the workplace environment:1
 pipe fitter:1
-sc:1
+carpentry:1
+equity:1
+inspector:1
+philosophy:1
+theatre:1
+toad:1
+video editing:1
+website design:1
 firing:1
 microsoft office programs:1
 weapons:1
@@ -614,14 +1134,11 @@ very friendly and patient especially for animals:1
 very friendly toward people as well because of all my experience in retail i am very patient:1
 i have always been organized and very hardworking:1
 computer knowledge:1
-conflict resolution:1
 customer satisfaction:1
 fax:1
-ink:1
 management skills:1
 peak:1
 record keeping:1
-selling:1
 staff management:1
 phone skills:1
 upgrade:1
@@ -629,6 +1146,21 @@ web page:1
 fluent in spanish:1
 communication and verbal skills:1
 fast learner:1
+mac and pc word:1
+strong internet and research experience:1
+specialized training seminars tqm management lift truck certify safety awareness customer service training osha certification hazmat training trade and consumer show production management extensive sales and advertising seminars and training:1
+shipping and receiving:1
+safety oriented:1
+production scheduling:1
+results oriented:1
+fluent in language:1
+safety conscious:1
+customer service focused:1
+adaptable:1
+natural leader:1
+computer experience:1
+customer service training:1
+tqm:1
 knowledge in c:1
 java:1
 ruby:1
@@ -640,10 +1172,11 @@ basic data structure construction and management:1
 advanced calculus:1
 discrete mathematics:1
 linear algebra:1
-ballet:1
+professional and friendly:1
+careful and active listener:1
+strong public speaker:1
 pointe:1
 contemporary:1
-modern:1
 jazz:1
 tap:1
 musical theatre:1
@@ -661,35 +1194,51 @@ teamwork communication:1
 program management:1
 family and children s programs knowledge:1
 exemplary people management skills:1
-exceptional communication skills:1
 hipaa guidelines:1
 google docs:1
 google sheets:1
 spss statistic software:1
 sap accounting software:1
 accounting software:1
-cpt:1
-icd:1
 marketing strategies:1
 microsoft access:1
 office management:1
-coding:1
 scanning:1
 spss:1
 therapy:1
 jd edwards business intelligence argus microsoft word:1
 excel and powerpoint onbase sap as:1
+general administrative:1
+experienced in handling escalated phone calls:1
+ability to operate multi line phone system:1
+front office knowledge general reception skills:1
+proficient in scheduling appointments collecting copays verifying insurance:1
+eligibility:1
+consent forms:1
+experience in epic emr system:1
+proficient in patient focused care:1
+efficient and reliable team player:1
+core competencies:1
+excellent telephone etiquettes:1
+skilled in handling multiple tasks and working under pressure:1
+customer service assistance and quality assurance experience:1
+knowledge of medical terminology:1
+medical billing coding:1
+creative and strong problem solver:1
+ms windows proficient:1
+medical terminology knowledge:1
+charts:1
+cpi:1
+graphic:1
+keyboarding:1
+nursing:1
 agency:1
 cashier:1
 cash registers:1
-color:1
 resolve customer complaints:1
-customer services:1
 experiment:1
 fashion:1
-film:1
 financing:1
-forms:1
 government regulations:1
 instructing:1
 lighting:1
@@ -697,40 +1246,49 @@ listening:1
 machinery:1
 serve meals:1
 mechanical:1
-mail:1
 negotiation:1
 paint:1
-persuasion:1
 public safety:1
 speaking:1
-quality control:1
 maintain records:1
 renovation:1
 repairing:1
 sound:1
 take messages:1
-television:1
 active learning:1
 calendaring:1
 computer proficiency:1
 coordination:1
 customer needs assessment:1
-data collection:1
 executive management support:1
 filing internet research scheduling spreadsheets:1
-telephone skills:1
-vendor management:1
 letters and memos:1
-microsoft office suite:1
 organizational skills and prioritization:1
+microsoft office products such as word:1
+and powerpoint:1
+can type words per minute:1
+experience with face to face customer service interaction:1
+experience with communications with external clients via email and conference calling:1
+can create and maintain detailed records of any given project or task:1
+some experience with mailroom machines envelope cutters:1
+experience reading medical documents insurance forms:1
+eobs:1
+procedure notes:1
+strong experience with medical coding icd:1
+hcpcs ii:1
+and medical terminology:1
+intermediate experience with icd coding:1
+ask:1
+computer networking:1
+diagnosis:1
+medical coding:1
+microsoft office products:1
+payment processing:1
 fedex:1
 invoice:1
-invoices:1
 cyber security:1
 microsoft sharepoint:1
-maintenance:1
 clo:1
-drafting:1
 publishing:1
 event planning:1
 marketing analysis:1
@@ -739,17 +1297,50 @@ weddings:1
 arrangements:1
 nas:1
 network attached storage:1
-travel arrangements:1
 vouchers:1
 clerk:1
 printing:1
 adobe photoshop:1
 e mail:1
 adobe illustrator:1
+communication skills:1
+relationship building:1
+strategic planning:1
+vision planning:1
+advertisements:1
+clientele:1
+first aid:1
+hebrew:1
+negotiations:1
+internet research:1
+police:1
+well organized:1
+page:1
+direct mail:1
+human resource:1
+posters:1
+thai:1
+transportation:1
+dedicated team player:1
+spreadsheet development:1
+mail management:1
+resourceful:1
+strong interpersonal skills:1
+internet explorer:1
+supply inventory:1
+technician:1
+answering phones:1
+good customer service:1
+translator:1
 microsoft dynamic ax:1
 public relations software mtr:1
 cisionpoint:1
 icontact:1
 desktop publishing software adobe indesign:1
-dreamweaver:1
 html wordpress:1
+nutritional counseling:1
+oral cancer screenings:1
+smoking cessation:1
+soft tissue management:1
+dentrix dental software:1
+digital radiographs:1

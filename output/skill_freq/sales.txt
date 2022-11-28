@@ -1,222 +1,390 @@
-sales:28
-customer service:27
-inventory:16
-marketing:14
-customer satisfaction:12
-policies:11
-quality:10
-time management:10
-safety:9
-merchandising:9
-phone:9
-excel:9
-leadership:8
-office:8
-staffing:8
-retail:8
-telephone:8
-shipping:7
-receiving:7
-listening:7
-money:7
-credit:7
+sales:54
+customer service:45
+inventory:27
+marketing:22
+credit:21
+policies:17
+excel:17
+quality:16
+customer satisfaction:16
+phone:16
+telephone:15
+clients:15
+safety:14
+time management:14
+merchandising:14
+leadership:12
+closing:11
+office:11
+outlook:11
+quick learner:11
+client:11
+selling:10
+shipping:10
+excellent communication:10
+retail:10
+listening:10
+money:10
+retail sales:10
+purchasing:10
+receiving:9
+staffing:9
+inventory control:9
+powerpoint:9
+market:9
+documentation:9
+pos:9
+materials:8
+microsoft word:8
+contracts:8
+personnel:8
+excellent customer service:8
+database:8
+direction:8
+pricing:8
+fast:8
+advertising:8
+scheduling:8
+cash handling:8
+cash register:8
+customer relations:7
+creative problem solver:7
+team player:7
+email:7
+filing:7
+research:7
+billing:7
+word:7
+critical thinking:7
+tables:7
+cashier:7
+supervision:6
 cold calling:6
-outlook:6
-microsoft word:6
-selling:6
-database:6
-direction:6
-purchasing:6
-scheduling:6
-client:6
-customer relations:5
-materials:5
-closing:5
-mail:5
-benefits:5
-excellent communication:5
-contracts:5
-personnel:5
-neat:5
-filing:5
-team player:5
-fast:5
-advertising:5
-market:5
-clients:5
-tables:5
-cash register:5
-pos:5
-accounting:4
-recruiting:4
-pricing:4
-email:4
-expense reports:4
+mail:6
+benefits:6
+communication skills:6
+recruiting:6
+neat:6
+meetings:6
+dependable:6
+relationship building:6
+excellent communication skills:6
+strategic:6
+multi tasking:6
+project management:6
+attention to detail:5
+inspection:5
+accounting:5
+hiring:5
+team leadership:5
+organized:5
+expense reports:5
+scanners:5
+computer literate:5
+receptionist:5
+proposals:5
+competitive:5
+detail oriented:5
+microsoft office:5
+ms office:5
+networking:5
+progress:5
+fast learner:5
+english:5
+negotiation:5
+financial:5
+forms:5
+managing:5
+problem solving:4
+self starter:4
+client relations:4
+employee relations:4
+problem solver:4
+promotion:4
+payroll:4
+sales management:4
+mentoring:4
+type:4
 faxes:4
 microsoft excel:4
-scanners:4
-dependable:4
-excellent communication skills:4
-competitive:4
-retail sales:4
-documentation:4
-detail oriented:4
+telephones:4
+websites:4
+point of sale:4
+of sales:4
+customer service experience:4
+leadership skills:4
+self motivated:4
+interpersonal communication:4
+repairs:4
 features:4
 account management:4
-critical thinking:4
-cash handling:4
-multi tasking:4
-networking:4
-problem solving:3
-supervision:3
-employee relations:3
-hiring:3
+phones:4
+coaching:4
+fashion:4
+rapport:4
+c:4
+clerical:4
+focus:4
+insurance:4
+reading:4
+supervisor:4
+delivery:4
+conflict resolution:4
+government:3
+accounts receivable:3
+sap:3
+budgets:3
+market trends:3
 organizational:3
-problem solver:3
 processes:3
-promotion:3
-communication skills:3
-inventory control:3
 loss prevention:3
-payroll:3
-mentoring:3
-type:3
-research:3
+hardware:3
+works:3
+well organized:3
+exceptional communication skills:3
+strong client relations:3
+fluent in spanish:3
+natural leader:3
+presenting:3
+office machines:3
 take messages:3
 phone etiquette:3
 typing speed:3
-powerpoint:3
-computer literate:3
-word:3
+balance:3
+operations:3
+sales and:3
+and sales:3
+training:3
+outside sales:3
+databases:3
+finance:3
+marketing strategies:3
+presentations:3
+seminars:3
+transportation:3
+instruction:3
+quick:3
+data entry:3
 power point:3
+microsoft office suite:3
+quality control:3
+troubleshooting:3
+real estate:3
 first aid:3
-fast learner:3
-quick learner:3
-focus:3
+performance management:3
+personable:3
+pick:3
+spanish:3
+clientele:3
+problem solving skills:3
+coach:3
+brochures:3
+access:3
+desktop publishing software photoshop:3
+illustrator:3
+html:3
+issue receipts:3
+persuasion:3
+cash registers:3
+budget:3
+customer services:3
+natural:3
 store merchandising:3
-relationship building:3
+business development:3
 cooking:3
-delivery:3
-reading:3
-project management:3
-billing:3
-forms:3
+organizational skills:3
+reporting:3
+conversion:3
+strong interpersonal skills:3
+sales expertise:3
+strong communication skills:3
+legal:3
 air force:2
-attention to detail:2
+oral communication:2
 creative problem solving:2
-inspection:2
+innovation:2
+public speaking:2
 technician:2
-self starter:2
-client relations:2
-accounts receivable:2
 quickbooks:2
-budgets:2
 resolve customer complaints:2
 firing:2
-market trends:2
 sales forecasting:2
 employee development:2
 planning:2
-sales management:2
-team leadership:2
 vendor relations:2
-hardware:2
 drivers:2
 electronics:2
 forklift:2
-works:2
 troubleshoot:2
+reliable:2
+fluent in english:2
+flexible schedule:2
 business correspondence:2
 facsimile:2
 mailing:2
-meetings:2
 next:2
-office machines:2
 photocopiers:2
 report writing:2
-fluent in spanish:2
 spreadsheets:2
-telephones:2
 voice mail:2
-websites:2
+photoshop:2
 facebook:2
 as:2
-balance:2
-self motivated:2
+persuasive:2
+in sales:2
+million:2
+plumbing:2
+sales reps:2
+sales techniques:2
+sales quotas:2
+new account:2
+sales through:2
+telemarketing:2
+approach:2
+exchange:2
+negotiator:2
+packaging:2
+excellent people skills:2
+sales manager:2
+sales training:2
+honest:2
 creative:2
-instruction:2
 inventory management:2
-quick:2
-receptionist:2
-point of sale:2
+cash:2
+associate:2
 new hires:2
-data entry:2
-microsoft office:2
-marketing strategies:2
-real estate:2
+reconciliation:2
+sales associate:2
+visual merchandising:2
+payments:2
+multitasking:2
+etiquette:2
+multi line:2
+multi line phone:2
+meticulous attention to detail:2
+microsoft office proficiency:2
+conferences:2
+ask:2
 cpr:2
+bilingual:2
+book:2
+computer knowledge:2
+sales skills:2
+consultation:2
+data analysis:2
+enterprise:2
 effective at multitasking:2
 works well independently and in groups:2
 excellent computer skills:2
-organized:2
-personable:2
-interpersonal communication:2
 organize files:2
+customer service oriented:2
 reception:2
+editing:2
+great communication skills:2
 data analyst:2
 tableau:2
 data collection:2
 machine learning:2
-c:2
-financial:2
+interpretation:2
+coding:2
 underwriter:2
-excellent customer service:2
-customer service experience:2
+teamwork:2
+window:2
+critical thinker:2
+adobe:2
+letters:2
+professional and friendly:2
+careful and active listener:2
+sales software salesforce com:2
+tapscan:2
+public relations software bacon s mediasource:2
+factiva:2
 sales reports:2
-natural:2
+calculators:2
+internet research:2
+publisher:2
+ms windows:2
+people skills:2
+mathematics:2
+speaking:2
+sales and marketing:2
+active listening:2
+social perceptiveness:2
+nursing:2
+strong organizational skills:2
+supervising:2
+trade shows:2
 marketing strategy:2
 communicator:2
 new business development:2
-presenting:2
-progress:2
-supervisor:2
-repairs:2
+act:2
+technical support:2
+call center:2
+sql:2
+color:2
 decision making:2
-phones:2
+machinery:2
+award:2
+maintenance:2
+icd:2
+icd coding:2
+microsoft outlook:2
+training and development:2
+administrative:2
+tops:2
+written:2
+consultant:2
+lotus notes:2
 relationship selling:2
 client account management:2
 inventory control procedures:2
 team player mentality:2
-sales expertise:2
+listening skills:2
+reliable and punctual:2
+merchandising knowledge:2
+multi tasking strength:2
+cash register operation:2
+cash handling accuracy:2
+retail merchandising expertise:2
 cash handling accuracy strong communication skills organized superb sales professional time management flexible schedule detail oriented excellent multi tasker:2
 business administration:2
-strong communication skills:2
-fashion:2
 psychology:2
 operations management:2
 mark:2
-strategic:2
-strong interpersonal skills:2
+equipment operator:2
+forklift operator:2
+peak:2
+strong verbal communication:2
+client assessment and analysis:2
+inspect:2
 read:2
-legal:2
-managing:2
 quality assurance:2
+training programs:2
+debit:2
+procurement:2
+proposal:2
 interpersonal and communication:1
 communications skills:1
-oral communication:1
-government:1
-innovation:1
 public safety:1
-public speaking:1
 supervisory:1
 motivated:1
 success driven:1
 adp:1
 managerial excel:1
 month end close:1
-sap:1
 labor relations:1
 strategic planning:1
+laparasopic procedures familiarity:1
+medication administration expert:1
+vascular care understanding:1
+advanced cardiac life support acls certification:1
+computerized charting specialist:1
+enthusiastic caregiver:1
+iv drug therapy management:1
+specimen collection processing proficiency:1
+sterilization techniques mastery:1
+or and er experience:1
+started out hand charting but now at north computer charting on cerner i run the tmr laser in the heart rooms operate the cryo and ablation machine i operate the veri q machine measuring blood flow the the arteries operate the laparoscopic equipment in the heart and general side of the or start iv s on patients give antibiotics run fluids thru iv pumps i know how to prep a pt for surgery making sure the saftey of the pt before during and after surgery i have done moderate sedation of pts call the family during surgery make sure chart is correct and everything is signed before surgery making sure any blood products are needed:1
 cash management:1
 computer literate customer service:1
 direct to vendor buying ordering:1
@@ -227,12 +395,37 @@ on boarding:1
 p l management:1
 sales coaching and training:1
 store relocation and remodeling:1
+business intelligence:1
+business process:1
+business solution:1
+project concept to project success:1
+curriculum development:1
+data warehouse:1
+functional:1
 assembly:1
 macola:1
 cameras:1
 routing:1
 soldering:1
-well organized:1
+trusted key holder:1
+ms windows proficient:1
+proficient in cash management:1
+strategic sales knowledge:1
+cash flow management:1
+multi line phone talent:1
+goal oriented:1
+decisive:1
+calm under pressure:1
+analytical thinker:1
+powerpoint presentations:1
+excellent interpersonal skills:1
+composed:1
+crisis communication:1
+superior verbal and written communication skills:1
+computer savvy:1
+customer service bilingual spanish english:1
+financial management:1
+basic computer knowledge:1
 ms office suite word:1
 sharepoint:1
 visio:1
@@ -247,12 +440,21 @@ salesforce com:1
 hubspot:1
 marketo:1
 vertical response:1
-photoshop:1
 dreamweaver:1
 teamsite cms:1
 citrix:1
 social media linkedin:1
 and twitter:1
+strong problem solving and team building skills:1
+computer proficient affinity for concise but thorough record keeping:1
+internet and social media saavy:1
+goal oriented with counter business model ready for creative staffing and event idea execution:1
+good interpersonal awareness open to persuasive communication and coaching:1
+awareness of client needs interests as well as upper ideas for development and management goals:1
+event management and promotion:1
+leader:1
+strong negotiation skills:1
+team building and team leadership:1
 learns new job assignments quickly:1
 years of warehouse:1
 manufacturing:1
@@ -264,9 +466,35 @@ bookkeeping:1
 human relations:1
 management training:1
 ms excel:1
-persuasive:1
-honest:1
-reliable:1
+sales representative:1
+corporate sales:1
+accounts and:1
+accounts for:1
+business operations:1
+developing sales:1
+kitchen:1
+lighting:1
+new accounts:1
+of sale:1
+sales of:1
+sales purchases:1
+sales revenue:1
+leads:1
+buying procurement:1
+existing accounts:1
+marketing management:1
+microsoft windows:1
+office xp:1
+public relations:1
+sales marketing:1
+excellent people skills corporate buyer background for major automotive established track record of exceptional sales results group recipient of numerous sales awards staff training and development effective retail sales manager establishing goals and setting priorities decisive leader consistent work history powerful negotiator customer service experience compelling leadership skills flexible work schedule exceptional time management skills exceptional multi tasker strong public speaker:1
+army:1
+automotive:1
+staff training:1
+navy:1
+newspapers:1
+public speaker:1
+view:1
 driven:1
 enthusiastic people person:1
 bi lingual:1
@@ -280,18 +508,12 @@ proficient phone skills:1
 counselor:1
 inside sales:1
 specification:1
-cash:1
 answering:1
-associate:1
 exceed:1
 new sales:1
 pos system:1
-reconciliation:1
-sales associate:1
 sales associates:1
 the sale:1
-visual merchandising:1
-payments:1
 invoices:1
 all sales:1
 correspondence:1
@@ -302,7 +524,6 @@ audits:1
 bank teller:1
 change orders:1
 loans:1
-multitasking:1
 accounts payable:1
 between accounts:1
 general ledger:1
@@ -311,25 +532,73 @@ invoice:1
 purchase orders:1
 archiving:1
 data archiving:1
-etiquette:1
 excellent multi tasker:1
-ms office:1
-multi line:1
-multi line phone:1
 office assistant:1
-ask:1
+invoice processing:1
+travel administration:1
+meeting planning:1
+calendaring:1
+travel arrangements:1
+blueprints:1
+read blueprints:1
+layout:1
+new construction:1
+plumber:1
+improve process:1
+fm:1
+tear:1
+technical assistance:1
 business plan:1
-sales manager:1
 report writing and documentation:1
 strong sales experience:1
-bilingual:1
+highly effective leader in extreme situations as well as normal conditions posses the ability to place the correct personnel with the appropriate skills on a project:1
+posses the interpersonal skills required to solve conflict within members of the organization:1
+posses years of multi unit operations experience with personnel in various circumstances:1
 s k cis billing:1
 accounts payable caps:1
 microsoft dynamics crm:1
 gsa lite:1
-microsoft office suite:1
 acrobat pro:1
 sales solution selling:1
+team building:1
+marketing plans:1
+newspaper:1
+programming:1
+ads:1
+data base:1
+ability to clarify the nature of a problem:1
+evaluate alternatives:1
+propose viable solutions and determine the outcome of the various options:1
+detail oriented and able to present information and ideas clearly and concisely:1
+able to review different points of view or ideas and make objective judgments investigates all possible solutions to the problem:1
+able to draw specific conclusions from a set of general observations or a set of specific facts:1
+able to synthesize ideas and information:1
+maximized efficiency and team productivity through the development of collaborative quality initiatives:1
+continually evaluated the organizations skills and work performance to identify and implement improvements:1
+results oriented:1
+customer focused:1
+respected team builder who drives quality and productivity initiatives:1
+and leads teams in business growth through operational excellence:1
+ability to translate the company strategy into specific goals to ensure a focus on delivering results:1
+strong ability to quickly understand complex issues and identify priorities:1
+focus on key points that can be clearly communicated to all levels of leadership:1
+maintain effective cross functional relationship to drive program consistency across retail:1
+agent:1
+and business channels:1
+analyze business and system requirements:1
+mange development of specifications to create and execute detailed test plans:1
+and verify bug fixes:1
+analyzed application:1
+system:1
+and security errors escalated issues to developers and verified fixes:1
+strong analytical:1
+time management and problem solving skills:1
+leadership development:1
+process improvement:1
+project management sales:1
+sales development:1
+telecommunication:1
+mircosoft office including visio:1
 customer orientated:1
 dependable and reliable:1
 internet savvy:1
@@ -342,16 +611,37 @@ proficient with ms word:1
 and powerpoint:1
 key by touch:1
 motivated seller:1
-customer service oriented:1
 retains information with ease:1
 commitment to professionalism:1
 persuasive communicator:1
 facsimile machine:1
 taking messages:1
+good interpersonal skills:1
+good communication skills:1
+works well under pressure:1
+collaborative team member:1
+photo:1
+digital cameras:1
+flash:1
+set design:1
+script:1
+transmission:1
 isac:1
 dnet:1
 birchstreet:1
 bridge mgs application and reports:1
+bilingual bangla english:1
+staff mentoring and development:1
+motivated and self driven business acumen:1
+strong customer service experience:1
+exceeds performance and sales quotas:1
+held leadership roles within university community organizations:1
+advanced mathematical aptitude:1
+knowledgeable with computers and other technical skills windows mac:1
+pallet jack:1
+presentation skills:1
+can use photoshop and illustrator:1
+i can use a computer very well:1
 excellent quantitative skills advanced ms office suite knowledge:1
 strong knowledge of r:1
 excel advanced excel modeling:1
@@ -366,21 +656,37 @@ visualization and exploration:1
 rstudio:1
 report generation:1
 business systems analysis:1
-clientele:1
 drafting:1
-finance:1
 financial statements:1
-interpretation:1
 ms office suite:1
 modeling:1
 oil:1
-outside sales:1
-coding:1
-proposals:1
 statistical analysis:1
 statistics:1
-great communication skills:1
-sales skills:1
+strong work values:1
+dependability:1
+adobe years:1
+microsoft office years:1
+adobe cloud years:1
+photoshop years:1
+data entry years:1
+merchandising years:1
+planning coordinating:1
+designing:1
+fax machine:1
+inspects:1
+inventory levels:1
+math:1
+money i:1
+object oriented programming:1
+copiers:1
+printer:1
+maintaining files:1
+typing skills:1
+weighing:1
+shipping and receiving:1
+prepare invoices:1
+recording:1
 sales plan:1
 surgeon:1
 experience of years in the field of designing as an illustrator:1
@@ -395,23 +701,28 @@ i am very good with encouraging the staff to set high expectations for themselve
 i also took a couple of seminars on problem solving in the work place which extended from staffing:1
 schedules:1
 and customers:1
+frame:1
+meal preparation:1
+micros:1
+trustworthy:1
 good at communicating and interacting with customers:1
 good time management:1
 self motivation:1
 good adaptability:1
 sales software ubersmith:1
-desktop publishing software photoshop:1
-illustrator:1
-html:1
 achieving results:1
 building relationships:1
-negotiation:1
 dependable independent worker:1
 customer service skills:1
 good at following instructions:1
 solid communication skills:1
 strong work ethic:1
 jack of all trades can perform all typesof handiwork and any task necessary:1
+advertisements:1
+market and sales:1
+researching:1
+sms:1
+structured:1
 proficiency in microsoft office suite:1
 adobe creative suite:1
 ronlynn apparel software:1
@@ -419,43 +730,64 @@ both mac and pc platforms:1
 social media including pinterest:1
 instagram:1
 and snapchat:1
-internet research:1
-mathematics:1
+leadership qualities:1
+team work:1
+answering phones:1
+good people skills:1
+lead by example mentality:1
+meeting retail goals efficiently:1
 word processing:1
-fluent in english:1
+customer and personal service:1
+reading comprehension:1
+english language:1
+judgement and decision making:1
+coordination:1
+monitoring:1
+service oriented:1
+food production:1
+active learning:1
+learning strategies:1
+instructing:1
+production and processing:1
+streamline:1
+assisted living:1
+general management:1
+human resource:1
+human resources:1
+director:1
+marketing materials:1
+production manager:1
+six sigma:1
+strategic plans:1
+written skills:1
 budgeting:1
-coaching:1
 contract negotiations:1
 forecasting:1
 hr:1
 analyzing market:1
-performance management:1
 profit:1
-rapport:1
 recruitment:1
 sales manager i:1
 sales reporting:1
 strategy:1
+computers and electronics:1
+administration and management:1
 servers:1
 verbal communication skills:1
 excellent written:1
 leed green associate:1
-business development:1
 computer proficient on both pc and mac:1
 crm systems:1
 territory sales experience:1
 inside and outside sales:1
 salesforce:1
-act:1
 and goldmine crm:1
 allscripts software:1
 practice fusion software:1
 appointment setting:1
 closing and client retention database management:1
 direct mail:1
-insurance:1
 reporting and training and support:1
-adobe:1
 cables:1
 copying:1
 faxing:1
@@ -465,29 +797,43 @@ monitors:1
 pc setup:1
 printers:1
 routers:1
-technical support:1
 vista:1
 resolving customer complaints:1
 hand tools:1
 inspecting:1
 market meetings:1
 fluent spanish:1
-color:1
-english:1
+cl:1
+com:1
+customer:1
+care:1
+customer care:1
+nt:1
+sales support:1
+user support:1
+trainer:1
 maintain inventory:1
-machinery:1
 product marketing:1
-speaking:1
 retail sales associate:1
 cashier ms excel office:1
+pos systems:1
+effective sales:1
+generate sales:1
+incentive programs:1
+sales staff:1
+security:1
+selling techniques:1
+the sales:1
+administrative assistant:1
+file:1
+file systems:1
+front desk:1
+greeting:1
 increase:1
 pediatric:1
 account executive:1
-of sales:1
-sales quotas:1
 solutions:1
 its:1
-award:1
 channel marketing:1
 internet marketing:1
 major accounts:1
@@ -495,27 +841,20 @@ overall sales:1
 quota:1
 sales quota:1
 yellow pages:1
-million:1
 retail marketing:1
-training:1
 and marketing:1
 for sales:1
 key accounts:1
 owned sales:1
-sales and:1
-sales reps:1
 account manager:1
 accounts to:1
 accounts with:1
-and sales:1
 coordinate sales:1
-new account:1
 sales events:1
 sales presentations:1
 sales representatives:1
 territory:1
 with sales:1
-in sales:1
 sales for:1
 sales meetings:1
 senior sales:1
@@ -523,6 +862,38 @@ top sales:1
 b to b:1
 b b:1
 lead generation:1
+inbound and outbound:1
+audit:1
+inspections:1
+medical records:1
+basis:1
+customer inquiries:1
+claims:1
+cpt:1
+multi line phone system:1
+phone system:1
+call center representative:1
+customer support:1
+paralegal:1
+osha inspections:1
+exceptional interpersonal skills:1
+new hire orientation:1
+compensation payroll:1
+hiring and retention:1
+regulatory compliance:1
+personnel records maintenance:1
+exceptional time management skills:1
+adaptable:1
+organizer:1
+financial analysis:1
+networks:1
+highly dependable:1
+enthusiastic yet professional demeanor:1
+excellent attention to:1
+account and territory management:1
+detail:1
+fluent in:1
+estimating:1
 territory sales:1
 sales closing:1
 product management and pricing:1
@@ -557,52 +928,68 @@ troubleshooting when needed by contacting manufactures explaining the customers 
 handled cash of large amounts with no discrepancies prepared deposits and took them to the bank when ever needed:1
 hunter farmer sales strategies:1
 pos system operation:1
-listening skills:1
-reliable and punctual:1
-cash handling accuracy:1
+current trend knowledge:1
+stocking and replenishing:1
+exceptional customer service:1
+client service:1
+clothing accessories:1
+minor vetranary and pandora jewlery product knowledge:1
 dispute mediation:1
-merchandising knowledge:1
-cash register operation:1
 market research and analysis:1
 product sales:1
-retail merchandising expertise:1
 vendor relations project management ooh color correction specialization team building training innovation print production schedules creative team collaboration process optimization consulting negotiation maximization strategic analysis planning graphic design ad traffic soft proofing digital files proofreading editing quality control building templates strategic planning implementation cost reduction avoidance turnaround crisis management digital photo retouching microsoft office suite adobe creative suite quarkxpress adtransit adsend pre press:1
-training and development:1
 change management:1
 reports generation and analysis:1
 time management skills:1
 client focused:1
 excel in management:1
-maintenance:1
 account reconciliation:1
-administrative:1
-brochures:1
-creative problem solver:1
 manage inventory levels:1
 market sales:1
-ms windows:1
 office automation:1
 payment processing:1
 proofreading:1
 record keeping:1
-reporting:1
-transportation:1
 wpm:1
 workshops:1
 articles:1
-equipment operator:1
 forklifts:1
-forklift operator:1
-peak:1
 procedure development:1
 quality management:1
-active listening:1
+relationship selling quick learner resolution oriented reliable and dependable cheerful and energetic dedicated team player hard work ethic strong communication skills:1
+extremely organized:1
+active team player:1
+career overview:1
+i am a dedicated customer service representative motivated to maintain customer satisfaction and contribute to company success:1
+results driven customer services representative with proved ability to establish rapport with clients highly enthusiastic customer service representative with year s client interface experience:1
+the best parts of the jobs i have worked is the amazing feeling of closing a big sale and making the customer feel comfortable and confident:1
+core strengths:1
+top sales performer:1
+strategic sales:1
+credit card processing:1
+consistently meets sales goals:1
+credit card transactions:1
+skilled problem solver:1
+motivated team player:1
+stocking:1
+shipment processing:1
+merchandising understanding:1
+product knowledge:1
+contract preparation:1
+customer service focus:1
+active listening skills:1
+customer oriented:1
+professional demeanor:1
+high energy:1
+interpersonal skills:1
+upselling techniques:1
+pos systems knowledge:1
+advertising sales:1
+visual displays:1
 verbal written communication:1
 outgoing personality:1
 time management ability:1
 enthusiasm:1
-microsoft office proficiency:1
-meticulous attention to detail:1
 professional and mature:1
 strong problem solver:1
 resourceful:1
@@ -612,15 +999,11 @@ academic:1
 attorney:1
 back up:1
 case management:1
-cashier:1
-clerical:1
-access:1
 office equipment:1
 copy machine:1
 police:1
 maintain records:1
 strong analytical skills:1
-critical thinker:1
 data mining:1
 data quality:1
 data warehousing:1
@@ -628,15 +1011,11 @@ database management:1
 workflow:1
 administrative support:1
 business plans:1
-consultation:1
-conversion:1
 invoicing:1
 people management:1
 marketing manager:1
 billing system:1
-budget:1
 business management:1
-data analysis:1
 facilities maintenance:1
 financial reports:1
 information systems:1
@@ -646,20 +1025,21 @@ management information systems:1
 pricing strategies:1
 risk management:1
 teacher:1
-training programs:1
-book:1
-debit:1
+high end fashion knowledge:1
+superb sales professional:1
+loss prevention comprehension:1
+ability to mediate disputes:1
+compelling leadership skills:1
+energetic:1
+bilingual in english and spanish:1
 front office:1
 ims:1
 notes:1
-enterprise:1
 newsletters:1
 website:1
-people skills:1
 client management:1
 management:1
 marketing communications:1
-presentations:1
 customer testimonial:1
 melinda gibson vp with in touch ministries stated karen became a trusted vendor to me i could consistently trust her for quality products:1
 while keeping to my timeline and budget she truly went the extra mile for me each time we worked together april:1
@@ -671,26 +1051,63 @@ media production:1
 managing new construction properties:1
 great selling skills:1
 supervisor and exceptional customer services skills:1
+event production:1
+film:1
+word sales salesforce:1
+great ability to multi task:1
+self starter and driven:1
+extensive customer services and caregiver knowledge:1
+neat and well organized:1
+volunteer work:1
+personal care worker and supportive home care:1
+job duties give assistance to people who are sick:1
+injured:1
+mentally or physically disabled:1
+or the elderly and fragile:1
+caregiver:1
+home care:1
+acquisitions:1
+business writing:1
+financing:1
+financial reporting:1
+government regulations:1
+microsoft office software:1
+oracle:1
+peoplesoft:1
+people soft:1
+prime:1
+proposal preparation:1
+purchase requisitions:1
+simulation:1
 roofing:1
 balance sheets:1
-calculators:1
 cash receipts:1
-cash registers:1
 catalog:1
 commodities:1
 special events:1
-inspect:1
-issue receipts:1
+extensive experience of planning:1
+design client liaison:1
+experience of interpreting specifications and preparing technical proposals:1
+ability to multi task in a demanding engineering environment:1
+a strong track record in delivering projects on time and within budget:1
+able to ensure that all h s procedures are met and maintained:1
+resolving complex technical issues and coming up with fast efficient solutions:1
+ability to assess the financial feasibility and impact of proposed budget items and also alternatives:1
+cost analysis:1
+council:1
+mechanical:1
+platinum:1
+renovation:1
+rfp:1
 attentive to small details:1
 very calm under pressure but not to leisured to resolve the problem:1
 positive influence:1
 office suite:1
-sql:1
 google products:1
-professional and friendly:1
-careful and active listener:1
-organizational skills:1
 great telephone and computer communication skills:1
+agency:1
+cycle counting:1
+teaching:1
 work well as a team member or independently performed sales:1
 and market trends research:1
 identified and tested markets:1

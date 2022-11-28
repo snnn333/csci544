@@ -1,336 +1,483 @@
-hr:39
-benefits:34
-payroll:33
-recruitment:30
-recruiting:30
-excel:30
-policies:29
-employee relations:27
-hiring:26
-human resources:25
-personnel:24
-powerpoint:22
-performance management:22
-staffing:20
-outlook:19
-processes:19
-word:18
-hris:18
-leadership:18
-organizational:17
-insurance:15
-office:15
-reporting:15
-customer service:14
-managing:14
-clients:13
-access:13
-database:13
-scheduling:13
-peoplesoft:12
-safety:12
-meetings:12
-client:12
-documentation:11
-quality:11
-sales:11
-filing:11
-coaching:11
-human resource:11
-research:11
-adp:10
-budget:10
-sap:10
-marketing:9
-phone:9
-accounting:8
-administrative:8
-training programs:8
-director:8
-administrative support:8
-benefits administration:8
-financial:8
-forms:8
-counseling:8
-billing:7
-labor relations:7
-presentations:7
-purchasing:7
-microsoft office:7
-special events:7
-human resource management:7
-ada:7
-organizational development:7
-promotion:7
-telephone:7
-law:7
+hr:60
+benefits:58
+employee relations:53
+payroll:50
+excel:50
+policies:49
+recruiting:48
+recruitment:45
+hiring:41
+human resources:40
+personnel:40
+performance management:37
+powerpoint:36
+outlook:32
+hris:32
+processes:31
+staffing:31
+leadership:30
+organizational:29
+word:29
+access:26
+office:25
+reporting:25
+adp:25
+meetings:24
+customer service:23
+sap:23
+insurance:22
+database:22
+project management:21
+filing:21
+safety:21
+scheduling:21
+quality:20
+coaching:20
+budget:20
+clients:18
+documentation:18
+benefits administration:18
+managing:18
+client:18
+sales:17
+human resource:17
+peoplesoft:16
+research:16
+administrative support:15
+phone:15
+marketing:14
+director:14
+strategic:14
+administrative:14
+forms:14
+telephone:13
+finance:13
+organizational development:12
+ada:12
+special events:12
+financial:12
+human resource management:12
+databases:12
+purchasing:11
+kronos:11
+ms office:11
+workshops:11
+supervisor:11
+training programs:11
+legal:11
+microsoft office suite:11
+billing:10
+delivery:10
+presentations:10
+inventory:10
+conflict resolution:10
+law:10
+negotiations:10
+bi:10
+government:10
+market:10
+focus:10
+time management:10
+accounting:9
+labor relations:9
+materials:9
+microsoft office:9
+contracts:9
+letters:9
+payroll processing:9
+interpersonal skills:9
+oracle:9
+counseling:9
+data entry:9
+senior management:9
+advertising:8
+performance reviews:8
+website:8
+microsoft word:8
+agency:8
+functional:8
+problem solving:8
+bookkeeping:8
+competitive:8
+clerical:8
+promotion:8
+spreadsheets:8
+fast:8
+receptionist:8
+sharepoint:7
+visio:7
+leadership development:7
+strategy:7
+teamwork:7
+team building:7
+detail oriented:7
+logistics:7
 managerial:7
-negotiations:7
-market:7
-ms office:7
-delivery:6
-performance reviews:6
-website:6
-inventory:6
-materials:6
-microsoft word:6
-workshops:6
-legal:6
-interpersonal skills:6
-oracle:6
-strategic:6
-fast:6
-charts:6
-senior management:6
-advertising:5
-sharepoint:5
-newsletter:5
-bi:5
-human resources management:5
-visio:5
-leadership development:5
-bookkeeping:5
-clerical:5
-databases:5
-functional:5
+power point:7
+charts:7
+self motivated:7
+tax:7
+newsletter:6
+employee development:6
+ms word:6
+training development:6
+ms office word:6
+publisher:6
+direction:6
+profit:6
+sound:6
+staff development:6
+conferences:6
+human resources management:6
+supervision:6
+mail:6
+employee handbooks:6
+year end:6
+call center:6
+quickbooks:6
+performance appraisal:6
+basic:6
+managerial accounting:6
+written:6
+closing:6
+mis:6
+seminars:6
+email:6
+event planning:6
+oral communication:6
+change management:6
+budgets:6
+organizing:6
+c:6
+strategic planning:5
+legal compliance:5
+mediation:5
+negotiating:5
+structured:5
+surveys:5
+administrative assistant:5
+travel arrangements:5
+training employees:5
+spanish:5
+vendor management:5
+accounts payable:5
+credit:5
 ms office suite:5
-quickbooks:5
-spreadsheets:5
-kronos:5
-power point:5
-finance:5
+organization development:5
+information systems:5
 networking:5
-closing:5
-competitive:5
-receptionist:5
-data entry:5
-letters:5
-time management:5
-contracts:5
+windows:5
+public speaking:5
+ms excel:5
+firing:5
+training:5
+economics:5
+operations management:5
+copying:5
 banking:5
-project management:4
-employee development:4
-ms word:4
-strategic planning:4
-administrative assistant:4
-supervisor:4
-training employees:4
-supervision:4
+data analysis:4
+branding:4
+brochures:4
+lotus notes:4
+process improvement:4
+microsoft excel:4
+art:4
+decision making:4
+vision:4
+clarify:4
+job analysis:4
+negotiation:4
 hr policies procedures:4
-detail oriented:4
-logistics:4
-payroll processing:4
-organization development:4
-agency:4
-team building:4
-basic:4
-mail:4
-problem solving:4
-sound:4
-mis:4
-employee handbooks:4
-ms office word:4
-conflict resolution:4
+interpretation:4
+invoicing:4
+spreadsheet:4
+progress:4
+type:4
+organizational skills:4
+pricing:4
+researching:4
+mentoring:4
+internet research:4
+onboarding:4
+training and development:4
+ms outlook:4
+ceridian:4
+contract negotiations:4
+supervisory:4
+proposals:4
+retail:4
+performance appraisals:4
+mailing:4
+people soft:4
 retail sales:4
-self motivated:4
-training:4
-focus:4
-tax:4
+designing:4
+faxing:4
+monitors:4
+recording:4
+fax:4
+file:4
+transportation:4
+product design and development:4
+marketing management:4
+strategic management:4
+ads:3
 analytical skills:3
+budgeting:3
 statistics:3
 indesign:3
-lotus notes:3
+marketing materials:3
 publications:3
-microsoft excel:3
+video:3
+database management:3
+budget management:3
+employment law:3
+orientation on boarding:3
+hr program project management:3
+continuous improvement:3
 annual reports:3
-mediation:3
-publisher:3
+english:3
 teaching:3
-negotiation:3
-call center:3
-credit:3
+backup:3
+general ledger:3
+receiving:3
+secretarial:3
 customer service skills:3
+expense reports:3
 mentor:3
-spreadsheet:3
-clarify:3
-legal compliance:3
-progress:3
 workflow:3
-government:3
-information systems:3
-organizational skills:3
-pricing:3
-strategy:3
-mentoring:3
-windows:3
-internet research:3
-seminars:3
+adp payroll:3
+consultation:3
+accounts receivable:3
+notary public:3
+protocols:3
+fashion:3
+faxes:3
+neat:3
 benchmarking:3
-direction:3
-budgets:3
-firing:3
-organizing:3
-performance appraisals:3
-mailing:3
+microsoft sharepoint:3
+recruiter:3
+new hires:3
+billings:3
+quality assurance:3
+leadership communication skills:3
+academic:3
+attention to detail:3
+critical thinking:3
+customer satisfaction:3
+enterprise:3
+read:3
 general manager:3
 terminations:3
+e mail:3
+next:3
+auditing:3
+office manager:3
+troubleshooting:3
+cost reduction:3
+maintenance:3
 claims:3
-profit:3
-c:3
-ms excel:3
-ms outlook:3
-file:3
-microsoft office suite:3
-retail:3
-negotiating:3
-budgeting:2
-data analysis:2
-brochures:2
+interviewing:3
+multi tasking:3
+typing:3
+rapport:3
+business strategy:3
+iso:3
+network:3
+business administration:3
+engineer:3
+cash flow:3
+layout:2
+posters:2
 content:2
 graphics:2
 illustrator:2
-marketing materials:2
 rfp:2
 web design:2
 policy development:2
 web page development:2
+desktop publishing:2
 fmla:2
 workers compensation:2
-budget management:2
+back up:2
 microsoft powerpoint:2
-conferences:2
+hr department startup:2
+coach:2
+lawson:2
+management reporting:2
+win:2
+peak:2
 exchange:2
-travel arrangements:2
-english:2
-spanish:2
 teacher:2
+law enforcement:2
+proposal:2
 implement:2
-accounts payable:2
-continuous improvement:2
-interpretation:2
-invoicing:2
-secretarial:2
+ar:2
 filling:2
-decision making:2
-performance appraisal:2
+office management:2
+business plan:2
 procurement:2
-type:2
-adp payroll:2
-consultation:2
+ad:2
+arbitration:2
 consultant:2
+siebel:2
 taleo:2
 business law:2
 business management:2
 cold calling:2
+communication skills:2
+cpr:2
 drafting:2
 financial accounting:2
 first aid:2
-job analysis:2
-managerial accounting:2
-researching:2
-staff development:2
-written:2
-protocols:2
+works:2
 people management:2
 optimization:2
 philosophy:2
-faxes:2
-neat:2
+central point of contact:2
+reception:2
+teamwork collaboration:2
+social media marketing:2
+workday:2
+product manager:2
 staff recruitment retention:2
-hr program project management:2
 delegated examining:2
 recruiting and selection techniques:2
-vendor management:2
-billings:2
-ceridian:2
-contract negotiations:2
+phone system:2
+applicant tracking system:2
+best practices:2
+attorney:2
 on boarding:2
 consulting:2
+excellent customer service:2
 mechanic:2
-quality assurance:2
 repairs:2
-supervisory:2
 excellent communication skills:2
+cash receipts:2
+customer services:2
+event management:2
+reconciling:2
+driving:2
+employee relations er:2
+hr information systems hris:2
+organization development od:2
+adobe illustrator:2
+hub:2
 cash handling:2
+printers:2
 wpm:2
-people soft:2
+regulatory compliance:2
 pr:2
+audits:2
 merchandising:2
-employment law:2
+real estate:2
+written communication:2
+conversion:2
+money:2
+radio:2
 computer skills:2
-cost reduction:2
+new employee orientations:2
+fast learner:2
+java:2
+sql:2
+record keeping:2
+coding:2
 forecasting:2
-maintenance:2
-interviewing:2
+inventory control:2
+business intelligence:2
+compensation:2
+employee engagement:2
 new hire paperwork:2
 self starter:2
-troubleshooting:2
 packaging:2
 pos:2
 unique:2
-training development:2
-orientation on boarding:2
+notes:2
+process invoices:2
+tax returns:2
+com:2
+clientele:2
+microsoft office programs:2
+council:2
+case management:2
 employee communications:2
 processing payroll:2
-critical thinking:2
-onboarding:2
-new hires:2
+vendor relations:2
+excellent communication:2
+latin:2
+directing:2
+intranet:2
 adobe acrobat:2
 correspondence:2
-e mail:2
-engineer:2
+performance management strategies:2
+taxes:2
 presenting:2
-teamwork:2
+nursing:2
+technical support:2
+utilities:2
 computer knowledge and skills:2
-structured:2
+sap r:2
+html:2
+ess:2
+operating systems:2
+requirement:2
 funds:2
-monitors:2
-fax:2
-transportation:2
+microsoft access:2
+project lead:2
 ms powerpoint:2
 architect:2
+balance:2
 calibration:2
-next:2
+web based:2
+quality control:2
+security:2
+financial statements:2
+general office:2
 basis:2
-faxing:2
-copying:2
 scanning:2
+shipping:2
+excellent written:2
+strategic warehouse management:2
+this is where i added to my knowledge of how to run an organization in an ethical manor making sure all aspects of being true to an organization:2
+and making sure all policies and regulations are met within a timely manner making sure the organization does not have to suffer by paying unwanted fees taking them from the organizations cash flow knowing how to get any product or service to receiving location on time is another aspect of the key points learned during my undergrad education learning about entrepreneurship:2
+master of business administration grand canyon university:2
+dates from current expected graduation date:2
+key points of education:2
+leadership organizations:2
+quantitative methods:2
+extremely organized:2
+process implementation:2
+client assessment and analysis:2
+risk management processes and analysis:2
+strong verbal communication:2
+budgeting and finance:2
+team liaison:2
+ba:2
 team leadership:2
-year end:2
-ads:1
 financial management:1
 government relations:1
-layout:1
 marketing collateral:1
 medical billing:1
 medical terminology:1
-posters:1
 public relations:1
 adobe photoshop:1
 asset management:1
-branding:1
 customer care:1
 final cut pro:1
 graphic:1
 innovation:1
 marketing material:1
-process improvement:1
 promotional materials:1
 real time:1
 stories:1
-video:1
 articles:1
 fmla eeo flsa:1
 hris development:1
 benefit administration:1
-desktop publishing:1
 newsletter productions:1
-database management:1
 leadership training:1
 osha:1
 pagemaker:1
 agency automation:1
-back up:1
 corel suite:1
 harvard graphics:1
 microsoft publisher:1
@@ -346,6 +493,21 @@ excellent oral and written presentation and seasoned in conflict resolution:1
 key by touch:1
 type wpm:1
 microsoft outlook:1
+hr skills:1
+three new organization startups:1
+fmla ada eeo wc:1
+mediation advocacy:1
+hr policies procedures staff recruitment retention:1
+salary negotiations:1
+unemployment administration:1
+worker s compensation administration:1
+hris technologies:1
+hris applications lawson:1
+paychex:1
+human relations:1
+implement programs:1
+quantitative analysis:1
+team work:1
 paralegal:1
 administrative skills:1
 microsoft office suites:1
@@ -365,20 +527,14 @@ and monitor performance management develop:1
 and monitor personnel policies and procedures:1
 and manage full cycle recruitment:1
 a p:1
-general ledger:1
 employee management:1
 mrp:1
-receiving:1
 ap:1
-ar:1
 great communication skills:1
-expense reports:1
 processing of invoices:1
 ledger:1
-office management:1
 peachtree:1
 as set:1
-business plan:1
 good communication skills:1
 film:1
 speaking:1
@@ -396,9 +552,6 @@ internet explorer:1
 personnel policies:1
 sox:1
 employee handbook:1
-ad:1
-arbitration:1
-accounts receivable:1
 microsoft suite:1
 solomon:1
 knowledge of quickbooks:1
@@ -406,7 +559,6 @@ systems excel:1
 one note:1
 share point:1
 advise hr:1
-siebel:1
 talx:1
 autonomy:1
 survey monkey:1
@@ -415,27 +567,18 @@ herrmann brain dominance instrument:1
 interview skills selection and development:1
 business communications:1
 child care:1
-communication skills:1
 makes copies:1
-cpr:1
 editing:1
 faxes documents:1
 image:1
 international business:1
-works:1
-notary public:1
 develop policies:1
 procedure writing:1
 production management:1
 file maintenance:1
 staff supervision:1
-coach:1
 business development:1
-central point of contact:1
-email:1
-fashion:1
 powerpoint presentations:1
-reception:1
 hr advisory services:1
 strategic recruitment planning:1
 orientation onboarding:1
@@ -452,39 +595,62 @@ research and development:1
 event organizer:1
 journalism:1
 strategic training programs:1
-law enforcement:1
-attorney:1
+groupwise:1
+incoming calls:1
+sterling inforsystems:1
+orange tree employment services:1
+kenexa ibm products:1
+ultipro:1
+sarbanes oxley sox:1
+employee performance:1
+entry level:1
+leads:1
+performance review:1
 features:1
-management reporting:1
 power supply:1
-proposal:1
-vision:1
 staffing and recruiting professional:1
 payroll entry:1
 cpr certified:1
-excellent customer service:1
 food safety:1
 long term care:1
+small business development:1
+start ups:1
+team player:1
+total quality management:1
+office administration:1
+roscoe:1
+supervising:1
+transmission:1
 organisational skills:1
 spss:1
+a i:1
+store manager:1
+abc:1
+adr:1
+us army databases:1
+home healthcare:1
+voice and data:1
+tonya bell:1
+phr human resources professional:1
+organizational development strategic planning talent management:1
+access and publisher:1
+ceridian and kronos:1
+dca:1
+hubs:1
+mental health:1
+mental illness:1
 advertisements:1
-cash receipts:1
 cash register:1
 fax machines:1
 process payroll:1
 copiers:1
-printers:1
-read:1
 routing:1
 take messages:1
 answer phones:1
 budget analysis:1
-event planning:1
 executive management:1
-regulatory compliance:1
 press releases:1
 associate relations:1
-audits:1
 asset protection:1
 eeoc responses:1
 succession planning:1
@@ -507,11 +673,17 @@ presentation facilitation:1
 collaboration partnering skills:1
 relationship building skills:1
 office support:1
-proposals:1
-real estate:1
 sales management:1
 translations:1
-written communication:1
+processing accounts payable:1
+audit reporting:1
+reconciling bank statements:1
+bonds:1
+hardware:1
+imaging:1
+information technology:1
+marketing and sales:1
+software installation:1
 spss software:1
 internet e mail operations:1
 key skills and management:1
@@ -521,29 +693,48 @@ identifying problems:1
 well developed and effective communication skills:1
 thrive in deadline driven environments:1
 excellent team building skills:1
+compensation and benefits:1
+termination procedures:1
+in depth knowledge of hr compliance:1
+ms office proficient:1
+knowledgeable in all hr systems:1
+employee recruitment:1
+good communication skill:1
+flexibility:1
+hindi:1
+languages:1
+visual basic:1
+ibm:1
+ats:1
+mss:1
+hrss:1
+and oracle:1
+workbrain:1
+t:1
+streamline:1
+quick:1
+anti virus:1
+help desk:1
+inside sales:1
+access database:1
+excel spreadsheets:1
+websites:1
 corrective action:1
-office manager:1
 paying:1
 surveying:1
 administrative financial:1
 buying procurement:1
-inventory control:1
 affirmative action:1
-business intelligence:1
-compensation:1
 disciplinary procedures:1
-employee engagement:1
 pto:1
 talent selection:1
 tally:1
-best practices:1
 excellent multitasker:1
 simultaneously:1
 food service:1
 carl henry modern sales training:1
 client focused:1
 effective communication skills:1
-event management:1
 microsoft office proficient:1
 organized:1
 sensitive to customer needs:1
@@ -553,10 +744,7 @@ paychex proficient:1
 nettime proficient:1
 business research:1
 business startup:1
-economics:1
 italian:1
-operations management:1
-radio:1
 sigma:1
 advanced excel:1
 vba:1
@@ -567,6 +755,8 @@ service now askhr:1
 smartsheet:1
 panaya:1
 silkroad red carpet:1
+administrative duties:1
+calendar maintenance:1
 bullhorn:1
 boolean searches google resume search:1
 linkedin x ray search:1
@@ -576,6 +766,9 @@ tech fetch monster:1
 career builder:1
 linkedin:1
 indeed:1
+abra:1
+crystal reports:1
+local government:1
 human resource management skills:1
 employee relations and mediation:1
 staff life cycle:1
@@ -594,13 +787,25 @@ honest polite:1
 shape decision making:1
 excellent customer service skills:1
 creative:1
-com:1
-council:1
+administrative and support:1
+http:1
+leadership skills:1
+tableau:1
+writer:1
 lisa:1
 problem resolution:1
-reconciling:1
 articulate:1
-case management:1
+biotechnology:1
+contract negotiation:1
+strategist:1
+training design:1
+approach:1
+crisis management:1
+material science:1
+technical training:1
+creative problem solver:1
+legal and compliance:1
+quick learner:1
 administrative management:1
 great organizational skills:1
 people skills:1
@@ -615,58 +820,55 @@ advance knowledge of microsoft powerpoint:1
 and words:1
 beginner knowledge of microsoft access:1
 beginner knowledge in content management system cms:1
-business administration:1
 ctc:1
 gdc:1
-rapport:1
 sla:1
 trend:1
+taking messages:1
+telephones:1
 pivot tables:1
 adp software:1
 eprise:1
 testing:1
 integration:1
 integrator:1
-intranet:1
 intranet content:1
 learning management:1
 learning management system:1
 learning management systems:1
-microsoft sharepoint:1
 usability:1
 acrobat:1
 illustration:1
 ms publisher:1
 photoshop:1
-applicant tracking system:1
 employee database:1
 cobra:1
 payments:1
 award:1
 adp enterprise:1
-new employee orientations:1
 maintains confidentiality:1
 off boarding:1
-performance management strategies:1
 sequoia:1
 google drive:1
 google calendar:1
 microsoft office suite word:1
-art:1
 cisco:1
 client relations:1
-designing:1
 diagnosis:1
 multimedia:1
 persuasion:1
 psychology:1
 research design:1
-taxes:1
 telecommunication:1
 content writing:1
+strong organizational skills:1
+sharp problem solver:1
+active listening skills:1
+courteous demeanor:1
+energetic work attitude:1
+professional and friendly careful and active listener multi tasking careful and active listener:1
 professional human resources certification phr:1
 june:1
-enterprise:1
 newspapers:1
 peoplesoft hrms:1
 tv:1
@@ -691,12 +893,45 @@ new construction:1
 permitting:1
 program implementation:1
 renovations:1
+shrm hr generalist certificate:1
+cihrg member:1
+shrm member:1
+adp vantage:1
+adp recruiting:1
+jd edwards jde:1
+payroll certificate via fred pryor seminars:1
+all windows versions and mac os platforms:1
+benefits and payroll coordination:1
+staff recruiting and retention:1
+background checks:1
+exit interviews:1
+accounting and finance:1
+superb interpersonal skills:1
+recruitment staffing:1
+employee coaching:1
+performance management systems:1
+payroll administrator:1
+unemployment laws:1
+records maintenance:1
+training programs development:1
+audit preparation and reporting:1
+general accounting:1
+budgeting proficiency:1
+expertise in invoice and payment transactions:1
+account reconciliation:1
+exceptional organization:1
+analytical reasoning:1
+ethical approach:1
+superior attention to detail:1
+strong in ms access and excel:1
+invoice coding familiarity:1
+jd edwards:1
+jde:1
+mac os:1
+powerpoint windows:1
 analytical and statistical reporting:1
-public speaking:1
 excellent interpersonal skills:1
-lawson:1
 medical manager:1
-record keeping:1
 troubleshoot:1
 professional and friendly:1
 careful and active listener:1
@@ -712,39 +947,42 @@ organization and efficiency:1
 exemplary verbal and written communication:1
 conflict mediation:1
 hr experience in technology field:1
+internet applications have good understanding of sql:1
+css and javascript operating systems windows xp functional knowledge recruitment:1
+organization management:1
+personal administration:1
+css:1
+full life cycle:1
+internet applications:1
+javascript:1
+painting:1
+sap hr:1
+scheme:1
 outlook and powerpoint sap database:1
 applicant tracking system strong organizational and adminstrative skills develop and implement creative solutions with cost:1
 efficiencey and deadlines articulate and effective communicator and trainer committed to achieving company and personal goals and high quality performance standards:1
 business operations:1
-process invoices:1
 mba:1
 presenter:1
 report writing:1
 san:1
 avid:1
-hub:1
-peak:1
 integrity:1
 human resource training:1
+human resources leadership:1
+certified strategic workforce planner:1
+performance analysis:1
+advising and navigating crucial conversations:1
+wage analysis:1
 maintains inventory:1
-notes:1
 office applications:1
 office equipment:1
-surveys:1
 tax preparation:1
 human resources manager:1
 teambuilding:1
-win:1
-attention to detail:1
-excellent communication:1
-driving:1
 listening:1
-microsoft access:1
-nursing:1
 organizational design:1
 perioperative:1
-project lead:1
-recording:1
 swift:1
 college recruiting:1
 sourcing:1
@@ -757,35 +995,88 @@ recruiting best practices:1
 performance evaluations:1
 eeo:1
 assistant manager:1
-network:1
 sales training:1
-backup:1
+proficient in microsoft word suite word:1
+outlook and access:1
+kronos timekeeper:1
+hyperion:1
+market research and analysis:1
+proficient in microsoft office and hris systems:1
+extensive hr experience including strategic talent acquisition orientation:1
+compensation employee retention:1
+labor laws:1
+and implementing compliance:1
+policies and procedures:1
+expertise in management:1
+analysis:1
+researching market trends:1
+performance improvement:1
+and forecasting:1
+excellent interpersonal:1
+and conflict resolution skills:1
 customer support:1
-technical support:1
 net:1
-academic:1
 aims:1
 data modeling:1
 data warehousing:1
 informatica:1
 j ee:1
-java:1
 linux:1
 mechanical:1
 microsoft technologies:1
-requirement:1
 sql server:1
 unix:1
 analyst:1
-balance:1
 database administration:1
 german:1
-latin:1
 management skills:1
 mandarin chinese:1
 risk analysis:1
 vaccines:1
-clientele:1
+registrations:1
+account maintenance:1
+general account:1
+access control:1
+architecture:1
+archiving:1
+csu:1
+hardware troubleshooting:1
+flsa:1
+operations:1
+ppp:1
+technical assistance:1
+answering:1
+cac:1
+customer accounts:1
+employee benefits:1
+federal regulations:1
+ms access:1
+statistical analysis:1
+user experience:1
+publishing:1
+hr issues:1
+hr process improvement:1
+process improvements:1
+solutions:1
+dod:1
+gsa:1
+information assurance:1
+online learning:1
+online training:1
+associate:1
+customer oriented:1
+dc:1
+windows platform:1
+novell:1
+office and equipment:1
+property management:1
+space planning:1
+data base:1
+direct marketing:1
+fluent in english:1
+equity:1
+phone etiquette:1
+word processing:1
 department of health:1
 marketing plan:1
 quest:1
@@ -804,7 +1095,6 @@ professionals in human resources association:1
 benefit plans:1
 increase:1
 induction:1
-security:1
 accounts and:1
 cash:1
 csr:1
@@ -833,7 +1123,7 @@ navigator:1
 page:1
 assist patients:1
 personnel management:1
-phone system:1
+and sap:1
 clerk:1
 office clerk:1
 clerical support:1
@@ -843,7 +1133,6 @@ mail clerk:1
 office supplies:1
 stamping:1
 audit:1
-auditing:1
 cases:1
 documenting:1
 fbi:1
@@ -855,22 +1144,39 @@ materials management:1
 office assistant:1
 proofreading:1
 telephone skills:1
-typing:1
 accountant:1
-quality control:1
-shipping:1
 six sigma:1
 sop:1
-utilities:1
-change management:1
+key touch:1
+cpa:1
+networks:1
+payables:1
+staff training:1
 human:1
 resources:1
 strategy and planning:1
-vendor relations:1
 verbal communication skills:1
-excellent written:1
+leave attendance entry exit:1
+relevant coursework:1
+theories of human communication:1
+customer service oriented:1
+resolves customer problems:1
+oral communication and writing skills:1
+manager coaching and training:1
+payroll expertise:1
+works well in group setting:1
+interpersonal skills staffing and recruiting professional:1
+excellent time management:1
+proficient in ms office:1
+treats people with respect keeps commitments inspires the trust of others works with integrity:1
+multi tasking ability:1
+ability to learn quickly:1
+employee training:1
+graphs:1
+macros:1
+project plans:1
+writing skills:1
 self motivated professional:1
 meeting deadlines:1
 time management skills:1
-multi tasking:1
 telephone etiquette:1

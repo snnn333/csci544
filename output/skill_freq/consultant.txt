@@ -1,311 +1,717 @@
-sales:17
-windows:16
-client:15
-clients:15
-project management:14
-policies:13
-reporting:13
-access:12
-budget:11
-personnel:10
-javascript:9
-c:9
-excel:9
-oracle:9
-benefits:8
-customer service:8
-meetings:8
-delivery:8
-contracts:8
-leadership:8
-managing:8
-consulting:7
-database:7
-html:7
+clients:42
+windows:41
+sales:37
+client:36
+project management:35
+excel:31
+access:29
+documentation:28
+reporting:26
+database:24
+managing:24
+office:24
+c:23
+processes:23
+quality:21
+consulting:20
+policies:20
+marketing:20
+sql:19
+financial:19
+network:18
+databases:17
+meetings:17
+accounting:17
+budget:16
+oracle:16
+personnel:16
+delivery:16
+strategic:16
+market:16
+research:16
+leadership:16
+strategy:15
+enterprise:15
+word:14
+inventory:14
+scheduling:14
+microsoft office:14
+finance:13
+servers:13
+change management:13
+consultant:13
+networking:12
+payroll:12
+customer service:12
+javascript:12
+senior management:12
+functional:12
+visio:12
+citrix:12
+hardware:12
+troubleshooting:12
+outlook:12
+ms office:12
+contracts:12
+benefits:11
+staffing:11
+html:11
+business development:11
+vpn:11
+technical support:11
+troubleshoot:11
+quality assurance:11
+powerpoint:11
+focus:10
+operating systems:10
+budgets:10
+content:10
+tcp ip:10
+linux:10
+insurance:10
+credit:10
+workflow:10
+time management:10
+budgeting:10
+ibm:9
+developer:9
+website:9
+process improvement:9
+active directory:9
+unix:9
+mysql:9
+networks:9
+tax:9
+microsoft word:9
+pricing:9
+exchange:9
+director:8
+sql server:8
+billing:8
+approach:8
+government:8
+microsoft office suite:8
+architect:8
+email:8
+retail:8
+materials:8
+testing:8
+php:8
+cisco:8
+presentations:8
+public relations:8
+hr:7
+designing:7
+forms:7
 java:7
-research:7
-materials:7
-documentation:7
-microsoft office:7
-office:7
-financial:7
-payroll:6
-strategy:6
-finance:6
-network:6
-sql:6
-sql server:6
-inventory:6
-insurance:6
-quality assurance:6
-consultant:6
-processes:6
-hr:5
-networking:5
-asp net:5
-forms:5
+advertising:7
+com:7
+automation:7
+business process:7
+conversion:7
+power point:7
+os:7
+ms project:7
+progress:7
+lan:7
+programming:7
+written:7
+ca:7
+sap:7
+ms word:7
+ms office suite:7
+problem solving:7
+logistics:7
+mentoring:7
+iso:7
+filing:6
+human resources:6
+team building:6
+risk management:6
+vendor management:6
+asp net:6
+css:6
+erp:6
+xml:6
+scripts:6
+product development:6
+data analysis:6
+optimization:6
+proposals:6
+requirement:6
+lotus notes:6
+customer support:6
+dell:6
+windows nt:6
+telephone:6
+windows server:6
+backup:6
+client server:6
+account management:6
+basic:6
+unique:6
+forecasting:6
+financial reporting:6
+crm:6
+information technology:6
+recruitment:6
+migration:6
+public speaking:6
+safety:6
+quickbooks:6
+image:5
+works:5
+net:5
+api:5
+automate:5
+crystal reports:5
 iis:5
-operating systems:5
-time management:5
-accounting:5
-market:5
-tax:5
-credit:5
-scheduling:5
-word:5
-government:5
-public relations:5
-marketing:5
-senior management:5
-process improvement:5
-mentoring:5
-filing:4
-risk management:4
-staffing:4
-api:4
-databases:4
-xml:4
-developer:4
-vista:4
-vpn:4
-os:4
-unix:4
+ms access:5
+vista:5
+agency:5
+financial analysis:5
+market research:5
+sdlc:5
+websites:5
+agile:5
+help desk:5
+win:5
+windows xp:5
+network security:5
+itil:5
+operations management:5
+upgrades:5
+legal:5
+document management:5
+engineer:5
+next:5
+symantec:5
+wan:5
+microsoft access:5
+accounts payable:5
+ap:5
+general ledger:5
+taxes:5
+peoplesoft:5
+securities:5
+spreadsheets:5
+hp:5
+coding:5
+visual basic:5
+promotion:5
+spss:5
+surveys:5
+conflict resolution:5
+ftp:5
+direction:5
+organizational:5
+video:5
+ad:5
+packaging:5
+dns:5
+customer satisfaction:5
+interpersonal communication:4
+strategic planning:4
+features:4
+mvc:4
+odbc:4
+scrum:4
+scripting:4
+ms sql server:4
+validation:4
+web server:4
+content creation:4
+book:4
+e commerce:4
+selling:4
+apple:4
+rfp:4
+sms:4
+solutions:4
+consultation:4
+utilities:4
+go live:4
+excellent communication:4
+disaster recovery:4
+operating system:4
+six sigma:4
+upgrade:4
+nt:4
+netware:4
+profit:4
+accounts receivable:4
 adp:4
-forecasting:4
-mysql:4
-email:4
-business process:4
-retail:4
-direction:4
-recruitment:4
-ms office suite:4
+microsoft powerpoint:4
+ms excel:4
+ms outlook:4
+sarbanes oxley:4
+team player:4
+operations:4
+apache:4
+security:4
+oil:4
+excellent communication skills:4
+read:4
+san:4
+auditing:4
+sharepoint:4
+tableau:4
+fast:4
+english:4
+fundraising:4
+media relations:4
+spanish:4
+administrative:4
+innovation:4
+procurement:4
 oracle g:4
-content:4
-enterprise:4
-quality:4
-account management:4
-budgets:4
+training:4
+it support:4
+coaching:4
+driving:4
+purchasing:4
+controller:4
+novell:4
+statistical analysis:4
+voip:4
+cases:4
+integration:4
+integrator:4
+qa:4
+dhcp:4
+client relations:4
+accountant:4
 financial statements:4
-written:4
-safety:4
-strategic:4
-focus:3
-human resources:3
-team building:3
-works:3
+desktops:4
+closing:4
+letters:4
+invoicing:4
+financial planning:4
+negotiations:4
+avid:4
+adobe premiere:4
+interpretation:3
+legal compliance:3
 seminars:3
-vendor management:3
-net:3
-automate:3
-crystal reports:3
-css:3
-ibm:3
-mvc:3
+phone:3
+training programs:3
+application development:3
+configuration management:3
+java script:3
 software development:3
-ms sql server:3
-sms:3
-lotus notes:3
-citrix:3
-hardware:3
-win:3
-tcp ip:3
-technical support:3
-telephone:3
+transportation:3
+visual studio:3
+b b:3
+brand strategy:3
+editorial:3
+adobe:3
+investments:3
+ip:3
+marketing plan:3
+ms sql:3
+a:3
+asset management:3
+editing:3
+tivoli:3
+computer applications:3
+dba:3
+people management:3
+oracle database:3
+organizational skills:3
+process development:3
+quick:3
+solaris:3
+trouble shooting:3
+weblogic:3
+technician:3
+backup exec:3
+firewalls:3
+law:3
+microsoft certified professional:3
+mcp:3
+pbx:3
+systems integration:3
+system integration:3
+real time:3
+system administration:3
+user training:3
+ar:3
+balance sheet:3
+cash management:3
+treasury:3
+tax returns:3
 microsoft excel:3
-exchange:3
-microsoft powerpoint:3
-microsoft word:3
 writer:3
-visual basic:3
+data warehouse:3
+mis:3
+siebel:3
+vbscript:3
+business analysis:3
+business plan:3
+specification:3
+regulatory compliance:3
+tcp:3
+inventory control:3
+instructor:3
+teaching:3
+database design:3
 data entry:3
-sdlc:3
-architect:3
-fast:3
-profit:3
-innovation:3
-outlook:3
-organizational:3
-procurement:3
-progress:3
+data management:3
+automotive:3
+analyst:3
+marketing strategy:3
+teradata:3
+web content:3
+proposal:3
+imaging:3
+languages:3
+negotiating:3
+staff management:3
+attention to detail:3
+conferences:3
+data collection:3
+health education:3
 sas:3
-surveys:3
-peoplesoft:3
 microstrategy:3
-tableau:3
-cisco:3
-migration:3
-media relations:3
-problem solving:3
-advertising:3
-client relations:3
-accountant:3
-change management:3
-controller:3
-general ledger:3
+dna:3
+number:3
+acquisitions:3
+banking:3
+statistics:3
+stories:3
+continuous improvement:3
+protocols:3
+cpa:3
+microsoft dynamics:3
+phone system:3
+python:3
+router:3
+routers:3
+switches:3
+microsoft visual basic:3
+service level agreements:3
+training and development:3
+problem resolution:3
+due diligence:3
 year end:3
-coaching:3
-packaging:3
-unique:3
-website:3
-accounts payable:3
-ca:3
-driving:3
-financial planning:3
-financial reporting:3
-com:3
-logistics:3
-image:2
-interpretation:2
-legal compliance:2
-director:2
+eclipse:3
+cpr:3
+employee training:3
+laptops:3
+cognos:3
+staff training:3
+gmp:3
+streamline:3
+script:3
+speaking:3
+new product development:3
+quality control:3
+pos:3
+photography:3
+business plans:3
+french:3
+communicator:3
+phones:3
+fluent in english:3
+ada:2
+employee relations:2
 scanning:2
-strategic planning:2
 c net:2
 ajax:2
+art:2
 business objects:2
 version control:2
-designing:2
-erp:2
-features:2
 ide:2
+jquery:2
 json:2
 logic:2
-odbc:2
-servers:2
-scripting:2
-scripts:2
+pain management:2
+pdf:2
+reading:2
 soap:2
-validation:2
-visual studio:2
-web server:2
+b b sales:2
+vc:2
+tv:2
+academic:2
+business strategy:2
+google analytics:2
+hub:2
+mba:2
+gap analysis:2
+competitor analysis:2
+trello:2
 ethernet:2
 lan manager:2
 lawson:2
-solutions:2
+remedy:2
 telnet:2
-active directory:2
-consultation:2
-customer support:2
-windows nt:2
-windows xp:2
-troubleshoot:2
-utilities:2
+iq:2
+pc s:2
+pc anywhere:2
+strong interpersonal skills:2
+database administration:2
+middleware:2
+oracle applications:2
+oracle application server:2
+oracle enterprise manager:2
+oracle dba:2
+people skills:2
+excellent presentation skills:2
+primavera:2
+ssl:2
+hp unix:2
+win runner:2
+superior communication skills:2
+computer literate:2
+counselor:2
+assist patients:2
+capacity planning:2
+citrix metaframe:2
+microsoft certified:2
+mcse:2
+exchange server:2
+network design and installation:2
+network support:2
+raid:2
+supervisor:2
+system administrator:2
+telecommunications:2
+vax vms:2
+word processing:2
+analytical skills:2
+communication skills:2
+messaging:2
+network administration:2
+project leadership:2
+vba:2
+corporate finance:2
+estimating:2
+funds:2
+revenue recognition:2
+accruals:2
+pivot tables:2
+variance analysis:2
+costing:2
 financial reports:2
 foreign exchange:2
 information systems:2
-investments:2
-microsoft access:2
 netscape navigator:2
-securities:2
-spreadsheets:2
-real time:2
-engineer:2
-inventory control:2
-linux:2
-operations:2
-instructor:2
+internal audits:2
+internal audit:2
+navision:2
+record keeping:2
+developing business:2
+financial management:2
+vb:2
+requirements gathering:2
+etl:2
+gis:2
+organization:2
+asp:2
+associate:2
+fortran:2
+db:2
+mainframe:2
+rexx:2
+systems analyst:2
+web based:2
+software engineer:2
+red hat:2
+mentor:2
+pascal:2
 systems analysis:2
+delphi:2
+concise:2
+client management:2
+clientele:2
+researching:2
 typing:2
-ms office:2
-automotive:2
-san:2
-administrative:2
-attention to detail:2
-conferences:2
-data collection:2
-powerpoint:2
+skilled in microsoft office suite:2
+adobe premier suite:2
+sql database:2
+and sas:2
+planning and development:2
+strategic decision making:2
+fluent in english and urdu:2
+functional in spanish:2
+dc:2
+years:2
+excel years:2
+concept:2
+online marketing:2
+trend:2
+program management:2
+aix:2
+vms:2
+websphere:2
+workshops:2
+adobe suite:2
+hardware installation:2
+data migration:2
+preventive and reparative maintenance:2
+mechanical systems:2
+soldering and wiring:2
+installation:2
+hardware diagnostics:2
+cost estimation:2
+operation system software:2
+advanced critical thinking:2
+counseling:2
+department of health:2
+mental health:2
+rehabilitation:2
+supervision:2
+tutoring:2
+case management:2
 publisher:2
 navigation:2
+nursing:2
+receiving:2
 technical assistance:2
 pl sql:2
-dna:2
-teradata:2
-sharepoint:2
-sap:2
 spreadsheet:2
-go live:2
-ad:2
+risk assessment:2
+marketing materials:2
+relationship building:2
+drafting:2
 newsletters:2
+interpersonal:2
 leadership skills:2
-team player:2
+salesforce com:2
+pr:2
+product marketing:2
+baan:2
+cost accounting:2
+lean manufacturing:2
+strategic sourcing:2
+business management:2
+cisco certified network associate:2
+certified novell engineer:2
+cisco certified:2
+computer networking:2
+ecommerce:2
+firewall:2
+human resource management:2
+ldap:2
+perl:2
+sage:2
+switch:2
+systems development:2
+t:2
+terminal server:2
+deployment:2
+maintenance:2
+test cases:2
+ghost:2
+accounts and:2
+vmware:2
+data analyst:2
+design documentation:2
+acrobat:2
+facets:2
+photoshop:2
+systems administration:2
+team lead:2
+supplier management:2
+customer relationship management:2
+metrics:2
+detail oriented:2
+retail sales:2
 business operations:2
 balance:2
 budget analysis:2
-due diligence:2
-legal:2
+cost control:2
 payroll processing:2
 platinum:2
-agile:2
-itil:2
-employee training:2
+real estate:2
+encryption:2
+hard drives:2
+human resource:2
+publications:2
 natural:2
-streamline:2
-customer satisfaction:2
-desktops:2
-imaging:2
-programming:2
-spanish:2
-ap:2
-auditing:2
+claims:2
+groupwise:2
+southern blotting:2
+equipment maintenance:2
+minitab:2
+lims:2
+chemistry:2
+instruction:2
+view:2
+army:2
+cisco switches:2
+hindi:2
+internal medicine:2
 bank reconciliation:2
-banking:2
+bloomberg:2
 business law:2
-closing:2
-quickbooks:2
-tax returns:2
-budgeting:2
 bi:2
+excellent interpersonal skills:2
 kronos:2
-letters:2
-mis:2
-requirement:2
+quick learner:2
+award:2
+satisfaction:2
+saas:2
+software as a service:2
+medical coding:2
+relationship management:2
+customer relations:2
+model view controller:2
 atp:2
-approach:2
-business development:2
-pos:2
-eclipse:2
-information technology:2
+ccna:2
+information security:2
+mail:2
+vision:2
 jsp:2
 memory:2
-networks:2
-coding:2
 servlet:2
 uml:2
-billing:2
-functional:2
-sarbanes oxley:2
+adobe photoshop:2
+indesign:2
+complex problem solving:2
+report writing:2
 german:2
-negotiating:2
+positioning:2
+web servers:2
+business planning:2
+economics:2
+mergers and acquisitions:2
+grow:2
+hiring:2
+project development:2
 translating:2
-workflow:2
 event management:2
-presentations:2
-phones:2
+presenting:2
+product management:2
+writing manuals:2
+as:2
+processors:2
 strong analytical skills:2
-proposals:2
-purchasing:2
-microsoft office suite:2
-ada:1
+administrative support:2
+internet:2
+and social media savvy:2
+script review breakdowns:2
+movie magic:2
+arabic:2
+time:2
+management:2
+video production:2
+videography:2
+film:2
+hebrew:2
+magic:2
+media production:2
+camera:2
 business process improvement:1
-interpersonal communication:1
-employee relations:1
 organizational development:1
-phone:1
-training programs:1
 third generation:1
 ado:1
 agresso:1
-application development:1
-art:1
 cardiology:1
 client and server:1
-configuration management:1
 dom:1
 dhtml:1
 http:1
-java script:1
-jquery:1
-ms access:1
 monitors:1
 ms dos:1
 object oriented analysis design:1
@@ -313,18 +719,50 @@ ooad:1
 oncology:1
 oracle and sql:1
 order entry:1
-pain management:1
-pdf:1
 radiology:1
-reading:1
-scrum:1
 visual source safe:1
 therapy:1
 t sql:1
-transportation:1
 user interface:1
 web applications:1
 web programming:1
+network development:1
+lead prospecting:1
+interpersonal communication skills:1
+brand marketing:1
+nnetwork development:1
+llead prospecting:1
+iinterpersonal communication skills:1
+bbrand marketing:1
+bbusiness development:1
+pproduct development:1
+ccontent creation:1
+strategy operations:1
+process optimization:1
+digital transformation:1
+cross functional team management:1
+project product management:1
+agile lean methodologies:1
+content management:1
+international business:1
+market strategy:1
+object oriented analysis and design:1
+speech:1
+strategy development:1
+business skills:1
+product strategy:1
+customer journey analysis:1
+requirement gathering product management:1
+tools:1
+balsamiq:1
+alm octane:1
+agile manager:1
+version one:1
+methodologies:1
+kanban:1
+lean:1
+human centered design:1
+design thinking:1
 microsoft windows operating systems windows nt:1
 xp:1
 and win:1
@@ -342,7 +780,6 @@ websense:1
 norton:1
 surveillix central station rsa:1
 authentication manager:1
-remedy:1
 gwi help desk:1
 unix reflection manager:1
 putty:1
@@ -350,28 +787,69 @@ kana iq resource manager:1
 pc:1
 anywhere:1
 netop:1
-a:1
-asset management:1
-dell:1
-editing:1
 phone support:1
-help desk:1
 isp:1
-iq:1
 lotus:1
 micron:1
 microsoft products:1
 winnt:1
 navigator:1
-network security:1
 norton ghost:1
-pc s:1
-pc anywhere:1
 pc software:1
 sophos:1
-tivoli:1
 upgrading:1
-windows server:1
+asm:1
+therapeutic expertise:1
+medicaid familiarity:1
+psychiatric population familiarity:1
+solution focused counseling:1
+exceptional problem solver:1
+quality management care team member:1
+community resources specialist:1
+insurance benefits verification and authorizations:1
+business processes case management:1
+criminal justice:1
+electronic medical records:1
+program development:1
+territory management:1
+treatment programs:1
+cca:1
+citrix certified administrator:1
+database development:1
+decnet:1
+electronic mail:1
+feasibility study:1
+frame relay:1
+internet services:1
+internet access:1
+ms exchange:1
+windows networking:1
+pathworks:1
+secretarial:1
+software installation:1
+assembly language:1
+data communications:1
+database and applications:1
+documentum:1
+some html:1
+manufacturing process:1
+excel spreadsheets:1
+windows operating system:1
+relational database:1
+vax:1
+abap:1
+reconciliation of balance sheet accounts:1
+consumer electronics:1
+downstream:1
+financials:1
+ledger:1
+sap bw:1
+sap fi:1
+sd:1
+user manuals:1
+vertex:1
+debit:1
+tax compliance:1
 adobe proficient:1
 windows xp proficiency:1
 windows expertise:1
@@ -385,69 +863,96 @@ cash handling accuracy:1
 strong communication skills:1
 superb sales professional:1
 excellent multi tasker:1
-costing:1
 crystal report:1
 financial modeling:1
 novell groupwise:1
 microsoft internet explorer:1
 microsoft outlook express:1
-treasury:1
-asp:1
-php:1
-business analysis:1
-associate:1
+accounting software:1
+audit reports:1
+audit report:1
+audit reporting:1
+insulation:1
+internal auditor:1
+internal auditing:1
+ms powerpoint:1
+pq:1
+producer:1
+health information technology:1
+icm:1
+japanese:1
+training delivery:1
+translation:1
+configuration:1
+design:1
+functional specification:1
+debugging:1
+gui:1
+design process:1
+qtp:1
+training manuals:1
+court procedures:1
+legal document preparation:1
+strong researcher:1
+strong negotiator:1
+communication:1
+litigation management:1
+detailed oriented:1
+due dilligence:1
+deposition:1
+motion practice:1
+strong writer:1
+civil litigation:1
+professional and personable:1
+analytical:1
 defense industry:1
-fortran:1
-lan:1
 mapping:1
 test lead:1
 topo:1
 tpf:1
 assembly:1
 assembly line:1
-client server:1
 collections:1
-db:1
 dbase:1
 general pc:1
 ibm mainframe:1
-mainframe:1
-rexx:1
-tcp:1
 wafer:1
-systems analyst:1
-web based:1
 flash:1
 performance tuning:1
-software engineer:1
 system testing:1
-testing:1
 unit testing:1
 casi rusco:1
-red hat:1
 btrieve:1
 foxpro:1
 new account:1
 ups:1
 adult learning:1
-apache:1
 back end:1
 computer programming:1
 database management:1
 dod:1
 government contracting:1
-mentor:1
-pascal:1
 patent:1
-security:1
 structured software:1
-teaching:1
-delphi:1
 algorithm:1
 architecture:1
-database design:1
 digital design:1
 systems programming:1
+familiar with spss software expert at ms word:1
+excel and powerpoint proficient in databases such as gartner:1
+forrester:1
+datamonitor:1
+onesource:1
+factiva:1
+benchmarking:1
+big data:1
+business research:1
+critical thinking:1
+investment banking:1
+investment management:1
+analyzing market:1
+market analysis:1
+wealth management:1
 cash handling:1
 shipping and receiving:1
 professional and friendly:1
@@ -481,27 +986,56 @@ pages:1
 keynote quicktime quickbooks tweet adder adobe readers gotomeeting join me preview skype:1
 excel and microsoft office read schematics and blue prints:1
 consolidations:1
-dc:1
-read:1
 schematics:1
+healthcare analytics years:1
+physician engagement years:1
+project management years:1
+sales years:1
+marketing strategy years:1
+tableau years:1
+public speaking years:1
+machine learning years:1
+financial analysis years:1
+databases year:1
+sql year:1
+business development years:1
+business intelligence years:1
+user experience design:1
+business intelligence:1
+competitive intelligence:1
+prepare contract:1
+file servers:1
+ma:1
+machine learning:1
+pricing strategies:1
+rapport:1
+white papers:1
+author:1
 competitive:1
 design and construction:1
 engineering support:1
-estimating:1
-next:1
-program management:1
-proposal:1
+hp ux:1
+macros:1
+ssh:1
+assembler:1
+carpenter:1
+cl:1
+data processing:1
+marketing collateral:1
+access basic:1
+sql windows:1
+power systems:1
+excel office project evaluation media relations employee and volunteer training grant certification project coordination:1
+behavioral health:1
+chi:1
+event coordination:1
+project coordination:1
+psychology:1
 administrative functions:1
 cancer:1
-case management:1
 disease prevention:1
 environmental health:1
-health education:1
-mental health:1
-nursing:1
-receiving:1
 social services:1
-spss:1
 sql server r:1
 vm ware:1
 ms visio:1
@@ -520,7 +1054,6 @@ chrome:1
 firefox:1
 and html:1
 operating systems ms windows professional enterprise xp:1
-nt:1
 novell netware:1
 server environments sql:1
 sql r:1
@@ -529,26 +1062,37 @@ ceridian encore:1
 ssrs:1
 ssas:1
 ssis:1
-etl:1
 servicenow:1
 and cyberquery:1
-data warehouse:1
 oracle discoverer:1
-pivot tables:1
 triage:1
 web design:1
 audio:1
 content and developing:1
-hub:1
-risk assessment:1
-video:1
+revamped the orientation process for all new hires:1
+which was implemented company wide:1
+successfully decreased staff turnover by:1
+in:1
+months:1
+p:1
+rovided assistance in resume building:1
+and career path development:1
+reduced employee turnover by:1
+created:1
+week virtual training sessions for a:1
+program type:1
+certification program:1
+business communication:1
+gross profit:1
+italian:1
+marketing strategies:1
+page:1
+program evaluation:1
+supervising:1
+trade shows:1
 articulate:1
-concise:1
 copy editing:1
-drafting:1
 editor:1
-editorial:1
-fundraising:1
 law enforcement:1
 team leader:1
 money:1
@@ -557,12 +1101,9 @@ personnel management:1
 policy analysis:1
 presentation skills:1
 prime:1
-public speaking:1
 quantitative analysis:1
 security clearance:1
 sop:1
-stories:1
-workshops:1
 executive positioning communications:1
 thought leadership and content development:1
 executive platform development:1
@@ -572,7 +1113,6 @@ speakers bureau:1
 mri residental software:1
 budget creation:1
 scheduling appointments:1
-interpersonal:1
 front office:1
 legal documents:1
 mac and pc:1
@@ -580,10 +1120,104 @@ managin:1
 handling money:1
 pos system:1
 phone skills:1
+hubspot seo:1
+marketo:1
+google analytics ppc:1
+wordpress:1
+basecamp:1
+jira:1
+social media:1
+seo:1
+sem:1
+product testing:1
+promotions:1
+and writing proposals:1
+ability to attract and retain key personnel excellent at coaching and mentoring key personnel in all disciplines get teams involved by incorporating their ideas promote a culture of strong ownership encourage employees to do their best ms windows xp:1
+ms office xp:1
+excel and powerpoint:1
+ms project and ms outlook proficiency level with is excellent erp mrp jd edwards:1
+cash flow:1
+jd edwards:1
+machinery:1
+ms windows xp:1
+mrp:1
+piano:1
+profit and loss:1
+supply chain management:1
+borland:1
+business startup:1
+cisco routers:1
+contact management:1
+e business:1
+enterprise resource planning:1
+hypertext markup language:1
+itil v:1
+team leadership:1
+mas:1
+nds:1
+new business development:1
+paradox:1
+pci:1
+peak:1
+programmer:1
+systems design:1
+voice over ip:1
+workstations:1
+printers:1
+blackberry:1
+backups:1
+lan wan:1
+production environment:1
+remote access:1
+veritas:1
+veritas backup exec:1
+wan troubleshooting:1
+accounts in:1
+application support:1
+immigration:1
+it procurement:1
+lead engineer:1
+microsoft visio:1
+of accounts:1
+scheduling software:1
+test engineer:1
+qa process:1
+medicare:1
+basis:1
+incoming calls:1
+adobe acrobat:1
+altiris:1
+comptia:1
+juniper:1
+learning center:1
+learning centers:1
+symantec pc anywhere:1
+virtual machine:1
+virtual server:1
+vm:1
+westlaw:1
+wise:1
+data center:1
+file:1
+helpdesk:1
+migrations:1
+revenue enhancement:1
+infrastructure development:1
+total quality management:1
+risk and liability management:1
+performance metrics management:1
+haccp and gmp certification:1
+six sigma champion:1
+manufacturing engineering:1
+quality systems design:1
+gfsi sqf practitioner:1
+business process reengineering:1
+haccp certified:1
+lean manufacturing certified:1
+six sigma certified champion:1
+better process control certified:1
 sales and:1
 and marketing:1
-integration:1
-integrator:1
 financial services:1
 from sales:1
 outside sales:1
@@ -593,17 +1227,9 @@ account development:1
 advertising sales:1
 sales position:1
 accountable for:1
-crm:1
-customer relationship management:1
-accounts and:1
 direct accounts:1
-metrics:1
-cases:1
 leads:1
-optimization:1
 search engine marketing:1
-test cases:1
-facets:1
 life cycle:1
 pipeline:1
 business consultant:1
@@ -611,25 +1237,79 @@ created sales:1
 production process:1
 prospecting:1
 and account:1
-detail oriented:1
 dynamics:1
 dynamics crm:1
 in sales:1
-microsoft dynamics:1
 microsoft dynamics crm:1
-problem resolution:1
 receptionist:1
-retail sales:1
-cost control:1
-navision:1
 peachtree accounting:1
 quickbooks pro:1
-real estate:1
 turbo tax:1
+avaya:1
+cables:1
+cd rom:1
+imac:1
+microsoft office specialist:1
+microsoft outlook:1
+printer:1
+service level agreement:1
+telephony:1
+voice communications:1
+website design:1
+zenworks:1
+pressure and rate transient analyses:1
+decline curve analysis fekete harmony:1
+volumetrics and material balance:1
+economic analysis aries:1
+knowledge in sec reserves estimation concepts:1
+reservoir management:1
+history matching and production forecast:1
+compositional and black oil simulation:1
+enhance oil recovery waterflooding:1
+co injection:1
+wag:1
+and polymer flood:1
+knowledgeable in unconventional resourse evaluation and modeling of fractured systems:1
+good understanding of reservoir geology and depositional system fundamentals:1
+geochemical modeling:1
+reservoir geomechanics:1
+good understanding of log and core analyses:1
+aries:1
+nexus vip:1
+petrel:1
+visage:1
+petra:1
+co prophet:1
+fekete harmony:1
+kinder morgan co scoping model:1
+desktop pvt:1
+tough and toughreact:1
+arcgis:1
+envi:1
+and unix:1
+ambulance:1
+management training:1
+radio:1
+apple support apple workstations:1
+apple servers:1
+ipad:1
+iphone:1
+mobile device management:1
+apple remote desktop:1
+xsan:1
+network support open directory:1
+afp:1
+smb:1
+nfs:1
+alvarion:1
+ubiquiti:1
+software support filemaker pro:1
+filemaker server:1
+final cut pro:1
+maya:1
 demonstrated:1
 hands on experience in lean agile:1
 waterfall:1
-gap analysis:1
 uat:1
 business requirements:1
 process mapping:1
@@ -638,90 +1318,354 @@ resource management:1
 and project management lifecycle:1
 business correspondence:1
 staff development:1
+a certification:1
+cabling:1
+ms windows:1
+wiring:1
+cerner:1
+test scripts:1
+documenting:1
+change control:1
+design build:1
+outpatient:1
+training documentation:1
+writing test:1
+cim:1
+millennium:1
+regression testing:1
+class:1
+comprehensive large array data stewardship system:1
+educating:1
+new hires:1
+qa testing:1
+test plans:1
+cem:1
+clinical documentation:1
+collection:1
+healthcare:1
+order management:1
+rollout:1
+unix aix:1
+rna isolation knowledge:1
+proficient in pcr:1
+in vivo transcription:1
+published researcher:1
+skilled in genotyping:1
+protein isolation:1
+transcription profiling:1
+elisa assay:1
+expert in design control:1
+iso environment:1
+extraction:1
+separation and purification techniques:1
+trained in lab safety:1
+ms office proficiency:1
+training proposals:1
+expert in developing inventory systems:1
+creative instruction styles and techniques:1
+certified training specialist in consulting:1
+presentations expert:1
+charismatic public speaker:1
+skilled in working with special needs adults:1
+proficient in creating and maintaining schedules:1
+taught aseptic technique lessons to over participants:1
+instructional technologies knowledge:1
+intuitive people management skills:1
+assisted in oos investigations:1
+change control for quality systems rdp:1
+ncbi:1
+tigr:1
+kegg:1
+omim:1
+entrez:1
+psi blast:1
+tree view:1
+gen bank:1
+pub med:1
+gene pix pro analysis of cogs and cdd:1
+citrix sever:1
+ftp clients:1
+isotrain:1
+and ikat:1
+vibes:1
+cfr part:1
+aseptic techniques:1
+aseptic technique:1
+calibration:1
+cleaning validation:1
+dec:1
+elisa:1
+experiments:1
+filling:1
+good laboratory practices:1
+in design:1
+laboratory equipment:1
+lab test:1
+oq:1
+pcr:1
+performance reviews:1
+process equipment:1
+public speaker:1
+researcher:1
+technical training:1
+toc:1
+transcription:1
+assessment:1
+project management consult with clients to gain detailed information used to develop comprehensive:1
+project plans and tasks:1
+process improvements the ability to devise and implement processes:1
+procedures:1
+systems and:1
+internal controls to strengthen operations and enhance customer satisfaction:1
+professional training and development extensive knowledge of electronic health care software and:1
+its clinical functionality as it relates to clinic workflow including documentation:1
+orders and medications:1
+business processes:1
+community health:1
+group facilitation:1
+needs analysis:1
+program design and evaluation:1
+project plans:1
+strategic management:1
+teamwork:1
 vb net:1
 adding machines:1
 application packaging:1
-backup:1
-conflict resolution:1
-encryption:1
-data management:1
 installshield:1
 knowledge management:1
 windows os:1
 k:1
 msi:1
-oracle database:1
-perl:1
 sales support:1
-script:1
 user support:1
 tech support:1
-vbscript:1
-view:1
 x:1
-accruals:1
-balance sheet:1
+and power point:1
+anatomy:1
+biochemistry:1
+oral:1
+dermatology:1
+family medicine:1
+genetics:1
+immunization:1
+immunology:1
+molecular biology:1
+ob gyn:1
+ophthalmology:1
+pathology:1
+pediatrics:1
+pharmacology:1
+physiology:1
+program implementation:1
+psychiatry:1
+public health:1
+surgery:1
+urdu:1
 bc:1
-bloomberg:1
 bonds:1
 fixed assets:1
 month end closing:1
 swaps:1
-taxes:1
 valuation:1
 monthly variance analysis:1
-cognos:1
 great communication skills:1
-excellent interpersonal skills:1
-continuous improvement:1
 dependable:1
 frame:1
 hris:1
-human resource management:1
 mechanical:1
 multitasking:1
 process payroll:1
-promotion:1
-quick learner:1
 settlements:1
+web services:1
+publishing:1
+it infrastructure:1
+competitive analysis:1
+transmissions:1
+aws:1
+buying:1
+buying procurement:1
+drivers:1
+iaas:1
+roi:1
+use cases:1
+android:1
+ios:1
+red x:1
+secretary:1
+annual sales:1
+cash:1
+sales of:1
+filings:1
+state tax:1
+increase:1
+campaign management:1
+excellent multitasker:1
+rebuild:1
+simultaneous:1
+technical problem solving:1
+million:1
+audit:1
+forecasts:1
+and accounting:1
+audits:1
+fulfillment:1
+systems management:1
+credit card:1
+auto insurance:1
+cobra:1
+data reporting:1
+hospital billing:1
+insurance claims:1
+its:1
+medicaid:1
+territory:1
+budgeting forecasting:1
+cobit:1
+processor:1
+sarbanes oxley sox:1
+sox:1
+broker dealer:1
+payments:1
+autocad:1
+orcadd:1
+c customer support:1
+data acquisition:1
+fda:1
+interface design:1
+labview:1
+ms power point:1
+microsoft project:1
+microsoft windows ms word:1
+organizational leadership:1
+procedure writing:1
+quality improvement:1
+technical support presentations:1
 marine corps air force:1
-army:1
-concept:1
-instruction:1
 instructing:1
 machinist:1
 weapons:1
 navy:1
 publication:1
 robotics:1
+multiple facility management and oversight:1
+asc administrator mentoring:1
+revenue cycle management:1
+vendor negotiations:1
+budget creation and analysis:1
+diverse market and industry knowledge:1
+qapi program support:1
+accreditation preparation:1
+payer contracting negotiations:1
+clustering:1
+facilities management:1
+ids:1
+network associates:1
+proxy:1
+financial aptitude with in depth knowledge of sourcing vendors for medical supplies specifically with purchasing and sale of medical supplies:1
+critical thinking proficiency sound decision making abilities in time sensitive situations:1
+cultural awareness and sensitivity:1
+extensive experience with microsoft office word:1
+confident public speaker:1
+relationship and team building skills with emphasizes in conflict resolution:1
 corporate communications:1
-human resource:1
-messaging:1
 program development and implementation:1
 trainer:1
-vision:1
 billing system:1
-dns:1
-e commerce:1
 ejb:1
-ftp:1
-hard drives:1
 hubs:1
 microsoft visio professional:1
 microsoft windows xp:1
-ms word:1
 object oriented design:1
 peripherals:1
-raid:1
-router:1
 microsoft sql server:1
-cisco switches:1
 system design:1
 team work:1
 user documentation:1
-microsoft visual basic:1
 xhtml:1
-complex problem solving:1
+applications:1
+r and i:1
+modules:1
+inventory inv:1
+bill of materials bom:1
+work in process wip:1
+engineering eng:1
+order management om:1
+purchasing po:1
+oracle edi gateway:1
+shipping execution:1
+material requirement planning mrp:1
+iprocurement:1
+quality qa:1
+approval management ame:1
+oracle endeca:1
+tools language:1
+toad:1
+data load:1
+sql developer:1
+affiliate sales manager:1
+local brand manager:1
+on air personality:1
+social media integrator:1
+digital content developer:1
+email marketer:1
+media consulting and digital content analysis:1
+syndicated development and management:1
+affiliate sales management and analysis:1
+radio and podcasting brand management development:1
+digital content delivery and music scheduling:1
+social media integration and seo development:1
+website development and consulting services:1
+pharmacy operations:1
+prescription compounding and dispensing:1
+non sterile compounded medication development:1
+patient counseling:1
+intercom plus:1
+bestrx:1
+discharge planning:1
+home health:1
+hospice:1
+excellent problem solving abilities:1
+windows and linux:1
+website and portal monitoring:1
+network maintenance:1
+data backup and retrieval:1
+product templates:1
+brand development:1
+seo coding and strategy:1
+website maintenance:1
+adobe illustrator:1
+mailchimp:1
+powerpoint presentations:1
+html and css:1
+adobe indesign:1
+superior verbal and written communication skills:1
+mla and chicago manuals of style:1
+natural leader:1
+self starter:1
+desktop and laptop repair:1
+patient:1
+act:1
+broadcast:1
+business solutions:1
+catalog:1
+color:1
+graphics:1
+help desk support:1
+ibm websphere:1
+team builder:1
+microsoft office user specialist:1
+microsoft office xp:1
+windows x:1
+photographer:1
+project lead:1
+quarkxpress:1
+recruiting:1
+software training:1
+structured:1
+ms visual basic:1
+ms visual c:1
+ms visual studio:1
+web marketing:1
 analytical reasoning:1
 financial statement analysis:1
 sox compliance:1
@@ -735,31 +1679,18 @@ advance excel and access proficiency:1
 high adaptability to new technology:1
 account reconciliation expert:1
 experienced in revenue recognition:1
-accounts receivable:1
 application design:1
 book keeping:1
-excellent communication:1
 interpersonal skills:1
-corporate finance:1
-cost accounting:1
 cost analysis:1
-cpa:1
-data analysis:1
 doors:1
 external audits:1
 general ledger accounts:1
 oracle application:1
 oracle financials:1
 oracle financial:1
-publications:1
-report writing:1
-revenue recognition:1
-supervisor:1
 system analyst:1
 tax research:1
-trend:1
-upgrade:1
-variance analysis:1
 experience with ifc jeopardy projects:1
 portfolio management:1
 experience with several ifc portfolio databases:1
@@ -768,80 +1699,153 @@ bulgarian:1
 equity:1
 russian fluent:1
 spread sheet:1
-word processing:1
+anti virus:1
+cne:1
+computer hardware:1
+local area network:1
+layout:1
+medical billing:1
+microsoft windows:1
+windows nt server:1
+network engineering:1
+novell networks:1
+novell network:1
+novell servers:1
+organizational design:1
+reengineering:1
+y k:1
+microsoft office suite indesign quickbooks experience with spss and various crm:1
+and marketing automation systems:1
+negotiating contracts:1
+industry research:1
+back office:1
+modeling:1
+portuguese:1
+reception:1
+search engine optimization:1
+fluent in spanish:1
+personal and professional integrity extensive knowledge of marijuana staff management and hr experience strains:1
+marijuana products staff training and development extensive knowledge of extracting and experience concentrates especially co payroll experience extracting operations management experience experience operating co extraction dispensary:1
+mip equipment compliance:1
+licensing knowledge and metrc and mjfreeway experience all experience facilities:1
+dispensary:1
+mip marketing skills and experience quickbooks and excel experience:1
+training employees:1
+inspecting:1
+energy trading:1
+hp servers:1
+internet applications:1
+microwave:1
+network administrator:1
+reuters:1
+scada:1
+desktop support:1
 account reconciliations:1
-acquisitions:1
 art director:1
-agency:1
-b b:1
-book:1
-business management:1
-business plans:1
 contract review:1
-counselor:1
 file management:1
 financial audits:1
 icd:1
-invoicing:1
-iso:1
-law:1
-regulatory compliance:1
 long term care:1
 market research and analysis:1
 medical terminology:1
-mergers and acquisitions:1
 negotiation:1
 problem solving skills:1
-project development:1
-relationship management:1
 requirements analysis:1
-six sigma:1
 underwriting:1
-websites:1
 website content:1
 articles:1
-apple:1
+understands mobility assistance needs:1
+charting expertise:1
+reliable transportation:1
+trained in grooming and bathing assistance:1
+calm and level headed under duress:1
+medical terminology knowledge:1
+patient focused care:1
+compassionate and trustworthy caregiver:1
+effectively interacts with patients and families:1
+advanced mathematical aptitude:1
+cheerful and energetic:1
+resolution oriented:1
+dependable and reliable:1
+savvy negotiator:1
+exceptional multi tasker personnel training and development:1
+excellent interpersonal and coaching skills:1
+calm under pressure:1
+excellent quantitative skills:1
+critical thinker:1
+system checks and troubleshooting:1
+hardware support and troubleshooting:1
+mac and pc expert:1
+resourceful people oriented:1
+excellent time management skills collaborative:1
 event planning:1
-google analytics:1
 media plan:1
 new media:1
-presenting:1
 ram:1
 singing:1
-basic:1
 dsl:1
-fluent in english:1
 gateway:1
-hindi:1
 ibm mq series:1
 ibm mqseries:1
-ip:1
 jms:1
 jdbc:1
-ldap:1
 mac os:1
 oss:1
-product management:1
-qa:1
 rad:1
 oracle rdbms:1
 struts:1
 telecom:1
 tomcat:1
-web servers:1
-weblogic:1
-websphere:1
 xslt:1
-as:1
+biology:1
+bsc:1
+community relations:1
+eia:1
+environmental compliance:1
+environmental management:1
+inspection:1
+litigation:1
+microsoft office applications:1
+msc:1
+physics:1
+sound:1
+training programmes:1
+compensation administration:1
+performance management strategies:1
+human resources audits:1
+maintains confidentiality:1
+hrms:1
+national human resources association:1
+homeowners insurance knowledge:1
+excellent communicator:1
+deadline driven:1
+marketing and sales specialist:1
+new program and promotion implementation:1
+procedure development:1
+human resources information systems hris:1
+bookkeeping:1
+russian:1
+russian language:1
+summit:1
+ukrainian:1
+process improvements:1
+compliance accountability:1
+applying lean principles to various businesses:1
+job descriptions:1
+press releases:1
+company news letters:1
+grass roots marketing:1
+event project management:1
+turning chaos into order:1
+using resources on hand before spending:1
+social media marketing:1
+real time marketing:1
 cvs:1
-staff training:1
 faxes:1
 management reporting:1
-mail:1
 multi tasking:1
 ocr:1
-processors:1
-quality control:1
 training materials:1
 type:1
 vendor relations:1
@@ -857,54 +1861,114 @@ and performance:1
 hr payroll systems:1
 business analysis and research microsoft powerpoint:1
 and excel:1
-academic:1
 business analysis and research:1
-oil:1
 a p:1
-ar:1
 business administration:1
-conversion:1
-clientele:1
 listening:1
-marketing plan:1
 marketing and sales:1
-online marketing:1
 quicken:1
-rfp:1
 smp:1
-switch:1
-hiring:1
 logging:1
 needs assessment:1
 self motivated:1
 managing suppliers:1
 verbal communication skills:1
 excellent written:1
-excellent communication skills:1
 articulate and well spoken:1
 accurate and detailed:1
 microsoft office profiency:1
 social media knowledge:1
 invoice rocessing:1
 strong client relations:1
-administrative support:1
-cpr:1
 managerial:1
 office automation:1
-phone system:1
 copiers:1
-pricing:1
 scanner:1
 type wpm:1
-brand strategy:1
+implementation level knowledge of front arena:1
+adaptiv:1
+opics proficient in excel:1
 brand management:1
 content development:1
 marketing communications:1
-marketing materials:1
 marketing sales:1
 masonry:1
-negotiations:1
-pr:1
+addressing customer concerns:1
+people skills enthusiastic people person:1
+advanced problem solving:1
+great organizational skills:1
+visual displays:1
+explorer:1
+phd:1
+routing:1
+ibm aix:1
+cics:1
+cpu:1
+dasd:1
+home office:1
+mvs:1
+ims:1
+ispf:1
+java scripts:1
+java scripting:1
+jcl:1
+jes:1
+librarian:1
+netview:1
+omegamon:1
+ibm rs:1
+snmp:1
+sun:1
+telecommunication:1
+tsm:1
+tso:1
+accomplished in hematology:1
+laboratory diagnostic equipment:1
+sample checking:1
+quality control procedures:1
+strong work ethic:1
+direct selling:1
+hematology:1
+organizing:1
+phlebotomy:1
+processing customer requests:1
+specimen collection:1
+social entrepreneurship:1
+service quality improvement:1
+facilitation:1
+and instructional design:1
+hard worker:1
+fast learner:1
+business and strategic planning:1
+cultural competency:1
+knowledge management systems design and implementation:1
+adobe cs:1
+strong understanding of supply chain principles with an expertise in warehouse management:1
+functional knowledge in the end to end warehouse systems with an experience in manhattan associates warehouse systems:1
+complete understanding of inbound:1
+inventory and outbound in a warehouse:1
+excellent knowledge in software development life cycle with an emphasis in analysis and testing:1
+ability to clearly define and execute test plans and procedures:1
+ability to meet deadlines and deliver projects on time:1
+strong analytical and problem solving skills:1
+hands on experience in troubleshooting computer hardware peripherals:1
+programming languages java:1
+web technologies html:1
+development ide eclipse:1
+microsoft visual studio:1
+matlab:1
+database microsoft sql server r:1
+oracle i g g:1
+testing tool microsoft test manager:1
+software suite manhattan associates scope:1
+oracle s peoplesoft supply chain management scm:1
+strategic thinker:1
+driven:1
+advanced problem solving skills:1
+operations analysis:1
+process development and execution:1
+support:1
+and development:1
 banquet catering director:1
 put together the menus for different family functions:1
 business meetings:1
@@ -964,8 +2028,36 @@ tax filings:1
 sql server mysql:1
 data analysis and visualization:1
 c net framework:1
-python:1
 azure devops:1
+editing final cut seven:1
+production scheduling:1
+eediting final cut seven:1
+pproduction scheduling:1
+complex data transformations:1
+data operations abilities:1
+ability to validate data:1
+exceptional interpersonal communication:1
+goal attainment:1
+organized:1
+efficient multi tasker:1
+deadline oriented:1
+coaching and mentoring:1
+verbal and written communication:1
+develop business:1
+business process re engineering:1
+call center:1
+charts:1
+coach:1
+cold calling:1
+compaq:1
+data base:1
+inside sales:1
+access database:1
+microsoft certified systems engineer:1
+microsoft exchange:1
+sales management:1
+install software:1
+systems engineering:1
 professional summary:1
 experienced:1
 results oriented customer service supervisor with a proven record of achieving business goals and objectives adept at communicating with all levels of management:1
@@ -976,23 +2068,17 @@ strategic account planning:1
 manage cross functional teams:1
 customer experience retention:1
 excellent negotiation skills:1
-organization:1
 planning prioritizing:1
 flexible thinker:1
 not a destroyer of value:1
-business planning:1
 hazardous waste:1
-internal audit:1
 repairing:1
-strategic sourcing:1
-supplier management:1
 microsoft power point:1
 windows vista:1
 yardi voyager:1
 real page:1
 on site:1
 mri:1
-adobe photoshop:1
 p l:1
 brand product management:1
 channel strategies:1
@@ -1003,8 +2089,6 @@ manufacturing:1
 sourcing:1
 sales enablement:1
 business competitive analysis:1
-market research:1
-new product development:1
 creative design:1
 content communications:1
 social media digital:1

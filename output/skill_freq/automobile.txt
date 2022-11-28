@@ -1,70 +1,156 @@
-sales:9
-excel:8
-customer service:8
-clients:7
-word:6
+sales:14
+customer service:13
+clients:10
+excel:10
+call center:9
+phone:9
+word:8
+insurance:7
+quality:7
+powerpoint:7
+ca:6
+meetings:6
+contracts:6
+office:6
+client:6
+personnel:6
+scheduling:6
 outlook:6
-call center:5
-powerpoint:5
-phone:5
-scheduling:4
-ca:4
+database:5
+processes:5
+police:5
+financial:5
+credit:5
+policies:4
+documentation:4
+supervision:4
+ms office:4
+delivery:4
+windows:4
+safety:4
+leadership:4
 data entry:4
-insurance:4
-client:3
-documentation:3
-meetings:3
-ms office:3
-personnel:3
-quality:3
-safety:3
-police:3
-supervision:3
+telephone:4
+decision making:4
+database management:4
+excellent customer service:4
+cim:4
+inventory:3
+coaching:3
+marketing:3
+c:3
+access:3
+managing:3
+nt:3
+profit:3
+purchasing:3
+budget:3
+retail:3
+customer satisfaction:3
+mechanical:3
+network:3
+attention to detail:3
+research:3
+databases:3
+sql:3
 strong problem solver:3
-database management:3
-database:2
-inventory:2
+agency:3
+customer services:3
+quality assurance:3
+sql server:3
+unix:3
+quality control:2
+strong organizational skills:2
+strong work ethic:2
+team player:2
 marketing strategies:2
-contracts:2
+time management:2
+focus:2
+criminal justice:2
+email:2
+fax:2
+iso:2
+law:2
+mail:2
+problem resolution:2
+fluent in spanish:2
+telephones:2
+illustrator:2
+dec:2
 engineer:2
-managing:2
-windows:2
-nt:2
-profit:2
-purchasing:2
+invoicing:2
+painting:2
+producing:2
+six sigma:2
+com:2
+market:2
+pricing:2
+project management:2
 administrative support:2
 conversion:2
+faxes:2
+quick:2
 self directed:2
-attention to detail:2
+presentations:2
+account management:2
+accounting:2
+automobiles:2
+proposals:2
+repairs:2
+upgrades:2
+administrative:2
 attorney:2
-research:2
+billing:2
 direction:2
 instruction:2
-network:2
 real time:2
+staffing:2
 strategy:2
 accounts payable:2
 excel spreadsheets:2
 microsoft office:2
 cashiering:2
-databases:2
-access:2
+microsoft access:2
+programming:2
 san:2
-telephone:2
+designing:2
+autocad:2
+data analysis:2
+matlab:2
+ms excel:2
+python:2
+simulation:2
+spss:2
 meticulous attention to detail:2
 microsoft word:2
+oracle:2
+sharepoint:2
 microsoft excel:2
-agency:2
 case management:2
-credit:2
-customer services:2
-quality assurance:2
+materials:2
 troubleshooting:2
 written:2
 settlements:2
-excellent customer service:2
 meeting planning:2
-office:2
+banking:2
+equity:2
+english:2
+lathe:2
+mechanical design:2
+camera:2
+hardware:2
+basic:2
+magic draw:2
+tibco business studio:2
+j ee:2
+javascript:2
+toad:2
+osha regulatory compliance:1
+dependable independent worker:1
+clean d o t:1
+good at following instructions:1
+solid communication skills:1
+timely project completion:1
 vehicle repairs:1
 expertise in ibm datastage and versions to perform etl elt operations on data:1
 proficiency in unix shell scripting:1
@@ -73,25 +159,60 @@ informatica etl support experience version:1
 hands on experience on ibm db netezza sql server oracle:1
 data archival into ibm biginsights with hive tables:1
 experience in control m scheduling tool:1
+proven effectiveness to negotiate and resolve complaints on an escalated level:1
+professional verbal and written communication skills:1
+excellent organizational:1
+and multi tasking skills:1
+strong leadership skills:1
+customer service oriented:1
+proficient in portal insurance operating systems prime:1
+huon:1
+claims portal:1
+and pepsc:1
+self motivated and able to work well with frequently:1
+shifting priorities:1
+proficient in microsoft suite:1
+succeed in fast paced:1
+results driven atmosphere:1
+calibration:1
+driving:1
+hiring:1
+msc:1
+property insurance:1
+report development:1
+critical thinking:1
+project planning:1
+types:1
+number:1
+wpm:1
+closing:1
+cpt coding:1
+faxing:1
+legal:1
+lexis nexis:1
+medical billing:1
+outlook express:1
+works:1
+dreamweaver:1
+photoshop:1
+acrobat pro:1
+photoshop elements:1
+final cut pro:1
+mac osx:1
+mac ios:1
 api:1
 arabic:1
 arts:1
 auditing:1
 automotive:1
-c:1
 catia v:1
 contract management:1
 cost control:1
-dec:1
-delivery:1
 fluent english:1
-financial:1
 frame:1
 french:1
 inspection:1
 inspector:1
-invoicing:1
-iso:1
 logistics:1
 logos:1
 manufacturing process:1
@@ -103,27 +224,53 @@ oil:1
 organizing:1
 organizational:1
 page:1
-painting:1
 pascal:1
-producing:1
 progress:1
 project lead:1
 quality management:1
 qa:1
-quality control:1
 recruitment:1
 reporting:1
-six sigma:1
 specification:1
 suppliers selection:1
 systems management:1
 validation:1
 veritas:1
 welding:1
+america online:1
+aol:1
+auto repair:1
+branding:1
+business development:1
+content:1
+contract negotiations:1
+dell:1
+government:1
+internet development:1
+internet service provider:1
+marketing plans:1
+marketing manager:1
+marketing materials:1
+mba:1
+money:1
+multimedia:1
+multi media:1
+product development:1
+publications:1
+receiving:1
+rfp:1
+sales development:1
+sales reporting:1
+shell:1
+stories:1
+strategy development:1
+telemarketing:1
+web site:1
+writer:1
+zip:1
 key calculator:1
 administrative duties:1
 customer service skills:1
-faxes:1
 letters:1
 medical terminology:1
 ms office suite:1
@@ -135,31 +282,46 @@ trouble shooting:1
 vectoring:1
 web browsing:1
 xerox copiers:1
+professional and friendly careful and active listener:1
+with strong interpersonal skills and excellent communication multi tasking:1
+neat:1
+organizational skills:1
+problem solver:1
+reception:1
+self starter:1
+tandem:1
+telecommunication:1
+more than proficient with all microsoft programs:1
 claims file management processes:1
 litigation resolution:1
 strong interpersonal and communication skills:1
-team player:1
 critical thinker:1
 coverage analysis:1
-presentations:1
 litigation management:1
 claim investigations and time management:1
-administrative:1
+ad:1
+contract management and administration:1
+customer relations:1
+estimating:1
+forecasting:1
+lockheed martin:1
+negotiations:1
+operations management:1
+paint:1
+program management:1
+proposal:1
+sales manager:1
+scientific:1
+sun:1
 legal documents:1
-fluent in spanish:1
-billing:1
 cancer:1
 clerical:1
-coaching:1
-customer satisfaction:1
 fast:1
 team leader:1
-market:1
 operating system:1
 speaking:1
 selling:1
 scanning:1
-staffing:1
 typing:1
 microsoft office outlook:1
 accountant:1
@@ -169,19 +331,23 @@ balance sheet:1
 financial statements:1
 tax returns:1
 year end:1
-accounting:1
 accounts payable and receivable:1
 cpt:1
 icd:1
 inspect:1
 inventory control:1
-microsoft access:1
-policies:1
-programming:1
-proposals:1
 reconciling:1
 maintain files:1
 tax:1
+book:1
+coach:1
+consulting:1
+functional:1
+team development:1
+director:1
+strategic thinking:1
+systems thinking:1
+teamwork:1
 able to demonstrate exceptional communication skills:1
 able to maintain effective and efficient communication within a team environment:1
 skillful initiation in organizing and coordinating team meetings to manage and planned performance adherence:1
@@ -191,8 +357,20 @@ capable of clearly presenting ideas:1
 plans and strategies to all levels of management:1
 solid background in setting priorities and deadlines:1
 adjusting the flow and sequencing of the work to meet team needs:1
-criminal justice:1
 public safety:1
+apache:1
+charts:1
+data visualization:1
+layout:1
+minitab:1
+mysql:1
+optimization:1
+oracle database:1
+sas:1
+statistical analysis:1
+tableau:1
+visio:1
+website:1
 excellent research skills:1
 detail oriented:1
 human resource laws knowledge:1
@@ -200,7 +378,6 @@ data collection and analysis:1
 analytical thinker:1
 creative problem solver:1
 performance metrics specialist:1
-strong work ethic:1
 good written communication:1
 exceptional communication skills:1
 strong presentation skills:1
@@ -221,14 +398,12 @@ governance:1
 planview:1
 business intelligence:1
 leads:1
-oracle:1
 associate:1
 data sources:1
 microsoft sharepoint:1
 posting:1
 process improvement:1
 security:1
-sharepoint:1
 microsoft powerpoint:1
 regular care coordinator:1
 perform household task and run errands:1
@@ -276,7 +451,6 @@ cpr:1
 customer care:1
 doors:1
 equipment operation:1
-fax:1
 hoists:1
 home care:1
 ivr:1
@@ -284,16 +458,11 @@ listening:1
 notes:1
 machinist:1
 maintenance schedule:1
-materials:1
-mechanical:1
-ms excel:1
 navy:1
 naval:1
 assist patients:1
 copy machine:1
-problem resolution:1
 problem solving skills:1
-quick:1
 repairing:1
 schematics:1
 self motivated:1
@@ -312,13 +481,28 @@ medical record review:1
 high level claim evaluation:1
 commercial needs:1
 negotiation:1
-processes:1
 risk management:1
+peoplesoft hcm portal:1
+peopletools:1
+peoplesoft query:1
+microsoft sql server:1
+windows nt:1
+terminal server:1
+ms office excel:1
+project:1
+publisher:1
+visio and access:1
+rational tool sdt:1
+rqm:1
+clear case:1
+document management systems pdm documentum:1
+kronos workforce central wfc:1
+kronos connect:1
+adp:1
 benefits:1
 iq:1
 mentoring:1
 valuation:1
-account management:1
 accounts payable receivable:1
 adobe:1
 bookkeeping:1
@@ -334,12 +518,61 @@ property management:1
 quickbooks pro:1
 real estate:1
 production scheduling:1
+back up:1
+daily cash deposits:1
+cashier:1
+conferences:1
+drivers:1
+senior management:1
+fashion:1
+fixed income:1
+insurance sales:1
+knowledge of store:1
+public relations:1
+receptionist:1
+script:1
+shipping:1
+spreadsheets:1
+strategic:1
+transportation:1
+d:1
+assembly language:1
+c language:1
+cad:1
+chinese:1
+clustering:1
+controller:1
+database software:1
+economics:1
+editing:1
+embedded system:1
+experiments:1
+gui:1
+graphic:1
+java:1
+laser:1
+machine learning:1
+mechanical engineering:1
+mill:1
+modeling:1
+networks:1
+neural:1
+operating systems:1
+os:1
+plc:1
+predict:1
+rendering:1
+robotics:1
+solidworks:1
+stata:1
+statistics:1
+system design:1
+trading system:1
+vision:1
 baset:1
 atm:1
 atm network:1
 cd roms:1
-hardware:1
-email:1
 ethernet:1
 network cabling:1
 firewall:1
@@ -377,25 +610,40 @@ software support:1
 desktop support:1
 user training:1
 technician:1
-telephones:1
 token ring:1
 training manuals:1
 troubleshoot:1
-unix:1
-upgrades:1
 video cards:1
 cash handling:1
 communication skills:1
 cpr certified:1
 resolving customer complaints:1
-decision making:1
-leadership:1
 medisoft:1
-retail:1
 type wpm:1
 ms word:1
 dispatching:1
 call center and excel:1
+energetic work attitude:1
+telephone inquiries specialist:1
+customer service expert:1
+telecommunication skills:1
+adaptive team player:1
+active listening skills:1
+sharp problem solver:1
+adp payroll:1
+air force:1
+balance:1
+excellent oral:1
+cost reduction:1
+information security:1
+loss prevention:1
+weapons:1
+payroll:1
+philosophy:1
+recruiting:1
+sales training:1
+web content development:1
+written communication skills:1
 advanced ms office suite knowledge:1
 strong aptitude for microsoft excel including macros and pivot tables excellent critical thinking:1
 decision making and communication skills:1
@@ -404,18 +652,61 @@ understands grammar:1
 resourceful:1
 software salesforce com:1
 desktop publishing software photoshop:1
-illustrator:1
 scheduling appointments:1
 addressing customer concerns:1
 special events:1
 arranging travel:1
 and tutoring:1
 consultation:1
-english:1
 hindi:1
-lathe:1
-repairs:1
 television:1
 wiring:1
-basic:1
-law:1
+architecture design tool ms vizio professional:1
+mdm tools tibco mdm:1
+data de duping tibco patterns:1
+operating systems windows xp professional nt:1
+database oracle x pl sql sql loader:1
+web app servers apache tomcat:1
+web logic:1
+jboss:1
+languages tools tibco ems x x tibco business events:1
+html xml:1
+xsl:1
+xslt:1
+css:1
+dtd:1
+ant:1
+remedy:1
+sql navigator:1
+development environments ides tibco active matrix:1
+rational xde:1
+eclipse:1
+skills used:1
+ide tools tibco mdm:1
+tibco dq:1
+tibco patterns:1
+tibco business events:1
+tibco ems:1
+tibco mdm studio:1
+eclipse rational rose:1
+ms vizio sql navigator:1
+framework concepts:1
+master data management:1
+mdm solutions architecture:1
+configuration management:1
+system integration:1
+struts:1
+application web server jboss:1
+weblogic:1
+apache tomcat:1
+languages tools core java:1
+jdbc:1
+pl sql:1
+shell script sql loader:1
+xsl xslt:1
+os windows nt:1
+windows xp:1
+database oracle:1
+hands on experience in data de duping with data matching and merging using tibco patterns and data analysis data cleansing standardizing with tibco data quality tools tibco trained proffessional in tibco business events:1
+tibco ems administration:1
+solutions architecture by tibco educations:1

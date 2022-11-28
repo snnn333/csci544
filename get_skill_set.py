@@ -13,6 +13,7 @@ def data_clean(text):
     # remove non-alphabetical characters
     REGEX = re.compile("[^ ^a-zA-Z]")
     text = re.sub(REGEX, ' ', text)
+    text = re.sub('\n', ' ', text)
 
     # remove extra spaces
     wds = text.split()
@@ -63,7 +64,7 @@ def add_set(line_list):
 
 
 def read_file(path):
-    with open(path, "r", encoding='utf-8') as f:
+    with open(path, "r", encoding='utf-8') as f:   
         for line in f:
             line = line[:-1]
             line_list = trans_str_map(line)
@@ -75,7 +76,7 @@ def get_top_ski():
     for key, value in each_skills.items():
         
         id, cate = key.split('_')
-
+        top_skills[id] = []
         n = 0
         for sk in sorted(skill_freq[cate].items(), key=lambda x: x[1], reverse=True):
             if sk in value and n < 3:
@@ -109,12 +110,9 @@ if __name__ == "__main__":
 
     get_top_ski()
     
-    for key, value in top_skills.items():
-        print('%s:%s\n' % (key, value))
-        break
-    # out_put_skill_set = "output/skill_set.txt"
-    # save_data(out_put_skill_set, skill_set)
-    # save_freq()
+    out_put_skill_set = "output/skill_set.txt"
+    save_data(out_put_skill_set, skill_set)
+    save_freq()
 
     out_put_top_skill = "output/top_skill.txt"
     save_data(out_put_top_skill, top_skills)

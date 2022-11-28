@@ -1,247 +1,515 @@
-marketing:16
-clients:15
-public relations:15
-sales:13
-excel:13
-advertising:12
-press releases:12
-customer service:10
-powerpoint:10
-client:10
-materials:10
-quality:9
-pr:9
-microsoft office:9
-meetings:9
-press:9
-media relations:8
-budgets:8
-presentations:8
-video:8
-office:7
-photoshop:7
-indesign:7
-radio:7
-publicity:7
-research:7
-strategic:7
-policies:6
-leadership:6
-event planning:6
-content:6
-retail:6
-personnel:6
-branding:6
-strategy:6
-speeches:6
-website:6
-brochures:6
-self motivated:5
-managing:5
-fundraising:5
-adobe photoshop:5
-budget:5
-com:5
-recruitment:5
-articles:5
-conferences:5
-special events:5
-graphic design:5
-legal:5
-scripts:5
-tv:5
-word:5
-project management:5
+marketing:51
+public relations:43
+clients:35
+excel:33
+sales:31
+press releases:29
+advertising:29
+media relations:28
+customer service:27
+research:27
+powerpoint:26
+materials:25
+budget:24
+client:22
+meetings:21
+pr:20
+office:20
+budgets:19
+microsoft office:19
+presentations:19
+event planning:18
+project management:18
+press:17
+word:17
+publicity:15
+proposals:15
+content:15
+quality:14
+special events:14
+strategy:14
+inventory:14
+website:14
+leadership:14
+database:13
+video:13
+articles:13
+managing:13
+logistics:13
+conferences:12
+editing:12
+photoshop:12
+microsoft word:12
+brochures:12
+financial:11
+newsletter:11
+radio:11
+speeches:11
+television:11
+agency:11
+personnel:11
+recruitment:11
+crisis management:11
+branding:11
+email:11
+tv:10
+organizing:10
+policies:10
+administrative:10
+government:10
+fundraising:10
+adobe photoshop:10
+indesign:10
+retail:10
+strategic:10
+finance:10
+letters:9
+publications:9
+marketing strategies:9
+market:9
+reporting:9
+scheduling:9
+profit:9
+networking:9
+messaging:9
+outlook:9
+strategic planning:9
+access:9
+microsoft office suite:9
+payroll:9
+phone:8
+self motivated:8
+legal:8
+documentation:8
+training:8
+budgeting:8
+community relations:8
+direction:8
+newsletters:8
+processes:8
+problem solving:8
+photo:7
+fashion:7
+director:7
+publisher:7
+spreadsheet:7
+c:7
+creative writing:7
+direct mail:7
+marketing plan:7
+ms office:7
+illustrator:7
+marketing collateral:7
+scripts:7
+trade shows:7
+stories:7
+image:7
+contracts:7
+marketing communications:7
+pricing:7
+human resources:7
+film:6
+progress:6
+accounting:6
+copywriting:6
+liaison:6
+operations:6
+com:6
+crisis communications:6
+graphic design:6
+writer:6
+graphics:6
+recruiting:6
+ad:6
+functional:6
+mac:6
+advertisements:6
+supervision:6
+delivery:6
+broadcast:5
+databases:5
+marketing plans:5
+works:5
+editor:5
+power point:5
+social media platforms:5
+book:5
+customer satisfaction:5
+websites:5
+and marketing:5
+newspaper:5
+social media:5
+network:5
+promotion:5
+newspapers:5
 photography:5
-microsoft word:5
-organizing:4
-c:4
-publisher:4
-direct mail:4
-customer satisfaction:4
-direction:4
-fashion:4
-inventory:4
-logistics:4
+unique:5
+written:5
+accounts payable:5
+annual reports:5
+billing:5
+mail:5
+administrative support:5
+time management:5
+proofreading:5
+organizational:5
+counseling:5
+factiva:4
+mentor:4
+receiving:4
+data analysis:4
+strong communication skills:4
+clientele:4
+bi:4
+producer:4
+recording:4
+workshops:4
+quality assurance:4
+directing:4
+coaching:4
+strategy development:4
+information gathering:4
+selling:4
+business development:4
 editorial:4
-newspaper:4
-editing:4
-government:4
-messaging:4
-outlook:4
-financial:4
-photo:4
-agency:4
-newspapers:4
-television:4
-email:4
-social media:4
-functional:4
-image:4
-access:4
-scheduling:4
-spreadsheet:4
-clientele:3
-directing:3
-training:3
-coaching:3
-budgeting:3
-ms office:3
-crisis communications:3
-profit:3
-selling:3
-websites:3
-factiva:3
-illustrator:3
-marketing collateral:3
-newsletters:3
-producer:3
-trade shows:3
-account management:3
-market:3
-money:3
-processes:3
+dreamweaver:4
+focus:4
+speaking:4
+account management:4
+approach:4
+credit:4
+senior management:4
+money:4
+microsoft excel:4
+microsoft outlook:4
+fast:4
+producing:4
+filing:4
+journalism:4
+social media coordination:4
+acrobat:4
+google analytics:4
+public speaking:4
+invoicing:4
+promotional materials:4
+accounts receivable:4
+pos:4
+safety:4
+script:4
+mentoring:4
+hootsuite:4
+ads:4
+marketing strategy:4
+communications:4
+staffing:4
+internet research:4
+teaching:4
+adobe indesign:4
+forms:4
+oracle:4
+conflict resolution:3
+web site:3
+artist:3
+arts:3
+billings:3
+event management:3
+press kits:3
+clerical:3
+media training:3
+shipping:3
+workflow:3
+merchandising:3
+associate:3
+content management systems:3
+quark xpress:3
+cashier:3
+hiring:3
+hr:3
+desktop publishing software photoshop:3
+exchange:3
+b b:3
+mba:3
+receptionist:3
+retail sales:3
+corporate communications:3
+features:3
+page:3
+transportation:3
+english:3
+quick:3
 spanish:3
-broadcast:3
-fast:3
-marketing plans:3
-proposals:3
-recruiting:3
-stories:3
+adobe illustrator:3
+content management:3
+funds:3
+networks:3
+content creation:3
+speech:3
+layout:3
+presenting:3
+team leadership:3
 attention to detail:3
-contracts:3
-promotion:3
+marketing and communications:3
+travel arrangements:3
+adobe:3
+brand strategy:3
 flash:3
-microsoft office suite:3
-works:3
-finance:3
+programming:3
+crm:3
+team player:3
+self starter:3
+windows:3
+concise:3
+insurance:3
+taxes:3
+type:3
+san:3
+charts:3
+telephone:3
 quickbooks:3
-microsoft excel:3
+art:3
+business management:3
 closing:3
-pos:3
-safety:3
-networking:3
-problem solving:3
-forms:3
-film:3
+e mail:3
+vision:3
+relations:3
+brand management:3
+competitive:3
+contract negotiation:3
+web pages:3
+its:3
+increase:3
+photo editing:3
+million:3
+relationship building:3
+statistics:3
+graphic:3
+direct marketing:3
+supervisor:3
+basis:3
+publication:3
+social media marketing:3
+interpersonal skills:3
+fact checking:3
+inventory control:3
+drafting:3
+business operations:3
+negotiating:3
+sales software salesforce com:2
+public relations software bacon s mediasource:2
+ms word:2
+media plan:2
+real estate:2
+fm:2
 communication skills:2
+public speaker:2
+cable:2
+quality control:2
+edge:2
+bookkeeping:2
+inspecting:2
+win:2
+strategist:2
 scheduling appointments:2
+answering phones:2
 phones:2
-mentor:2
-copywriting:2
-merchandising:2
-operations:2
-marketing plan:2
-quark xpress:2
-cashier:2
-hiring:2
-letters:2
-quality assurance:2
-desktop publishing software photoshop:2
+satisfaction:2
+deadline oriented:2
+strong creative vision:2
+communications management:2
+natural leader:2
+diversity trainer:2
+microsoft office suite word:2
+public policy:2
+html:2
+marketing department:2
+promotional:2
+sales management:2
+securities:2
+conflict management:2
+customer relations:2
+educational programs:2
+media planning:2
+product management:2
 audio:2
-corporate communications:2
-features:2
-page:2
-recording:2
-phone:2
-writer:2
 cost control:2
-crisis management:2
-focus:2
-approach:2
+positioning:2
+strong verbal communication:2
 concept:2
-credit:2
-english:2
 oil:2
 repairs:2
-administrative:2
-content creation:2
-graphics:2
+benefits:2
+cancer:2
+marketing materials:2
+microsoft powerpoint:2
+product marketing:2
+edit:2
 negotiations:2
-networks:2
-progress:2
-speech:2
-unique:2
-workshops:2
+camera:2
+strategic marketing:2
+web content:2
+cms:2
+council:2
+read:2
+tops:2
+strategic messaging:2
+press releases press kits:2
+promotion image:2
+campaign development:2
+media relations training:2
 excellent communication:2
-marketing communications:2
-travel arrangements:2
-adobe:2
-acrobat:2
-advertisements:2
-funds:2
-layout:2
+purchasing:2
+creative direction:2
+creative development:2
 packaging:2
-programming:2
-publications:2
+strategic development:2
+web design:2
 communicator:2
+public relations software gorkana:2
+mailchimp:2
 gps:2
 lexis nexis:2
 ms office suite:2
-public speaking:2
-artist:2
-book:2
 fax:2
-invoicing:2
 law:2
+multi media:2
 investments:2
-supervision:2
-accounts payable:2
-filing:2
-mac:2
-windows:2
+experience in planning:2
+writing:2
+cpr:2
+notes:2
+market research:2
+database management:2
+employee relations:2
+market research and analysis:2
+customer support:2
+scanning:2
 invoice processing:2
-administrative support:2
-art:2
-databases:2
-payroll:2
-script:2
-vision:2
-documentation:2
-dreamweaver:2
+cision:2
+management:2
+public:2
+translation:2
+news releases:2
+sales to:2
+with sales:2
+security:2
+excellent multitasker:2
 frontpage:2
 ms sql server:2
+simultaneously:2
 sql server:2
+social media strategy digital marketing content development:2
+copywriting photo editing microsoft office suite:2
+content development:2
 email marketing:2
+brand development:2
+logo:2
+media strategy:2
+white papers:2
+detail oriented:2
+feature articles:2
+general manager:2
+reading:2
+cash registers:2
+spss:2
+online marketing:2
+researching:2
 microsoft office word:2
+training programs:2
+reception:2
 client relations:2
-internet research:2
-newsletter:2
+powerpoint presentations:2
+leadership communication skills:2
+budgeting expertise:2
+print advertising:2
+maintenance:2
+procurement:2
 data entry:2
-supervisor:2
-annual reports:2
-publication:2
-adobe illustrator:2
+basic:2
+supervising:2
+express:2
+equipment maintenance:2
+office administration:2
+project planning:2
 quick learner:2
 analytical skills:2
-microsoft outlook:2
-human resources:2
-staffing:2
+market analysis:2
+audit:2
+and sales:2
+sales and:2
+six sigma:2
+administrative assistant:2
+budget management:2
+vendor relations:2
+deadline driven:2
+exceptional writer:2
+organized and efficient:2
+creativity:2
+lotus notes:2
+hyperion:2
+monthly sales:2
+bilingual in english and spanish:2
+computer skills:2
+critical thinking:2
+campaign management:2
+organization skills:2
+catalogs:2
+presentation skills:2
+staffing management ability:1
+proven patience and self discipline:1
+motivation techniques specialist:1
+confident public speaker:1
+government relations knowledge:1
+personal and professional integrity:1
+sound decision making:1
+staff training and development:1
+effectively influences others:1
+cultural awareness and sensitivity:1
+critical thinking proficiency:1
+fundraising and major donor development:1
+relationship and team building:1
+tapscan:1
+microsoft office suite outlook:1
+human resources ez labor time and attendance software:1
+adp payroll system:1
+great plains software:1
+abc:1
+bloomberg:1
+excellent customer service:1
+ledger:1
+nursing:1
+sun:1
 strong work ethic:1
-data analysis:1
 empathetic listener:1
 foreign language:1
-strong communication skills:1
 people skills:1
-public speaker:1
+strategic management:1
+print media expertise:1
+strategic thinking:1
+excellent planning skills:1
+outstanding interpersonal management skills:1
+avenue:1
+ca:1
+magic:1
+paralegal:1
+copying:1
+raiser s edge:1
+acquisitions:1
+law enforcement:1
+listening:1
+logistics management:1
+navy:1
+police:1
+requirement:1
 cardiology:1
 patient care:1
 surgery:1
-answering phones:1
 legal assistant:1
-satisfaction:1
 games:1
 b c:1
-associate:1
-liaison:1
-microsoft office suite word:1
 constant contact email marketing tool:1
 ou campus web content management:1
 meltwater news media tracking and distribution:1
 tveyes broadcast monitoring:1
-public policy:1
-community relations:1
-content management systems:1
 video production:1
 emmy award winning journalist:1
 years of experience in communications:1
@@ -257,76 +525,87 @@ dslar cameras:1
 adobe premier:1
 adobe photoshop and after effects:1
 driving:1
-hr:1
-director:1
 modeling:1
-workflow:1
-sales software salesforce com:1
-public relations software bacon s mediasource:1
-html:1
 projet management:1
 change management:1
 writing skills:1
+solutions:1
+b b sales:1
+including sales:1
+sales organization:1
+american red cross:1
+health and wellness:1
+red cross:1
+registered nurse:1
+business plan:1
+emergency preparedness:1
+fact:1
+fact erp:1
+healthcare:1
+hippa:1
+marcom:1
+printing:1
+rn:1
 designing:1
 developer:1
 xpress:1
-transportation:1
 webmaster:1
+exceptional leadership communication skills creative pitching:1
+promotional campaigns experienced spokesperson:1
+event management international relations:1
+project management market research and analysis:1
+copywriting and copyediting customer oriented:1
+deadline driven ms office:1
+basic html through dreamweaver:1
+wesbsites conversational spanish and elementary mandarin:1
 executive coaching:1
-win:1
-positioning:1
 proposal development:1
-speaking:1
-real estate:1
 roofing:1
-social media platforms:1
 proficient in vocus and cision:1
 administrative experience:1
 familiar with using tveyes:1
-senior management:1
+media communications:1
+digital marketing:1
+social media analysis:1
 enterprise:1
-quick:1
 relationship management:1
 technical training:1
+marketing management:1
+next:1
+project lead:1
+sound:1
 script writing:1
 news reporting:1
 video shooting:1
 video editing:1
 video productions:1
 ad copy:1
-database:1
-edit:1
 team building:1
 marketing consulting:1
-media training:1
 lisa:1
 paint:1
-camera:1
-producing:1
 researcher:1
-sales management:1
 seminars:1
-strategic marketing:1
-web content:1
 author:1
-marketing and communications:1
+streamline:1
+business process:1
+front page:1
+hot dog:1
+operating systems:1
+qualitative research:1
+speech writing:1
+swift:1
+written communications:1
 marketing material:1
 understand store:1
-purchasing:1
 art direction:1
 asset management:1
-b b:1
 banners:1
-brand strategy:1
 brochure:1
 capital markets:1
-creative direction:1
-creative development:1
 packaging design:1
 posters:1
 pre press:1
-strategic development:1
-web design:1
 educator:1
 seasoned professional with significant experience in management:1
 employee hiring and training:1
@@ -336,21 +615,26 @@ banner visiflow:1
 xtendersolutions:1
 cisco agent desktop:1
 cisco supervisor desktop and adobe acrobat proficient with mainstream social networking sites:1
-editor:1
-google analytics:1
+social media influencer strategy:1
+brand partnership development:1
+content seo marketing:1
+budget development management:1
+new hotel launch re launch brand development:1
+meltwater:1
+squarespace:1
+cendyn:1
 media plans:1
 project plans:1
 creative problem solving:1
 event production:1
 notebooks:1
 office equipment:1
-reporting:1
 scanner:1
-team player:1
+editing skills:1
+verbal communication skills:1
 equity:1
 grants:1
 msi:1
-network:1
 oct:1
 pdm:1
 prime minister:1
@@ -361,12 +645,94 @@ tender:1
 editing and proofreading:1
 pc:1
 microsoft office programs:1
-promotional materials:1
+personal:1
+effective written and verbal communication skills:1
+effective managerial and administrative skills:1
+ability to adapt and respond to various situations:1
+ability to maintain high level of confidentiality:1
+ability to work with diverse staff:1
+faculty:1
+students:1
+and donors:1
+institutional advancement:1
+experience in working with a non profit board of directors and volunteers:1
+working knowledge of budget development:1
+fiscal administration:1
+and foundation fiduciary responsibilities including accounting:1
+budgeting and cost control principles including generally accepted accounting principles and automated financial reporting systems:1
+knowledge of federal and state financial regulations:1
+ability to analyze financial data and prepare financial reports:1
+statements and projections:1
+working knowledge and skill involved in the bookkeeping processes associated with receiving:1
+acknowledging:1
+and recording contributions:1
+working knowledge of development practices including annual campaigns:1
+major gifts campaigns:1
+endowments:1
+investment policies:1
+scholarship programs:1
+donor recognition:1
+and community relations:1
+ability to maintain relationships with significant and influential individuals:1
+ability to solicit gifts:1
+proven ability to lead and manage a comprehensive strategic communications:1
+and marketing program to advance an organization s mission and goals:1
+and production of newsletters:1
+marketing literature:1
+and other print publications and directories:1
+promoting:1
+and facilitating events:1
+experience in creating and maintaining institutional websites and social media platforms:1
+experience in developing and disseminating information in relation to a crisis or emergency event:1
+technology literacy:1
+banner ellucian:1
+inc database including the advancement module for prospect management:1
+the raiser s edge fundraising software blackbaud:1
+quickbooks for nonprofits:1
+findwealth wealthengine:1
+adobe creative cloud programs and applications including photoshop:1
+muse and premire pro:1
+all standard microsoft office programs including word:1
+access and others:1
+styleguard editing software:1
+joomla for web development:1
+business development workflow analysis sql and databases business artifacts documentation data mapping brand management operations management business process mapping microsoft office suite organized fluent in greek:1
+english multi tasking creative critical thinking report development project planning attention to detail team building filing and data archiving flexible accurate and detailed excellent planner and coordinator works well under pressure social media knowledge pleasant demeanor team building accounting familiarity critical thinker spreadsheet management report analysis employee training and development:1
+administrative functions:1
+back up:1
+balance sheet:1
+diagnosis:1
+financial forecasting:1
+financial reporting:1
+ms excel:1
+ms powerpoint:1
+month end closing:1
+sarbanes oxley:1
+expertise in st century teaching and learning:1
+systems thinker and passionate about ecological literacy:1
+human centered design facilitator:1
+strong written and communication skills:1
+proficiency in social media and community outreach:1
+and strong ability to visually communicate ideas:1
+concepts:1
+and programs:1
+excellent interpersonal skills:1
+copyediting:1
+problem solver:1
+fast learner:1
+spreadsheets:1
 team leadership accomplished manager:1
 social e commerce natural leader:1
 microsoft office adobe indesign photoshop:1
 database management spanish fluency:1
 strategic thinker:1
+ask:1
+billing system:1
+frame:1
+oss:1
+service level agreement:1
+service level agreements:1
+tax:1
 spreadsheet management pos systems:1
 microsoft office proficiency:1
 advanced ms office suite knowledge medical billing:1
@@ -374,62 +740,61 @@ microsoft excel certified administrative support specialist:1
 expert employee training:1
 advanced clerical knowledge:1
 marsha systemfosse system:1
-business management:1
 call center:1
-clerical:1
 color:1
-customer support:1
-e mail:1
 employee training:1
 machine operation:1
-market research and analysis:1
 medical billing:1
-mail:1
-shipping:1
-telephone:1
-public relations software gorkana:1
-cision:1
 desktop publishing software illustrator:1
 online google docs:1
 social media platforms ie facebook:1
 twitter pinterest:1
 youtube and instagram:1
+advertising public:1
+strategic communications:1
+events management:1
+public relations campaign:1
+public relations writing:1
+retail promotions:1
+fundraising software donorperfect:1
+desktop publishing software adobe photoshop:1
+word processing software microsoft office suite:1
 advising c level executives:1
 effectively working in a large complex organization with multiple entities:1
 nonprofit and public relations agency experience:1
 experience in adobe indesign creative software and wordpress:1
 project manager:1
-its:1
 pacs:1
 radiology:1
 dicom:1
 integration:1
 integrator:1
 mckesson:1
-sales to:1
 staff training:1
-with sales:1
-security:1
 backbone:1
 data center:1
-mentoring:1
 phone system:1
-increase:1
 systems analyst:1
 as:1
 emr:1
-excellent multitasker:1
 hms:1
 internet explorer:1
 kronos:1
 linux:1
 pagemaker:1
 siemens:1
-simultaneously:1
 sql:1
 technology management:1
 unix:1
 wordperfect:1
+web design and branding:1
+pr writing media alerts:1
+event wrap reports:1
+product dossiers:1
+launch plans:1
+pr and marketing software proficiency and experience fashiongps:1
+kissmetrics:1
+design software proficiency indesign:1
 healthcare industry experience supporting health plans:1
 hospitals:1
 and medical groups:1
@@ -438,54 +803,141 @@ external:1
 and executive communication:1
 proven track record in communicating complex clinical issues and industry trends:1
 demonstrated experience in successfully developing and managing communication programs that connect physicians to new healthcare solutions:1
-event management:1
+management and operational leadership:1
+critical thinking and problem solving:1
+and stakeholder relations:1
+detail oriented and results driven:1
+creative thinker and effective writer:1
+strategy development strategic planning:1
+high impact proposal presentation:1
+key account management:1
+data analytics:1
+and reports:1
+social media strategy and content:1
+creative mind with love for visual design:1
+articulate planning an effective communication:1
+don t take no for an answer:1
 community management:1
-communications:1
 business strategy:1
 content creation and management:1
+database skills:1
+event coordination:1
+fast paced:1
+focused:1
+hris:1
+social media management:1
+leadership skills:1
+strong organizational skills:1
+manage schedules and travel arrangements:1
+troubleshoot:1
+business strategies:1
+cisco:1
+fireworks:1
+hp:1
+market planning:1
+publicist:1
+rfp:1
+web site development and content:1
+web site content:1
+copywriter:1
+proactive:1
+governance:1
+public relations strategy:1
+premier:1
+contract management:1
+registrations:1
+energetic:1
+organizational skills:1
+storage area network:1
+corporate finance:1
+engineer:1
+verbal skills:1
+microsoft office programs proficiency:1
+tableau marketing software:1
+basic knowledge of photoshop:1
+voice over talent:1
 adobe photoshop illustrator:1
 experience with cvent crowdcompass mobile application software:1
 constant contact:1
-mailchimp:1
+outlook and excel:1
+spss research data:1
+quality consciousness:1
+and attention to details:1
+active directory:1
+hardware:1
+information systems:1
+psychology:1
+servers:1
+production manager:1
+advertising sales:1
+mailing:1
+sales development:1
 and powerpoint data track time and attendance software electronic data interchange edi software:1
 electronic data interchange:1
 edi:1
-training programs:1
+microsoft applications:1
+banking:1
+coach:1
+economics:1
+investment management:1
+window:1
+employee development:1
 letters and memos:1
 prioritization:1
 report:1
 telephone skills:1
-time management:1
 multilingual networking events inventory:1
-powerpoint presentations:1
 document translation:1
 adobe acrobat pro:1
 illustrator graphic design:1
-marketing materials:1
 web content development:1
 proposal writing:1
 strategic research:1
 social media maintenance:1
+print:1
+web:1
+and social media communication:1
+accountant:1
+internal communications:1
+marketing research:1
+print campaign:1
+gaap:1
+community outreach:1
+financial statements:1
+general ledger:1
+leads:1
+program management:1
+collection:1
+financial support:1
+personnel management:1
+ap:1
+ar:1
+biomedical:1
+civil site:1
+jam:1
+leadership development:1
+learning and development:1
+nas:1
+network attached storage:1
+od:1
+optimization:1
+organizational development:1
+pipeline:1
+quota:1
+site design:1
 budget maintenance:1
 office management:1
 phone support:1
-accounting:1
-basic:1
 cooking:1
 make change:1
 exhibitions:1
 health and safety standards:1
 ids:1
 instruction:1
-insurance:1
 maintain inventory:1
 multimedia:1
 neat:1
-organizational:1
-supervising:1
 tables:1
-taxes:1
-tops:1
 experience with advertising:1
 negotiating contracts project management:1
 and video creation:1
@@ -498,20 +950,11 @@ year end appeals and more website content:1
 and communications:1
 fundraising software raiser s edge:1
 desktop publishing software indesign:1
-self starter:1
 effective strategic planning:1
 strong leadership skills:1
 excellent relationship building skills:1
 resourceful and persistent:1
-ad:1
-benefits:1
-cable:1
 cd:1
-marketing strategies:1
-press kits:1
-express:1
-san:1
-fm:1
 proficient in microsoft office suite:1
 experienced with multiple media databases:1
 including vocus:1
@@ -521,6 +964,29 @@ such as hootsuite:1
 buffer:1
 socialbro:1
 trendkite and buzzsumo:1
+graphs:1
+manufacturing process:1
+office skills:1
+pick:1
+presentation development:1
+maintain documentation:1
+answer phones:1
+persuasive leader:1
+skilled negotiator:1
+brand champion:1
+revenue generator:1
+digital production:1
+project planning execution:1
+business development support:1
+ap style:1
+m:1
+onitoring and analyzing news and social media:1
+write press releases:1
+proof reading:1
+p:1
+lanning and executing employee events:1
+maintain website:1
+written and verbal communications skills:1
 familiar with hr functions duties:1
 proven abilities in account management:1
 strong analytical skills:1
@@ -528,32 +994,71 @@ superior communication skills:1
 proficient in ms office:1
 in design and photoshop:1
 ai:1
-billings:1
 epson:1
 information security:1
 navigation:1
 reuters:1
-white papers:1
 telecommunications:1
 toshiba:1
 website content:1
 powerpoint proficient:1
-strong verbal communication:1
 issue resolution:1
 energetic and organized:1
 apa and mla formatting:1
-fact checking:1
 independent worker:1
-graphic:1
 inspection:1
-inventory control:1
-journalism:1
-logo:1
-multi media:1
 photographer:1
-project planning:1
 verbal communication:1
 website designer:1
+balance:1
+business planning:1
+financial control:1
+management skills:1
+operating system:1
+persuasive:1
+report writing:1
+vista:1
+best practices:1
+finishers:1
+document control:1
+accountable for:1
+change orders:1
+pmo:1
+process improvement:1
+real time:1
+product sales:1
+sales analysis:1
+sales increase:1
+sales reports:1
+transportation safety:1
+virtual learning:1
+virtual training:1
+sops:1
+tool room:1
+clinical trials:1
+financial services:1
+infomaker:1
+new hires:1
+pcm:1
+cost savings analysis:1
+records management:1
+audits:1
+business intelligence:1
+cost accounting:1
+evms:1
+federal acquisition:1
+federal acquisition regulations:1
+government contract:1
+microsoft access:1
+microsoft sharepoint:1
+ms access:1
+pmp:1
+share point:1
+sharepoint:1
+hindi:1
+languages:1
+outlook express:1
+phone systems:1
 writer editor public relations and media relations photography and graphic arts event coordination journalist researcher analyst business strategist singer:1
 songwriter musician:1
 adobe creative suite:1
@@ -562,37 +1067,134 @@ joomla content management system:1
 kentico content management system:1
 desktop publishing software microsoft office suite:1
 tech savvy and able to learn new software quickly and efficiently:1
-interpersonal skills:1
-power point:1
 ms words:1
-spss:1
 symphony:1
-accounts receivable:1
+autism:1
+consulting:1
+data visualization:1
+facilities management:1
+mapinfo:1
+sla:1
+therapeutic interventions:1
+agile:1
+e business:1
+educational materials:1
+ux:1
+negotiator:1
+prescription refills:1
+software training:1
+multi media marketing:1
+and social media proficient:1
+relationship building expert:1
+communication:1
+social media platforms and usage:1
+teamwork:1
+craft beer:1
+curating:1
+webpt:1
+business communications:1
+community hospital:1
+expense reports:1
+human resource:1
+office manager:1
+switchboard:1
+additional qualifications and expertise:1
+co editor of diesel army magazine:1
+published author and photographer in over magazines and online publications on a variety of topics:1
+chosen for the who s who of outstanding professionals:1
+chosen as one of the top under by sema magazine:1
+speaker lecturer exhibitor show:1
+focus on brand building:1
+pr basics and marketing basics:1
+marketing branding webinar presenter for sema specialty equipment market association:1
+radio dj morning show host for kckr fm:1
+proficient in word:1
+prezi:1
+ftg:1
+camtasia:1
+video editing software:1
+audio editing software:1
+speednik:1
+roi:1
+social media strategy:1
+forecasting:1
+site layout:1
+buying:1
+buying procurement:1
+media buying:1
+account executive:1
+tradeshows:1
+agency partners:1
+business sales:1
+forecasts:1
+sales presentations:1
+distributor sales:1
+account sales:1
+accounts and:1
+accounts manager:1
+corporate accounts:1
+corporate sales:1
+increasing sales:1
+isr:1
+key account:1
+key accounts:1
+national sales:1
+new products:1
+regional sales:1
+sales contract:1
+sales force:1
+sales forecast:1
+sales revenue:1
+sales marketing:1
+tradeshow:1
+bankruptcy:1
+different accounts:1
+account planning:1
+ambitious:1
+catalyst:1
+channel management:1
+customer relationship management:1
+diesel:1
+illustration:1
+interactive media:1
+marketing advertising:1
+masters of business administration:1
+national accounts:1
+natural:1
+rest:1
+sales campaign:1
+sales generation:1
+share of voice:1
+steering:1
+suspension:1
+voice:1
+automotive:1
+aviation:1
+rural electric:1
+sampling:1
+superior verbal and written communication skills:1
+excellent media contacts:1
+crisis communication:1
+brand development and management:1
+analytical thinker:1
+explorer:1
+natural gas:1
+reporter:1
+speechwriting:1
+web site design and content:1
+professional writing:1
 a p:1
-bookkeeping:1
-budget management:1
-counseling:1
-feature articles:1
 financial goal setting:1
 layout and design:1
-team leadership:1
 microsoft officeproducts:1
-office administration:1
-organization skills:1
-proofreading:1
 russian:1
 database management boulder logic:1
 salesforce com:1
 industry tools and reporting cognos:1
 techvalidate:1
 adobe acrobat:1
-arts:1
 draw blood:1
-cash registers:1
 interpersonal:1
-cpr:1
-delivery:1
-equipment maintenance:1
 estimating:1
 first aid:1
 drawing:1
@@ -602,49 +1204,58 @@ notebook computers:1
 laser printers:1
 logos:1
 microsoft office software:1
-microsoft powerpoint:1
 microsoft project:1
-negotiating:1
-reading:1
 resuscitation:1
 collect specimens:1
-teaching:1
-type:1
 venipuncture:1
-web pages:1
-ads:1
 analyst:1
-catalogs:1
-concise:1
 database software:1
 digital photography:1
-direct marketing:1
 due diligence:1
 financing:1
-photo editing:1
-presentation skills:1
 print design:1
 print media:1
-procurement:1
 property management:1
 public health:1
-vendor relations:1
-written:1
+extensive experience working with boards of directors:1
+supervision and management:1
+development and fund raising:1
+fiscal operations:1
+volunteer recruitment and coordination:1
 computer knowledge:1
 editing and copywriter:1
 project managing:1
 proofing:1
+business plans:1
+trade show:1
+ordering:1
+sales goals:1
+sales in:1
+weekly sales:1
+answering:1
+cash:1
+order entry:1
+correspondence:1
+of sales:1
+operations management:1
+negotiations expert:1
+customer oriented:1
+premiere:1
+product analysis:1
+assembly:1
+chinese:1
+fame:1
+ims:1
+indexing:1
+online research:1
+written communication skills:1
 special events planning:1
 public relations expert:1
 promotional campaigns:1
 enthusiastic and dedicated team player:1
-exceptional writer:1
-organized and efficient:1
-deadline driven:1
 onenote:1
 entourage:1
 sprout social:1
-hootsuite:1
 canvas:1
 tweet deck:1
 bacon s mediasource:1
@@ -652,3 +1263,4 @@ mac software programs:1
 final draft:1
 sap:1
 pr trak and roxio:1
+strategic plans:1

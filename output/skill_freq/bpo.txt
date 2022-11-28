@@ -1,49 +1,154 @@
+client:11
+sales:10
+documentation:8
+leadership:7
+microsoft office:7
+clients:7
+network:6
+quality:6
+customer service:6
+policies:6
+windows:6
 xx:6
-documentation:4
-client:4
-sales:4
+c:6
+financial:5
+meetings:5
+office:5
+reporting:5
+powerpoint:5
+excel:5
+customer satisfaction:4
+recruiting:4
+filing:4
+ms office:4
+outlook:4
+quality assurance:4
+technical support:4
+processes:4
+troubleshooting:4
+process improvement:4
 win:4
-filing:3
+customer services:3
+forms:3
+hiring:3
+director:3
+enterprise:3
+real time:3
+strategy:3
+organizational skills:3
 vendor management:3
-leadership:3
-meetings:3
-office:3
-clients:3
-quality:3
+sap:3
+english:3
+risk management:3
+strategic planning:3
+phone:3
+budget:3
+marketing:3
+staffing:3
+sql:3
+basic:3
+coaching:3
+computer hardware:3
+java:3
+project management:3
+closing:3
+hr:3
+managing:3
+problem solving:3
 k:3
+insurance:3
+windows xp:3
+vista:3
+access:3
+mail:3
+call center:3
+financial management:3
+credit:3
+sql server:3
+executive management:2
+performance management:2
+spanish:2
+client relations:2
 email:2
-ms office:2
-sap:2
-outlook:2
-customer services:2
-english:2
-financial:2
-microsoft office:2
-phone:2
-customer service:2
+time management:2
+data entry:2
+microsoft word:2
+billing:2
+selling:2
+account management:2
+b b:2
+balance:2
+business development:2
+senior management:2
 hp:2
-marketing:2
-enterprise:2
-policies:2
-real time:2
-reporting:2
+market:2
+materials:2
+qa:2
 scheduling:2
+telecommunications:2
+training materials:2
+analyst:2
+functional:2
+leadership skills:2
+logic:2
+mentoring:2
+word:2
+wise:2
+ms office suite:2
+change management:2
+human resource:2
+strategic:2
+eigrp:2
+rip:2
+dhcp:2
+dns:2
 ex:2
-powerpoint:2
-troubleshooting:2
-excel:2
-c:2
-closing:2
-credit:2
+team player:2
+ccna:2
+cisco:2
+hardware:2
+gui:2
+hindi:2
+lan:2
+networking:2
+printer:2
+accruals:2
+invoicing:2
+procurement:2
+vendor relations:2
+as:2
+engineer:2
 inventory:2
-mail:2
 oracle:2
-problem solving:2
+xml:2
+microsoft project:2
+android:2
+database:2
+dell:2
+legal:2
 purchasing:2
+insurance and collections procedures:2
+understands insurance benefits:2
+drg and pc grouping:2
+ambulance coding familiarity:2
+composed and professional demeanor:2
+research and data analysis:2
+excellent problem solver:2
+close attention to detail:2
+office support phones:2
+excellent verbal communication:2
+business management conversion:1
+customer service experience:1
+direct sales:1
+direction:1
+focus:1
+languages:1
+marketing meetings:1
+works:1
+sales analysis:1
 administrative duties:1
 active learning:1
 calendaring:1
-client relations:1
 computer proficiency:1
 coordination:1
 creative problem solving:1
@@ -54,11 +159,9 @@ executive management support:1
 grammar:1
 internet research:1
 letters and memos multi task management:1
-organizational skills:1
 prioritization scheduling:1
 service orientation:1
 telephone skills:1
-time management:1
 travel arrangements type wpm:1
 typing:1
 documentation auditor hospice assistant:1
@@ -70,59 +173,114 @@ great enthusiastic people person:1
 advanced problem solving:1
 great organizational skills:1
 computer skills:1
-data entry:1
 rims:1
 data warehouse maintenance:1
 provider maintenance microsoft excel:1
 microsoft office suite:1
 microsoft outlook:1
 microsoft powerpoint:1
-microsoft word:1
 attention to detail:1
-billing:1
 data analysis:1
 e mail:1
 organize files:1
 financial reports:1
 investments:1
 portuguese:1
-risk management:1
-selling:1
-spanish:1
-strategic planning:1
 web page:1
-account management:1
-b b:1
-balance:1
 budgets:1
-budget:1
-business development:1
 business intelligence:1
 contract negotiations:1
 clientele:1
 e commerce:1
-executive management:1
-senior management:1
 gateway:1
 help desk:1
-hiring:1
 kronos:1
-director:1
-market:1
-materials:1
 optimization:1
 performance reviews:1
 proposals:1
 speaking:1
-qa:1
-quality assurance:1
-recruiting:1
 specification:1
-staffing:1
 symantec:1
-technical support:1
-telecommunications:1
-training materials:1
+diploma in computer applications nicet institute:1
+core java:1
+completed web designing ms office package course from aptech computers india:1
+jira tool:1
+visio project:1
+seeking for pmp certification will get certified at the earliest:1
+business works:1
+cable:1
+capacity planning:1
+computer peripherals:1
+computer applications:1
+driving:1
+features:1
+frame:1
+windows operating systems:1
+share point:1
+presenting:1
+project lead:1
+sound:1
+strategic management:1
+supervision:1
+translating:1
+verbal communication skills:1
+visio:1
+web designing:1
+workflow:1
+written:1
+windows mac os:1
+hrms oracle applications:1
+training attended:1
+year:1
+title:1
+location:1
+organised by:1
+basic leadership skills:1
+jamshedpur:1
+branding:1
+bi:1
+communication skills:1
+employee relations:1
+fast:1
+mac os:1
+multi tasking:1
+oracle applications:1
+organization development:1
+performance appraisal:1
+promotion:1
+recruitment:1
+settlements:1
+survey design:1
+asset management:1
+administrative:1
+computer proficient:1
+conflict management:1
+contract negotiation:1
+digital photography:1
+file management:1
+property management:1
+real estate and tax research:1
+sales software sales force:1
+social media:1
+proven written and oral communication skills:1
+proficient in managing business correspondence:1
+ability to organize personal work priorities:1
+knowledge of filing and updating records:1
+ability to make travel and accommodation arrangements:1
+light bookkeeping knowledge:1
+general office procedural knowhow:1
+ability to work independently and as part of a team:1
+ability to type at least wpm:1
+excellent organizational skills:1
+expert in handling office equipment:1
+internet savvy with expertise in microsoft office:1
+excellent customer service orientation:1
+ability to research and analyze data effectively:1
+exceptional attention to detail and interpersonal skills:1
+strong ability to use standard business software and applications:1
+demonstrated ability to remain self motivated at all times:1
+able to manage stress:1
+flexible in working hours:1
 routers cisco xx:1
 xx xx series asr k k series:1
 switches cisco:1
@@ -132,9 +290,7 @@ load balancer cisco css:1
 f networks:1
 wan optimization cisco waas:1
 ppp multilink routing ospf:1
-eigrp:1
 bgp:1
-rip:1
 pbr:1
 route filtering:1
 redistribution summarization:1
@@ -169,9 +325,7 @@ irdp:1
 nat:1
 snmp:1
 syslog ntp:1
-dhcp:1
 cdp:1
-dns:1
 tftp and ftp management:1
 ip telephony ip telephony utilizing cisco routers:1
 fxo fxs e m t isdn pri:1
@@ -196,10 +350,67 @@ dmvpn:1
 wireless site assessment using airmagnet ekahua adaptors:1
 installation:1
 configuration and maintenance of palo alto firewalls:1
+telecommunication:1
+multi tasking call center:1
+contracts:1
+team building:1
+mac:1
+outlook exchange:1
+newsletter:1
+personnel:1
+presentations:1
+re engineering:1
+spreadsheets:1
+training development delivery:1
+troubleshooting strong public speaker careful and active listener:1
+professional and friendly:1
+able to think outside the box:1
+configuration and managing vmware workstation server and creating virtual systems:1
+windows and windows:1
+working in microsoft office and:1
+working in kingsoft office:1
+libre office:1
+working in thunderbird mail:1
+outlook mail pme mail:1
+local and external network monitoring:1
+computer hardware assembling:1
+dissembling:1
+configuration and maintenance of computers and troubleshooting of pc and printer s problem:1
+other software knowledge of erp:1
+time desk:1
+cctv:1
+ppc:1
+tally ess and chs etc:1
+active directory:1
+backup:1
+cisco certified:1
+dec:1
+erp:1
+firewalls:1
+ftp:1
+ip:1
+microsoft certified professional:1
+mcp:1
+migration:1
+ess:1
+network associates:1
+network printers:1
+network and troubleshooting:1
+ospf:1
+protocols:1
+routers:1
+routing:1
+sap basis:1
+servers:1
+switches:1
+phones:1
+telnet:1
+terminal server:1
+wan:1
+windows server:1
 adobe:1
 advertisements:1
 art:1
-coaching:1
 interpersonal communication:1
 excellent communication:1
 creative design:1
@@ -225,6 +436,11 @@ loyalty:1
 integrity:1
 proficient in sap:1
 evms:1
+counseling:1
+forecasting:1
+mod:1
+network support:1
+profit:1
 microsoft office word:1
 pp:1
 vurv:1
@@ -235,86 +451,151 @@ hireexpress:1
 sap hris policy:1
 and fmp:1
 a level:1
-analyst:1
 arts:1
-as:1
 bridges:1
 call centre:1
-ccna:1
-cisco:1
 coach:1
-computer hardware:1
-hardware:1
 desktops:1
-engineer:1
 event management:1
-gui:1
-hindi:1
 ids:1
 maintaining inventory:1
 itil:1
 itil v:1
 knowledge management:1
-lan:1
 laptops:1
 logging:1
-managing:1
-access:1
 microsoft exchange:1
-windows:1
 nt:1
 msn:1
-network:1
-networking:1
 operating system:1
-printer:1
 punjabi:1
 san:1
 sla:1
-sql server:1
 ssl:1
 tax:1
 technical documentation:1
 troubleshoot:1
 video:1
 vpn:1
-vista:1
 vc:1
 xerox machine:1
+technical profile:1
+programming languages c:1
+scripting languages javascript:1
+windows powershell:1
+mark up language html:1
+automation tool selenium ide web driver:1
+googleuiautomator:1
+bug tracking tools jira:1
+buganizer:1
+office suite microsoft office:1
+open office:1
+database my sql and sql server:1
+operating system windows:1
+linux and os x:1
+mobile operating system ios:1
+testing:1
+cases:1
+test cases:1
+functional testing:1
+integration:1
+integration testing:1
+integrator:1
+android sdk:1
+ios:1
+mapping:1
+safari:1
+software testing:1
+statistics:1
+test plans:1
+topo:1
+writing functional:1
+test engineer:1
+writing test:1
+writing test cases:1
+ms sql server:1
+retail:1
+retail marketing:1
+system testing:1
+acceptance testing:1
+gis:1
+html:1
+javascript:1
+linux:1
+performance testing:1
+regression testing:1
+scripting:1
+self motivated:1
+software development:1
+structured software:1
+system integration:1
+user acceptance:1
+user acceptance testing:1
+operations:1
+insurance management:1
+payments:1
+b b software:1
+high performance computing:1
+security:1
+software engineering:1
+system security:1
+trading:1
+client relationship management:1
+delivery management:1
+client engagement structuring and management:1
+exceptional people skills:1
+internal and external:1
+account planning and management:1
+sales and solutioning:1
+account strategy management:1
+transition management:1
+quality management:1
+program management service management client relationship management sales and solutioning:1
+transition management performance management managing p l:1
+a p:1
+behavioral health:1
+business operations:1
+business planning:1
+business process:1
+consulting:1
+contact management:1
+customer relationship management:1
+crm:1
+customer care:1
+direct marketing:1
+entrepreneur:1
+fp a:1
+gross profit:1
+human resource management:1
+human resources:1
+inside sales:1
+management consulting:1
+organizational:1
+process re engineering:1
+sales support:1
 accounts payable:1
-accruals:1
 ad:1
 ap:1
 automation:1
 trial balance:1
 book:1
 debit:1
-dell:1
 fixed assets:1
-forms:1
 indexing:1
 processing of invoices:1
 invoice processing:1
-invoicing:1
-legal:1
 letters:1
 ms word:1
-process improvement:1
-procurement:1
 purchase requisitions:1
 receiving:1
 reconciling:1
 shared service:1
 sla i:1
 sun:1
-team player:1
 acquisitions:1
 banking:1
 cl:1
 cpa:1
-database:1
-hr:1
-insurance:1
 inventory control:1
 microsoft dynamics:1
 mis:1
@@ -323,4 +604,31 @@ negotiation:1
 requirement:1
 stock control:1
 supervising:1
-wise:1
+hcpcs coding guidelines:1
+understands anesthesia coding:1
+resourceful and reliable worker:1
+medical terminology expert:1
+billing and collection procedures expert:1
+faxing filing:1
+adept m:1
+ulti tasker:1
+faxing:1
+fast learner:1
+records management professional:1
+icd international classification of disease systems:1
+familiar with commercial and private insurance carrier:1
+office management professional:1
+benefits:1
+brochures:1
+calculator:1
+cms:1
+cpt coding:1
+cpt:1
+icd:1
+internet explorer:1
+team lead:1
+team leader:1
+microsoft access:1
+power point:1
+police:1
+coding:1
