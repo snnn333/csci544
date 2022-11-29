@@ -16,7 +16,7 @@ def data_clean(text):
     text = re.sub('\n', ' ', text)
 
     # remove extra spaces
-    wds = text.split()
+    wds = text.split(' ')
     text = ' '.join(wds)
     
     text = text.strip()
