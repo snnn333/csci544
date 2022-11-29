@@ -72,9 +72,9 @@ def extract_edu(cont_file):
                     ques_degree = "what is your degree"
 
                     context = ' '.join(sec['content'])
-                    college = bert_model(ques_college, context)
-                    major = bert_model(ques_major, context).replace('\n', ' ').replace('\r', ' ').replace('\t', ' ')
-                    degree = bert_model(ques_degree, context).replace('\n', ' ').replace('\r', ' ').replace('\t', ' ')
+                    college = data_clean(bert_model(ques_college, context))
+                    major = data_clean(bert_model(ques_major, context))
+                    degree = data_clean(bert_model(ques_degree, context))
 
 #                     print('{}, {}, {},{}, [{}]\n'.format(id, college, major, degree, context))
                     edu_out.write('{} | {} | {} | {} | [{}]\n'.format(id, college, major, degree, context))
