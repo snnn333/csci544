@@ -142,8 +142,8 @@ academic:2
 lesson plans:2
 proposal development:2
 funding source research:2
-maintenance repair:2
-microsoft office gis:2
+maintenance   repair:2
+microsoft office   gis:2
 community development:2
 international aid:2
 statistical analysis:2
@@ -159,7 +159,7 @@ conflict resolution:2
 mongodb:2
 tableau:2
 node js:2
-frameworks net:2
+frameworks   net:2
 devexpress:2
 tensorflow:2
 keras:2
@@ -230,7 +230,7 @@ land use planning:2
 managerial:1
 police:1
 translations:1
-classroom discipline:1
+classroom  discipline:1
 creative lesson planning:1
 implementation:1
 and program development:1
@@ -309,7 +309,7 @@ maintain inventory statistical analysis:1
 prepare sample and microsoft office:1
 maintain inventory:1
 prepare samples:1
-statistical analysis software sas:1
+statistical analysis software  sas:1
 adobe photoshop:1
 anatomy:1
 biology:1
@@ -335,7 +335,7 @@ video:1
 great organizational skills:1
 good numerical and analytical skills:1
 microsoft word documents:1
-excel spreadsheets and power point presentations experienced in arc geographic information systems:1
+excel spreadsheets and power point presentations experienced in arc   geographic information systems:1
 carpentry:1
 cashier:1
 equipment operation:1
@@ -382,7 +382,7 @@ implementing and running mission critical systems involving oltp olap and htap w
 extensive experience in building and deploying large scale applications in cloud environment aws:1
 deep expertise in advanced data modeling:1
 data management and data governance:1
-passionate it leader to build and lead a very strong team to build deliver and support world class product ibor using innovative technology:1
+passionate it leader to build and lead a very strong team to build deliver and support world class product ibor  using innovative technology:1
 hands on development business manager and principal solution architect:1
 deep expertise in front office:1
 middle office and back office related business workflows in the financial industry:1
@@ -392,23 +392,23 @@ deep expertise in oracle exadata:1
 amazon redshift:1
 sql python java apache ignite:1
 aws and related technologies:1
-basic experience in data science related technologies e g pandas:1
+basic experience in data science related technologies e g  pandas:1
 matplotlib etc:1
-agile development methodologies e g jira:1
+agile development methodologies e g  jira:1
 quick leaner and ability to solve complex business problems:1
 an active member in multiple working groups to establish data strategy:1
 data governance:1
-data quality and enterprise data architecture e g business architecture data architecture:1
+data quality and enterprise data architecture  e g  business architecture  data architecture:1
 data quality working groups:1
 financial instruments valuation and exposure experience:1
-it thought leader and key note speaker at in memory compute summit in and:1
+it thought leader and key note speaker at in memory compute summit in      and:1
 production and processing:1
 industrial and environmental safety:1
 mechanical aptitude and equipment troubleshooting ability:1
 basic math skills and the ability to compute decimals and perentage:1
 good oral and written communication skills:1
 previous manufacturing skills:1
-able to lift up to pounds:1
+able to lift up to    pounds:1
 use tools:1
 team work:1
 audit and process vendor invoices ensuring timely and accurate payments:1
@@ -428,7 +428,7 @@ wastewater treatment systems:1
 hour osha hazard recognition training for the construction industry:1
 microsoft office and microsoft excel:1
 brief counseling:1
-resistance and prevention program rapp certified trainer:1
+resistance and prevention program  rapp  certified trainer:1
 group and individual counseling:1
 skillful application of bench chemistry in a lab setting by adhering to standard operating procedures:1
 ability to analyze and test basic wet and dry chemistry obtaining qualitative and quantitative chemical measurements:1
@@ -651,7 +651,7 @@ a tenacious:1
 courteous:1
 diplomatic:1
 and professional self motivated individual who requires minimal supervision:1
-microsoft office word outlook excel power point:1
+microsoft office  word outlook  excel power point:1
 acid:1
 bsc:1
 com:1
@@ -674,8 +674,8 @@ uv:1
 sas spss statistical applications:1
 windows xp:1
 adobe in design:1
-banner web baseline curriculum advising and program planning:1
-early alert system and drupal content management system content manager for the college of agriculture related sciences editing creating information for university website:1
+banner web   baseline  curriculum advising and program planning:1
+early alert system  and drupal content management system  content manager for the college of agriculture   related sciences  editing creating information for university website:1
 analytical skills:1
 water quality:1
 soil fertility:1
@@ -696,7 +696,7 @@ for technical support:1
 i e:1
 disc backups:1
 database verifications:1
-statistics reports performed complexity installation and maintenance of software skills in electronic medical records:1
+statistics reports  performed complexity installation and maintenance of software  skills in electronic medical records:1
 adobe flash:1
 help desk software:1
 libm mainframes:1
@@ -707,27 +707,27 @@ analyzing:1
 testing and correcting program:1
 machine:1
 data:1
-or procedural problems researched:1
-tests and document network lan wan enterprise operating system:1
+or procedural problems  researched:1
+tests and document network  lan wan enterprise  operating system:1
 application software products:1
-and peripheral hardware installs software and hardware in order to manage:1
-monitor and support extensive computer network assisted in monitoring performance and efficiency of an enterprise network:1
-understand protocols tcp ip active directory:1
+and peripheral hardware  installs software and hardware in order to manage:1
+monitor and support extensive computer network  assisted in monitoring performance and efficiency of an enterprise network:1
+understand protocols tcp ip  active directory:1
 epic and ibm database programming skills:1
 html website design:1
 trained professional and users on the system:1
 document programming efforts:1
 maintenance utilities:1
-performed system programming support to run jobs and troubleshoot issues storage area networks skills:1
+performed system programming support to run jobs and troubleshoot issues  storage area networks skills:1
 excellent verbal and written communication skills with emphasis in customer support:1
-including experience handling difficult customers and conflict resolution excellent interpersonal skills and the ability to work collaboratively in team environment capable of seeing and managing project through from start to finish problem solving skills:1
+including experience handling difficult customers and conflict resolution  excellent interpersonal skills and the ability to work collaboratively in team environment  capable of seeing and managing project through from start to finish  problem solving skills:1
 certification:1
-candidate project management professional pmp:1
-project management software microsoft project:1
+candidate project management professional  pmp:1
+project management software  microsoft project:1
 project server:1
 sharepoint:1
 team foundation server:1
-process methodologies project planning:1
+process methodologies  project planning:1
 pmi:1
 cmmi:1
 agile:1
@@ -738,7 +738,7 @@ requirements management:1
 vendor selection:1
 vendor management:1
 portfolio management:1
-industries served higher education:1
+industries served   higher education:1
 computer manufacturing:1
 software development:1
 pharmaceuticals:1
@@ -749,33 +749,33 @@ staffing and recruiting:1
 testing and certification services:1
 systems integration:1
 telecommunications:1
-adobe contract auditing:1
-backup case management:1
+adobe  contract auditing:1
+backup  case management:1
 citrix:1
-set up conferences contract mgmt:1
+set up conferences  contract mgmt:1
 contract management:1
 contract review:1
 council meetings:1
 dictaphone:1
 dos:1
 email:1
-file management financial management:1
+file management  financial management:1
 waiver forms:1
 grants gateway knowledge:1
 litigation:1
 lotus notes:1
 mailing:1
 mainframe:1
-meetings access database:1
+meetings  access database:1
 microsoft office suites:1
 monitors:1
 notary public:1
-oracle copy machines receptionist duties when necessary scanners:1
+oracle  copy machines  receptionist duties when necessary  scanners:1
 spreadsheet:1
 transcription:1
 a proven professional:1
 experienced in sales:1
-and business development public and private sector experience with valuable network of contacts excellent communication and public relation skills event planning public speaking experience presented an international honor award by the u s department of agriculture s foreign agricultural service for outstanding leadership and commitment to the promotion of u s agricultural trade worldwide:1
+and business development  public and private sector experience with valuable network of contacts  excellent communication and public relation skills  event planning   public speaking experience  presented an international honor award by the u s  department of agriculture s foreign agricultural service for outstanding leadership and commitment to the promotion of u s  agricultural trade worldwide:1
 may:1
 skilled multi tasker:1
 focused on customer satisfaction:1
@@ -821,17 +821,17 @@ arcgis:1
 trimble unit:1
 garmin:1
 atv:1
-personal computer microsoft excel:1
+personal computer   microsoft excel:1
 write and read legal descriptions:1
 read and translate title status reports:1
 identify plants:1
 forbs and weeds:1
 document control:1
 auditor:1
-gmp iso nsf:1
+gmp   iso        nsf:1
 calibration:1
 medical coding:1
-databases microsoft office sharepoint:1
+databases   microsoft office   sharepoint:1
 product testing:1
 budgeting and finance:1
 recruitment and talent development:1
@@ -845,7 +845,7 @@ business management:1
 microsoft access:1
 office manager:1
 quick book:1
-typing wpm:1
+typing    wpm:1
 problem resolution:1
 leadership communication skills:1
 performance analysis:1
@@ -865,16 +865,16 @@ read:1
 recording:1
 physical planning and land management:1
 urban and regional planning:1
-geographic information system gis:1
+geographic information system  gis:1
 strong organizational and planning skills:1
-strong leadership qualities with flexibility able to work alone:1
+strong leadership qualities with flexibility  able to work alone:1
 as team member:1
 or as supervisor:1
 skilled in communications:1
 both written and verbal:1
-document creation and information management leadership activities director of sports students union:1
+document creation and information management  leadership activities  director of sports   students union:1
 university of technology:1
-jamaica university of technology student union award for exemplary service as director of sports:1
+jamaica             university of technology student union award for exemplary service as director of sports:1
 land use:1
 global positioning:1
 gps:1

@@ -6,9 +6,9 @@ sales:31
 press releases:29
 advertising:29
 media relations:28
-customer service:27
 research:27
 powerpoint:26
+customer service:26
 materials:25
 budget:24
 client:22
@@ -39,7 +39,6 @@ logistics:13
 conferences:12
 editing:12
 photoshop:12
-microsoft word:12
 brochures:12
 financial:11
 newsletter:11
@@ -51,6 +50,7 @@ personnel:11
 recruitment:11
 crisis management:11
 branding:11
+microsoft word:11
 email:11
 tv:10
 organizing:10
@@ -78,7 +78,6 @@ access:9
 microsoft office suite:9
 payroll:9
 phone:8
-self motivated:8
 legal:8
 documentation:8
 training:8
@@ -88,6 +87,7 @@ direction:8
 newsletters:8
 processes:8
 problem solving:8
+self motivated:7
 photo:7
 fashion:7
 director:7
@@ -225,7 +225,7 @@ quark xpress:3
 cashier:3
 hiring:3
 hr:3
-desktop publishing software photoshop:3
+desktop publishing software  photoshop:3
 exchange:3
 b b:3
 mba:3
@@ -294,8 +294,8 @@ inventory control:3
 drafting:3
 business operations:3
 negotiating:3
-sales software salesforce com:2
-public relations software bacon s mediasource:2
+sales software  salesforce com:2
+public relations software  bacon s mediasource:2
 ms word:2
 media plan:2
 real estate:2
@@ -318,7 +318,7 @@ strong creative vision:2
 communications management:2
 natural leader:2
 diversity trainer:2
-microsoft office suite word:2
+microsoft office suite  word:2
 public policy:2
 html:2
 marketing department:2
@@ -352,8 +352,8 @@ council:2
 read:2
 tops:2
 strategic messaging:2
-press releases press kits:2
-promotion image:2
+press releases   press kits:2
+promotion   image:2
 campaign development:2
 media relations training:2
 excellent communication:2
@@ -364,7 +364,7 @@ packaging:2
 strategic development:2
 web design:2
 communicator:2
-public relations software gorkana:2
+public relations software  gorkana:2
 mailchimp:2
 gps:2
 lexis nexis:2
@@ -413,7 +413,7 @@ cash registers:2
 spss:2
 online marketing:2
 researching:2
-microsoft office word:2
+microsoft office  word:2
 training programs:2
 reception:2
 client relations:2
@@ -468,8 +468,8 @@ critical thinking proficiency:1
 fundraising and major donor development:1
 relationship and team building:1
 tapscan:1
-microsoft office suite outlook:1
-human resources ez labor time and attendance software:1
+microsoft office suite  outlook:1
+human resources  ez labor time and attendance software:1
 adp payroll system:1
 great plains software:1
 abc:1
@@ -486,7 +486,7 @@ strategic management:1
 print media expertise:1
 strategic thinking:1
 excellent planning skills:1
-outstanding interpersonal management skills:1
+outstanding interpersonal   management skills:1
 avenue:1
 ca:1
 magic:1
@@ -506,15 +506,15 @@ surgery:1
 legal assistant:1
 games:1
 b c:1
-constant contact email marketing tool:1
-ou campus web content management:1
-meltwater news media tracking and distribution:1
-tveyes broadcast monitoring:1
+constant contact  email marketing tool:1
+ou campus  web content management:1
+meltwater news  media tracking and distribution:1
+tveyes  broadcast monitoring:1
 video production:1
 emmy award winning journalist:1
 years of experience in communications:1
 savvy social media manager:1
-audio visual content creator producer:1
+audio   visual content creator producer:1
 strong research:1
 writing and editing skills:1
 public spokesperson:1
@@ -551,7 +551,7 @@ developer:1
 xpress:1
 webmaster:1
 exceptional leadership communication skills creative pitching:1
-promotional campaigns experienced spokesperson:1
+promotional campaigns  experienced spokesperson:1
 event management international relations:1
 project management market research and analysis:1
 copywriting and copyediting customer oriented:1
@@ -609,17 +609,19 @@ pre press:1
 educator:1
 seasoned professional with significant experience in management:1
 employee hiring and training:1
-and customer service seeking a position that will fully utilize my skills:1
-and offer an opportunity for continued professional growth specialties strong software skills including ms word:1
-banner visiflow:1
+and customer service:1
+seeking a position that will fully utilize my skills:1
+and offer an opportunity for continued professional growth   specialties  strong software skills including ms word:1
+banner:1
+visiflow:1
 xtendersolutions:1
 cisco agent desktop:1
-cisco supervisor desktop and adobe acrobat proficient with mainstream social networking sites:1
-social media influencer strategy:1
+cisco supervisor desktop and adobe acrobat   proficient with mainstream social networking sites:1
+social media   influencer strategy:1
 brand partnership development:1
-content seo marketing:1
-budget development management:1
-new hotel launch re launch brand development:1
+content   seo marketing:1
+budget development   management:1
+new hotel launch   re launch brand development:1
 meltwater:1
 squarespace:1
 cendyn:1
@@ -630,6 +632,7 @@ event production:1
 notebooks:1
 office equipment:1
 scanner:1
+self  motivated:1
 editing skills:1
 verbal communication skills:1
 equity:1
@@ -669,7 +672,7 @@ and recording contributions:1
 working knowledge of development practices including annual campaigns:1
 major gifts campaigns:1
 endowments:1
-investment policies:1
+investment  policies:1
 scholarship programs:1
 donor recognition:1
 and community relations:1
@@ -685,19 +688,19 @@ and facilitating events:1
 experience in creating and maintaining institutional websites and social media platforms:1
 experience in developing and disseminating information in relation to a crisis or emergency event:1
 technology literacy:1
-banner ellucian:1
-inc database including the advancement module for prospect management:1
-the raiser s edge fundraising software blackbaud:1
+banner  ellucian:1
+inc   database including the advancement module for prospect management:1
+the raiser s edge fundraising software  blackbaud:1
 quickbooks for nonprofits:1
-findwealth wealthengine:1
+findwealth    wealthengine:1
 adobe creative cloud programs and applications including photoshop:1
 muse and premire pro:1
-all standard microsoft office programs including word:1
+all standard microsoft office programs  including word:1
 access and others:1
 styleguard editing software:1
-joomla for web development:1
-business development workflow analysis sql and databases business artifacts documentation data mapping brand management operations management business process mapping microsoft office suite organized fluent in greek:1
-english multi tasking creative critical thinking report development project planning attention to detail team building filing and data archiving flexible accurate and detailed excellent planner and coordinator works well under pressure social media knowledge pleasant demeanor team building accounting familiarity critical thinker spreadsheet management report analysis employee training and development:1
+joomla    for web development:1
+business development  workflow analysis  sql and databases  business artifacts documentation  data mapping  brand management  operations management  business process mapping  microsoft office suite  organized  fluent in greek:1
+english  multi tasking  creative  critical thinking  report development  project planning  attention to detail  team building  filing and data archiving  flexible  accurate and detailed  excellent planner and coordinator  works well under pressure  social media knowledge  pleasant demeanor  team building  accounting familiarity  critical thinker  spreadsheet management  report analysis  employee training and development:1
 administrative functions:1
 back up:1
 balance sheet:1
@@ -708,7 +711,7 @@ ms excel:1
 ms powerpoint:1
 month end closing:1
 sarbanes oxley:1
-expertise in st century teaching and learning:1
+expertise in   st century teaching and learning:1
 systems thinker and passionate about ecological literacy:1
 human centered design facilitator:1
 strong written and communication skills:1
@@ -721,10 +724,10 @@ copyediting:1
 problem solver:1
 fast learner:1
 spreadsheets:1
-team leadership accomplished manager:1
-social e commerce natural leader:1
-microsoft office adobe indesign photoshop:1
-database management spanish fluency:1
+team leadership                 accomplished manager:1
+social e commerce              natural leader:1
+microsoft office                    adobe indesign photoshop:1
+database management        spanish fluency:1
 strategic thinker:1
 ask:1
 billing system:1
@@ -733,32 +736,33 @@ oss:1
 service level agreement:1
 service level agreements:1
 tax:1
-spreadsheet management pos systems:1
+spreadsheet management          pos systems:1
 microsoft office proficiency:1
-advanced ms office suite knowledge medical billing:1
-microsoft excel certified administrative support specialist:1
-expert employee training:1
+advanced ms office suite knowledge          medical billing:1
+microsoft excel certified          administrative support specialist:1
+expert          employee training:1
 advanced clerical knowledge:1
 marsha systemfosse system:1
 call center:1
 color:1
+customer           service:1
 employee training:1
 machine operation:1
 medical billing:1
-desktop publishing software illustrator:1
-online google docs:1
-social media platforms ie facebook:1
+desktop publishing software  illustrator:1
+online  google docs:1
+social media platforms  ie  facebook:1
 twitter pinterest:1
 youtube and instagram:1
-advertising public:1
+advertising   public:1
 strategic communications:1
 events management:1
 public relations campaign:1
 public relations writing:1
 retail promotions:1
-fundraising software donorperfect:1
-desktop publishing software adobe photoshop:1
-word processing software microsoft office suite:1
+fundraising software  donorperfect:1
+desktop publishing software  adobe photoshop:1
+word processing software  microsoft office suite:1
 advising c level executives:1
 effectively working in a large complex organization with multiple entities:1
 nonprofit and public relations agency experience:1
@@ -788,13 +792,13 @@ technology management:1
 unix:1
 wordperfect:1
 web design and branding:1
-pr writing media alerts:1
+pr writing  media alerts:1
 event wrap reports:1
 product dossiers:1
 launch plans:1
-pr and marketing software proficiency and experience fashiongps:1
+pr and marketing software proficiency and experience  fashiongps:1
 kissmetrics:1
-design software proficiency indesign:1
+design software proficiency  indesign:1
 healthcare industry experience supporting health plans:1
 hospitals:1
 and medical groups:1
@@ -808,7 +812,7 @@ critical thinking and problem solving:1
 and stakeholder relations:1
 detail oriented and results driven:1
 creative thinker and effective writer:1
-strategy development strategic planning:1
+strategy development   strategic planning:1
 high impact proposal presentation:1
 key account management:1
 data analytics:1
@@ -857,10 +861,10 @@ tableau marketing software:1
 basic knowledge of photoshop:1
 voice over talent:1
 adobe photoshop illustrator:1
-experience with cvent crowdcompass mobile application software:1
+experience with cvent crowdcompass  mobile application software:1
 constant contact:1
 outlook and excel:1
-spss research data:1
+spss  research data:1
 quality consciousness:1
 and attention to details:1
 active directory:1
@@ -872,7 +876,7 @@ production manager:1
 advertising sales:1
 mailing:1
 sales development:1
-and powerpoint data track time and attendance software electronic data interchange edi software:1
+and powerpoint data track time and attendance software  electronic data interchange  edi  software:1
 electronic data interchange:1
 edi:1
 microsoft applications:1
@@ -939,17 +943,17 @@ multimedia:1
 neat:1
 tables:1
 experience with advertising:1
-negotiating contracts project management:1
+negotiating contracts  project management:1
 and video creation:1
 adept at customer service:1
-fundraising media relations content creation:1
+fundraising media relations  content creation:1
 and research:1
 developed grant proposals:1
-publications newsletters:1
-year end appeals and more website content:1
+publications  newsletters:1
+year end appeals and more   website content:1
 and communications:1
-fundraising software raiser s edge:1
-desktop publishing software indesign:1
+fundraising software  raiser s edge:1
+desktop publishing software  indesign:1
 effective strategic planning:1
 strong leadership skills:1
 excellent relationship building skills:1
@@ -957,7 +961,7 @@ resourceful and persistent:1
 cd:1
 proficient in microsoft office suite:1
 experienced with multiple media databases:1
-including vocus:1
+including  vocus:1
 cision and mymediainfo:1
 familiar with social media and influencer management tools:1
 such as hootsuite:1
@@ -976,7 +980,7 @@ skilled negotiator:1
 brand champion:1
 revenue generator:1
 digital production:1
-project planning execution:1
+project planning   execution:1
 business development support:1
 ap style:1
 m:1
@@ -1059,13 +1063,13 @@ hindi:1
 languages:1
 outlook express:1
 phone systems:1
-writer editor public relations and media relations photography and graphic arts event coordination journalist researcher analyst business strategist singer:1
-songwriter musician:1
+writer  editor  public relations and media relations  photography and graphic arts  event coordination  journalist  researcher  analyst  business strategist  singer:1
+songwriter   musician:1
 adobe creative suite:1
 oracle procurement:1
 joomla content management system:1
 kentico content management system:1
-desktop publishing software microsoft office suite:1
+desktop publishing software  microsoft office suite:1
 tech savvy and able to learn new software quickly and efficiently:1
 ms words:1
 symphony:1
@@ -1100,13 +1104,13 @@ office manager:1
 switchboard:1
 additional qualifications and expertise:1
 co editor of diesel army magazine:1
-published author and photographer in over magazines and online publications on a variety of topics:1
+published author and photographer in over     magazines and online publications on a variety of topics:1
 chosen for the who s who of outstanding professionals:1
-chosen as one of the top under by sema magazine:1
+chosen as one of the  top    under     by sema magazine:1
 speaker lecturer exhibitor show:1
 focus on brand building:1
 pr basics and marketing basics:1
-marketing branding webinar presenter for sema specialty equipment market association:1
+marketing branding webinar presenter for sema  specialty equipment market association:1
 radio dj morning show host for kckr fm:1
 proficient in word:1
 prezi:1
@@ -1188,9 +1192,9 @@ financial goal setting:1
 layout and design:1
 microsoft officeproducts:1
 russian:1
-database management boulder logic:1
+database management  boulder logic:1
 salesforce com:1
-industry tools and reporting cognos:1
+industry tools and reporting  cognos:1
 techvalidate:1
 adobe acrobat:1
 draw blood:1
@@ -1205,6 +1209,7 @@ laser printers:1
 logos:1
 microsoft office software:1
 microsoft project:1
+microsoft   word:1
 resuscitation:1
 collect specimens:1
 venipuncture:1

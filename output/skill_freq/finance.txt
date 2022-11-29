@@ -71,16 +71,15 @@ year end:11
 insurance:11
 ms excel:11
 strategic:11
-bank reconciliation:11
 scheduling:11
 sarbanes oxley:10
 strategy:10
 progress:10
 benefits:10
+bank reconciliation:10
 strategic planning:10
 proposals:10
 customer relations:9
-ms office:9
 financial analysis:9
 grants:9
 risk management:9
@@ -106,6 +105,7 @@ time management:8
 controller:8
 account reconciliation:8
 balance:8
+ms office:8
 direction:8
 customer satisfaction:7
 enterprise:7
@@ -200,7 +200,6 @@ workflow:4
 recording:4
 seminars:4
 business management:4
-ms access:4
 ms powerpoint:4
 operations management:4
 quality assurance:4
@@ -270,6 +269,7 @@ optimization:3
 pivot tables:3
 kronos:3
 management reporting:3
+ms access:3
 lotus notes:3
 crm:3
 driving:3
@@ -396,7 +396,6 @@ graphs:2
 employee training:2
 client account management:2
 automotive:2
-accounts payable receivable:2
 financial statement analysis:2
 citrix:2
 engineer:2
@@ -420,7 +419,7 @@ urdu:2
 hospice:2
 analysis:2
 forecasts:2
-sarbanes oxley sox:2
+sarbanes oxley  sox:2
 sox:2
 testing:2
 daily sales:2
@@ -467,7 +466,7 @@ rfp:2
 conflict resolution:2
 fast learner:2
 problem solver:2
-financial analysis reporting:2
+financial analysis   reporting:2
 filemaker:2
 minitab:2
 wordperfect:2
@@ -531,6 +530,7 @@ excellent communication skills:1
 multilingual in:1
 english and indonesian languange:1
 proficient in:1
+ms  office:1
 creative thinker:1
 excellent managerial techniques:1
 public and private accounting:1
@@ -569,15 +569,15 @@ vba:1
 business solutions:1
 financial management and control:1
 analyze cash flow:1
-interpersonal communication:1
+interpersonal   communication:1
 analyze financial data:1
 hub:1
 telecommunication:1
 vendor management:1
-microsoft excel intermediate skill level:1
-microsoft acess basic skill level:1
-quickbooks years experience:1
-adp payroll system years experience:1
+microsoft excel    intermediate skill level:1
+microsoft acess    basic skill level:1
+quickbooks      years experience:1
+adp payroll system      years experience:1
 accpac plus:1
 aggreso:1
 business works:1
@@ -585,7 +585,7 @@ cognos power play:1
 fixed assets sage best software:1
 future proof:1
 jantek:1
-mas mas sage software:1
+mas   mas    sage software:1
 real world:1
 and microsoft office products:1
 customer and personal service:1
@@ -594,7 +594,7 @@ active listening:1
 judgment and decision making:1
 quality control analysis:1
 computers and electronics:1
-preparation of monthly data for submission to cpa for financial statement preparation accounts payable which includes vouchering:1
+preparation of monthly data for submission to cpa for financial statement preparation  accounts payable which includes vouchering:1
 verifying coding applied to vouchers by other offices within the company:1
 entering bills and paying them:1
 full charge bookkeeping:1
@@ -603,9 +603,9 @@ real estate contracts:1
 escrow:1
 erp implemenations:1
 nvision:1
-oracle i:1
+oracle   i:1
 essbase tools:1
-assurenet blackline:1
+assurenet   blackline:1
 intercompany accounting:1
 balance sheet consolidations:1
 purchase accounting:1
@@ -630,38 +630,38 @@ inventory levels:1
 medical billing:1
 sales reporting:1
 strategic financial planning:1
-risk management performance analysis:1
+risk management   performance analysis:1
 forecasting and analysis:1
-external audit actuarial work finalization:1
-accounting auditing:1
+external audit   actuarial work finalization:1
+accounting   auditing:1
 corporate operational finance:1
-mergers acquisition:1
+mergers   acquisition:1
 financial reporting and executive presentation:1
 financial modeling capability:1
 ifrs proficiency:1
 expert in gaap and statutory reporting:1
 auditing proficiency:1
-erp enterprise resource planning software:1
+erp  enterprise resource planning  software:1
 internal control management:1
 client management:1
 clients i:1
 page:1
-budget control administration:1
+budget control   administration:1
 financial statement reporting and analysis:1
 data compilation:1
 journal entries:1
-taxes return analysis puerto rico and us:1
+taxes return analysis  puerto rico and us:1
 ad hoc reporting:1
 financial analysis and reports:1
 pr:1
 profit and loss statements:1
 bilingual spanish:1
 tax return preparation:1
-general accounting acquisitions:1
+general accounting   acquisitions:1
 cost analysis and analytical reporting:1
 facilities management:1
 governmental accounting:1
-quickbooks workamajig ms office suite indesign photoshop concrete cms google analytics googledocs intervals seo sem social media digital and film photography proficient in both mac and pc environments:1
+quickbooks  workamajig  ms office suite  indesign  photoshop  concrete  cms   google analytics  googledocs  intervals  seo sem  social media  digital and film photography  proficient in both mac and pc environments:1
 corporate consolidations:1
 complex change management:1
 system integration:1
@@ -679,10 +679,11 @@ people management:1
 quick learner:1
 siemens:1
 accountancy:1
+bank   reconciliation:1
 computer training:1
 dbase:1
 ids:1
-informix gl:1
+informix  gl:1
 lotus:1
 msdos:1
 unix:1
@@ -709,16 +710,17 @@ mental health:1
 p c:1
 tax planning:1
 relationship building:1
-career minded personality with expertise in sales and management strong communication and customer service skills experience in creating a positive sale environment finance director experience:1
-strong attention to detail and follow up skills administrative duties:1
+career minded personality with expertise in sales and management   strong communication and customer service skills  experience in creating a positive sale environment   finance director experience:1
+strong attention to detail and follow up skills   administrative duties:1
 preparing contracts:1
+accounts payable receivable:1
 e commerce:1
 windows applications:1
 web site development:1
 web marketing:1
 strong communication:1
 interpersonal and organizational skills:1
-computer skills in the following areas microsoft access:1
+computer skills in the following areas   microsoft access:1
 onyx:1
 computer literate:1
 software design:1
@@ -761,7 +763,7 @@ microsoft windows xp:1
 fund ez:1
 paychex:1
 medical invoicing:1
-micro strategy iwr:1
+micro strategy  iwr:1
 directing:1
 olap:1
 requirement:1
@@ -770,8 +772,8 @@ negotiator:1
 osi:1
 prime:1
 proposal preparation:1
-microsoft office software excel:1
-powerpoint and access experience with accounting and financial reporting systems including oracle:1
+microsoft office software  excel:1
+powerpoint and access    experience with accounting and financial reporting systems including oracle:1
 jd edwards and hyperion:1
 automate:1
 fireworks:1
@@ -782,7 +784,7 @@ sbt:1
 inspecting:1
 bathing:1
 patient care:1
-interest payable savings:1
+interest payable   savings:1
 schedules:1
 management:1
 prophix software administrator:1
@@ -810,11 +812,11 @@ sales training:1
 phone skills:1
 work shops:1
 extensive knowledlge of real estate programs:1
-management experience:1
+management  experience:1
 extensive customer service and problem solving experience:1
-proficient in quick books:1
+proficient in  quick books:1
 act:1
-and microsoft outlook microsoft office:1
+and microsoft outlook  microsoft office:1
 newsletter:1
 office machines:1
 presentation development:1
@@ -864,7 +866,7 @@ csg:1
 proalpha:1
 centricity:1
 kofax:1
-excel knowledge of financial management and human resource:1
+excel  knowledge of financial management and human resource:1
 sox compliant procedures and iso:1
 oral communication:1
 ghost:1
@@ -881,7 +883,7 @@ content:1
 crystal:1
 electronic data interchange:1
 financial forecasting:1
-microsoft office suite various crm systems omni salesforce quickbooks slack:1
+microsoft office suite   various crm systems   omni   salesforce   quickbooks   slack:1
 process analysis:1
 budgeting and planning:1
 cost reduction analysis:1
@@ -912,17 +914,17 @@ strategic financial planning operations management:1
 data development:1
 functional integration:1
 budget creation:1
-tool system development:1
-team building management:1
+tool   system development:1
+team building   management:1
 system integrations:1
-mergers acquisitions:1
+mergers   acquisitions:1
 turnarounds restructurings:1
-international hyperion essbase hyperion enterprise:1
+international hyperion essbase   hyperion enterprise:1
 hyperion retrieve:1
 storm:1
 fas:1
 boss:1
-daly wolcott:1
+daly   wolcott:1
 great plain dynamics:1
 macpac:1
 oneglobe:1
@@ -977,18 +979,18 @@ meeting planning:1
 create power point presentations for executives:1
 effective communicator:1
 self starter:1
-budgeting expertise capital and operating:1
+budgeting expertise  capital and operating:1
 negotiations expert:1
 excellent time management:1
 organization and multi tasking skills:1
 take charge individual:1
-no one s fault attitude we are one team:1
+no one s fault attitude   we are one team:1
 technology:1
 microsoft office suite proficient:1
 blackbaud financial software s:1
 powerplan budget forecasting solutions:1
 datatel financial solutions:1
-media services group magazine software:1
+media services group  magazine  software:1
 business plan:1
 concise:1
 messaging:1
@@ -998,14 +1000,14 @@ workbench:1
 cancer:1
 personnel management:1
 primary care:1
-accounting financial audit:1
+accounting  financial audit:1
 quickbook:1
-finance budgeting forecasting:1
-financial analysis planning:1
+finance  budgeting   forecasting:1
+financial analysis   planning:1
 revenue expenses management:1
 financial control:1
 technical presentations:1
-people skills customer service oriented:1
+people skills  customer service oriented:1
 result oriented and goal driven:1
 flexible:1
 initiative:1
@@ -1025,13 +1027,13 @@ technical support:1
 venture capital:1
 product line expansion:1
 business strategy:1
-written verbal:1
-office administration phones:1
-spreadsheet development management:1
-analytical problem solving:1
+written   verbal:1
+office administration  phones:1
+spreadsheet development   management:1
+analytical   problem solving:1
 organizational and follow up skills:1
-multi tasking time management:1
-invoice processing oracle ebs:1
+multi tasking   time management:1
+invoice processing  oracle ebs:1
 administrative skills:1
 account management:1
 accounting i:1
@@ -1058,12 +1060,12 @@ atm:1
 detail oriented:1
 qa:1
 supervisory:1
-budgeting forecasting:1
+budgeting   forecasting:1
 expense control:1
-p l balance sheet management:1
+p l   balance sheet management:1
 cost reductions:1
 matrix management:1
-sap oracle:1
+sap  oracle:1
 mfg pro:1
 khalix:1
 trahq:1
@@ -1076,11 +1078,11 @@ peoplesoft and essbase:1
 local area network:1
 back office:1
 cost management:1
-financial reporting analytics:1
-investments and return on investment roi:1
+financial reporting   analytics:1
+investments and return on investment  roi:1
 npv:1
 and eva:1
-sox tax footnotes:1
+sox   tax footnotes:1
 key by touch:1
 cisco:1
 customer care:1
@@ -1093,22 +1095,23 @@ technical us gaap accounting proficient:1
 board communications:1
 multi disciplinary team lead:1
 maintain update general ledger:1
-process improvement finance controls implementation:1
+process improvement   finance controls  implementation:1
 sarbannes oxley compliance:1
 gl account reconciliations:1
 sales commission analysis:1
 sales d a analysis:1
 inventory reconciliation:1
 payroll management:1
-staff training management:1
+staff training   management:1
+accounts payable   receivable:1
 fixed asset management:1
-state reporting incl sales tax filings:1
+state reporting incl  sales tax filings:1
 asset keeper:1
 discovery payroll:1
 adp etime:1
 msoffice:1
 general ledger reconciliations:1
-payroll and pr reconciliations:1
+payroll and  pr reconciliations:1
 asset mgmt:1
 inventory reconcilations:1
 journal entry maintenance:1
@@ -1116,8 +1119,8 @@ adp payroll system:1
 asset management:1
 trade finance operations:1
 branch banking:1
-client relations customer satisfaction:1
-customer service credit and collections marketing global trade services computer proficient:1
+client relations  customer satisfaction:1
+customer service credit and collections marketing global trade services  computer proficient:1
 customer support:1
 dictation:1
 faxes:1
@@ -1141,12 +1144,15 @@ russian:1
 operating systems ms dos:1
 xp:1
 office suite ms word:1
+ms  access:1
 ms publisher:1
-ms frontpage networking linksys routers wirelessbroadband:1
-web designing html dhtml frontpage:1
+ms frontpage:1
+networking linksys routers   wirelessbroadband:1
+web designing  html dhtml:1
+frontpage:1
 budgeting and forecasting:1
 balance sheet analysis:1
-excel powerpoint:1
+excel  powerpoint:1
 computer knowledge:1
 administrative functions:1
 adobe illustrator:1
@@ -1170,10 +1176,10 @@ make travel arrangements:1
 hyperion planing:1
 sap bpc:1
 erp packages sap ecc:1
-tally erp:1
-operating system windows nt xp:1
-office tools ms word:1
-office xp:1
+tally  erp:1
+operating system  windows               nt  xp:1
+office tools  ms word:1
+office           xp:1
 nt:1
 express:1
 internal controls:1
@@ -1218,8 +1224,8 @@ profit and loss:1
 arts:1
 e mail:1
 employee development:1
-skills office software ms word:1
-access systems solar:1
+skills office software  ms word:1
+access systems  solar:1
 pc links general ledger:1
 fci:1
 fc links:1
@@ -1245,10 +1251,10 @@ topo:1
 web based:1
 deferred compensation:1
 project reporting:1
-accounts payables receivables:1
+accounts payables   receivables:1
 exchange rate control:1
-microsoft proficiency word:1
-accounting software quick books:1
+microsoft proficiency  word:1
+accounting software  quick books:1
 sage pastel:1
 sap erp:1
 tas books:1
@@ -1287,9 +1293,9 @@ maintain service relationships:1
 microsoft dynamics gp:1
 salesforce:1
 projector psa:1
-proficient in microsoft office suite applications windows word excel powerpoint outlook:1
-ms office cloud experience drive:1
-reporting excel based forecasting:1
+proficient in microsoft office suite applications  windows word excel powerpoint outlook:1
+ms office cloud experience  drive:1
+reporting    excel based  forecasting:1
 trending:1
 administration:1
 excellent in interpersonal:1
@@ -1299,8 +1305,8 @@ manage daily activities and workload of ar financial department for company cont
 ability to conduct monthly and quarterly meetings to discuss department goals and objectives:1
 strong organizational skills:1
 juggling multiple tasks and handling stressful situations:1
-extremely resourceful there s always a solution to a given situation:1
-desktop publishing software photoshop:1
+extremely resourceful  there s always a solution to a given situation:1
+desktop publishing software  photoshop:1
 wordpress:1
 html:1
 microsoft windows:1

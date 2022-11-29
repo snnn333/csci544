@@ -43,7 +43,6 @@ technical support:13
 product development:13
 inventory:13
 microsoft project:13
-ms office:13
 basic:13
 office:13
 quality assurance:12
@@ -52,7 +51,9 @@ schematics:12
 six sigma:12
 ansys:12
 lean manufacturing:12
+ms office:12
 designing:12
+solidworks:12
 sql:12
 supervision:11
 machinery:11
@@ -63,7 +64,6 @@ servers:11
 validation:11
 customer service:11
 simulation:11
-solidworks:11
 managing:11
 proposals:10
 team management:10
@@ -302,7 +302,6 @@ wan:3
 a:3
 profit:3
 r:3
-gd t:3
 kanban:3
 edge:3
 unique:3
@@ -420,6 +419,7 @@ laptops:2
 network printers:2
 raid:2
 visual basics:2
+gd t:2
 kaizen:2
 apqp:2
 benchmarking:2
@@ -438,7 +438,6 @@ proactive:2
 billings:2
 dfmea:2
 cnc programming:2
-c programming:2
 controller:2
 engineering projects:2
 philosophy:2
@@ -616,7 +615,7 @@ project support:1
 document control:1
 engineering operational functions:1
 manufacturing systems integration:1
-windows xp professional word excel and outlook and internet:1
+windows xp professional  word excel and outlook  and internet:1
 electrical wiring:1
 fluent in spanish:1
 proficiency in c:1
@@ -656,8 +655,8 @@ upgrading:1
 usability testing:1
 hazop:1
 pro e:1
-product project management:1
-fmea development toyota production systems:1
+product          project management:1
+fmea  development           toyota production systems:1
 ppap:1
 why:1
 kpi s:1
@@ -665,9 +664,9 @@ reliability sae standards:1
 vehicle ergonomics:1
 dvp r:1
 qcc:1
-cnc engineering programming:1
+cnc          engineering  programming:1
 anatomy:1
-reading schematics:1
+reading  schematics:1
 sell offs:1
 pro mechanical:1
 solid edge:1
@@ -687,13 +686,13 @@ ar:1
 bank reconciliations:1
 cash flow projections:1
 government contracting:1
-and financial statements experienced with many accounting:1
+and financial statements  experienced with many accounting:1
 technical:1
-and office applications including quickbooks expert:1
-peachtree proficient:1
-jde proficient:1
-great plains trained:1
-know your consumer kyc:1
+and office applications including quickbooks  expert:1
+peachtree  proficient:1
+jde  proficient:1
+great plains  trained:1
+know your consumer  kyc:1
 cost reduction and avoidance:1
 systems engineering management:1
 software systems engineering:1
@@ -708,15 +707,16 @@ gateways:1
 selling:1
 system engineering:1
 proficient in microsoft word:1
-spreadsheet ability to type in a excess of wpm with minimal error working knowledge of autocad with d rendering and micro station med gas certified and knowledgable in osha:1
+spreadsheet   ability to type in a excess of     wpm with minimal error   working knowledge of autocad      with  d rendering and micro station   med gas certified and knowledgable in osha:1
 apollo:1
+c   programming:1
 fat:1
 isa:1
-system analysis:1
+system  analysis:1
 lead development:1
 build teams:1
 interface with customers and vendors:1
-architect end to end develop products in consumer electronics:1
+architect end to end  develop products in consumer electronics:1
 digital tv:1
 industrial automation:1
 jvm:1
@@ -724,7 +724,7 @@ embedded linux:1
 lxc:1
 device drivers:1
 working with socs:1
-rtos os:1
+rtos   os:1
 vxworks:1
 dvb:1
 mpeg:1
@@ -748,13 +748,13 @@ pcard purchases:1
 royalty agreement tracking:1
 employee training:1
 equipment maintenance:1
-erp microsoft ax dynamics:1
+erp   microsoft ax dynamics:1
 mechanical processes:1
 protocols execution:1
-testing troubleshooting embedded hardware software microprocessors computer systems hardware software design digital signal processing analog and digital filter design reading circuit schematics circuit design and analysis digital logic soldering project management electronics low and high voltage devices low voltage power consumption power systems analysis active noise cancelling anc research and development solar pv systems design nationalelectric code nec engineering ethics failure analysis logistics:1
-instrumentation oscilloscope logic analyzer multimeters:1
-applications ms visual studio ms office mac os matlab simulink mathcad verilog orcad pspice solidworks autocad inventor powerworld etap helioscope:1
-programming c c c languages:1
+testing   troubleshooting   embedded hardware   software  microprocessors   computer systems   hardware   software design   digital signal processing   analog and digital filter design  reading circuit schematics  circuit design and analysis   digital logic   soldering   project management electronics   low and high voltage devices   low voltage power consumption   power systems analysis  active noise cancelling  anc    research and development   solar pv systems design  nationalelectric code  nec    engineering ethics  failure analysis  logistics:1
+instrumentation  oscilloscope   logic analyzer   multimeters:1
+applications  ms visual studio   ms office   mac os  matlab   simulink   mathcad   verilog   orcad   pspice   solidworks  autocad   inventor   powerworld   etap   helioscope:1
+programming  c     c    c languages:1
 d modeling autocad:1
 circuit design:1
 digital signal processing:1
@@ -775,10 +775,10 @@ honest:1
 issue resolution:1
 kind:1
 outgoing:1
-quick on my feet with my hands:1
+quick on my feet   with my hands:1
 reliable:1
 strong verbal communication:1
-very organized energetic:1
+very organized   energetic:1
 art:1
 forklifts:1
 logo:1
@@ -857,7 +857,7 @@ mini tab:1
 sharepoint foundation:1
 and pcanywhere:1
 user level:1
-advanced user of the microsoft office suite of software packages to include excel:1
+advanced user of the microsoft office suite of software packages to include  excel:1
 one note:1
 and visio:1
 vision systems:1
@@ -888,13 +888,13 @@ entry level:1
 pr:1
 public relations:1
 git:1
-sql basic experienced in linux unix and using high performance computing clusters:1
-machine learning tools and libraries scikit learn:1
+sql  basic   experienced in linux unix and using high performance computing clusters:1
+machine learning tools and libraries  scikit learn:1
 pandas:1
 seaborn:1
 matplotlib:1
-tensorflow basic i built a xgboost:1
-model that has accuracy in the kaggle titanic challenge:1
+tensorflow  basic    i built a xgboost:1
+model that has       accuracy in the kaggle titanic challenge:1
 computational fluid dynamics and discrete element method codes:1
 cfd dem:1
 openfoam:1
@@ -904,7 +904,7 @@ comsol:1
 lammps:1
 and liggghts:1
 reservoir and fracture modeling tools:1
-cmg for reservoir simulation fracpro for fracture simulation and analysis saphir for pressure transient analysis:1
+cmg  for reservoir simulation  fracpro  for fracture simulation and analysis  saphir for pressure transient analysis:1
 experimental and statistical methods:1
 sem:1
 afm:1
@@ -914,23 +914,23 @@ das:1
 lab test:1
 novel:1
 fmea:1
-electro mechanical design jmp:1
-microsoft visual basic microsoft excel:1
-vision system programming microsoft power point:1
-electronic computer systems microsoft visio:1
-engineering software six sigma x methodology:1
-strong presentation skills adaptable:1
-process improvement electrical troubleshooting tools:1
-team player ability to read schematics:1
-mechanical design implementation ability to write and read wiring diagram:1
+electro mechanical design        jmp:1
+microsoft visual basic          microsoft excel:1
+vision system programming          microsoft power point:1
+electronic computer systems          microsoft visio:1
+engineering software    six sigma  x methodology:1
+strong presentation skills    adaptable:1
+process improvement    electrical troubleshooting tools:1
+team player    ability to read schematics:1
+mechanical design implementation    ability to write and read wiring diagram:1
 microsoft power point:1
 presentation skills:1
 triage:1
 microsoft visual basic:1
 wiring diagram:1
 construction management:1
-film hiring:1
-mechanical negotiations processes:1
+film  hiring:1
+mechanical  negotiations  processes:1
 system administrator:1
 d studio max:1
 adobe:1
@@ -971,14 +971,14 @@ consistently meet goals:1
 efficient multi tasker:1
 deadline oriented:1
 pascal:1
-prolith modeling:1
-excel and lotus notes statistical analysis jmp:1
-doe design of experiment:1
+prolith  modeling:1
+excel and lotus notes statistical analysis  jmp:1
+doe  design of experiment:1
 pcs:1
 data view:1
 crystal ball:1
 leadership development program:1
-hands on training electrical:1
+hands on training  electrical:1
 pluming:1
 full finish:1
 wall paper:1
@@ -987,9 +987,9 @@ team builder:1
 outlook training:1
 excel training:1
 hotsos training:1
-stratton warren mms:1
+stratton warren  mms:1
 bluebeam:1
-autocad civil d:1
+autocad civil  d:1
 d modeling:1
 read blueprints:1
 floor plans:1
@@ -1019,23 +1019,23 @@ safety monitoring and compliance:1
 facilities painting and repair:1
 heavy object lifting:1
 troubleshooting and diagnostics:1
-great organizational skills self motivated:1
+great organizational skills  self motivated:1
 work well under minimum supervision lifelong learner:1
-plc iec ladder logic:1
+plc  iec        ladder logic:1
 functional block diagram:1
 structured text:1
 instruction list:1
-assembly intel:1
+assembly  intel:1
 ti:1
-labview software packages autocad:1
+labview  software packages  autocad:1
 psim:1
 easy power:1
 xilinx ise:1
-printed circuit board cad protel:1
+printed circuit board cad  protel:1
 siemens step:1
 wago codesys:1
 allen bradley rslogix:1
-erp alliance:1
+erp  alliance:1
 global shop:1
 flash:1
 microprocessor:1
@@ -1075,7 +1075,7 @@ proliant:1
 ability to utilize tirks:1
 switch:1
 lfacs:1
-icgs idds:1
+icgs   idds:1
 requestnet:1
 aardwolf:1
 adtran:1
@@ -1093,12 +1093,12 @@ assist:1
 workforce management systems:1
 and office switchphone:1
 self taught skills in office party and event planning and decorating:1
-held clerical government positions for the ccir office and the navy dip deserter information point office located at the navy annex in arllington:1
-va duties included sending location information of awol military personnel to military mps via computer and clerical office work:1
-held a government clerk typist position for the o j c s office of the joint chief of staff office located at the pentagon duties included typing military awards:1
+held clerical government positions for the ccir office and the navy dip  deserter information point  office located at the navy annex in arllington:1
+va  duties included sending location information of awol military personnel to military mps via computer and clerical office work:1
+held a government clerk typist position for the o j c s   office of the joint chief of staff  office located at the pentagon  duties included typing military awards:1
 certificates and recognition letters:1
 certified food handler:1
-assisted with the seasonal red cross blood drives at calverton blvd:1
+assisted with the seasonal red cross blood drives at      calverton blvd:1
 beltsville:1
 md:1
 forklift:1
@@ -1134,28 +1134,28 @@ de bugging:1
 linux os:1
 sonet:1
 t:1
-qa engineering software expertise design:1
+qa engineering software expertise   design:1
 estimate:1
 execute:1
 maintain and document:1
-technical communication skills bug triage:1
+technical communication skills   bug triage:1
 technical reviews:1
-automation tools design and implement:1
-collaborating with stakeholders roadmap:1
+automation tools   design and implement:1
+collaborating with stakeholders   roadmap:1
 managing releases:1
 demos:1
 risk mitigation planning:1
-organization and time management resource planning:1
-leadership strategic planning:1
+organization and time management   resource planning:1
+leadership   strategic planning:1
 conflict resolution:1
-training development:1
-behavioral skills forward thinking mindset:1
+training   development:1
+behavioral skills   forward thinking mindset:1
 multitasking abilities:1
-flexible adaptable:1
+flexible   adaptable:1
 test methodologies:1
 sanity testing:1
 boundary analysis:1
-requirement analysis static testing:1
+requirement analysis  static testing:1
 performance testing:1
 system integration testing:1
 manual testing:1
@@ -1200,8 +1200,8 @@ torquisesvn:1
 sourcetree:1
 vss:1
 database and tools:1
-oracle g:1
-oracle c:1
+oracle   g:1
+oracle   c:1
 postgresql:1
 pgadmin:1
 sql developer:1
@@ -1224,7 +1224,7 @@ symphony:1
 positouch:1
 broadpos:1
 emv systems:1
-btt ul:1
+btt  ul:1
 iccverify:1
 vcms:1
 vts:1
@@ -1250,10 +1250,10 @@ cms:1
 train employees:1
 great plains:1
 mrp:1
-portfolio management:1
+portfolio   management:1
 process analysis:1
 solution design:1
-enterprise software:1
+enterprise   software:1
 product excellence:1
 agile methodology:1
 people development:1
@@ -1269,10 +1269,10 @@ msa:1
 real estate:1
 strategic plans:1
 weld:1
-programming languages c:1
-tableau developer tools hp alm quality center:1
+programming languages  c:1
+tableau    developer  tools  hp alm quality center:1
 hp qtp:1
-trello project management tool:1
+trello  project management tool:1
 streak crm:1
 automation tools:1
 business processes:1
@@ -1298,8 +1298,9 @@ chip assembly router:1
 aprisa:1
 vsr on various blocks to reduce manual effort:1
 used post layout parasitic extraction tools:1
-used nucleus ti internal tool for esd and latchup spire ti internal tool for emir analysis:1
-voltrace ti internal tool for high voltage checks:1
+used  nucleus  ti internal tool for esd and latchup:1
+spire  ti internal tool for emir analysis:1
+voltrace  ti internal tool for high voltage  checks:1
 used data management tools like synchronicity and ic manage:1
 iq:1
 sun solaris:1
@@ -1373,7 +1374,7 @@ live electrical:1
 arc flash:1
 lock out tag out:1
 test equipment repair and operation:1
-iso standards:1
+iso      standards:1
 electrical equipment operation:1
 oil servicing:1
 electrical component repair:1
@@ -1448,7 +1449,7 @@ max:1
 production management:1
 sound:1
 tal:1
-years of material management experience with state and federal government years of law enforcement experience with the united states marine corps and army national guard:1
+years of material management experience  with state and federal government      years of law enforcement experience with the united states marine corps and army national guard:1
 knowledge of mechanical test equipment:1
 work from written verbal instructions:1
 rough sketches:1
@@ -1456,6 +1457,7 @@ troubleshooting diagrams:1
 layouts and plans:1
 interpretation and application of technical knowledge and understanding of mechanical theory and principles:1
 proficient in the use of pc s:1
+ms  office:1
 key by touch and customer service skills:1
 forklift and crane certified:1
 self motivated to lead and achieve company goals with excellence:1
@@ -1507,7 +1509,7 @@ microsoft powerpoint:1
 weighing:1
 experience with autocad:1
 and various erp systems:1
-iso and as auditing:1
+iso     and as     auditing:1
 dynamic ax:1
 powerpoint and word:1
 microsoft teams:1
@@ -1538,15 +1540,15 @@ basic and advanced supervision training courses:1
 camc:1
 charleston:1
 wv:1
-certified biomedical equipment technician cbmet training at university of st louis:1
+certified biomedical equipment technician  cbmet  training at university of st  louis:1
 toshiba certified service trained on aquilion:1
-and slice ct s:1
-toshiba certified service trained on vantage t channel mri:1
+and    slice ct s:1
+toshiba certified service trained on vantage     t   channel mri:1
 toshiba certified service trained on siemens e cam nuclear medicine camera:1
-aramark service trained on ge amx and amx portable xr unit:1
+aramark service trained on ge amx   and amx   portable xr unit:1
 aramark service trained on ge:1
 portable c arm:1
-aramark service trained on ge precision radiology and fluoroscopic image system:1
+aramark service trained on ge precision     radiology and fluoroscopic image system:1
 field trained on various other modalities and manufacturers of xr systems:1
 and outlook:1
 foresight imaging systems trained on dicom protocols:1
@@ -1557,7 +1559,7 @@ dsl cable:1
 hubs:1
 lan wan:1
 skilled in the operation of workstations and servers:1
-ide scsi devices:1
+ide  scsi devices:1
 network storage devices:1
 budget management:1
 calculator:1
@@ -1585,6 +1587,7 @@ materials engineering:1
 pipeline:1
 machine tools:1
 team work:1
+c programming:1
 macintosh:1
 math:1
 operating system:1
@@ -1610,15 +1613,15 @@ stories:1
 ui design:1
 venture capital:1
 year end:1
-finite element analysis fea:1
-ssoftware tools ibm maximo:1
-ddesign for manufacturability dfm:1
-computer aided design cad:1
-pprocess failure mode and effects analysis pfmea:1
-cnc and tolerancing gd t:1
+finite element analysis  fea:1
+ssoftware tools  ibm maximo:1
+ddesign for manufacturability  dfm:1
+computer aided design  cad:1
+pprocess failure mode and effects analysis  pfmea:1
+cnc and tolerancing  gd t:1
 nx unigraphics:1
 mmachining:1
-design of exp doe:1
+design of exp  doe:1
 v:1
 sstatistical data analysis:1
 quality function deployment:1
@@ -1626,17 +1629,17 @@ s jmp:1
 pam stamp:1
 ddesign:1
 design of:1
-eexperiments doe:1
-experienced with microsoft office word:1
-sharepoint costpoint:1
+eexperiments  doe:1
+experienced with microsoft office   word:1
+sharepoint   costpoint:1
 administrative assistant:1
 benefits:1
 clerical:1
 mailing:1
-microsoft office word:1
+microsoft office   word:1
 office equipment:1
 reception:1
-electronic mechanical technology:1
+electronic   mechanical technology:1
 maintenance management:1
 lean six sigma principles:1
 mechanical component troubleshooting:1
@@ -1670,7 +1673,7 @@ tera term:1
 gshell:1
 studied and understand programmable logic controllers:1
 digital communications with fiber optics:1
-understand different types of transmission lines twisted pair:1
+understand different types of transmission lines   twisted pair:1
 utp:1
 shielded pair and coaxial:1
 proficient with microsoft word:1
@@ -1680,14 +1683,15 @@ cd:1
 dvd:1
 ssh:1
 software developers:1
-years of experience with cad packages solidworks:1
+years of experience with cad packages  solidworks:1
 autodesk inventor:1
 ptc creo:1
-years of experience with cae softwares hypermesh:1
+years of experience with cae softwares  hypermesh:1
 abaqus:1
 optistruct:1
-years of experience with analysis linear non linear static:1
+years of experience with analysis  linear   non linear static:1
 dynamic:1
+gd   t:1
 tolerance analysis:1
 design optimization:1
 experience with sheet metal:1
@@ -1695,17 +1699,17 @@ generating bill of materials:1
 sculpting:1
 experience with advanced material selection for rapid prototyping:1
 advanced manufacturing:1
-welding and d printing:1
+welding and  d printing:1
 cad cam:1
 engineering analysis:1
 dasylab:1
 electrical:1
-lean s:1
+lean  s:1
 hydraulic testing:1
 test stand fabrication:1
 chemist:1
 cpr:1
-design of experiments doe:1
+design of experiments   doe:1
 design of experiment:1
 ind:1
 indexing:1
@@ -1716,7 +1720,7 @@ technical training:1
 tutoring:1
 algebra:1
 geometry:1
-middle school high school math:1
+middle school   high school math:1
 college math:1
 presentation:1
 analysis:1
@@ -1729,7 +1733,7 @@ customer care and satisfaction:1
 quantitative analysis:1
 operations management:1
 google docs:1
-technology java amazon aws hibernate php ec elastic search c jsmvc junit c html selenium canjs css aurora pl sql bootstrap jenkins oracle python phabricator my sql ajax github javascript camel jira rest and soap services mongodb perl:1
+technology     java              amazon  aws              hibernate       php              ec               elastic  search       c                jsmvc              junit       c              html              selenium       canjs              css              aurora       pl sql              bootstrap              jenkins       oracle              python              phabricator       my sql              ajax              github       javascript              camel              jira       rest  and  soap  services         mongodb              perl:1
 ajax:1
 expert systems:1
 neural:1
@@ -1744,13 +1748,14 @@ handsoft:1
 epdm:1
 customer management:1
 systems:1
-hardware software integration rational requisite pro clearquest:1
+hardware software integration rational requisite pro:1
+clearquest:1
 visio doors:1
 lean six sigma:1
 safety engineering:1
 requirements engineering creation:1
 design:1
-creo solidworks:1
+creo:1
 dfma:1
 dfa dfm:1
 zemax:1
@@ -1843,11 +1848,11 @@ qa engineering:1
 real time embedded:1
 real time embedded systems:1
 wireless data:1
-ms office suite word:1
-simulations using witness and simio:1
+ms office suite  word:1
+simulations using witness   and simio:1
 erp sap:1
 sas stat:1
-product development and design:1
+product  development and design:1
 grinders:1
 languages:1
 manufacturing:1
@@ -1865,7 +1870,7 @@ comfortable working at heights and odd locations:1
 detail oriented understanding that any downtime must be minimized if not avoidable:1
 understand overtime and on call basis may be required:1
 rigging:1
-drilling tapping:1
+drilling  tapping:1
 measurement and layout:1
 test and measurement equipment:1
 equipment calibration:1

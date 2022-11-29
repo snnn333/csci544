@@ -76,7 +76,6 @@ lighting:7
 acrobat:7
 arts:6
 access:6
-microsoft excel:6
 adobe indesign:6
 microsoft office suite:6
 forms:6
@@ -95,6 +94,7 @@ printers:6
 communication skills:5
 ms office:5
 pos:5
+microsoft excel:5
 windows:5
 branding:5
 brochures:5
@@ -146,6 +146,7 @@ design process:4
 product design:4
 read:4
 supervisor:4
+mysql:4
 decision making:4
 xml:4
 financial:4
@@ -193,7 +194,6 @@ asp net:3
 mvc:3
 jquery:3
 php:3
-mysql:3
 accounting:3
 legal:3
 windows nt:3
@@ -292,7 +292,6 @@ developer:2
 processors:2
 qa:2
 upgrading:2
-user interface:2
 visual studio:2
 academic:2
 conferences:2
@@ -312,7 +311,7 @@ workflow:2
 unix:2
 workplace strategy:2
 ff e expertise:2
-ada building codes:2
+ada   building codes:2
 product specification:2
 change management:2
 data management:2
@@ -335,7 +334,7 @@ resourceful researcher:2
 sorting:2
 design software:2
 detail oriented:2
-desktop publishing software photoshop:2
+desktop publishing software  photoshop:2
 contracts:2
 building codes knowledge:2
 conflict resolution:2
@@ -377,7 +376,7 @@ dos:2
 advanced problem solving:2
 networking:2
 presenting:2
-microsoft office word:2
+microsoft office  word:2
 hvac:2
 marketing material:2
 surveys:2
@@ -403,20 +402,18 @@ floor plans:2
 program development:2
 intermediate coding in r studio:2
 proficient in salesforce:2
-fluent in languages:2
+fluent in   languages:2
 facilitation:2
 stakeholder management:2
 clear public speaking skills:2
 program evaluation:2
 quality assurance:2
-interactive design:2
 mac os:2
 packaging design:2
 publication:2
 letters:2
 press releases:2
 fireworks:2
-creative direction:2
 ux:2
 advertisements:2
 sculpture:2
@@ -432,16 +429,16 @@ exceptional customer service:2
 autocad drafting:1
 material board:1
 material organizational:1
-critical thinker using logic and reasoning to identify the strengths and weaknesses of alternative solutions:1
+critical thinker   using logic and reasoning to identify the strengths and weaknesses of alternative solutions:1
 conclusions or approaches to problems:1
-time management communication managing one s time:1
+time management   communication   managing one s time:1
 as well as team s:1
 to adhere to drop dead dates:1
-adaptability being flexible to change as it comes and resolving in a timely manner:1
-social perceptiveness working with team and taking leadership role to maintain brand direction:1
-attention to detail thorough and complete work in all related processes to end product:1
-innovation demonstrated creative ability to design within business budgets:1
-while following consumers needs trends:1
+adaptability   being flexible to change as it comes and resolving in a timely manner:1
+social perceptiveness   working with team and taking leadership role to maintain brand direction:1
+attention to detail   thorough and complete work in all related processes to end product:1
+innovation   demonstrated creative ability to design within business budgets:1
+while following consumers  needs trends:1
 arabic:1
 economics:1
 filling:1
@@ -459,20 +456,21 @@ coreldraw:1
 due diligence:1
 property management:1
 webpage design:1
-adobe captivate:1
+adobe  captivate:1
 media encoder:1
 reader:1
+microsoft  excel:1
 internet explorer:1
 media player:1
 skype:1
-google chrome:1
+google  chrome:1
 docs:1
 drive:1
 gmail:1
 sheets:1
-ibm db:1
+ibm  db:1
 kenexa:1
-other apple imovie dayana networks voice record pro sap success factors:1
+other  apple imovie  dayana networks voice record pro  sap success factors:1
 tech smith snag it:1
 vmware:1
 youtube:1
@@ -492,7 +490,7 @@ mark:1
 product improvement:1
 water quality:1
 visual studio net:1
-tfs team foundation server:1
+tfs  team foundation server:1
 angularjs:1
 linq:1
 adobe design suite:1
@@ -502,7 +500,7 @@ vb net:1
 adobe suite:1
 auditing:1
 forth:1
-legal compliance:1
+legal  compliance:1
 mentor:1
 microsoft access:1
 migration:1
@@ -511,6 +509,7 @@ scrum:1
 software development:1
 testing software:1
 upgrade:1
+user interface:1
 vb:1
 xslt:1
 counseling:1
@@ -583,22 +582,23 @@ pen:1
 postscript:1
 sigma:1
 unique:1
-languages c:1
-c net:1
+languages   c:1
+c  net:1
 mathematica:1
 pl sql:1
-mysql xhtml css:1
-environment windows:1
+xhtml css:1
+environment  windows:1
 linux red hat:1
 windows server:1
 wamp:1
 lamp:1
-softwares ide toad for oracle:1
+softwares ide   toad for oracle:1
 sql developer:1
-netbeans dev c:1
-notepad microsoft office:1
-written verbal communication:1
-wwritten verbal communication:1
+netbeans:1
+dev c:1
+notepad   microsoft office:1
+written   verbal communication:1
+wwritten   verbal communication:1
 adobe premiere pro:1
 adobe lightroom:1
 adobe animate:1
@@ -632,14 +632,14 @@ visual basics:1
 web designer:1
 web designing:1
 swimming:1
-cooking photographing:1
+cooking  photographing:1
 playing piano:1
 game design:1
 painter:1
 people skills:1
 sound:1
 sound design:1
-autodesk autocad mechanical:1
+autodesk  autocad mechanical:1
 inventor:1
 client server:1
 cnc:1
@@ -677,14 +677,14 @@ friendly attitude:1
 professional behavior:1
 expert juggling skills:1
 creative and artistic:1
-civil d:1
+civil  d:1
 civil engineering:1
 office skills:1
 problem solving:1
 relationship building:1
 self starter:1
 planograms:1
-precise attention to details comfortable managing and working within a group:1
+precise attention to details   comfortable managing and working within a group:1
 punctuality and professionalism with strong customer service experience:1
 strong track record of being solely responsible for marketing campaigns:1
 design production teams:1
@@ -722,7 +722,7 @@ verbal communication skills:1
 human resources leadership:1
 inventory control:1
 staff training staffing:1
-bilingual english and spanish:1
+bilingual  english and spanish:1
 expert knowledge in the following software programs:1
 corel applications:1
 advanced adobe cs:1
@@ -744,15 +744,15 @@ assistant manager:1
 file management:1
 machining:1
 trouble shooting:1
-personal rhino revit cinema d all adobe cs autocad hdr imaging lighting market research dmax maya revit modeler sculptor:1
-professional imaginative and creative thinking skills ability to analyze and critically assess problems ability to see the big picture as well as giving attention to the smallest detail ability to communicate effectively understanding of history cultural and environmental concerns lateral thinking skills to solve complex problems coordination and interpersonal skills to manage a complex project team:1
-qualifications design talent engineering ability social awareness business aptitude:1
-direction graphic:1
+personal  rhino  revit  cinema  d  all adobe cs  autocad  hdr imaging  lighting  market research   dmax  maya  revit  modeler  sculptor:1
+professional  imaginative and creative thinking skills  ability to analyze and critically assess problems  ability to see the big picture as well as giving attention to the smallest detail  ability to communicate effectively  understanding of history  cultural and environmental concerns  lateral thinking skills to solve complex problems  coordination and interpersonal skills to manage a complex project team:1
+qualifications  design talent  engineering ability  social awareness  business aptitude:1
+direction  graphic:1
 and vision:1
 extremely computer literate and proficient in the use of microsoft suites:1
-autodesk inventor pro routed systems tube and pipe and autodesk vault professional:1
+autodesk inventor pro       routed systems   tube and pipe  and autodesk vault professional:1
 certification in pro engineer:1
-computervision d personal designer:1
+computervision   d personal designer:1
 cadds x sunhardware:1
 fastcad:1
 procad:1
@@ -782,14 +782,14 @@ oral:1
 regulatory compliance:1
 money:1
 problem solving skills:1
-certification six sigma:1
+certification  six sigma:1
 greenbelt:1
 technical experience with software platforms:1
 engineering software:1
 strong presentation skills:1
 process improvement:1
 mechanical design implementation:1
-visual basic inventor fusion:1
+visual basic  inventor fusion:1
 training program implementation:1
 scheduling tools:1
 laboratory evaporators:1
@@ -799,7 +799,7 @@ the mathworks matlab:1
 microsoft visual basic:1
 ms sql server:1
 arena:1
-flow layouts and:1
+flow layouts  and:1
 time studies:1
 funds:1
 lingo:1
@@ -808,7 +808,7 @@ minitab:1
 six sigma:1
 vertex:1
 view:1
-catia v solidworks:1
+catia v  solidworks:1
 inventor pro e wildfire:1
 gd t:1
 production floor support:1
@@ -839,9 +839,9 @@ proved ability to be persistence:1
 overcome obstacles:1
 and consistently strives to improve skills and achieve goals:1
 uncommon ability to organize and control job responsibilities:1
-particularly the accuracy and productivity related to work flow in depth ability to multi task and manage multiple projects in fast paced environment:1
-uncommon detail oriented with excellent problem solving and follow up skills strong interpersonal skills remarkable ability to achieve results through team leadership:1
-excellent time management skill knowing how long a subject will take to be made up and working quickly and accurately in time pressured conditions:1
+particularly the accuracy and productivity related to work flow  in depth ability to multi task and manage multiple projects in fast paced environment:1
+uncommon detail oriented with excellent problem solving and follow up skills  strong interpersonal skills  remarkable ability to achieve results through team leadership:1
+excellent time management skill   knowing how long a subject will take to be made up and working quickly and accurately in time pressured conditions:1
 pos system:1
 answering phone:1
 blueprint reading:1
@@ -880,7 +880,7 @@ lms:1
 online learning:1
 online training:1
 liaison:1
-microsoft software excel:1
+microsoft software  excel:1
 web pdm:1
 ibm as:1
 invision:1
@@ -926,7 +926,7 @@ office equipment:1
 scanning:1
 telephony:1
 transcription:1
-typing wpm:1
+typing       wpm:1
 managing executive calender:1
 internet and social media proficient:1
 bentley autoplant:1
@@ -949,7 +949,7 @@ motivated self starter:1
 ibm:1
 microsoft project:1
 autocad proficient:1
-solid works d solid modeling:1
+solid works  d solid modeling:1
 technical problem solving:1
 injection molded plastic mass manufacturing techniques:1
 corel draw graphics:1
@@ -966,19 +966,19 @@ layout and design:1
 mathematics:1
 routing:1
 word processing:1
-invoicing quick books:1
-software adobe illustrator cc cs:1
+invoicing  quick books:1
+software  adobe illustrator cc   cs:1
 adobe photoshop cc:1
 corel draw x:1
 omega composer:1
-printers hp:1
+printers  hp:1
 hp designjet l:1
-vinyl plotters summa d r:1
+vinyl plotters  summa d   r:1
 graphtec:1
 ioline:1
 hs:1
 fc:1
-sign tracking software keyed in and pace:1
+sign tracking software  keyed in and pace:1
 digital illustration of art concepts for print:1
 fabric and web applications using adobe creative suite:1
 composition and layout for marketing collateral using indesign:1
@@ -989,14 +989,14 @@ d pattern engineering and technical sketching for streetwear and theatrical cost
 using gerber computer aided design systems:1
 and acrobat professional:1
 strongly familiar with microsoft word:1
-and publisher also quarkxpress:1
+and publisher   also quarkxpress:1
 basic knowledge of web development with adobe dreamweaver:1
 wordpress:1
 able to perform graphic design and administrative functions:1
 able to work as a team player and independently:1
 experienced using phone:1
 copiers and printers:1
-provides excellent customer service in person:1
+provides excellent customer service  in person:1
 by phone:1
 or interoffice mail:1
 prioritizes and calmly handles multiple projects and requests:1
@@ -1032,7 +1032,7 @@ teaching:1
 guest relations:1
 takeout management:1
 front of house organization:1
-table management seating assignment:1
+table management   seating assignment:1
 reservations:1
 wine pairings:1
 table bussing:1
@@ -1044,7 +1044,7 @@ price memorization:1
 service prioritization:1
 safe food handling:1
 table setting arrangements:1
-adobe cs adobe illustrator flex plm grovesite:1
+adobe cs  adobe illustrator flex plm grovesite:1
 webpdm microsoft word excel:1
 optitex:1
 garment specs and sketches fit assessment:1
@@ -1056,12 +1056,12 @@ plm:1
 develop product:1
 sourcing strategy:1
 z brush:1
-xp professional vista windows:1
+xp professional  vista  windows:1
 os:1
 sketch up:1
-daz d:1
+daz  d:1
 analog integrated circuits:1
-cinema d:1
+cinema  d:1
 cartooning:1
 computer networks:1
 direct sales:1
@@ -1070,6 +1070,7 @@ dollies:1
 staff training:1
 forklifts:1
 inspecting:1
+interactive design:1
 logging:1
 personnel management:1
 store manager:1
@@ -1080,11 +1081,11 @@ book packaging:1
 medical publication:1
 product packaging:1
 trade show graphics:1
-catalogs brochures:1
-presentations hand outs:1
+catalogs   brochures:1
+presentations   hand outs:1
 adobe cs:1
 book design:1
-graphics design:1
+graphics          design:1
 ie:1
 marketing and sales:1
 package design:1
@@ -1112,18 +1113,21 @@ small business development:1
 interactive prototypes:1
 heuristic evaluation:1
 style guide creation:1
-business operations:1
+business  operations:1
 business solutions:1
-creative director:1
+creative  direction:1
+creative  director:1
 entrepreneur:1
-lab testing:1
+interactive  design:1
+lab  testing:1
 pencil:1
-product management:1
-search engine optimization:1
-strategy planning:1
-usability testing:1
-user interface ui design:1
-website design:1
+product  management:1
+search  engine  optimization:1
+strategy  planning:1
+usability  testing:1
+user  interface:1
+user  interface   ui  design:1
+website  design:1
 web sites:1
 avenue:1
 print design:1
@@ -1158,8 +1162,8 @@ visio professional:1
 web page:1
 apple:1
 building codes:1
-over years of customer service experience:1
-years in branch management position with permanent employees also to include or holiday employees and drivers:1
+over    years of customer service experience:1
+years in branch management position with   permanent employees  also to include   or   holiday employees and drivers:1
 talented multi tasker:1
 exceptional time management skills:1
 bookkeeping:1
@@ -1179,9 +1183,9 @@ rfi:1
 rfp:1
 web site design:1
 well organized:1
-cad software iman teamcenter:1
+cad software  iman  teamcenter:1
 unigraphics nx:1
-software ms excel:1
+software  ms excel:1
 ms access:1
 ms windows:1
 am proficient with graphics programs such as adobe photoshop:1
@@ -1196,7 +1200,7 @@ technology orientated:1
 and excellent collaboration skills:1
 creative and innovating:1
 extensive success in product development:1
-software proficiency vcastle:1
+software proficiency   vcastle:1
 netlab:1
 xendesktop:1
 ec council ilabs:1
@@ -1208,7 +1212,7 @@ mechanic:1
 microsoft office suites:1
 new product development:1
 product development and management:1
-strategic planning analysis:1
+strategic planning   analysis:1
 ds max:1
 cms:1
 sc:1
@@ -1226,6 +1230,7 @@ telecommunication:1
 telecommunications:1
 telephone:1
 calibration:1
+creative direction:1
 ftp:1
 explorer:1
 messaging:1

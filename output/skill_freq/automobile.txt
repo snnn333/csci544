@@ -64,7 +64,6 @@ strong organizational skills:2
 strong work ethic:2
 team player:2
 marketing strategies:2
-time management:2
 focus:2
 criminal justice:2
 email:2
@@ -136,7 +135,6 @@ banking:2
 equity:2
 english:2
 lathe:2
-mechanical design:2
 camera:2
 hardware:2
 basic:2
@@ -152,28 +150,29 @@ good at following instructions:1
 solid communication skills:1
 timely project completion:1
 vehicle repairs:1
-expertise in ibm datastage and versions to perform etl elt operations on data:1
+expertise in ibm datastage          and      versions  to perform etl   elt operations on data:1
 proficiency in unix shell scripting:1
-proficiency in writing and debugging complex sql:1
-informatica etl support experience version:1
-hands on experience on ibm db netezza sql server oracle:1
+proficiency in writing and debugging  complex sql:1
+informatica etl support experience  version:1
+hands on experience on ibm db   netezza  sql server oracle:1
 data archival into ibm biginsights with hive tables:1
 experience in control m scheduling tool:1
-proven effectiveness to negotiate and resolve complaints on an escalated level:1
-professional verbal and written communication skills:1
+proven effectiveness to   negotiate and resolve                complaints on an escalated   level:1
+professional verbal and written   communication skills:1
 excellent organizational:1
-and multi tasking skills:1
+time   management:1
+and multi    tasking skills:1
 strong leadership skills:1
 customer service oriented:1
-proficient in portal insurance operating systems prime:1
+proficient in portal insurance       operating systems  prime:1
 huon:1
 claims portal:1
-and pepsc:1
-self motivated and able to work well with frequently:1
+and   pepsc:1
+self motivated and able to     work well with frequently:1
 shifting priorities:1
 proficient in microsoft suite:1
 succeed in fast paced:1
-results driven atmosphere:1
+results   driven atmosphere:1
 calibration:1
 driving:1
 hiring:1
@@ -208,7 +207,7 @@ automotive:1
 catia v:1
 contract management:1
 cost control:1
-fluent english:1
+fluent          english:1
 frame:1
 french:1
 inspection:1
@@ -283,7 +282,7 @@ vectoring:1
 web browsing:1
 xerox copiers:1
 professional and friendly careful and active listener:1
-with strong interpersonal skills and excellent communication multi tasking:1
+with strong interpersonal skills and excellent communication  multi tasking:1
 neat:1
 organizational skills:1
 problem solver:1
@@ -291,6 +290,7 @@ reception:1
 self starter:1
 tandem:1
 telecommunication:1
+time management:1
 more than proficient with all microsoft programs:1
 claims file management processes:1
 litigation resolution:1
@@ -351,7 +351,8 @@ teamwork:1
 able to demonstrate exceptional communication skills:1
 able to maintain effective and efficient communication within a team environment:1
 skillful initiation in organizing and coordinating team meetings to manage and planned performance adherence:1
-exceptional talent for accuracy analyzing projecting conflict and resolving issues continually providing input or solutions in problem solving on operational issues or procedures and perform administrative follow up:1
+exceptional talent for accuracy analyzing:1
+projecting conflict and resolving issues  continually providing input or solutions in problem solving on operational issues or procedures and perform administrative follow up:1
 strong leader with proven development abilities:1
 capable of clearly presenting ideas:1
 plans and strategies to all levels of management:1
@@ -407,7 +408,7 @@ security:1
 microsoft powerpoint:1
 regular care coordinator:1
 perform household task and run errands:1
-perform personal care activities hygiene:1
+perform personal care activities  hygiene:1
 ambulation:1
 eating:1
 dressing:1
@@ -419,29 +420,29 @@ bed:1
 and wheelchairs:1
 take care of pets:1
 nurse assistant caregiver:1
-medical case management fort worth:1
-tx to:1
+medical case management   fort worth:1
+tx        to:1
 maintain and set up patient rooms:1
 perform preventive maintenance on emergency equipment:1
 assist with patient and family education:1
-assist r n and l v n with sterile and non sterile dressing changes:1
+assist r n  and l v n with sterile and non sterile dressing changes:1
 cpr qualified:1
 answer multi line phone:1
 operate fax and copy machine:1
-prioritize patient daily care according to acuity and scheduled patient procedures conduct analysis and recommend suitable solutions to real time performance issues years:1
+prioritize patient daily care according to acuity and scheduled patient procedures conduct analysis and recommend suitable solutions to real time performance issues    years:1
 handle:1
-inbound calls and provide one call resolution to problems reported years:1
+inbound calls and provide one call resolution to problems reported    years:1
 responded to client calls and:1
-provided instructions for troubleshooting years:1
+provided instructions for troubleshooting    years:1
 provided technical and analytical support at the call:1
-center year:1
+center    year:1
 proficient in ms excel:1
 word and various database management applications:1
 proven ability:1
-to learn and operate software applications quickly years:1
-analytics year:1
-problem resolution less:1
-than year:1
+to learn and operate software applications quickly    years:1
+analytics    year:1
+problem resolution  less:1
+than   year:1
 analytical skills:1
 caregiver:1
 cash register:1
@@ -474,7 +475,7 @@ verbal communication skills:1
 record vital signs:1
 interpersonal and communication:1
 file management:1
-legal research writing:1
+legal research   writing:1
 litigation:1
 mediation:1
 medical record review:1
@@ -482,21 +483,21 @@ high level claim evaluation:1
 commercial needs:1
 negotiation:1
 risk management:1
-peoplesoft hcm portal:1
+peoplesoft hcm   portal:1
 peopletools:1
 peoplesoft query:1
 microsoft sql server:1
 windows nt:1
 terminal server:1
-ms office excel:1
+ms office   excel:1
 project:1
 publisher:1
 visio and access:1
-rational tool sdt:1
+rational tool  sdt:1
 rqm:1
 clear case:1
-document management systems pdm documentum:1
-kronos workforce central wfc:1
+document management systems pdm   documentum:1
+kronos workforce central  wfc:1
 kronos connect:1
 adp:1
 benefits:1
@@ -552,6 +553,8 @@ graphic:1
 java:1
 laser:1
 machine learning:1
+mechanical   design:1
+mechanical design:1
 mechanical engineering:1
 mill:1
 modeling:1
@@ -567,7 +570,7 @@ solidworks:1
 stata:1
 statistics:1
 system design:1
-trading system:1
+trading  system:1
 vision:1
 baset:1
 atm:1
@@ -619,7 +622,7 @@ communication skills:1
 cpr certified:1
 resolving customer complaints:1
 medisoft:1
-type wpm:1
+type    wpm:1
 ms word:1
 dispatching:1
 call center and excel:1
@@ -650,8 +653,8 @@ decision making and communication skills:1
 responsible time manager:1
 understands grammar:1
 resourceful:1
-software salesforce com:1
-desktop publishing software photoshop:1
+software  salesforce com:1
+desktop publishing software  photoshop:1
 scheduling appointments:1
 addressing customer concerns:1
 special events:1
@@ -661,15 +664,15 @@ consultation:1
 hindi:1
 television:1
 wiring:1
-architecture design tool ms vizio professional:1
-mdm tools tibco mdm:1
-data de duping tibco patterns:1
-operating systems windows xp professional nt:1
-database oracle x pl sql sql loader:1
-web app servers apache tomcat:1
+architecture design tool  ms vizio professional:1
+mdm tools  tibco mdm:1
+data de duping  tibco patterns:1
+operating systems  windows xp professional  nt:1
+database  oracle    x  pl sql sql loader:1
+web app servers  apache tomcat:1
 web logic:1
 jboss:1
-languages tools tibco ems x x tibco business events:1
+languages   tools  tibco ems   x   x tibco business events:1
 html xml:1
 xsl:1
 xslt:1
@@ -678,35 +681,35 @@ dtd:1
 ant:1
 remedy:1
 sql navigator:1
-development environments ides tibco active matrix:1
+development environments  ides   tibco active matrix:1
 rational xde:1
 eclipse:1
 skills used:1
-ide tools tibco mdm:1
+ide tools  tibco mdm:1
 tibco dq:1
 tibco patterns:1
 tibco business events:1
 tibco ems:1
 tibco mdm studio:1
 eclipse rational rose:1
-ms vizio sql navigator:1
+ms vizio  sql navigator:1
 framework concepts:1
 master data management:1
 mdm solutions architecture:1
 configuration management:1
 system integration:1
 struts:1
-application web server jboss:1
+application web server  jboss:1
 weblogic:1
 apache tomcat:1
-languages tools core java:1
+languages tools  core java:1
 jdbc:1
 pl sql:1
 shell script sql loader:1
 xsl xslt:1
-os windows nt:1
+os  windows nt:1
 windows xp:1
-database oracle:1
-hands on experience in data de duping with data matching and merging using tibco patterns and data analysis data cleansing standardizing with tibco data quality tools tibco trained proffessional in tibco business events:1
-tibco ems administration:1
+database  oracle:1
+hands on experience in  data de duping with data matching and merging using tibco patterns and data analysis data cleansing standardizing with tibco data quality tools tibco trained proffessional in tibco business events:1
+tibco ems      administration:1
 solutions architecture by tibco educations:1

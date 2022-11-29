@@ -1,5 +1,5 @@
 sales:48
-customer service:34
+customer service:33
 inventory:30
 merchandising:27
 excel:24
@@ -68,6 +68,7 @@ staffing:6
 photoshop:6
 director:6
 microsoft office suite:6
+special events:6
 hr:6
 sap:6
 retail sales:6
@@ -76,7 +77,6 @@ invoicing:6
 administrative:6
 billing:6
 supervision:6
-cash register:5
 cashier:5
 spreadsheets:5
 trade shows:5
@@ -89,7 +89,6 @@ windows:5
 spanish:5
 microsoft word:5
 administrative support:5
-special events:5
 operations:5
 safety:5
 forecasting:5
@@ -103,6 +102,7 @@ competitive:5
 client relations:5
 financial:5
 marketing strategies:5
+cash register:4
 customer assistance:4
 adobe:4
 driving:4
@@ -349,7 +349,6 @@ sales associate:2
 goodies:2
 medisav pharmacy:2
 wal mart:2
-and the pharmacy of pocola:2
 grammar:2
 multi task management:2
 key:2
@@ -365,6 +364,7 @@ ms office suite:2
 radio:2
 lexis nexis:2
 data base:2
+market research:2
 agile:2
 clientele:2
 press:2
@@ -381,7 +381,7 @@ edge:2
 team work:1
 motivation:1
 stock:1
-excellent planner and coordinator microsoft excel certified works well under pressure conference planning pleasant demeanor multi line phone proficiency appointment setting invoice processing microsoft word team building microsoft visio atlas microsoft powerpoint adobe x pro smartplant materials mmis system microsoft outlook phoenix deadline driven osha standards:1
+excellent planner and coordinator          microsoft excel certified works well under pressure          conference planning pleasant demeanor          multi line phone proficiency appointment setting          invoice processing microsoft word          team building microsoft visio          atlas microsoft powerpoint          adobe x pro smartplant materials          mmis system       microsoft outlook          phoenix deadline driven          osha standards:1
 appointment setting:1
 home care:1
 instructional design:1
@@ -404,7 +404,8 @@ design software:1
 facility maintenance:1
 product design:1
 real time:1
-setting ad with accuracy:1
+setting ad with      accuracy:1
+cash     register:1
 computer literate:1
 customer relations:1
 trend analysis:1
@@ -464,18 +465,18 @@ collaboration:1
 enthusiastic:1
 and personable:1
 highly adaptable:1
-bilingual english and spanish:1
+bilingual  english and spanish:1
 effective communication skills:1
 works well within a team:1
 as well as individually:1
-working knowledge of html and css:1
+working knowledge of html   and css:1
 intermediate knowledge in microsoft word:1
 and excel:1
 electrical maintenance skills including ac motors:1
 sensors:1
 and controls:1
 mechanical skills focused primarily on the repair and maintaining of conveyor and sortation systems:1
-specialized focus in working with crisplant s series tilt tray sorters:1
+specialized focus in working with crisplant s     series tilt tray sorters:1
 strong communication both written and verbal:1
 experience in basic facilities maintenance:1
 experienced in spare parts inventory:1
@@ -483,7 +484,7 @@ and ordering:1
 basic understanding of ethernet networks and the tcp ip protocol stack:1
 proven track record of on the job skill advancement:1
 experienced in the mechanical and electrical maintenance:1
-and repair of conveyor systems specifically experienced in the following products:1
+and repair of conveyor systems  specifically experienced in the following products:1
 buschman unisort iv:1
 buschman unisort x:1
 buschman accuglide:1
@@ -492,18 +493,18 @@ various v belt powered live roller conveyors:1
 various belt on slider bed systems:1
 various belt on roller systems:1
 stewart glappat extendable truck unloaders adjust o veyor:1
-crisplant s tilt tray sorters:1
+crisplant s     tilt tray sorters:1
 fki logistics line shaft driven live rollers:1
 tech king operations champ control systems:1
-buschman boss realtime controls:1
-crisplant s control system:1
-heavy focus on troubleshooting carton sortation systems both electrical:1
-and mechanical to a lesser extent network connectivity and server administration:1
+buschman boss  realtime controls:1
+crisplant s     control system:1
+heavy focus on troubleshooting carton sortation systems  both electrical:1
+and mechanical  to a lesser extent network connectivity and server administration:1
 experience leading a maintenance team across multiple shifts:1
 ability to operate most powered industrial equipment:1
 including forklifts:1
 order pickers:1
-aerial work platforms skyjacks:1
+aerial work platforms  skyjacks:1
 and boom trucks:1
 experienced in the troubleshooting and repair of conveyor motor control systems:1
 experienced with the installation and configuration of variable frequency drives:1
@@ -635,7 +636,7 @@ first aid and cpr certified:1
 master at executing and enhancing game plans:1
 proficient in opening and closing store procedures:1
 including cash office execution:1
-desktop publishing software photoshop:1
+desktop publishing software  photoshop:1
 capture one:1
 lightroom:1
 strong communication skills:1
@@ -657,8 +658,8 @@ operational management skills:1
 performance analysis:1
 mircosoft office:1
 quality control management:1
-ms excel pivot table:1
-hlook up vlookup:1
+ms excel  pivot table:1
+hlook up  vlookup:1
 moderate macros:1
 advanced functions:1
 commodities:1
@@ -669,16 +670,16 @@ macros:1
 pivot table:1
 supplier selection:1
 supply chain management:1
-business management development:1
-strategic tactical planning:1
-cost control analysis:1
-quickbooks weekly payroll:1
-team building leadership:1
+business management   development:1
+strategic   tactical planning:1
+cost control   analysis:1
+quickbooks   weekly payroll:1
+team building   leadership:1
 new business set up:1
-personnel recruiting training:1
+personnel recruiting   training:1
 opportunity identification:1
-process improvement creation:1
-advanced excel and word intermediate power point quickbooks:1
+process improvement   creation:1
+advanced excel and word   intermediate power point  quickbooks:1
 ma:1
 sales and support:1
 trouble shooting:1
@@ -700,28 +701,29 @@ tableau:1
 x ray:1
 adobe creative suites illustrator:1
 indesign cc:1
-microsoft office excel:1
-outlook cad ned graphics easy weave:1
+microsoft office  excel:1
+outlook  cad  ned graphics easy weave:1
 easy knit:1
-coloring and repeat working knowledge of u ia and kaledo pdm plm:1
+coloring and repeat   working knowledge of u ia and kaledo   pdm plm:1
 product brand development:1
 trend color:1
 sourcing negotiation:1
 print repeat textile design:1
 technical fit:1
 knitwear expert:1
-microsoft office proficiency self starter:1
-meticulous attention to detail as:1
-professional and mature medical terminology:1
-resourceful proofreading:1
-dedicated team player understands grammar:1
-strong interpersonal skills business writing:1
-results oriented mail management:1
+microsoft office proficiency         self starter:1
+meticulous attention to detail       as:1
+professional and mature          medical terminology:1
+resourceful          proofreading:1
+dedicated team player          understands grammar:1
+strong interpersonal skills          business writing:1
+results oriented          mail management:1
 business writing:1
 calculator:1
 oral:1
 make change:1
 customer services:1
+customer           service:1
 dollies:1
 internet skills:1
 leadership development:1
@@ -735,7 +737,7 @@ rapport:1
 self starter:1
 telecommunications:1
 typewriter:1
-photoshop corel draw illustraitor microsoft office:1
+photoshop    corel draw   illustraitor   microsoft office:1
 interpersonal:1
 sales manager:1
 strategic plans:1
@@ -747,7 +749,7 @@ portuguese:1
 production manager:1
 qualitative research:1
 specification:1
-strategy planning:1
+strategy   planning:1
 credit and cash transactions:1
 issue resolution:1
 scanner operations:1
@@ -790,7 +792,7 @@ patroller:1
 industrial design:1
 win:1
 performance appraisals:1
-computer aided design cad:1
+computer aided design  cad:1
 sales and marketing:1
 motivated team player:1
 excellent work ethic:1
@@ -812,7 +814,7 @@ latin:1
 nursing:1
 producer:1
 seminars:1
-plm ptc and enovia sql crystal reports google analytics jira hpqc qlikview cognos advanced microsoft access advanced excel sas power point sharepoint visio microstrategy aspen microsoft project jcl jobtrac tso ca tivoli maestro telnet ftp group unix exceed citrix metaframe altiris:1
+plm  ptc and enovia   sql  crystal reports  google analytics  jira  hpqc  qlikview  cognos  advanced microsoft access  advanced excel  sas  power point  sharepoint  visio  microstrategy  aspen  microsoft project  jcl  jobtrac  tso  ca   tivoli  maestro  telnet  ftp  group   unix  exceed  citrix metaframe  altiris:1
 asset management:1
 cognos:1
 data analysis:1
@@ -820,7 +822,7 @@ data mining:1
 direct marketing:1
 microstrategy:1
 relational databases:1
-software design development:1
+software design   development:1
 solaris:1
 sql:1
 system integration:1
@@ -838,10 +840,10 @@ exel office:1
 numeric filing:1
 organization skills:1
 training new employees:1
-supervisor of employees:1
+supervisor of    employees:1
 phone systems:1
 scales:1
-some ucc knowledge preparing shipping documents bills of lading:1
+some ucc knowledge  preparing shipping documents bills of lading:1
 ltl scheduling:1
 electronic mail:1
 philosophy:1
@@ -864,13 +866,13 @@ written communication:1
 corporate training:1
 page:1
 profit and loss:1
-amp strengths:1
-executive administrative support fluent in english:1
+amp  strengths:1
+executive   administrative support   fluent in english:1
 and hindi:1
-customer service telephone front desk reception:1
-organization filing:1
-database records management:1
-research microsoft office:1
+customer service   telephone   front desk reception:1
+organization   filing:1
+database   records management:1
+research   microsoft office:1
 lightspeed:1
 starguest:1
 administrative assistant:1
@@ -884,7 +886,7 @@ blueprints:1
 cooking:1
 issue receipts:1
 management skills:1
-excellent organizational skills team player works well under pressure:1
+excellent organizational skills  team player  works well under pressure:1
 cost control:1
 firing:1
 inventory management and control:1
@@ -893,23 +895,25 @@ software design:1
 upgrades:1
 embroidery machine operator:1
 sewing machine operator:1
-telephone fax mahcines:1
-filing office skills:1
-customer service at jc penney:1
-sales assiocate at jc penney:1
-office skills telephone:1
+telephone  fax mahcines:1
+filing  office skills:1
+customer service  at jc penney:1
+and the pharmacy of  pocola:1
+sales assiocate   at jc penney:1
+and the pharmacy of pocola:1
+office skills  telephone:1
 copier:1
 great people skills:1
 and great organizational:1
 skills:1
 graphic design:1
-composition illustration:1
-writing proficient typist:1
-microsoft office suite and social media platforms instagram:1
+composition   illustration:1
+writing   proficient typist:1
+microsoft office suite and social media platforms  instagram:1
 twitter:1
 facebook:1
-sculpture weaving:1
-yoga meditation:1
+sculpture   weaving:1
+yoga   meditation:1
 certified yoga teacher:1
 direct sales:1
 market trends:1
@@ -919,7 +923,7 @@ price negotiating:1
 materials development:1
 product design and development:1
 knowledge of quality assurance testing:1
-second language asl:1
+second language   asl:1
 reading comprehension:1
 grasp new concepts:1
 sales and trend forecasting:1
@@ -942,17 +946,17 @@ product launch:1
 corporate social responsibility:1
 team leadership marketing:1
 negotiation problem solving process improvement:1
-project management quality control:1
+project management   quality control:1
 sourcing:1
 leadership communication skills:1
 negotiations expert:1
 skilled divorce mediator:1
-estate planning taxes:1
-legal research writing expert:1
+estate planning   taxes:1
+legal research   writing expert:1
 clarify:1
 drafting legal documents:1
 grant proposals:1
-research write briefs:1
+research   write briefs:1
 opinions:1
 laws:1
 litigation:1
@@ -969,7 +973,7 @@ supervising:1
 underwriting:1
 branding:1
 catalog:1
-communication competitive:1
+communication  competitive:1
 ecommerce:1
 marketing materials:1
 powerpoint presentations:1
@@ -977,7 +981,7 @@ negotiator:1
 navigation:1
 organization:1
 pricing strategy:1
-scheduling and coordinating hands on bookkeeping:1
+scheduling and coordinating  hands on bookkeeping:1
 faxing:1
 microsoft office applications:1
 sales plan:1
@@ -996,7 +1000,7 @@ all microsoft:1
 securities:1
 train employees:1
 internet applications:1
-mis inventory:1
+mis  inventory:1
 scheduling supervising:1
 outlook and mac:1
 soarian and medinotes emr:1
@@ -1018,7 +1022,6 @@ technical support:1
 net:1
 designing:1
 team development:1
-market research:1
 problem solving skills:1
 vendor relations:1
 verbal communication:1
@@ -1027,7 +1030,8 @@ camera operating:1
 film directing:1
 art directing:1
 creative planning:1
-production management budgeting skills:1
+production management:1
+budgeting skills:1
 non linear editing:1
 creative writing:1
 product advertising:1
@@ -1035,12 +1039,11 @@ editorial:1
 production managing:1
 brand management:1
 client contacts:1
-special events market research:1
 trend awareness:1
 ap:1
 e mail:1
 ordering office supplies:1
-product development planning:1
+product development  planning:1
 purchase requisitions:1
 tear:1
 million:1
@@ -1096,18 +1099,18 @@ quickbooks pro:1
 sales support:1
 phones:1
 year end:1
-mastery of microsoft office word:1
+mastery of microsoft office  word:1
 and powerpoint:1
 strong working knowledge of datatrak abc and clubos software:1
 ability to work with several operating systems including microsoft and mac osx:1
-fluent in spoken portuguese proficient in written portuguese:1
+fluent in spoken portuguese  proficient in written portuguese:1
 knowledge of spoken and written spanish:1
-editing sku s financial:1
-p l first aid:1
+editing sku s  financial:1
+p l  first aid:1
 inforem:1
 mainframe:1
-organization excel:1
-supervision teaching training and coaching customer service:1
+organization  excel:1
+supervision  teaching training and coaching  customer service:1
 gps:1
 mars:1
 ms publisher:1
@@ -1118,7 +1121,7 @@ schedule appointments:1
 maintain calendar:1
 network systems:1
 database creation:1
-staff development training:1
+staff development   training:1
 maintaining inventory:1
 process invoices:1
 new product development:1
@@ -1157,35 +1160,35 @@ calendaring:1
 customer needs assessment:1
 service orientation:1
 speaking:1
-type wpm:1
+type    wpm:1
 writing:1
 letters and memos:1
-academic adviser and analyst consultant with strong client focus:1
-grant writing leadership skills in several venues:1
+academic adviser and analyst  consultant with strong client focus:1
+grant writing  leadership skills in several venues:1
 office skills:1
 published and technical writer:1
 social media marketing:1
 strategic marketing planning:1
-multi media marketing advertising print:1
+multi media marketing   advertising   print:1
 broadcast:1
 web:1
 leadership team building:1
-brand image development management:1
-promotions pr management:1
-vendor sponsor negotiations:1
-market research competitive analysis:1
-branding marketing:1
+brand image development   management:1
+promotions   pr management:1
+vendor   sponsor negotiations:1
+market research   competitive analysis:1
+branding   marketing:1
 consultant:1
 creative director:1
 communications:1
 financial statements:1
-design director:1
-marketing analysis operation management:1
+design  director:1
+marketing analysis  operation management:1
 market development:1
 multi media:1
 producing:1
 sales plans:1
-social media marketing strategic planning:1
+social media marketing  strategic planning:1
 trends:1
 assembly:1
 community relations:1
@@ -1198,14 +1201,14 @@ octagon:1
 outside sales:1
 system x:1
 welding:1
-enrolled agent ea:1
+enrolled agent  ea:1
 proficient in microsoft office:1
 valued team player:1
 account reconciliation expert:1
 ultratax:1
 effective time management:1
 strong organizational skills:1
-advanced computer proficiency pc and mac:1
+advanced computer proficiency  pc and mac:1
 va notary public:1
 microsoft office professional:1
 accountant management:1

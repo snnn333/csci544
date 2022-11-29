@@ -1,17 +1,17 @@
 arts:22
-customer service:22
+customer service:21
 excel:21
 sales:18
-microsoft office:17
 teaching:17
 research:15
+microsoft office:15
 instruction:14
-microsoft word:14
 access:14
 word:14
 marketing:13
 academic:12
 powerpoint:12
+microsoft word:12
 english:12
 progress:11
 meetings:11
@@ -84,7 +84,6 @@ spreadsheets:5
 mail:5
 great organizational skills:4
 photography:4
-desktop publishing software photoshop:4
 microsoft office suite:4
 quality control:4
 financial:4
@@ -128,6 +127,7 @@ cpt:4
 icd:4
 advanced problem solving:3
 drawing:3
+desktop publishing software  photoshop:3
 inventory control:3
 purchasing:3
 sap:3
@@ -148,7 +148,6 @@ strategy:3
 short stories:3
 lesson planning:3
 data analysis:3
-multi task management:3
 creative problem solving:3
 branding:3
 c:3
@@ -195,6 +194,7 @@ project manager:3
 graphic arts:2
 wordpress:2
 ordering:2
+microsoft  office:2
 food safety:2
 latin:2
 mentor:2
@@ -230,7 +230,6 @@ consultant:2
 customer relations:2
 monitors:2
 repairs:2
-preventative care:2
 risk management:2
 data collection:2
 features:2
@@ -291,7 +290,7 @@ increase:2
 budget management:2
 suicide risk assessments:2
 exceptional problem solver:2
-public relations software bacon s mediasource:2
+public relations software  bacon s mediasource:2
 factiva:2
 fast paced worker:2
 editing:2
@@ -312,23 +311,23 @@ acls:2
 policy based routing:2
 nat:2
 pat:2
-switching hsrp:2
+switching  hsrp:2
 vrrp:2
 glbp vlans:2
 vtp:2
-link aggregation lacp:2
+link aggregation  lacp:2
 pagp:2
 stp:2
 pvst:2
-firewalls palo alto:2
+firewalls  palo alto:2
 cisco asa:2
 check point:2
-routers cisco routers:2
+routers  cisco routers:2
 catalyst:2
 nexus:2
-switches cisco switches nexus series:2
-catalyst series:2
-security concepts app id:2
+switches  cisco switches  nexus      series:2
+catalyst      series:2
+security concepts  app id:2
 user id:2
 wildfire:2
 globalprotect:2
@@ -340,19 +339,19 @@ ike:2
 ipsec:2
 hip checks:2
 site to site vpns:2
-load balancers f big ip ltm gtm:2
+load balancers  f  big ip  ltm gtm:2
 citrix netscaler:2
-wireless networking cisco meraki:2
+wireless networking  cisco meraki:2
 aruba:2
 clear pass:2
 cisco wlan:2
 wireless aps:2
 x a b g n ac:2
-software applications panorama:2
+software applications  panorama:2
 nx os:2
 smart dash board:2
 vmware:2
-tools splunk:2
+tools  splunk:2
 solar winds:2
 sevone:2
 wireshark:2
@@ -379,7 +378,7 @@ simultaneously:2
 administrative assistant:2
 color:2
 publications:2
-sales software salesforce com:2
+sales software  salesforce com:2
 electronics:2
 ink:2
 money:2
@@ -387,16 +386,18 @@ act:2
 vendor management:2
 sharepoint:2
 exceptional communication skills:2
+microsoft  word:2
 quick learner:2
 copying:2
 medical terminology:2
 film:2
 television:2
+multi task management:2
 faxes:2
 copiers:2
 scanners:2
 self directed:2
-valid and current teaching certification in florida earth space science:1
+valid and current teaching certification in florida  earth space science:1
 art k:1
 elementary education k:1
 positive and encouraging:1
@@ -410,10 +411,10 @@ computer animation:1
 serrigraphy:1
 lesson plan development utilizing creative problem solving skills:1
 proficient in moodle:1
-sphere video creation and google classroom:1
-implemented google docs and forms:1
-used turning point technologies rapid responders:1
-earned over hours of continuing education per calendar year:1
+sphere    video creation  and google classroom:1
+implemented   google docs and forms:1
+used turning point technologies   rapid responders:1
+earned over    hours of continuing education per calendar year:1
 familiar with concepts of instructional design:1
 trained on edgenuity program:1
 familiar with canvas:1
@@ -425,21 +426,21 @@ garageband:1
 ms office proficient:1
 utilized safari montage live:1
 analyzed data trends from assessments:1
-worked collaboratively as member of professional learning community plc:1
+worked collaboratively as member of professional learning community  plc:1
 developed assessments to adhere to state testing format:1
 functionality and common core standards:1
 outstanding sight reader:1
 piano accompanist:1
 vocal coach:1
-sales software showare:1
-audio video software pro tools:1
+sales software  showare:1
+audio video software  pro tools:1
 qlab:1
 adobe premiere:1
-over years of supervisor experience:1
-this includes production operations:1
+over    years of supervisor experience:1
+this includes  production operations:1
 export and domestic shipping:1
-budgeting and distribution also responsible for inventory in system applications and products sap:1
-conduct inventory plans and select teams for a monthly cycle count of over materials:1
+budgeting and distribution  also responsible for inventory in system applications and products  sap:1
+conduct inventory plans and select teams for a monthly cycle count of over      materials:1
 supervise while earning respect from others:1
 maintain transactions in sap for all warehouse:1
 shipping and inventory functions:1
@@ -512,7 +513,7 @@ student records management:1
 differentiated instruction:1
 group and individual instruction:1
 conflict resolution techniques:1
-flexible adaptable:1
+flexible   adaptable:1
 interpersonal communication:1
 program development:1
 goal setting and implementation:1
@@ -530,7 +531,7 @@ assay design:1
 assay development:1
 assay troubleshooting:1
 scientific presentations:1
-leadership sales:1
+leadership  sales:1
 time and territory management:1
 process implementation:1
 strong verbal communication:1
@@ -543,6 +544,7 @@ educator:1
 team lead:1
 law:1
 legal documents:1
+multi   task management:1
 business administration:1
 cable:1
 client liaison:1
@@ -551,7 +553,7 @@ financial statements:1
 employee management:1
 market:1
 page layout:1
-project design development:1
+project design   development:1
 strategic:1
 supervisory:1
 user interface design:1
@@ -561,21 +563,22 @@ adobe:1
 com:1
 exhibitions:1
 sculpture:1
-handed dentistry:1
+handed     dentistry:1
+preventative     care:1
 instrument sterilization:1
-diagnostic x rays:1
-infection control:1
+diagnostic     x rays:1
+infection     control:1
 ortho:1
-emergency treatments:1
+emergency  treatments:1
 prosthetics restorations:1
-prep for oral surgery:1
+prep  for oral surgery:1
 bleaching trays:1
 casts impressions:1
-patient education:1
+patient  education:1
 prepare tray setups for dental procedures:1
 obtain dental records prior to appointments:1
-prepare patients for procedures ensure comfort and develop trust calm distressed patients instruct patients on postoperative and general oral health care:1
-oversee cleanliness of operatories and instruments insure safe sanitary conditions using the autoclave:1
+prepare patients for procedures   ensure comfort and develop trust  calm distressed patients  instruct patients on postoperative and general oral health care:1
+oversee cleanliness of operatories and instruments  insure safe sanitary conditions using the autoclave:1
 ultrasonic and dry heat instrument sterilization:1
 assist dentist with extractions:1
 fillings:1
@@ -601,7 +604,7 @@ online programs:1
 macintosh and pc:1
 microsoft power point:1
 google drive:1
-word press godaddy website builder:1
+word press  godaddy website builder:1
 calm conflict resolution:1
 working under pressure:1
 clear written and spoken communication:1
@@ -632,27 +635,27 @@ service level agreements:1
 highly accountable and experienced in operational effectiveness:1
 performance improvement initiatives:1
 bsa compliance:1
-regulatory and audit procedures excellent research and analytical skills:1
+regulatory and audit procedures  excellent research and analytical skills:1
 process development:1
-and delivering exceptional customer service ability to acquire technology quickly and proficient with various banking and credit union internal financial systems:1
+and delivering exceptional customer service  ability to acquire technology quickly and proficient with various banking and credit union internal financial systems:1
 banking systems:1
-credit union systems epysis symitar:1
+credit union systems  epysis  symitar:1
 meridian link:1
 star network:1
 patriot officer:1
 visa:1
 great a building a rapport with students:1
 creating small interest groups for students great consultant for staff members:1
-excel powerpoint:1
+excel   powerpoint:1
 keynote:1
-notary years:1
+notary     years:1
 proofreading:1
 proficient in spanish:1
 strengths finders results:1
 includer:1
 achiever:1
 responsible:1
-disciplined consistent:1
+disciplined   consistent:1
 training programs:1
 case management:1
 armor:1
@@ -674,8 +677,9 @@ travel administration:1
 strong problem solver:1
 customer service oriented:1
 meeting planning:1
-msoffice powerpoint:1
+msoffice   powerpoint:1
 word excel:1
+desktop publishing software   photoshop:1
 articulate:1
 interpersonal skills:1
 emergency preparedness:1
@@ -688,8 +692,9 @@ billing system:1
 competitive:1
 hardware:1
 consulting:1
+customer   service:1
 database programming:1
-e commerce:1
+e   commerce:1
 filemaker:1
 mvs:1
 team leadership:1
@@ -714,9 +719,9 @@ campuscafe:1
 retailpro:1
 ils:1
 rentrak additional workshops visual thinking strategy:1
-arts healthcare:1
+arts   healthcare:1
 community art projects:1
-art storytelling:1
+art   storytelling:1
 encaustic painting:1
 ceramics:1
 printmaking:1
@@ -735,10 +740,10 @@ very strong in managing system integration projects with third party vendors:1
 instrumental in managing multiple projects simultaneously:1
 excellent communication:1
 analytical:1
-and problem solving skills with proven ability to interact well with end users:1
+and problem solving skills with  proven ability to interact well with end users:1
 peers:1
-and senior management:1
-affinity for logic and working independently proactive:1
+and senior  management:1
+affinity for logic and working independently  proactive:1
 self sufficient:1
 and self motivated:1
 bi:1
@@ -765,13 +770,13 @@ dictation:1
 general office:1
 laboratory:1
 medical records:1
-adobe cs acrobat:1
-illustrator photoshop dreamweaver:1
-microsoft office excel:1
-access powerpoint:1
+adobe cs  acrobat:1
+illustrator   photoshop  dreamweaver:1
+microsoft office  excel:1
+access   powerpoint:1
 retrieve:1
-oil and acrylic painting:1
-drawing mural work:1
+oil and acrylic  painting:1
+drawing   mural work:1
 tile working:1
 furniture restoration and re invention:1
 basic knowledge of javascript and eclipse:1
@@ -795,14 +800,14 @@ oil:1
 proofing:1
 shorthand:1
 web site design:1
-comptia project certification:1
+comptia project  certification:1
 cis web design specialist certification:1
 closing:1
 financial planning:1
 grant applications:1
 reception:1
 knowledge of telecom industry:1
-experience in way radio systems:1
+experience in   way radio systems:1
 satellite systems and fcc faa:1
 functional understanding of:1
 wireless voip protocols and wireless mobility:1
@@ -827,14 +832,14 @@ middle:1
 and high school education:1
 high performance standards:1
 skills:1
-social media tools and management facebook:1
+social media tools and management  facebook:1
 hootsuite:1
 medium com:1
 video and audio production:1
 tech savy:1
 interests and hobbies:1
-voice acting various professional coaches:1
-improvisation acting second city:1
+voice acting  various professional coaches:1
+improvisation acting  second city:1
 plot and story building in books:1
 tv:1
 movies:1
@@ -867,7 +872,7 @@ industrial machinery:1
 interior renovations:1
 preventive maintenance:1
 logistics management:1
-knowledge of the ins and outs of child protective services cps:1
+knowledge of the ins and outs of child protective services  cps:1
 practiced in family assessments:1
 family therapy aptitude:1
 therapeutic expertise:1
@@ -883,26 +888,26 @@ outreach programming specialist:1
 solution focused counseling:1
 extensive dsm iv knowledge:1
 clinical documentation mastery:1
-member of the national association of social workers n a s w:1
+member of the national association of social workers  n a s w:1
 mood disorders specialist:1
 dual diagnosis expertise:1
-healthcare intravenous therapy:1
+healthcare  intravenous therapy:1
 medisoft:1
 computerized charting:1
 std counseling:1
-breastfeeding educator people skills great bedside manner:1
+breastfeeding educator people skills  great bedside manner:1
 flexible and reliable:1
 final cut pro proficient:1
 motion:1
 live type:1
 camera operation:1
-computer microsoft office:1
+computer  microsoft office:1
 creative suite:1
 wpm:1
 key proficient:1
 online databases:1
 filing and back up drives:1
-writing copy writing:1
+writing  copy writing:1
 project proposals:1
 memos:1
 budget reports:1
@@ -933,7 +938,7 @@ author:1
 essays:1
 instructional design:1
 shell:1
-routing eigrp:1
+routing  eigrp:1
 risk management processes and analysis:1
 ads:1
 anti virus:1
@@ -993,15 +998,15 @@ web servers:1
 wide area network:1
 wan:1
 wireless lan:1
-operating systems windows and below:1
-databases constant contact:1
+operating systems  windows    and below:1
+databases  constant contact:1
 connectwise:1
 raisers edge:1
 auction tracker:1
 auction pay:1
 artsoft:1
 resnet:1
-graphics tools adobe photoshop elements:1
+graphics tools  adobe photoshop elements:1
 microsoft publisher:1
 appraisal:1
 automated payroll:1
@@ -1054,21 +1059,21 @@ live and eva purchasing systems:1
 familiarity with fundraising and development tactics:1
 cycle counting:1
 supervisory skills:1
-counseling skills eclectic theoretical approach client centered therapy:1
+counseling skills  eclectic theoretical approach  client centered therapy:1
 gestalt therapy:1
-dbt dialectical behavior therapy:1
-cbt cognitive behavior therapy:1
+dbt  dialectical behavior therapy:1
+cbt  cognitive behavior therapy:1
 mindfulness:1
 and expressive therapies:1
-interpersonal skills empathetic:1
+interpersonal skills   empathetic:1
 compassionate:1
 creative and open minded:1
-expressive arts therapy dance movement:1
+expressive arts therapy  dance movement:1
 music:1
 drama:1
-dance creative movement:1
+dance   creative movement:1
 jazz and tap:1
-computer skills proficient in microsoft office suite word:1
+computer skills   proficient in microsoft office suite  word:1
 google docs and avator:1
 healthcare:1
 cobra:1
@@ -1105,7 +1110,7 @@ and dynamics ax programs:1
 proficient in scheduling:1
 and managing a manufacturing floor:1
 efficiently able to provide customer service:1
-management experience for up to people on manufacturing floor installation of underground utilities and piping:1
+management experience for up to    people on manufacturing floor installation of underground utilities and piping:1
 ability to install and operate electrical products such as meter centers and panels:1
 ability to favorably introduce change in the workplace environment:1
 pipe fitter:1
@@ -1148,12 +1153,12 @@ communication and verbal skills:1
 fast learner:1
 mac and pc word:1
 strong internet and research experience:1
-specialized training seminars tqm management lift truck certify safety awareness customer service training osha certification hazmat training trade and consumer show production management extensive sales and advertising seminars and training:1
+specialized training   seminars  tqm management  lift truck certify  safety awareness  customer service training  osha certification  hazmat training  trade and consumer show production   management  extensive sales and advertising seminars and training:1
 shipping and receiving:1
 safety oriented:1
 production scheduling:1
 results oriented:1
-fluent in language:1
+fluent in  language:1
 safety conscious:1
 customer service focused:1
 adaptable:1
@@ -1188,9 +1193,9 @@ catalog management:1
 lockheed martin procure to pay:1
 sandia oracle storefront:1
 strong leadership:1
-analytical problem solving:1
+analytical   problem solving:1
 adaptability:1
-teamwork communication:1
+teamwork   communication:1
 program management:1
 family and children s programs knowledge:1
 exemplary people management skills:1
@@ -1206,16 +1211,16 @@ office management:1
 scanning:1
 spss:1
 therapy:1
-jd edwards business intelligence argus microsoft word:1
-excel and powerpoint onbase sap as:1
+jd edwards  business intelligence  argus  microsoft word:1
+excel and powerpoint  onbase  sap  as:1
 general administrative:1
 experienced in handling escalated phone calls:1
 ability to operate multi line phone system:1
 front office knowledge general reception skills:1
-proficient in scheduling appointments collecting copays verifying insurance:1
+proficient in scheduling appointments  collecting copays  verifying insurance:1
 eligibility:1
 consent forms:1
-experience in epic emr system:1
+experience in epic  emr system:1
 proficient in patient focused care:1
 efficient and reliable team player:1
 core competencies:1
@@ -1261,23 +1266,23 @@ computer proficiency:1
 coordination:1
 customer needs assessment:1
 executive management support:1
-filing internet research scheduling spreadsheets:1
+filing   internet research  scheduling  spreadsheets:1
 letters and memos:1
 organizational skills and prioritization:1
 microsoft office products such as word:1
 and powerpoint:1
-can type words per minute:1
+can type    words per minute:1
 experience with face to face customer service interaction:1
 experience with communications with external clients via email and conference calling:1
 can create and maintain detailed records of any given project or task:1
-some experience with mailroom machines envelope cutters:1
-experience reading medical documents insurance forms:1
+some experience with mailroom machines  envelope cutters:1
+experience reading medical documents  insurance forms:1
 eobs:1
 procedure notes:1
 strong experience with medical coding icd:1
 hcpcs ii:1
 and medical terminology:1
-intermediate experience with icd coding:1
+intermediate experience with icd    coding:1
 ask:1
 computer networking:1
 diagnosis:1
@@ -1333,14 +1338,15 @@ answering phones:1
 good customer service:1
 translator:1
 microsoft dynamic ax:1
-public relations software mtr:1
+public relations software  mtr:1
 cisionpoint:1
 icontact:1
-desktop publishing software adobe indesign:1
+desktop publishing software  adobe indesign:1
 html wordpress:1
 nutritional counseling:1
 oral cancer screenings:1
 smoking cessation:1
+preventative care:1
 soft tissue management:1
 dentrix dental software:1
 digital radiographs:1

@@ -4,6 +4,7 @@ documentation:8
 leadership:7
 microsoft office:7
 clients:7
+meetings:6
 network:6
 quality:6
 customer service:6
@@ -12,12 +13,12 @@ windows:6
 xx:6
 c:6
 financial:5
-meetings:5
 office:5
 reporting:5
 powerpoint:5
 excel:5
 customer satisfaction:4
+marketing:4
 recruiting:4
 filing:4
 ms office:4
@@ -43,7 +44,6 @@ risk management:3
 strategic planning:3
 phone:3
 budget:3
-marketing:3
 staffing:3
 sql:3
 basic:3
@@ -135,15 +135,15 @@ composed and professional demeanor:2
 research and data analysis:2
 excellent problem solver:2
 close attention to detail:2
-office support phones:2
+office support  phones:2
 excellent verbal communication:2
-business management conversion:1
+business management:1
+conversion:1
 customer service experience:1
 direct sales:1
 direction:1
 focus:1
 languages:1
-marketing meetings:1
 works:1
 sales analysis:1
 administrative duties:1
@@ -154,18 +154,18 @@ coordination:1
 creative problem solving:1
 critical thinking:1
 customer needs assessment:1
-customer service data entry:1
+customer service  data entry:1
 executive management support:1
 grammar:1
 internet research:1
-letters and memos multi task management:1
-prioritization scheduling:1
+letters and memos    multi task management:1
+prioritization  scheduling:1
 service orientation:1
 telephone skills:1
-travel arrangements type wpm:1
+travel arrangements   type    wpm:1
 typing:1
-documentation auditor hospice assistant:1
-human resources assistant invoice processing order entry re pricing of claims:1
+documentation auditor   hospice assistant:1
+human resources assistant  invoice processing   order entry   re pricing of claims:1
 receptionist:1
 recruiting and trainer:1
 people skills:1
@@ -203,9 +203,9 @@ specification:1
 symantec:1
 diploma in computer applications nicet institute:1
 core java:1
-completed web designing ms office package course from aptech computers india:1
+completed web designing   ms office package course from aptech computers  india:1
 jira tool:1
-visio project:1
+visio   project:1
 seeking for pmp certification will get certified at the earliest:1
 business works:1
 cable:1
@@ -228,7 +228,7 @@ visio:1
 web designing:1
 workflow:1
 written:1
-windows mac os:1
+windows   mac os:1
 hrms oracle applications:1
 training attended:1
 year:1
@@ -260,7 +260,7 @@ digital photography:1
 file management:1
 property management:1
 real estate and tax research:1
-sales software sales force:1
+sales software  sales force:1
 social media:1
 proven written and oral communication skills:1
 proficient in managing business correspondence:1
@@ -270,7 +270,7 @@ ability to make travel and accommodation arrangements:1
 light bookkeeping knowledge:1
 general office procedural knowhow:1
 ability to work independently and as part of a team:1
-ability to type at least wpm:1
+ability to type at least    wpm:1
 excellent organizational skills:1
 expert in handling office equipment:1
 internet savvy with expertise in microsoft office:1
@@ -281,73 +281,73 @@ strong ability to use standard business software and applications:1
 demonstrated ability to remain self motivated at all times:1
 able to manage stress:1
 flexible in working hours:1
-routers cisco xx:1
-xx xx series asr k k series:1
-switches cisco:1
+routers  cisco   xx:1
+xx    xx series   asr  k    k series:1
+switches  cisco:1
 xx series:1
-nexus k:1
-load balancer cisco css:1
-f networks:1
-wan optimization cisco waas:1
-ppp multilink routing ospf:1
+nexus   k:1
+load balancer  cisco css:1
+f  networks:1
+wan optimization  cisco waas:1
+ppp multilink routing  ospf:1
 bgp:1
 pbr:1
 route filtering:1
-redistribution summarization:1
+redistribution  summarization:1
 static routing:1
-switching vlan:1
+switching  vlan:1
 vtp:1
 stp:1
 pvst:1
 rpvst:1
-inter vlan routing multi layer switching:1
+inter vlan routing  multi  layer switching:1
 multicast operations:1
-layer switches:1
+layer   switches:1
 ether channels:1
 transparent bridging:1
-lan ethernet:1
+lan  ethernet:1
 fast ethernet:1
 gigabit ethernet:1
 fddi:1
 cddi:1
 token ring:1
 atm lan emulation:1
-wan leased lines k mb ppp hdlc:1
-channelized links e t e t:1
+wan  leased lines   k      mb  ppp   hdlc:1
+channelized links  e  t  e  t:1
 fiber optic circuits:1
 frame relay:1
 isdn:1
 and load balancing:1
-various features services ios and features:1
+various features   services  ios and features:1
 hsrp:1
 glbp:1
 irdp:1
 nat:1
 snmp:1
-syslog ntp:1
+syslog  ntp:1
 cdp:1
 tftp and ftp management:1
-ip telephony ip telephony utilizing cisco routers:1
-fxo fxs e m t isdn pri:1
-call manager publisher subscriber aaa architecture tacacs:1
+ip telephony  ip telephony utilizing cisco routers:1
+fxo fxs e m t  isdn  pri:1
+call manager  publisher   subscriber  aaa architecture  tacacs:1
 radius:1
 cisco acs:1
-security firewalls cisco asa firewalls xx:1
-ipsec ssl vpns:1
+security   firewalls  cisco asa firewalls   xx:1
+ipsec   ssl vpns:1
 ips ids:1
 dmz setup:1
 cbac:1
 cisco nac:1
 acl:1
 ios firewall features:1
-ios setup security features:1
-juniper ex:1
+ios setup   security features:1
+juniper  ex:1
 mx:1
 m series:1
-srx srx:1
-vpn remote vpn site to site vpn:1
+srx     srx:1
+vpn  remote vpn   site to site vpn:1
 dmvpn:1
-wireless site assessment using airmagnet ekahua adaptors:1
+wireless site assessment using airmagnet   ekahua adaptors:1
 installation:1
 configuration and maintenance of palo alto firewalls:1
 telecommunication:1
@@ -361,13 +361,13 @@ personnel:1
 presentations:1
 re engineering:1
 spreadsheets:1
-training development delivery:1
+training development   delivery:1
 troubleshooting strong public speaker careful and active listener:1
 professional and friendly:1
 able to think outside the box:1
 configuration and managing vmware workstation server and creating virtual systems:1
-windows and windows:1
-working in microsoft office and:1
+windows  and windows:1
+working in microsoft office      and:1
 working in kingsoft office:1
 libre office:1
 working in thunderbird mail:1
@@ -376,11 +376,11 @@ local and external network monitoring:1
 computer hardware assembling:1
 dissembling:1
 configuration and maintenance of computers and troubleshooting of pc and printer s problem:1
-other software knowledge of erp:1
+other software  knowledge of erp:1
 time desk:1
 cctv:1
 ppc:1
-tally ess and chs etc:1
+tally  ess and chs etc:1
 active directory:1
 backup:1
 cisco certified:1
@@ -441,14 +441,14 @@ forecasting:1
 mod:1
 network support:1
 profit:1
-microsoft office word:1
+microsoft office  word:1
 pp:1
 vurv:1
 taleo:1
 banner:1
 brass peoplesoft:1
 hireexpress:1
-sap hris policy:1
+sap   hris policy:1
 and fmp:1
 a level:1
 arts:1
@@ -480,20 +480,20 @@ vpn:1
 vc:1
 xerox machine:1
 technical profile:1
-programming languages c:1
-scripting languages javascript:1
+programming languages  c:1
+scripting languages  javascript:1
 windows powershell:1
-mark up language html:1
-automation tool selenium ide web driver:1
+mark up language  html:1
+automation tool  selenium ide   web driver:1
 googleuiautomator:1
-bug tracking tools jira:1
+bug tracking tools  jira:1
 buganizer:1
-office suite microsoft office:1
+office suite  microsoft office:1
 open office:1
-database my sql and sql server:1
-operating system windows:1
+database  my sql and sql server:1
+operating system  windows:1
 linux and os x:1
-mobile operating system ios:1
+mobile operating system  ios:1
 testing:1
 cases:1
 test cases:1
@@ -609,13 +609,13 @@ understands anesthesia coding:1
 resourceful and reliable worker:1
 medical terminology expert:1
 billing and collection procedures expert:1
-faxing filing:1
+faxing   filing:1
 adept m:1
 ulti tasker:1
 faxing:1
 fast learner:1
 records management professional:1
-icd international classification of disease systems:1
+icd     international classification of disease systems:1
 familiar with commercial and private insurance carrier:1
 office management professional:1
 benefits:1

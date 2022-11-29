@@ -72,7 +72,6 @@ council:4
 staff development:4
 access:4
 budgets:4
-multi tasking:4
 recruiting:4
 first aid:4
 supervising:4
@@ -120,6 +119,7 @@ editing:3
 market:3
 read:3
 website:3
+multi tasking:3
 counseling:3
 budgeting:3
 databases:3
@@ -148,7 +148,7 @@ progress monitoring:2
 evernote:2
 slack:2
 social media:2
-management staff:2
+management  staff:2
 projects:2
 daily scheduling:2
 financial analysis:2
@@ -231,7 +231,7 @@ interpersonal skills:2
 accounts receivable:2
 effectively work with parents:2
 strong interpersonal skills:2
-microsoft office word:2
+microsoft office  word:2
 accounts payable:2
 operations:2
 data entry:2
@@ -286,15 +286,15 @@ computer proficient:1
 issue resolution:1
 excellent written and verbal communication skillsexperience in a high volume:1
 high stress work environment:1
-productivefluent in english and twi:1
+productivefluent in english and  twi:1
 energetic and organized:1
-sales software salesforce com:1
+sales software  salesforce com:1
 service now ticketing system:1
-desktop publishing software photoshop:1
+desktop publishing software  photoshop:1
 answer phones:1
 excellent written:1
 e:1
-ducator people skills:1
+ducator  people skills:1
 enthusiasti:1
 problem solve:1
 r:1
@@ -303,7 +303,7 @@ eager to learn:1
 communicates great with colleagues and parents:1
 sets high and clear expectations for students:1
 eager to teach:1
-loves to teach students how to love to learn:1
+loves to teach students how to  love to learn:1
 always looking for ways to grow as a person and educator:1
 clerical:1
 class:1
@@ -367,20 +367,20 @@ marketing experience:1
 people person:1
 corporate trainer:1
 member ge capital president s council:1
-quality control and customer service management motivational strategist:1
+quality control and customer service management  motivational strategist:1
 cpr certified:1
 orgnization skills:1
 teaching skills:1
 filing and data archiving:1
 employee training and development:1
-microsoft office excel:1
+microsoft office  excel:1
 multi line phone proficiency:1
 advanced clerical knowledge:1
 social media knowledge:1
 teaching tutoring:1
 organizational development:1
-microsoft windows xp professional word:1
-learning google chrome applications:1
+microsoft windows xp professional  word:1
+learning google chrome   applications:1
 in k:1
 inspiration:1
 microsoft windows xp professional:1
@@ -433,6 +433,7 @@ microsoft office suite:1
 non profit management:1
 financial reports:1
 lesson plan:1
+multi  tasking:1
 internet research:1
 philosophy:1
 family servicing:1
@@ -490,7 +491,7 @@ industrial:1
 jefe de laboratorio:1
 acta:1
 bpm:1
-bpm business process management:1
+bpm  business process management:1
 carne de cerdo:1
 carne porcina:1
 control de calidad:1
@@ -589,7 +590,7 @@ lotus:1
 mediation:1
 netscape navigator:1
 peachtree:1
-peachtree accounting software:1
+peachtree  accounting software:1
 sap:1
 good team member:1
 childcare:1
@@ -597,9 +598,9 @@ ms office proficient:1
 multilingual in:1
 and:1
 bilingual in:1
-art designer children project:1
-children music finger play flyers:1
-webs ex facebook:1
+art designer   children project:1
+children music finger play  flyers:1
+webs ex  facebook:1
 loves children:1
 adept at working with special needs children:1
 energetic caregiver:1
@@ -635,7 +636,7 @@ differentiated insdtruction:1
 co teaching experience in kindergarten:1
 experienced with smart board:1
 proficient in ms word:1
-co teach with lbs inclusion and ell students differentiated instruction:1
+co teach with lbs  inclusion and ell students  differentiated instruction:1
 excellent student and parent relations:1
 character development:1
 smart board:1
@@ -645,10 +646,10 @@ standardized testing:1
 learner assessment:1
 technology based instruction:1
 problem resolution:1
-communication presentation:1
+communication   presentation:1
 interpersonal relationships:1
-compliance policies procedures:1
-ms office word:1
+compliance   policies   procedures:1
+ms office   word:1
 computer literate:1
 drivers:1
 natural:1
@@ -707,7 +708,7 @@ motivating:1
 workshops seminars:1
 bilingual speaking and reading fluently in english and spanish:1
 demonstrate your ability to work well with a team:1
-handles details coordinates and completes tasks plans and arranges activities multi tasks writes clearly and concisely listens attentively openly expresses ideas provides and asks for feedback:1
+handles details  coordinates and completes tasks plans and arranges activities  multi tasks writes clearly and concisely  listens attentively  openly expresses ideas provides and asks for feedback:1
 and cooperates and works well with others:1
 games:1
 health and wellness:1
@@ -732,13 +733,13 @@ flexible:1
 microsoft office applications:1
 telephone etiquette:1
 answering phones:1
-typing wpm:1
+typing    wpm:1
 i have a lot patience:1
 i communicate really well with children:1
 i can usually calm a stressful situation quickly:1
 video conferencing:1
 smartboard technology:1
-proficient in google classroom aries:1
+proficient in google classroom   aries:1
 activity planning:1
 proctoring:1
 quizzes:1
@@ -766,7 +767,7 @@ grading procedures:1
 punctual:1
 inquiry based learning:1
 test proctoring:1
-staff training:1
+staff  training:1
 teambuilding:1
 work ethic:1
 multitasking:1
@@ -790,11 +791,11 @@ fluent in french and english:1
 planning and coordination:1
 customer relations:1
 turkish:1
-classroom management creation of forms for data payroll schedule activities and field trips maintain tuition data and receipts knowledge of excel word power point work within a budget snack meal planning:1
+classroom management          creation of forms for data payroll          schedule activities and field trips maintain tuition data and receipts      knowledge of excel word power point work within a budget          snack meal planning:1
 prepare meals:1
 pr:1
 create forms:1
-conducted peer council with youth assigned books based on reading level supported students with special needs engaged student with positive language instructed personalized lesson plans critiqued student project rather than correcting it addressed challenging student behavior developed strong problem solving skills:1
+conducted peer council with youth     assigned books based on reading level  supported students with special needs    engaged student with positive language  instructed personalized lesson plans    critiqued student project rather than correcting it   addressed challenging student behavior     developed strong problem solving skills:1
 financial reporting:1
 spreadsheets:1
 kind and empathetic:1
@@ -803,7 +804,7 @@ positive and encouraging:1
 standardized testing scoring:1
 dibels knowledge:1
 strong background in mathematics:1
-and powerpoint advanced knowledge and skills in using media tools for teaching purposes such as prezi presentations:1
+and powerpoint    advanced knowledge and skills in using media tools for teaching purposes such as prezi presentations:1
 youtube video creation:1
 wiki pages:1
 and popplet:1
@@ -893,17 +894,17 @@ excel spreadsheet preparation and maintenance:1
 academic planning:1
 administrative skills:1
 case management:1
-clerical documentation and shorthand:1
-research lesson planning:1
+clerical   documentation and shorthand:1
+research   lesson planning:1
 newsletter development:1
 coding and filing:1
-effective efficient dedicated positive:1
+effective   efficient  dedicated  positive:1
 computer literate and valid texas driver s license insurance:1
 great communication and note taking skills:1
-content development management:1
+content development   management:1
 content creation:1
 dimensions:1
-event planning coordination:1
+event planning   coordination:1
 logic:1
 proposal:1
 maintain files:1
@@ -915,9 +916,9 @@ inspect:1
 laundry:1
 transport materials:1
 meal prep:1
-operating systems windows xp:1
+operating systems  windows   xp:1
 android:1
-and ms dos software autodesk civil d:1
+and ms dos  software  autodesk civil  d:1
 autodesk autocad:1
 autodesk inventor professional:1
 pro e:1
@@ -935,7 +936,7 @@ elite hvac:1
 trace:1
 carrier:1
 nc programming:1
-adobe acrobat:1
+adobe  acrobat:1
 and photoshop:1
 firefox:1
 and html:1

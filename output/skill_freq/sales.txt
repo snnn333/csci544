@@ -59,7 +59,6 @@ critical thinking:7
 tables:7
 cashier:7
 supervision:6
-cold calling:6
 mail:6
 benefits:6
 communication skills:6
@@ -76,7 +75,6 @@ attention to detail:5
 inspection:5
 accounting:5
 hiring:5
-team leadership:5
 organized:5
 expense reports:5
 scanners:5
@@ -92,6 +90,7 @@ progress:5
 fast learner:5
 english:5
 negotiation:5
+cold calling:5
 financial:5
 forms:5
 managing:5
@@ -114,7 +113,6 @@ of sales:4
 customer service experience:4
 leadership skills:4
 self motivated:4
-interpersonal communication:4
 repairs:4
 features:4
 account management:4
@@ -123,6 +121,7 @@ coaching:4
 fashion:4
 rapport:4
 c:4
+team leadership:4
 clerical:4
 focus:4
 insurance:4
@@ -173,6 +172,7 @@ real estate:3
 first aid:3
 performance management:3
 personable:3
+interpersonal communication:3
 pick:3
 spanish:3
 clientele:3
@@ -180,7 +180,7 @@ problem solving skills:3
 coach:3
 brochures:3
 access:3
-desktop publishing software photoshop:3
+desktop publishing software  photoshop:3
 illustrator:3
 html:3
 issue receipts:3
@@ -295,9 +295,9 @@ adobe:2
 letters:2
 professional and friendly:2
 careful and active listener:2
-sales software salesforce com:2
+sales software  salesforce com:2
 tapscan:2
-public relations software bacon s mediasource:2
+public relations software  bacon s mediasource:2
 factiva:2
 sales reports:2
 calculators:2
@@ -327,7 +327,6 @@ machinery:2
 award:2
 maintenance:2
 icd:2
-icd coding:2
 microsoft outlook:2
 training and development:2
 administrative:2
@@ -346,7 +345,7 @@ multi tasking strength:2
 cash register operation:2
 cash handling accuracy:2
 retail merchandising expertise:2
-cash handling accuracy strong communication skills organized superb sales professional time management flexible schedule detail oriented excellent multi tasker:2
+cash handling accuracy          strong communication skills           organized          superb sales professional           time management          flexible schedule           detail oriented          excellent multi tasker:2
 business administration:2
 psychology:2
 operations management:2
@@ -370,6 +369,7 @@ supervisory:1
 motivated:1
 success driven:1
 adp:1
+cold           calling:1
 managerial excel:1
 month end close:1
 labor relations:1
@@ -377,14 +377,14 @@ strategic planning:1
 laparasopic procedures familiarity:1
 medication administration expert:1
 vascular care understanding:1
-advanced cardiac life support acls certification:1
+advanced cardiac life support  acls  certification:1
 computerized charting specialist:1
 enthusiastic caregiver:1
 iv drug therapy management:1
 specimen collection processing proficiency:1
 sterilization techniques mastery:1
 or and er experience:1
-started out hand charting but now at north computer charting on cerner i run the tmr laser in the heart rooms operate the cryo and ablation machine i operate the veri q machine measuring blood flow the the arteries operate the laparoscopic equipment in the heart and general side of the or start iv s on patients give antibiotics run fluids thru iv pumps i know how to prep a pt for surgery making sure the saftey of the pt before during and after surgery i have done moderate sedation of pts call the family during surgery make sure chart is correct and everything is signed before surgery making sure any blood products are needed:1
+started out hand charting but now at north computer charting on cerner i run the tmr laser in the heart rooms operate the cryo and ablation machine i operate the veri q machine measuring blood flow the the arteries operate the laparoscopic equipment in the heart and general side of the or start iv s on patients give antibiotics run fluids thru iv pumps  i know how to prep a pt for surgery making sure the saftey of the pt before during and after surgery  i have done moderate sedation of pts call the family during surgery make sure chart is correct and everything is signed before surgery  making sure any blood products are needed:1
 cash management:1
 computer literate customer service:1
 direct to vendor buying ordering:1
@@ -392,9 +392,10 @@ internet sales:1
 multi unit management:1
 negotiating closing:1
 on boarding:1
-p l management:1
-sales coaching and training:1
-store relocation and remodeling:1
+p l        management:1
+sales        coaching and training:1
+store        relocation and remodeling:1
+team        leadership:1
 business intelligence:1
 business process:1
 business solution:1
@@ -423,10 +424,10 @@ composed:1
 crisis communication:1
 superior verbal and written communication skills:1
 computer savvy:1
-customer service bilingual spanish english:1
+customer service  bilingual  spanish   english:1
 financial management:1
 basic computer knowledge:1
-ms office suite word:1
+ms office suite  word:1
 sharepoint:1
 visio:1
 lms:1
@@ -443,14 +444,14 @@ vertical response:1
 dreamweaver:1
 teamsite cms:1
 citrix:1
-social media linkedin:1
+social media  linkedin:1
 and twitter:1
 strong problem solving and team building skills:1
 computer proficient affinity for concise but thorough record keeping:1
 internet and social media saavy:1
 goal oriented with counter business model ready for creative staffing and event idea execution:1
-good interpersonal awareness open to persuasive communication and coaching:1
-awareness of client needs interests as well as upper ideas for development and management goals:1
+good interpersonal awareness  open to persuasive communication  and coaching:1
+awareness of client needs interests as well as upper ideas for development  and management goals:1
 event management and promotion:1
 leader:1
 strong negotiation skills:1
@@ -459,7 +460,7 @@ learns new job assignments quickly:1
 years of warehouse:1
 manufacturing:1
 distribution:1
-and years of sales experience:1
+and    years of sales experience:1
 literate:1
 ms excel microsoft word:1
 bookkeeping:1
@@ -487,7 +488,7 @@ microsoft windows:1
 office xp:1
 public relations:1
 sales marketing:1
-excellent people skills corporate buyer background for major automotive established track record of exceptional sales results group recipient of numerous sales awards staff training and development effective retail sales manager establishing goals and setting priorities decisive leader consistent work history powerful negotiator customer service experience compelling leadership skills flexible work schedule exceptional time management skills exceptional multi tasker strong public speaker:1
+excellent people skills          corporate buyer background for major automotive established track record of exceptional sales results       group recipient of numerous sales awards          staff training and development effective retail sales manager          establishing goals and setting priorities decisive leader          consistent work history powerful negotiator          customer service experience compelling leadership skills          flexible work schedule exceptional time management skills exceptional multi  tasker strong public speaker:1
 army:1
 automotive:1
 staff training:1
@@ -502,7 +503,7 @@ outstanding people skills:1
 insightful:1
 innovative:1
 assertive:1
-leadership result oriented and goals achiever:1
+leadership  result oriented and goals achiever:1
 efficient under pressure:1
 proficient phone skills:1
 counselor:1
@@ -541,6 +542,7 @@ calendaring:1
 travel arrangements:1
 blueprints:1
 read blueprints:1
+interpersonal   communication:1
 layout:1
 new construction:1
 plumber:1
@@ -551,11 +553,11 @@ technical assistance:1
 business plan:1
 report writing and documentation:1
 strong sales experience:1
-highly effective leader in extreme situations as well as normal conditions posses the ability to place the correct personnel with the appropriate skills on a project:1
+highly effective leader in extreme situations as well as normal conditions  posses the ability to place the correct personnel with the appropriate skills on a project:1
 posses the interpersonal skills required to solve conflict within members of the organization:1
-posses years of multi unit operations experience with personnel in various circumstances:1
-s k cis billing:1
-accounts payable caps:1
+posses    years of multi unit operations experience with personnel in various circumstances:1
+s k  cis billing:1
+accounts payable  caps:1
 microsoft dynamics crm:1
 gsa lite:1
 acrobat pro:1
@@ -570,11 +572,11 @@ ability to clarify the nature of a problem:1
 evaluate alternatives:1
 propose viable solutions and determine the outcome of the various options:1
 detail oriented and able to present information and ideas clearly and concisely:1
-able to review different points of view or ideas and make objective judgments investigates all possible solutions to the problem:1
+able to review different points of view or ideas and make objective judgments  investigates all possible solutions to the problem:1
 able to draw specific conclusions from a set of general observations or a set of specific facts:1
 able to synthesize ideas and information:1
 maximized efficiency and team productivity through the development of collaborative quality initiatives:1
-continually evaluated the organizations skills and work performance to identify and implement improvements:1
+continually evaluated the organizations  skills and work performance to identify and implement improvements:1
 results oriented:1
 customer focused:1
 respected team builder who drives quality and productivity initiatives:1
@@ -590,12 +592,12 @@ mange development of specifications to create and execute detailed test plans:1
 and verify bug fixes:1
 analyzed application:1
 system:1
-and security errors escalated issues to developers and verified fixes:1
+and security errors  escalated issues to developers and verified fixes:1
 strong analytical:1
 time management and problem solving skills:1
 leadership development:1
 process improvement:1
-project management sales:1
+project management  sales:1
 sales development:1
 telecommunication:1
 mircosoft office including visio:1
@@ -603,7 +605,7 @@ customer orientated:1
 dependable and reliable:1
 internet savvy:1
 customer assistance:1
-and mindbody software excellent telephone tiquette extremely organized with good time management skills works well under pressure:1
+and mindbody software  excellent telephone  tiquette  extremely organized with good time management skills  works well under pressure:1
 patient care:1
 goal setting and implementation:1
 teamwork skills:1
@@ -630,23 +632,23 @@ isac:1
 dnet:1
 birchstreet:1
 bridge mgs application and reports:1
-bilingual bangla english:1
+bilingual  bangla   english:1
 staff mentoring and development:1
 motivated and self driven business acumen:1
 strong customer service experience:1
 exceeds performance and sales quotas:1
 held leadership roles within university community organizations:1
 advanced mathematical aptitude:1
-knowledgeable with computers and other technical skills windows mac:1
+knowledgeable with computers and other technical skills  windows mac:1
 pallet jack:1
 presentation skills:1
 can use photoshop and illustrator:1
 i can use a computer very well:1
-excellent quantitative skills advanced ms office suite knowledge:1
+excellent quantitative skills          advanced ms office suite knowledge:1
 strong knowledge of r:1
-excel advanced excel modeling:1
-excellent research skills business systems analysis:1
-knowledge of statistical analysis and superb communication skills:1
+excel          advanced excel modeling:1
+excellent research skills          business systems analysis:1
+knowledge of statistical analysis and          superb communication skills:1
 algorithm development business domain:1
 statistics and interpretation:1
 mining:1
@@ -665,12 +667,12 @@ statistical analysis:1
 statistics:1
 strong work values:1
 dependability:1
-adobe years:1
-microsoft office years:1
-adobe cloud years:1
-photoshop years:1
-data entry years:1
-merchandising years:1
+adobe    years:1
+microsoft office    years:1
+adobe cloud    years:1
+photoshop    years:1
+data entry    years:1
+merchandising    years:1
 planning coordinating:1
 designing:1
 fax machine:1
@@ -689,14 +691,14 @@ prepare invoices:1
 recording:1
 sales plan:1
 surgeon:1
-experience of years in the field of designing as an illustrator:1
+experience of   years in the field of designing as an illustrator:1
 proven ability to design layouts:1
 logos and web sites:1
 profound ability to plan:1
 organize and manage the projects:1
 sound knowledge of the advance technologies and designing techniques:1
 exceptionally good communication skills:1
-i have has some extended classes in interviewing and hiring of staff as well as goal setting and the follow through with staff as well as with the store over years of experience with not only the building of a schedule but also the maintaining of one:1
+i have has some extended classes in interviewing and hiring of staff as well as goal setting and the follow through with staff as well as with the store   over    years of experience with not only the building of a schedule but also the maintaining of one:1
 i am very good with encouraging the staff to set high expectations for themselves as well as helping them to achieve the goals:1
 i also took a couple of seminars on problem solving in the work place which extended from staffing:1
 schedules:1
@@ -709,7 +711,7 @@ good at communicating and interacting with customers:1
 good time management:1
 self motivation:1
 good adaptability:1
-sales software ubersmith:1
+sales software  ubersmith:1
 achieving results:1
 building relationships:1
 dependable independent worker:1
@@ -717,7 +719,7 @@ customer service skills:1
 good at following instructions:1
 solid communication skills:1
 strong work ethic:1
-jack of all trades can perform all typesof handiwork and any task necessary:1
+jack of all trades  can perform all typesof handiwork and any task necessary:1
 advertisements:1
 market and sales:1
 researching:1
@@ -727,7 +729,7 @@ proficiency in microsoft office suite:1
 adobe creative suite:1
 ronlynn apparel software:1
 both mac and pc platforms:1
-social media including pinterest:1
+social media  including pinterest:1
 instagram:1
 and snapchat:1
 leadership qualities:1
@@ -785,7 +787,7 @@ and goldmine crm:1
 allscripts software:1
 practice fusion software:1
 appointment setting:1
-closing and client retention database management:1
+closing and client retention   database management:1
 direct mail:1
 reporting and training and support:1
 cables:1
@@ -870,6 +872,8 @@ basis:1
 customer inquiries:1
 claims:1
 cpt:1
+icd  coding:1
+icd   coding:1
 multi line phone system:1
 phone system:1
 call center representative:1
@@ -920,12 +924,12 @@ land pride implements:1
 bad boy zero turns:1
 mtd products:1
 hustler zero turns:1
-stihl and echo products parts service and warranty for each brand whether oem or aftermarket applications tisco:1
+stihl and echo products parts   service and warranty for each brand whether oem or aftermarket applications  tisco:1
 a i products:1
 becknell wholesale:1
-created long lasting relationships with customers needing help with their equipment communicated with customers to assist them with their parts purchasing:1
+created long lasting relationships with customers needing help with their equipment  communicated with customers to assist them with their parts purchasing:1
 troubleshooting when needed by contacting manufactures explaining the customers failure or questions for a quick resolution:1
-handled cash of large amounts with no discrepancies prepared deposits and took them to the bank when ever needed:1
+handled cash of large amounts with no discrepancies  prepared deposits and took them to the bank when ever needed:1
 hunter farmer sales strategies:1
 pos system operation:1
 current trend knowledge:1
@@ -937,7 +941,7 @@ minor vetranary and pandora jewlery product knowledge:1
 dispute mediation:1
 market research and analysis:1
 product sales:1
-vendor relations project management ooh color correction specialization team building training innovation print production schedules creative team collaboration process optimization consulting negotiation maximization strategic analysis planning graphic design ad traffic soft proofing digital files proofreading editing quality control building templates strategic planning implementation cost reduction avoidance turnaround crisis management digital photo retouching microsoft office suite adobe creative suite quarkxpress adtransit adsend pre press:1
+vendor relations        project management ooh            color correction specialization          team building   training   innovation print production  schedules      creative team collaboration     process optimization      consulting   negotiation   maximization strategic analysis   planning     graphic design   ad traffic  soft proofing   digital files     proofreading   editing   quality control building templates         strategic planning   implementation       cost reduction   avoidance   turnaround   crisis management digital photo retouching          microsoft office suite   adobe creative suite   quarkxpress          adtransit    adsend    pre press:1
 change management:1
 reports generation and analysis:1
 time management skills:1
@@ -961,7 +965,7 @@ extremely organized:1
 active team player:1
 career overview:1
 i am a dedicated customer service representative motivated to maintain customer satisfaction and contribute to company success:1
-results driven customer services representative with proved ability to establish rapport with clients highly enthusiastic customer service representative with year s client interface experience:1
+results driven customer services representative with proved ability to establish rapport with clients  highly enthusiastic customer service representative with    year s client interface experience:1
 the best parts of the jobs i have worked is the amazing feeling of closing a big sale and making the customer feel comfortable and confident:1
 core strengths:1
 top sales performer:1
@@ -985,7 +989,7 @@ interpersonal skills:1
 upselling techniques:1
 pos systems knowledge:1
 advertising sales:1
-visual displays:1
+visual  displays:1
 verbal written communication:1
 outgoing personality:1
 time management ability:1
@@ -1041,8 +1045,8 @@ client management:1
 management:1
 marketing communications:1
 customer testimonial:1
-melinda gibson vp with in touch ministries stated karen became a trusted vendor to me i could consistently trust her for quality products:1
-while keeping to my timeline and budget she truly went the extra mile for me each time we worked together april:1
+melinda gibson vp with in touch ministries stated     karen became a trusted vendor to me   i could consistently trust her for quality products:1
+while keeping to my timeline and budget she truly went the extra mile for me each time we worked together   april:1
 others upon request:1
 experienced in filemaker:1
 managing major accounts:1
@@ -1060,7 +1064,7 @@ extensive customer services and caregiver knowledge:1
 neat and well organized:1
 volunteer work:1
 personal care worker and supportive home care:1
-job duties give assistance to people who are sick:1
+job duties  give assistance to people who are sick:1
 injured:1
 mentally or physically disabled:1
 or the elderly and fragile:1
@@ -1086,7 +1090,7 @@ catalog:1
 commodities:1
 special events:1
 extensive experience of planning:1
-design client liaison:1
+design   client liaison:1
 experience of interpreting specifications and preparing technical proposals:1
 ability to multi task in a demanding engineering environment:1
 a strong track record in delivering projects on time and within budget:1
@@ -1108,14 +1112,14 @@ great telephone and computer communication skills:1
 agency:1
 cycle counting:1
 teaching:1
-work well as a team member or independently performed sales:1
+work well as a team member or independently  performed sales:1
 and market trends research:1
 identified and tested markets:1
 set up prospect database:1
 developed marketing campaign:1
-and handled follow up rapidly mastered new product data performed outstanding customer relationship management:1
+and handled follow up  rapidly mastered new product data  performed outstanding customer relationship management:1
 ensuring educated clients:1
 customized products and services and creative:1
-turnkey solutions mediation and problem solving skills issued return authorizations and processed credits and rebills to resolve shipping discrepancies and invoicing errors conducted personalized tours for new employees as part of the orientation program promptly answered telephone calls to reflect professional corporate image verified quote system data with customer orders to ensure accurate processing researched and created vendor records to insure compliance developed a thorough understanding of operating cash registers:1
+turnkey solutions  mediation and problem solving skills  issued return authorizations and processed credits and rebills to resolve shipping discrepancies and invoicing errors  conducted personalized tours for new employees as part of the orientation program  promptly answered telephone calls to reflect professional corporate image  verified quote system data with customer orders to ensure accurate processing  researched and created vendor records to insure compliance  developed a thorough understanding of operating cash registers:1
 automatic ticket issue machines:1
-and other computerized equipment within the store provided a high level of customer service and client relations based on outstanding communication and interpersonal skills:1
+and other computerized equipment within the store  provided a high level of customer service and client relations based on outstanding communication and interpersonal skills:1

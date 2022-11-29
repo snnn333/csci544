@@ -1,10 +1,10 @@
 accounting:65
 excel:53
 financial:52
-financial statements:51
-accounts payable:43
+financial statements:50
 general ledger:43
 quickbooks:43
+accounts payable:42
 payroll:42
 sales:42
 reporting:39
@@ -29,19 +29,19 @@ sap:27
 clients:27
 fixed assets:27
 microsoft office:26
-financial reports:24
 access:23
 accountant:23
+financial reports:23
 financial reporting:22
 customer service:21
 bank reconciliations:21
 peoplesoft:20
 reconciling:20
 ar:19
-cash flow:19
 year end:19
 research:18
 budgets:18
+cash flow:18
 filing:18
 insurance:17
 budgeting:17
@@ -55,13 +55,11 @@ tax returns:16
 ap:16
 peachtree:16
 account reconciliations:16
-bank reconciliation:15
 sage:15
 taxes:15
 managing:15
 accounting system:14
 auditing:14
-cash management:14
 coding:14
 forecasting:14
 bookkeeping:14
@@ -69,6 +67,8 @@ microsoft word:13
 account reconciliation:13
 invoicing:13
 banking:13
+bank reconciliation:13
+cash management:13
 database:13
 written:13
 government:13
@@ -83,8 +83,6 @@ benefits:11
 materials:11
 progress:11
 grants:10
-financial accounting:10
-financial management:10
 spreadsheets:10
 pivot tables:10
 hyperion:10
@@ -98,6 +96,7 @@ senior management:9
 oracle:9
 pricing:9
 general ledger accounting:9
+financial accounting:9
 mas:9
 legal:9
 controller:9
@@ -106,6 +105,7 @@ budget analysis:9
 sarbanes oxley:8
 ms office:8
 accounts receivables:8
+financial management:8
 general accounting:8
 accounting systems:8
 as:8
@@ -146,7 +146,6 @@ certified public accountant:6
 marketing:6
 microsoft access:6
 tables:6
-cost accounting:6
 english:6
 ms excel:6
 payroll processing:6
@@ -168,6 +167,7 @@ profit:5
 accounts payables:5
 quality:5
 requirement:5
+cost accounting:5
 logistics:5
 project management:5
 business management:5
@@ -193,7 +193,6 @@ operating systems:4
 view:4
 hipaa compliance:4
 budget preparation:4
-preparation of financial statements:4
 mis:4
 excel spreadsheets:4
 business development:4
@@ -246,7 +245,7 @@ quick books:4
 financial controls:3
 financial operations:3
 training materials:3
-claim entry payment posting:3
+claim entry   payment posting:3
 cpt hcpcs coding:3
 medical terminology:3
 leadership skills:3
@@ -284,6 +283,7 @@ valuation:3
 arabic:3
 market:3
 organizational:3
+preparation of financial statements:3
 negotiations:3
 fax:3
 phones:3
@@ -383,7 +383,6 @@ public accounting:2
 express:2
 corporate finance:2
 microsoft outlook:2
-operations management:2
 instructor:2
 training material:2
 upgrade:2
@@ -416,13 +415,12 @@ proficient in polish language:2
 superior analytical skills:2
 general ledger proficiency:2
 budget forecasting expertise:2
-advanced computer proficiency pc and mac:2
+advanced computer proficiency  pc and mac:2
 fund accounting:2
 managerial:2
 publisher:2
 repairs:2
 draw:2
-windows xp:2
 cognos:2
 financial modeling:2
 strategic planning:2
@@ -454,12 +452,12 @@ cost reporting:2
 crystal reports:2
 bloomberg:2
 fixed asset register:2
-erp enterprise resource planning software:2
+erp  enterprise resource planning  software:2
 usgaap principles:2
 oracle proficiency:2
 hyperion financial management specialist:2
 experience with regulatory filings:2
-ffiec call reports:2
+ffiec           call reports:2
 fry c filings:2
 fiscal budgeting:2
 strong in ms word and excel accounting procedures consultant invoice and payment transactions:2
@@ -480,7 +478,6 @@ communications skills:2
 book keeping:2
 page:2
 post operative care:2
-type wpm:2
 ris:2
 symposium:2
 ms power point:2
@@ -491,19 +488,20 @@ workbench:2
 quickbooks expert:2
 monthly bank reconciliations:2
 revenue recognition:2
-financial analysis reporting:2
+financial analysis   reporting:2
 notes:2
 special events:2
+financial  management:2
 preparing financial statements:2
 financial and accounting:2
-years of experience in accounting bookkeeping services:1
+years of experience in accounting   bookkeeping services:1
 bank reconciliations and general ledger expertise:1
 responsible:1
-concise detail oriented:1
+concise   detail oriented:1
 outlook expertise:1
 banner finance:1
 xtender:1
-asset keeper pro quickbooks software proficiency:1
+asset keeper pro   quickbooks software proficiency:1
 accounting and bookkeeping:1
 tax return filing:1
 gaap understanding:1
@@ -523,19 +521,21 @@ works great with others:1
 continuous initiative for process improvement:1
 knowledge of hmos:1
 medicare and medi cal:1
-online claim submission electronic medical record emr software:1
+online claim submission   electronic medical record  emr  software:1
 gff:1
+financial  accounting:1
 d:1
 adobe illustrator:1
 adobe photoshop:1
 pagemaker:1
 audio editing:1
 dos:1
+preparation of  financial statements:1
 macro media director:1
 k:1
-windows x:1
-oracle i:1
-video editing:1
+windows   x:1
+oracle  i:1
+video  editing:1
 meticulous attention to detail:1
 self directed:1
 professional and mature:1
@@ -543,10 +543,13 @@ strong problem solver:1
 dedicated team player:1
 understands grammar:1
 automate:1
+bank     reconciliation:1
 business consulting:1
+cash    management:1
 cl:1
 train employees:1
 employee training:1
+financial    reports:1
 ibm:1
 pc s:1
 sales reporting:1
@@ -562,7 +565,7 @@ financial and management:1
 local government:1
 programmer:1
 statutory accounts:1
-accounting general accounting accounts payable program management:1
+accounting  general accounting  accounts payable  program management:1
 sap financial accounting module:1
 sap fi co module:1
 sap asset management module:1
@@ -574,7 +577,7 @@ cognos upfront:1
 cognos powerplay:1
 sam:1
 ceta:1
-mas best fas:1
+mas   best fas:1
 platinum:1
 sbt:1
 libra:1
@@ -633,11 +636,11 @@ customer accounts:1
 with accounts:1
 with sales:1
 accounts receivable professional:1
-sales software salesforce com:1
+sales software  salesforce com:1
 tapscan:1
-public relations software bacon s mediasource:1
+public relations software  bacon s mediasource:1
 factiva:1
-desktop publishing software photoshop:1
+desktop publishing software  photoshop:1
 illustrator:1
 html:1
 management skills:1
@@ -646,11 +649,11 @@ pdf:1
 presentation skills:1
 prepare tax:1
 language and writing skills:1
-bilingual spanish fluent speak:1
+bilingual spanish  fluent  speak:1
 and write:1
 computer skills:1
 microsoft office including:1
-publisher quickbooks:1
+publisher  quickbooks:1
 tax software:1
 business skills:1
 thoroughness:1
@@ -677,9 +680,11 @@ speaking:1
 adp payroll:1
 audit reports:1
 business plan development:1
-netsuite quickbooks cognos impromptu jdedwards as sage fas fixed assets bna fixed assets businessobjects crystal reports currently sap crystal reports hyperion essbase:1
+netsuite  quickbooks  cognos impromptu  jdedwards  as     sage fas fixed assets  bna fixed assets  businessobjects crystal reports currently sap crystal reports   hyperion essbase:1
+accounts  payable:1
 business communication:1
 business law:1
+cost  accounting:1
 economics:1
 forex:1
 intellectual property:1
@@ -698,6 +703,7 @@ analyze financial statements:1
 profit and loss account:1
 swedish:1
 image:1
+operations   management:1
 sage fas:1
 change management:1
 client relations:1
@@ -720,50 +726,51 @@ business analyst:1
 critical thinking:1
 ms office suites:1
 securities:1
-and intuit proseries well rounded on the applications and functions:1
-microsoft suite word advanced:1
-excel formulas:1
+and intuit proseries  well rounded on the applications and functions:1
+microsoft suite  word  advanced:1
+excel  formulas:1
 vlookups:1
-and data analysis management:1
-access intermediate:1
-outlook advanced:1
+and data analysis   management:1
+access  intermediate:1
+outlook  advanced:1
 power pivot:1
-and powerpoint intermediate:1
+and powerpoint  intermediate:1
 calbench:1
-fasb gaap standards accounting standards codification:1
-and sarbanes oxley sox sections generally accepted auditing standards gaas sas no:1
+fasb   gaap standards  accounting standards codification:1
+and sarbanes oxley  sox sections    generally accepted auditing standards  gaas sas no:1
 administrative duties:1
 copying documents:1
 cost accounting i:1
-data analysis management:1
+data analysis   management:1
 sorting mail:1
 sas:1
 tax research:1
 microsoft office excel:1
 outlook and word:1
-ramp wms software and syspro erp program:1
+ramp  wms software  and  syspro  erp program:1
 business process improvement:1
 inventory levels:1
 pl:1
 repairing:1
+cash  flow:1
 microsoft office programs:1
 surveys:1
 financial reporting specialist:1
 quickbooks proficient:1
-certified billing coding specialist:1
+certified billing   coding specialist:1
 ar ap:1
 exceptional organization:1
 strong in ms access and excel:1
 physician billing:1
-cms billing forms:1
-international classification of diseases icd cm:1
+cms      billing forms:1
+international classification of diseases  icd  cm:1
 medical bill auditing:1
 engineer:1
 physics:1
 reception:1
 full accounting cycle:1
-accounts receivable accounts payable:1
-inventory purchases:1
+accounts receivable       accounts payable:1
+inventory   purchases:1
 benefit and compensation:1
 team work oriented:1
 employee training and development:1
@@ -797,16 +804,17 @@ operating system:1
 russian:1
 staff training:1
 vi:1
+operations management:1
 client focused:1
 excel in:1
 areas of expertise:1
 proficiency in:1
 area:1
 yearend:1
-organization managing responsibilities in a particular manner and keeping track of those responsibilities:1
-time management good time management skills go hand in hand in with strong organizational capabilities budgeting time will give the allowance of managing the work efficiently:1
-adaptability its always the best for me to adapt quickly and easily as my way of understanding the procedures is through planning everything in my mind as the work is being allocated:1
-communication allows me to interact best with the colleagues:1
+organization   managing responsibilities in a particular manner and keeping track of those responsibilities:1
+time management   good time management skills go hand in hand in with strong organizational capabilities  budgeting time will give the allowance of managing the work efficiently:1
+adaptability   its always the best for me to adapt quickly and easily as my way of understanding the procedures is through planning everything in my mind as the work is being allocated:1
+communication   allows me to interact best with the colleagues:1
 clients and receive the best feedback from their side after completing the conversation:1
 expert in customer relations:1
 fds:1
@@ -820,15 +828,16 @@ ibm pc:1
 copier:1
 scanner:1
 technical support:1
-billing and collections ms office suite:1
-accounts payable accounting software:1
-accounts receivable written and verbal communication skills:1
-job costing journal entries:1
-reconciliations pivot tables:1
+billing and collections          ms office suite:1
+accounts payable          accounting software:1
+accounts receivable          written and verbal communication skills:1
+job costing          journal entries:1
+reconciliations          pivot tables:1
 notary commissioned:1
 verbal communication skills:1
 local area network:1
 web site:1
+windows xp:1
 quickbooks enterprise:1
 audit report:1
 cash register:1
@@ -847,7 +856,7 @@ bilingual spanish english:1
 fluent reading writing portuguese:1
 artist:1
 art:1
-budget analysis preparation:1
+budget analysis   preparation:1
 creative problem solving:1
 manufacturing process:1
 manufacturing processes:1
@@ -865,15 +874,16 @@ multi tasking:1
 strong public speaker:1
 creative:1
 telephone skills:1
+bank  reconciliation:1
 driving license:1
 computer peripherals:1
 hindi:1
-internet applications:1
+internet  applications:1
 languages:1
 myob:1
 typing speed:1
 xpert:1
-visual basic net:1
+visual basic  net:1
 photo:1
 exhibitions:1
 marketing plans:1
@@ -891,7 +901,7 @@ trainer:1
 microsoft visual studio:1
 web pages:1
 counseling:1
-microsoft office word:1
+microsoft office  word:1
 abila mip fund accounting software:1
 paychex:1
 payroll experts:1
@@ -935,7 +945,7 @@ business process:1
 financial analysis planning:1
 negotiation:1
 quantitative analysis:1
-proficient in microsoft office excel:1
+proficient in microsoft office  excel:1
 excellent mathematical skills:1
 capable of analyzing trends and variances:1
 excellent communication and organizational skills:1
@@ -950,15 +960,15 @@ excellent communication and collaboration skills:1
 efficient and precise when recording and presenting data:1
 proficient in the use laboratory application software and instruments:1
 strong contributor to the achievement of quality objectives:1
-microsoft office advanced knowledge and skill:1
-typing speed of wpm with accuracy:1
+microsoft office   advanced knowledge and skill:1
+typing speed of     wpm with     accuracy:1
 accounting and financial reporting:1
 experience in cash flow management and financial statement analysis:1
 experience in account reconciliations:1
 gl activity:1
 and billing:1
 progressive experience in budget management:1
-sec gaap compliances:1
+sec   gaap compliances:1
 excellent communication skills:1
 superb analytical and problem solving skills:1
 ability to work independently as well as within team settings:1
@@ -987,6 +997,7 @@ team leadership:1
 staff development:1
 risk management processes and analysisonflict resolution:1
 external auditing:1
+financial  statements:1
 compliance testing knowledge:1
 public and private accounting:1
 preparation of financial reports:1
@@ -1032,7 +1043,7 @@ graphs:1
 harvard graphics:1
 television:1
 excellent written:1
-accounting software sage mas erp:1
+accounting software  sage mas     erp:1
 peachtree complete accounting:1
 profitool:1
 key by touch:1
@@ -1063,37 +1074,38 @@ capital expenditures and inventory management:1
 financial statements analysis:1
 research skills:1
 fast learner:1
-communication skills taking initiative in communication among team members by interacting with people from diverse cultural backgrounds:1
+communication skills   taking initiative in communication among team members by interacting with people from diverse cultural backgrounds:1
 and building up excellent client and peer relationships:1
-high efficiency to pressuring the best way to solve the problem and making contribution to business organization:1
-high attention to details while ensuring accuracy and completeness of particulars:1
+high efficiency  to pressuring the best way to solve the problem and making contribution to business organization:1
+high attention to details  while ensuring accuracy and completeness of particulars:1
 executing corrections on errors that occur and performing thorough reviews on necessary documents:1
 attention to detail goal oriented accounts payable:1
 receivable:1
 manager:1
 versatile accounting software experience with lotus i:1
 years experience performing journal entry preparation posting:1
-bank reconciliations full cycle month year end close:1
-problem solving profit loss:1
+bank reconciliations full cycle month   year end close:1
+problem solving profit   loss:1
 regulatory filings:1
 tax analysis and compliance:1
 cash flow projections:1
 data collection:1
 dba:1
 software support:1
-proficient in microsoft office access:1
+proficient in microsoft office      access:1
 alpha:1
-system application process sap:1
+system application process  sap:1
+windows       xp:1
 nt:1
 ms dos:1
 nx view:1
 sales logic:1
-solomon great plains:1
+solomon  great plains:1
 scrapware:1
 scrap dragon:1
 oracle people soft:1
 iqms:1
-laser fiche type wpm:1
+laser fiche type    wpm:1
 derivatives:1
 natural:1
 programming:1
@@ -1110,7 +1122,8 @@ netscape:1
 skilled in conducting physical assessment:1
 bls certified:1
 committed to pediatric nursing:1
-computer skills ms word excel powerpoint outlook:1
+type    wpm:1
+computer skills  ms word excel powerpoint outlook:1
 health connect:1
 abraxas:1
 healthcare:1
@@ -1132,37 +1145,38 @@ medical transcription:1
 minute taking:1
 nursing:1
 transcription:1
+type   wpm:1
 oracle accounting:1
 dun and bradstreet financial reporting:1
 bank of america cashpro:1
 microsoft word excel:1
-bi businessintelligence tool:1
+bi     businessintelligence tool:1
 keane care:1
-internet and microsoft office ms word:1
+internet and microsoft office   ms word:1
 eagle accounting system:1
 expert in ms office suite:1
 complex problem solving:1
-ms office database:1
+ms office  database:1
 v look up:1
-company platforms business objects:1
+company platforms  business objects:1
 eagle:1
 epicor:1
 office master system:1
 glacier tax prep:1
 intuit payroll:1
 chasepaymentech:1
-microsoft excel expert pivot tables:1
+microsoft excel expert   pivot tables:1
 v lookups:1
 formulas:1
-access database queries data mining:1
+access database queries   data mining:1
 proficient in microsoft office:1
-peoplesoft use knowledge queries data mining:1
+peoplesoft use   knowledge   queries   data mining:1
 oracle experience:1
 sharepoint use experience:1
-infolease for lease and financial accounting citconnect research:1
+infolease for lease and financial accounting   citconnect research:1
 internet accounting:1
-finance and tax research lexis nexis:1
-cch ria tax research stat fsi track ultra tax image scanner asset manager key printers scanners general office tools quickbooks:1
+finance and tax research   lexis nexis:1
+cch   ria tax research   stat  fsi track   ultra tax   image scanner   asset manager     key  printers   scanners  general office tools    quickbooks:1
 proficient in microsoft office suite:1
 vision accounting software:1
 peach tree:1
@@ -1181,7 +1195,7 @@ producer:1
 user training:1
 trading systems:1
 trading system:1
-certified public accountant cpa:1
+certified public accountant  cpa:1
 sap expertise:1
 arts:1
 fundraising:1
@@ -1221,12 +1235,12 @@ problem resolution:1
 written communication:1
 xerox copier:1
 act:1
-excel pivot tables and vlook up access:1
+excel  pivot tables and vlook up  access:1
 bonds:1
-month end close activities reconciliations analysis:1
-accounts payable accounts receivable:1
-general ledger entries audits:1
-investigation resolution:1
+month end close activities   reconciliations analysis:1
+accounts payable   accounts receivable:1
+general ledger entries   audits:1
+investigation   resolution:1
 business accounting process improvements:1
 microsoft office proficient:1
 fixed asset accounting:1
@@ -1234,20 +1248,20 @@ cash and bank reconciliations:1
 intercompany accounting:1
 business property:1
 income:1
-sales use tax return preparation:1
-complex expense reporting reconciliation:1
-financial statements preparations:1
-grants contracts accounting:1
+sales   use tax return preparation:1
+complex expense reporting   reconciliation:1
+financial statements   preparations:1
+grants   contracts accounting:1
 hospitality golf course accounting:1
 regulatory statutory accounting principles:1
-property management lease accounting:1
+property management   lease accounting:1
 expense reporting:1
 prepares financial statements:1
 rent roll:1
 income statement:1
-budget expense vs actual expense:1
-when necessary prepare income statements for special events yearly compiles information and assists in preparing annual budget utilizing microsoft office:1
-quickbooks excel:1
+budget expense vs  actual expense:1
+when necessary prepare income statements for special events  yearly  compiles information and assists in preparing annual budget utilizing microsoft office:1
+quickbooks   excel:1
 dot net:1
 event planning:1
 general office:1
@@ -1262,10 +1276,10 @@ dispatching:1
 paye:1
 sorting:1
 word processing:1
-it excel:1
-erp sap:1
-accounting software sage:1
-banking system abacus:1
+it  excel:1
+erp  sap:1
+accounting software  sage:1
+banking system  abacus:1
 avaloq:1
 temenos:1
 resolve customer complaints:1

@@ -44,15 +44,15 @@ scheduling:19
 backup:19
 excel:18
 information systems:18
-windows server:18
 migration:17
 research:17
 switches:17
+microsoft exchange:17
 strategic planning:16
 procurement:16
 quality:16
 vpn:16
-microsoft exchange:16
+windows server:16
 routers:15
 wan:15
 functional:15
@@ -63,20 +63,20 @@ customer service:15
 strategic:15
 marketing:15
 financial:14
-windows xp:14
 software development:14
 email:14
 inventory:13
 phone:13
 erp:13
+windows xp:13
 symantec:13
+vista:13
 imaging:13
 desktop support:13
 printers:12
 novell:12
 visio:12
 firewall:12
-vista:12
 workflow:12
 tcp ip:12
 network security:12
@@ -105,7 +105,6 @@ agency:10
 operating system:10
 sales:10
 supervision:10
-asp net:10
 a:10
 features:10
 organizational:10
@@ -124,6 +123,7 @@ administrative:9
 engineer:9
 delivery:9
 real time:9
+asp net:9
 client server:9
 microsoft certified professional:9
 consulting:9
@@ -165,7 +165,6 @@ ad:7
 purchasing:7
 concept:7
 mentoring:7
-local area network:7
 switch:7
 ftp:7
 microsoft sql server:7
@@ -199,9 +198,9 @@ validation:6
 printer:6
 trend:6
 director:6
+local area network:6
 law:6
 data collection:6
-adobe acrobat:6
 system administration:6
 backup exec:6
 safety:6
@@ -228,7 +227,6 @@ customer satisfaction:5
 financials:5
 focus:5
 ssl:5
-cisco switches:5
 statistics:5
 analyst:5
 government:5
@@ -236,6 +234,7 @@ qa:5
 apple:5
 customer support:5
 data warehouse:5
+adobe acrobat:5
 business operations:5
 database design:5
 forms:5
@@ -265,6 +264,7 @@ data entry:5
 receptionist:5
 six sigma:5
 retail:5
+apache:5
 avaya:5
 ms sql server:5
 maintenance:5
@@ -279,6 +279,7 @@ user support:4
 groupwise:4
 ids:4
 express:4
+cisco switches:4
 vendor management:4
 anti virus:4
 conversion:4
@@ -302,7 +303,6 @@ nt:4
 benefits:4
 software engineering:4
 network systems:4
-lotus notes:4
 excellent communication:4
 power point:4
 pc s:4
@@ -320,7 +320,7 @@ installing:4
 adding and deleting user accounts with active directory:4
 strong software and application knowledge such as avaya:4
 and remedy:4
-experience with information technology service management itsm:4
+experience with information technology service management  itsm:4
 instruction:4
 systems administration:4
 tables:4
@@ -333,7 +333,6 @@ data migration:4
 problem solving:4
 page:4
 subject matter expert:4
-apache:4
 security:4
 logging:4
 logic:4
@@ -362,7 +361,7 @@ siebel:3
 technical documentation:3
 pci:3
 pos:3
-a certification:3
+a  certification:3
 ca:3
 contract negotiations:3
 gateway:3
@@ -401,8 +400,8 @@ conferences:3
 gis:3
 ms excel:3
 microsoft outlook:3
+lotus notes:3
 organizational development:3
-e mail:3
 human resources:3
 telephony:3
 ms exchange server:3
@@ -417,7 +416,6 @@ scanner:3
 net:3
 banking:3
 it strategy:3
-network support:3
 tableau:3
 web applications:3
 hyper v:3
@@ -425,7 +423,7 @@ business systems:3
 rfp:3
 filing:3
 spanish:3
-a certified:3
+a  certified:3
 microsoft certified:3
 self motivated:3
 routers and firewalls:3
@@ -433,10 +431,10 @@ audio:3
 real estate:3
 ldap:3
 optimization:3
-video sound cards:3
+video   sound cards:3
 multiplexors:3
 experience with information technology:3
-strong software and application knowledge such as avaya microsoft office and remedy:3
+strong  software and application knowledge such as avaya microsoft office and remedy:3
 installing adding and deleting user accounts with active directory:3
 oral:3
 sound:3
@@ -444,7 +442,6 @@ teaching:3
 fast:3
 configuration management:3
 nec:3
-software troubleshooting:3
 systems development:3
 electronics:3
 hard drives:3
@@ -491,15 +488,15 @@ website design:3
 deployment:3
 integration:3
 integrator:3
-knowledge of product lifecycle management plm:2
+knowledge of product lifecycle management  plm:2
 hardware and software upgrade planning:2
 product requirements documentation:2
 self directed:2
 ms visio:2
 decisive:2
 collaborative:2
-network design troubleshooting:2
-desktop publishing software photoshop:2
+network design   troubleshooting:2
+desktop publishing software  photoshop:2
 collaboration:2
 feasibility studies:2
 telephone systems:2
@@ -542,6 +539,7 @@ editing:2
 microsoft exchange server:2
 power builder:2
 quickbooks pro:2
+windows      server:2
 academic:2
 adp:2
 b b:2
@@ -579,6 +577,7 @@ vms:2
 customer relations:2
 detail oriented:2
 performance appraisals:2
+e mail:2
 employee training:2
 ms office suite:2
 programmer:2
@@ -589,10 +588,10 @@ account management:2
 visual basic programming:2
 network server security:2
 geographic information system:2
-group policy scom sccm:2
+group policy scom   sccm:2
 vbscripts and powershell:2
 sans:2
-years experience:2
+years  experience:2
 cna:2
 executive management:2
 works:2
@@ -602,6 +601,7 @@ nortel:2
 training programs:2
 adabas:2
 database administration:2
+network support:2
 oracle sql:2
 requirements analysis:2
 business continuity:2
@@ -645,7 +645,7 @@ organizational skills:2
 self starter:2
 system integration:2
 software testing:2
-experience with information technology service managment itsm:2
+experience with information technology service managment  itsm:2
 creativity:2
 fundraising:2
 read:2
@@ -671,6 +671,7 @@ microcomputers:2
 oct:2
 copiers:2
 pr:2
+software troubleshooting:2
 business development:2
 graphs:2
 hp ux:2
@@ -696,8 +697,7 @@ expertise:2
 epic care:2
 sop:2
 client support:2
-microsoft windows server:2
-microsoft active directory:2
+wordpress:2
 novell groupwise:2
 cacti:2
 gallery:2
@@ -715,7 +715,6 @@ premiere:2
 consultant:2
 logo:2
 multimedia:2
-print advertising:2
 bash:2
 gpo:2
 powershell:2
@@ -745,16 +744,14 @@ modeling:2
 scripting:2
 unix shell scripts:2
 people centered leadership:2
-strategic tactical planning:2
-designing architecting systems:2
+strategic   tactical planning:2
+designing   architecting systems:2
 coaching and talent development:2
 building a culture of innovation and engagement:2
 transformation and change advocate:2
 wins:2
-proposal development:2
 microsoft dynamics:2
 intel:2
-network attached storage nas:2
 receiving:2
 systems analyst:2
 letters:2
@@ -793,7 +790,7 @@ project tracking:1
 domain active directory layout:1
 data storage engineering:1
 information assurance:1
-risk management framework rmf:1
+risk management framework  rmf:1
 active directory design and deployment:1
 workstation build and deployment:1
 systems accreditation packages:1
@@ -840,8 +837,8 @@ hardware and software problem diagnosis:1
 security protocols:1
 security oversight:1
 speaking:1
-peoplesoft hcm x:1
-peoplesoft financials x:1
+peoplesoft hcm       x:1
+peoplesoft financials       x:1
 dell stat:1
 application designer:1
 putty:1
@@ -868,6 +865,7 @@ notebook computers:1
 prime:1
 compliance manager:1
 mediator:1
+windows  xp:1
 technical trainer:1
 author:1
 engineering support:1
@@ -972,12 +970,12 @@ databases query:1
 electronic filing:1
 microsoft windows deployment:1
 software imaging:1
-contract specialist and acquisition supply and property inventory:1
+contract specialist and acquisition  supply  and property inventory:1
 mainframes:1
 trouble shooting and ticketing systems:1
 network security policies:1
 formal presentations:1
-life cycle replacement lcr:1
+life cycle replacement  lcr:1
 radio communication:1
 geographical statistics:1
 cisco switches and routers:1
@@ -997,7 +995,7 @@ innovative leadership:1
 infrastructure design:1
 technology development:1
 collaboration and liaison:1
-p l oversight:1
+p   l oversight:1
 mentoring and coaching:1
 cisco certified:1
 managing people:1
@@ -1008,21 +1006,21 @@ hp unix:1
 vbscript:1
 active directory account management:1
 active directory account management and troubleshooting:1
-years experience security intermediate:1
-years experience customer service expert:1
-years experience networking intermediate:1
-years experience internet explorer symantec antivirus intermediate:1
-years experience windows intermediate:1
-years experience series beginner:1
-years experience xp advanced:1
-years experience dos intermediate:1
-years experience windows years experience:1
-ip mac os beginner:1
-years experience iphone intermediate:1
-years experience ipad intermediate:1
-years experience user interface writing intermediate:1
-years experience troubleshooting advanced:1
-it operations intermediate:1
+years  experience  security   intermediate:1
+years  experience  customer service  expert:1
+years  experience  networking  intermediate:1
+years  experience  internet explorer symantec antivirus  intermediate:1
+years  experience  windows    intermediate:1
+years  experience  series    beginner:1
+years  experience  xp  advanced:1
+years  experience  dos  intermediate:1
+years  experience  windows        years  experience:1
+ip mac os  beginner:1
+years  experience  iphone  intermediate:1
+years  experience  ipad  intermediate:1
+years  experience  user interface writing  intermediate:1
+years  experience  troubleshooting  advanced:1
+it operations  intermediate:1
 hardware installation:1
 internet explorer:1
 software documentation:1
@@ -1057,7 +1055,7 @@ hipaa:1
 glba:1
 budgeting cost control:1
 it infrastructure:1
-software active directory:1
+software  active directory:1
 hp insight manager:1
 emc avamar:1
 symantec ghost:1
@@ -1075,7 +1073,8 @@ cisco call manager:1
 cisco uccx:1
 exact target:1
 cvent:1
-hardware and networking cisco firewalls:1
+hardware and networking  cisco firewalls:1
+cisco  switches:1
 checkpoint firewalls:1
 hp procurve switches:1
 meraki wi fi:1
@@ -1119,15 +1118,15 @@ forecasting specialist:1
 scrum methodology:1
 performance criteria tracking:1
 enterprise resource planning systems:1
-education software campus nexus student:1
+education software  campus nexus student:1
 student and faculty portal:1
-accounting systems sage platinum:1
+accounting systems  sage platinum:1
 microsoft great plains:1
 accountmate:1
 sap business one:1
-learning management systems dialoge edu ecollege moodle rooms:1
-manufacturing systems batchmaster:1
-customer relationship management systems microsoft great plains crm:1
+learning management systems  dialoge edu  ecollege  moodle rooms:1
+manufacturing systems  batchmaster:1
+customer relationship management systems  microsoft great plains crm:1
 campus nexus crm:1
 enterprise backoffice systems:1
 microsoft terminal services:1
@@ -1153,18 +1152,18 @@ hardware configuration and troubleshooting:1
 linc:1
 ma:1
 server configuration:1
-language chinese:1
+language  chinese:1
 english and japanese:1
 professional skills:1
 adobe suit:1
 d max:1
-others php:1
+others  php:1
 cording:1
-customer relationship management crm erp system:1
+customer relationship management  crm  erp system:1
 rfid:1
-electronic product code epc financial accounting:1
-hr business marketing:1
-international trade import and export app development sem:1
+electronic product code  epc  financial accounting:1
+hr  business marketing:1
+international trade  import and export  app development sem:1
 analysis:1
 qms statistics:1
 healthcare:1
@@ -1236,7 +1235,7 @@ mercator:1
 share point:1
 telephones:1
 unique:1
-wide area network wan:1
+wide area network  wan:1
 tape backups:1
 cd:1
 cpu:1
@@ -1253,6 +1252,7 @@ pc anywhere:1
 proliant:1
 ras:1
 schematics:1
+software   troubleshooting:1
 sun servers:1
 usb:1
 web site content:1
@@ -1277,18 +1277,18 @@ organization and time management:1
 project lifecycle management:1
 project management and leadership:1
 salesforce admin and crm:1
-sql microsoft and oracle:1
+sql  microsoft and oracle:1
 excellent verbal and written communication:1
 project leadership written communication:1
 ai:1
 staffing:1
 agile methodology:1
-safe program increment pi planning:1
-scrum kanban scrumban:1
+safe program increment  pi  planning:1
+scrum   kanban   scrumban:1
 aptitude for resolving challenging problems:1
 release management:1
-scrum master business analyst:1
-atlassian suite jira:1
+scrum master   business analyst:1
+atlassian suite  jira:1
 confluence:1
 trello:1
 public trust clearance level:1
@@ -1299,7 +1299,7 @@ electronic health records:1
 market development:1
 view:1
 communication:1
-collaborating with clients and fostering a positive business relationship to meet all levels of it service demands technical:1
+collaborating with clients and fostering a positive business relationship to meet all levels of it service demands  technical:1
 r d and operations and maintenance:1
 clearly discussing and conveying information technology concepts and terminology with both technical and non technical staff at all levels within and outside the department:1
 producing clear and concise written documents:1
@@ -1307,28 +1307,28 @@ emails:1
 project status reports and briefs:1
 communicating effectively with various levels of the organization:1
 making strategic judgments and evaluating the impact:1
-cloud environments design implementation:1
-network design implementation voip:1
-cyber security nist hitrust hipaa:1
+cloud environments design   implementation:1
+network design   implementation voip:1
+cyber security  nist hitrust hipaa:1
 technical support management:1
 developing and responding to request for proposals:1
 current with emerging technologies:1
 concise:1
 network design and architecture:1
-network design implementation:1
+network design   implementation:1
 promotion i:1
 selling:1
 written communication skills:1
 microbial testing:1
-endotoxin lal test:1
+endotoxin  lal test:1
 nano particle size and charge analysis by malveren nano zs:1
 protein extractions:1
 hplc handling and chromatography techniques:1
-polymerase chain reaction pcr technique:1
+polymerase chain reaction  pcr  technique:1
 experienced in method development:1
 method validation:1
 method verification and method transfer of new analytical methods:1
-wet chemistry techniques ms office:1
+wet chemistry techniques  ms office:1
 efficient internet browsing:1
 sas programming:1
 epic go live:1
@@ -1352,9 +1352,9 @@ mac hardware:1
 web servers:1
 vmware esxi:1
 vmware vcenter:1
-vmware horizon view x:1
+vmware horizon view   x:1
 x:1
-and x:1
+and   x:1
 microsoft hyper v:1
 cisco ucm and unity:1
 itil service catalog:1
@@ -1362,10 +1362,9 @@ sla management:1
 bay networks:1
 hub:1
 software support:1
-sales software salesforce com:1
+sales software  salesforce com:1
 tapscan:1
-cms joomla:1
-wordpress:1
+cms   joomla:1
 plethora of hardware repair and diagnostic skills:1
 experienced desktop support and trainer:1
 process development:1
@@ -1374,10 +1373,12 @@ serena business manager:1
 serena business administrator:1
 reflections:1
 winscp:1
-platforms and protocols microsoft windows:1
+platforms and protocols  microsoft windows:1
+microsoft windows server:1
+microsoft active directory:1
 microsoft group policy:1
 microsoft office for windows and mac:1
-microsoft exchange mac os x:1
+mac os x:1
 mac os x server:1
 apple ios:1
 centos:1
@@ -1389,27 +1390,29 @@ novell teaming:1
 novell zenworks:1
 novell zenworks configuration management:1
 adobe connect pro:1
-apache openssl:1
+openssl:1
 bind:1
-appliances and applications drupal:1
+appliances and applications  drupal:1
 expression engine:1
 aerohive:1
 bluesocket wireless controller:1
 barracuda anti spam appliance:1
 barracudaware:1
-sonicwall nsa including vpn com nbx:1
+sonicwall nsa  including vpn:1
+com nbx:1
 cisco pix:1
 cisco network assistant:1
 vmware esx:1
-vmware fusion pharos uniprint:1
+vmware fusion:1
+pharos uniprint:1
 ntop:1
 nagios:1
 nagiosql:1
 icinga:1
 realchat:1
 mrbs:1
-webcalendar vbulletin:1
-movable type wordpress:1
+webcalendar  vbulletin:1
+movable type:1
 mediawiki:1
 simple:1
 joomla:1
@@ -1428,9 +1431,9 @@ hp laserjets:1
 canon mfds:1
 and xerox mfds:1
 citrix metaframe:1
-groupwise x:1
-windows and office:1
-novell x:1
+groupwise   x:1
+windows   and office:1
+novell   x:1
 t:1
 problem analysis and resolution:1
 database systems:1
@@ -1454,7 +1457,7 @@ dhtml:1
 frontpage:1
 minitab:1
 structured software:1
-time attendance:1
+time   attendance:1
 time and attendance:1
 act:1
 acrobat:1
@@ -1466,6 +1469,7 @@ ms iis:1
 internet communications:1
 languages:1
 apple mac:1
+print advertising:1
 print design:1
 robotic systems:1
 microsoft visual basic:1
@@ -1494,13 +1498,14 @@ vdi:1
 virtual manchine:1
 nmap:1
 zenmap:1
-applications ms office suite:1
+applications       ms office suite:1
 o:1
 heat call logging:1
-t voicemail:1
+t  voicemail:1
 netmotion:1
 novell imanager:1
-active directory client server heatweb fs platforms windows xp:1
+active directory client server       heatweb fs platforms     windows      xp:1
+asp  net:1
 database software:1
 desktop publishing:1
 desktop publisher:1
@@ -1525,34 +1530,39 @@ color:1
 digital photography:1
 digital video:1
 direct mail:1
-final cut pro:1
+final           cut pro:1
 sgi irix:1
+lotus           notes:1
 marketing strategy:1
 newspaper:1
 prepress:1
+print           advertising:1
 print production:1
 video post production:1
 technology optimization:1
-budgeting operational cost:1
-goal setting business planning:1
-policy procedure creation:1
-conflict resolution management:1
+budgeting   operational cost:1
+goal setting   business planning:1
+policy   procedure creation:1
+conflict resolution   management:1
 productivity:1
 efficiency:1
 performance improvements:1
 it security:1
 data center operations:1
-operating systems windows:1
+operating systems  windows:1
 xp:1
 server:1
-vm ware:1
+microsoft  active directory:1
+vm  ware:1
 trend micro:1
 cisco infrastructure routers and switches:1
-palo alto emc storage solutions:1
-data center management market data trading systems open bloomberg and server api:1
+palo alto:1
+emc storage solutions:1
+data center management market data   trading  systems  open bloomberg and server api:1
 factset:1
 tethys:1
-lava lek:1
+lava:1
+lek:1
 ice:1
 tradeware:1
 reuters eikon:1
@@ -1585,7 +1595,7 @@ microsoft works:1
 web:1
 content management systems:1
 team collaborator facilitator:1
-innovator inspection:1
+innovator   inspection:1
 audits:1
 researcher:1
 self starter t:1
@@ -1614,7 +1624,7 @@ oracle jdeveloper:1
 bluej:1
 jgrasp:1
 microsoft visual studio:1
-framework middleware:1
+framework   middleware:1
 drupal:1
 apache struts:1
 tomcat:1
@@ -1663,11 +1673,11 @@ smart devices and voip technology:1
 deploy and integrate accounting systems to and from varies entities:1
 erp deployment:1
 implementation and development:1
-design implement complex interactive web sites including intranets:1
-swot strengths:1
+design   implement complex interactive web sites including intranets:1
+swot  strengths:1
 weaknesses:1
 opportunities:1
-and threats analysis and deployment:1
+and threats  analysis and deployment:1
 enterprise application development and deployment:1
 enterprise data warehouses and sql repositories:1
 enterprise backup:1
@@ -1677,15 +1687,15 @@ security analysis and deployment including cell phones and mobile devices:1
 design:1
 deploy and manage lan wan for data voice using copper:1
 fiber and wireless networks:1
-client servers specialty servers such as citrix and virtual:1
+client servers   specialty servers such as citrix and virtual:1
 point to point wireless antenna systems and wifi deployment:1
 mobile app deployment:1
 retail knowledge with it deployment and support:1
-point of sales bar coding systems:1
+point of sales   bar coding systems:1
 business analysis and process modeling:1
 lean technology to streamline mission critical business and system processes:1
 zero based budgeting and ebidta:1
-policies procedures itil:1
+policies   procedures   itil:1
 asset:1
 change and security and governance management:1
 it consulting:1
@@ -1699,7 +1709,7 @@ loan origination:1
 improve processes:1
 web sites:1
 websites:1
-infrastructure management data center operations project management team building coaching vendor management and negotiation budget management policy program development lan wan:1
+infrastructure management   data center operations   project management   team building coaching   vendor management and negotiation   budget management   policy program development    lan wan:1
 firewalls and routers:1
 asm:1
 capability maturity model:1
@@ -1709,48 +1719,48 @@ database and applications:1
 government regulations:1
 oracle rdbms:1
 sqlloader:1
-programming languages java j ee:1
-frameworks and libraries spring:1
+programming languages  java j ee:1
+frameworks and libraries  spring:1
 restful web services:1
 hibernate:1
 angularjs:1
 reactjs:1
-bootstrap selenium webdriver:1
+bootstrap  selenium webdriver:1
 cucumber:1
-databases mysql:1
+databases  mysql:1
 postgresql:1
 mongodb:1
 h:1
-build tools gradle:1
+build tools  gradle:1
 maven:1
 ant:1
-practices agile scrum:1
+practices  agile scrum:1
 waterfall:1
 tdd:1
 clean coding:1
 continuous delivery:1
-architectures microservices:1
+architectures  microservices:1
 single page application:1
 rest:1
-version control svn:1
+version control  svn:1
 git:1
-cloud application platform aws:1
-others bower:1
+cloud application platform  aws:1
+others  bower:1
 grunt:1
 npm:1
 node:1
 json:1
 jenkins:1
-ide eclipse:1
+ide  eclipse:1
 intellij:1
 android studio:1
-operating systems linux:1
-ip networking protocols tcp ip udp http s dhcp dns stp hsrp isis rip ospf mpls ftp smtp ipsec vlan vpn:1
-network tools wireshark vmware cisco packet tracer virtualbox:1
+operating systems  linux:1
+ip networking protocols  tcp ip udp http s dhcp dns stp hsrp isis rip ospf mpls ftp smtp ipsec vlan vpn:1
+network tools  wireshark vmware cisco packet tracer virtualbox:1
 oracle windows server aws active directory:1
-operating systems windows linux centos ubuntu rhel:1
-programming languages python bash scripting:1
-coursework data networking linux for network engineers internet protocols architecture network security:1
+operating systems  windows linux centos ubuntu rhel:1
+programming languages  python bash scripting:1
+coursework   data networking linux for network engineers internet protocols   architecture network security:1
 ccomputer communication networks multimedia communication:1
 http:1
 isis:1
@@ -1758,29 +1768,31 @@ ospf:1
 rip:1
 ssh:1
 smtp:1
-platforms windows:1
+platforms   windows:1
 server and professional:1
-windows xp pro and home:1
+windows xp  pro                     and home:1
 citrix ica:1
-hardware hp:1
-and intel based server and desktop platforms cisco switches:1
+hardware   hp:1
+and intel based server and desktop platforms                         cisco      switches:1
 sonic wall hardware vpns:1
-hp laser jets toshiba e color copier:1
+hp laser jets                     toshiba e     color copier:1
 toshiba and sony laptops:1
 inter tel:1
-software ms office:1
+software    ms office:1
 citrix metaframe xp:1
-symantec pc anywhere ghost:1
-win fax mcafee virus scan:1
+symantec  pc anywhere                      ghost:1
+win fax  mcafee virus scan:1
+adobe                        acrobat:1
 partition magic:1
-adware spyware:1
-networking tcp ip:1
-wireless a b g:1
+adware                                spyware:1
+networking  tcp ip:1
+wireless        a b g:1
 pcanywhere:1
+proposal development:1
 veritas:1
 highly professional and polished pmo manager:1
 portfolio manager for all corporate it system implementations:1
-portfolio manager for it infrastructure project management new and renovation construction related efforts:1
+portfolio manager for it infrastructure project management  new and renovation construction related efforts:1
 excellent communication skills from all upper echelons of leadership to team building:1
 currently managing large team of senior and intermediate project managers:1
 and pmo trained business analysts:1
@@ -1790,11 +1802,11 @@ excellent skills with conflict resolution in tense stakeholder meetings:1
 high standards for personal excellence and integrity in a job well done:1
 equally high standards for a high performing project management team:1
 skilled in clinical portfolio management:1
-assisted in division of pmo to determine best fit for pm team corporate clinical background:1
-advocate for project management training and skill building soft skills and pm skills are equally crucial to a high performing team:1
-manage departmental budget for all aspects salaries:1
+assisted in division of pmo to determine best fit for pm team corporate   clinical background:1
+advocate for project management training and skill building  soft skills and pm skills are equally crucial to a high performing team:1
+manage departmental budget for all aspects  salaries:1
 manage and assist with creation of portfolio governance for information technology systems budget:1
-manage and assist with creation of infrastructure budget required for all projects requiring infrastructure construction upgrades:1
+manage and assist with creation of infrastructure budget required for all projects requiring infrastructure  construction upgrades:1
 work hand in hand with chief technology officer:1
 vp application support to provide c suite leadership with all relevant information needed to approve annual portfolio for information technology:1
 large computer networks:1
@@ -1802,6 +1814,8 @@ access control security:1
 apollo:1
 microsoft software:1
 mos:1
+network attached storage  nas:1
+network attached storage   nas:1
 novel:1
 processors:1
 recruiting:1
@@ -1822,6 +1836,7 @@ rta:1
 coach:1
 prepare contracts:1
 dispatching:1
+e  mail:1
 inspect:1
 recruitment:1
 safety codes:1
@@ -1940,7 +1955,7 @@ software requirements:1
 hp printers:1
 tech support:1
 xerox copiers:1
-quality engineering process improvement acceptance testing strategic planning organizational development requirement assessment coaching mentoring business intelligence sdlc people management team building data analysis oracle sql ms access progress rdb power point data warehousing hp quality center ms test rational software qa and pm templates ms word excel ms project visio clarity software:1
+quality engineering process improvement acceptance testing strategic planning organizational development requirement assessment coaching   mentoring business intelligence sdlc people management team building data analysis oracle sql ms access progress rdb power point data warehousing hp quality center ms test rational software qa and pm templates ms word excel ms project visio clarity software:1
 annuities:1
 qa validation:1
 qa test:1
@@ -1996,7 +2011,7 @@ prototypes:1
 audio visual:1
 games:1
 landscaping:1
-computers trouble shooting microsoft access microsoft excel microsoft powerpoint microsoft word computer security anti hacking hids microsoft event logging adobe:1
+computers trouble shooting microsoft access microsoft excel microsoft powerpoint microsoft word computer security anti hacking  hids microsoft event logging adobe:1
 wpm typing speed:1
 excellent communication skills:1
 articulate and well spoken:1
@@ -2006,18 +2021,21 @@ works well under pressure:1
 customer service experience:1
 multi line telephone:1
 wpm:1
-able to research and familiarize skill sets towards core technologies based on enthusiasm dedication:1
+able to research and familiarize skill sets towards core technologies based on enthusiasm:1
+dedication:1
 and motivation:1
-knowledgeable with installation and configuration of windows based operating systems windows xp vista:1
+knowledgeable with installation and configuration of windows based operating systems  windows xp:1
 and:1
 experienced with the installation and configuration of ubuntu linux whilst cognizant of mac os x interactions:1
 proficient with virtualization and highly skilled with configurations inside of vmware:1
 skilled with troubleshooting hardware and software issues within a network and support services environment:1
-able to document effectively communicate:1
+able to document:1
+effectively communicate:1
 and succeed within a group setting in order to become a superior team player:1
 willing to work individually whilst prioritizing tasks or projects and completing assignments based on expected deadlines:1
 macintosh os:1
 network and support:1
+network   support:1
 hp servers:1
 it project management:1
 macola:1
@@ -2034,18 +2052,18 @@ inventory management:1
 leadership training:1
 regulatory compliance:1
 marketing plans:1
-novell netware x:1
+novell netware   x:1
 certified novell administrator:1
-project management leadership:1
+project management   leadership:1
 employee development:1
-budgeting citrix:1
+budgeting   citrix:1
 xenapp:1
 dynamic crm:1
-dynamic gp:1
-databases disaster recovery:1
+dynamic  gp:1
+databases   disaster recovery:1
 financial management:1
 inventory control lan:1
-network pbx:1
+network   pbx:1
 improve products:1
 sales reports:1
 cloud:1
@@ -2085,8 +2103,9 @@ biochemistry:1
 procurement clerk:1
 purchasing agent:1
 computer programmer:1
-contracting officer representative cor:1
+contracting officer representative  cor:1
 customer support information technology:1
+local area  network:1
 microsoft office suite with deep office:1
 dynamics:1
 powerapps:1
@@ -2096,12 +2115,12 @@ ssharepoint:1
 intune:1
 ems:1
 and azure proficiency:1
-pprogramming databases sql ssrs:1
+pprogramming databases  sql  ssrs:1
 ssis:1
 ssas:1
 dax:1
-bbusiness intelligence packages powerbi:1
-qlik qlikview qliksense:1
+bbusiness intelligence packages  powerbi:1
+qlik  qlikview qliksense:1
 sisense:1
 datorama:1
 yellowfin:1
@@ -2130,10 +2149,12 @@ operations management:1
 pc systems:1
 people skills:1
 process design:1
+proposal        development:1
 front page:1
 internet access:1
 layout:1
 office applications:1
+microsoft windows      server:1
 all pc hardware:1
 develop policies:1
 power supply:1
@@ -2166,4 +2187,4 @@ autocad:1
 course development:1
 dc:1
 leadership and development:1
-trainer workshops t:1
+trainer workshops  t:1

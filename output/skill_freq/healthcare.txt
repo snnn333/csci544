@@ -8,10 +8,10 @@ scheduling:24
 quality:23
 reporting:23
 billing:21
+documentation:21
 processes:21
 microsoft office:21
 time management:20
-documentation:20
 marketing:20
 managing:19
 leadership:19
@@ -20,13 +20,13 @@ access:18
 office:18
 powerpoint:18
 policies:18
+data entry:16
 project management:16
 financial:16
 word:15
 staffing:15
 databases:15
 database:15
-data entry:15
 strategic planning:14
 administrative:14
 benefits:14
@@ -52,6 +52,7 @@ filing:11
 recruiting:11
 budget:11
 email:10
+medical terminology:10
 inventory:10
 account management:10
 accounting:10
@@ -59,6 +60,7 @@ telephone:10
 charts:10
 organizational:10
 safety:9
+critical thinking:9
 microsoft excel:9
 payroll:9
 administrative support:9
@@ -66,9 +68,7 @@ hiring:9
 cms:9
 business development:9
 troubleshooting:9
-medical terminology:9
 nursing:9
-critical thinking:8
 data analysis:8
 director:8
 basic:8
@@ -77,7 +77,7 @@ visio:8
 training:8
 icd:8
 legal:7
-process improvement:7
+organizational skills:7
 functional:7
 hr:7
 networking:7
@@ -101,10 +101,10 @@ english:6
 technical support:6
 enterprise:6
 cpr certified:6
+process improvement:6
 decision making:6
 quality control:6
 statistics:6
-organizational skills:6
 clerical:6
 selling:6
 workflow:6
@@ -115,7 +115,6 @@ crystal reports:6
 budgeting:5
 data collection:5
 strategy:5
-business operations:5
 travel arrangements:5
 c:5
 phone:5
@@ -150,8 +149,6 @@ cpt:5
 bookkeeping:5
 regulatory compliance:5
 computer proficiency:4
-microsoft outlook:4
-microsoft powerpoint:4
 excellent interpersonal skills:4
 websites:4
 coach:4
@@ -177,6 +174,7 @@ java:4
 medisoft:4
 upgrades:4
 human resources:4
+business operations:4
 promotion:4
 ms office:4
 html:4
@@ -210,6 +208,8 @@ risk management:3
 validation:3
 active learning:3
 microsoft access:3
+microsoft outlook:3
+microsoft powerpoint:3
 proofreading:3
 speaking:3
 spreadsheets:3
@@ -264,7 +264,7 @@ surgery:3
 health information technology:3
 patient safety:3
 purchasing:3
-type wpm:3
+type    wpm:3
 excellent communication:3
 designing:3
 electronic medical records:3
@@ -321,12 +321,16 @@ new product development:2
 calendaring:2
 coordination:2
 creative problem solving:2
-data entry documentation:2
+customer needs assessment:2
 executive management support:2
 grammar:2
 internet research:2
 letters and memos:2
+multi task management:2
 prioritization:2
+reading comprehension:2
+report transcription:2
+writing:2
 audio:2
 senior management:2
 powerpoint presentations:2
@@ -336,7 +340,7 @@ data processing:2
 financial statements:2
 teach additional skills such as mass casualty management:2
 nd infantry battallion:2
-th infantry regiment fort benning:2
+th infantry regiment   fort benning:2
 november:2
 responsibilities:2
 equipment maintenance:2
@@ -352,7 +356,7 @@ inspection:2
 instruction:2
 office management:2
 troubleshoot:2
-flexible adaptable:2
+flexible   adaptable:2
 responsible:2
 verbal and written communication:2
 adaptability:2
@@ -428,9 +432,6 @@ real estate:2
 competitive:2
 trainer:2
 unique:2
-electronic medical database:2
-microsoft publisher:2
-adobe dream weaver:2
 adobe premiere:2
 gimp:2
 adobe reader:2
@@ -525,8 +526,8 @@ cad:2
 medicare and medi cal:2
 medical manager software:2
 managed care contract knowledge:2
-electronic medical record emr software:2
-icd coding:2
+electronic medical record  emr  software:2
+icd   coding:2
 cpt and hcpcs coding:2
 internal medicine billing:2
 medical billing software:2
@@ -552,6 +553,7 @@ autotransfusion devices:2
 continuous passive motion therapy:2
 traction:2
 ms word:2
+midas:2
 telephones:2
 outpatient:2
 audit:2
@@ -588,8 +590,8 @@ recording vital signs:2
 event coordination:2
 g:2
 hippa:2
-medical billing coding:2
-microsoft office suite word:2
+medical billing   coding:2
+microsoft office suite  word:2
 sas:2
 cognos:2
 spss:2
@@ -604,13 +606,11 @@ gmp:1
 lecturer:1
 litigation:1
 system design:1
-healthcare informatics:1
-communication and relationship management:1
-decision making and problem solving:1
-critical thinking customer needs assessment:1
-multi task management organizational skills:1
-reading comprehension report transcription:1
-writing medical terminology:1
+healthcare      informatics:1
+communication      and relationship management:1
+process      improvement:1
+business      operations:1
+decision making      and problem solving:1
 office equipment:1
 policies and procedures:1
 expense reports:1
@@ -628,14 +628,14 @@ psychology:1
 researching:1
 skills used:1
 smarttech smart board:1
-instructor writer combat medic advanced individual training:1
+instructor writer   combat medic advanced individual training:1
 st detachment:1
-th training command augusta:1
-ga november to october:1
+th training command   augusta:1
+ga   november      to october:1
 train:1
 lead:1
 and mentor upcoming healthcare specialists:1
-be the example of what right looks like for new healthcare practitioners to follow:1
+be the example of  what right looks like  for new healthcare practitioners to follow:1
 revise edit:1
 publish and teach course material for a healthcare program that graduates over:1
 individuals annually:1
@@ -651,10 +651,10 @@ disaster management:1
 convoy operations:1
 and other:1
 necessary skills to be a healthcare specialist in the us army:1
-instructor writer infantry battlefield first aid:1
+instructor writer   infantry battlefield first aid:1
 alpha company:1
-ga november to:1
-teach tccc core curriculum and first aid to classes of up to infantryman:1
+ga   november      to:1
+teach tccc core curriculum and first aid to classes of up to     infantryman:1
 medical:1
 evacuation logistics:1
 and other necessary skills to save lives:1
@@ -665,7 +665,7 @@ building site maintenance:1
 emergency care sergeant:1
 squad leader:1
 echo company:1
-ga april to:1
+ga   april      to:1
 hospital:1
 pre hospital:1
 long term geriatric population:1
@@ -676,9 +676,9 @@ medical surgical ward:1
 icu:1
 pediatric emergency department:1
 behavioral health ward:1
-supervised noncommisioned officers and soldiers assigned them to ambulance teams managed their:1
+supervised   noncommisioned officers and    soldiers  assigned them to   ambulance teams  managed their:1
 duties and helped resolve their personal issues in order to make them effective leaders and efficient medics:1
-responsible for medical equipment sets valued at over each including vehicles and hazmat:1
+responsible for medical equipment sets valued at over             each including vehicles and hazmat:1
 designated as the primary information technology point of contact within the section:1
 implemented and:1
 oversaw the transition to paperless office management and streamlined previously cumbersome and outdated:1
@@ -688,8 +688,8 @@ headquarters and headquarters company bravo company:1
 infantry batallion:1
 rd brigade:1
 st armor:1
-division fort bliss:1
-tx june to june:1
+division   fort bliss:1
+tx   june      to june:1
 clinical patient care:1
 austere remote medical care:1
 live fire training exercises and medical support:1
@@ -701,7 +701,7 @@ dslr photography:1
 classified document management:1
 joint commission inspection standards:1
 classroom:1
-instruction years:1
+instruction      years:1
 alpha:1
 chinese:1
 document management:1
@@ -714,7 +714,7 @@ photography:1
 training materials:1
 treatment plan:1
 writer:1
-microsoft office suite word excel powerpoint:1
+microsoft office suite  word excel powerpoint:1
 healthcare systems:1
 insurance billing:1
 sorian scheduling:1
@@ -723,11 +723,11 @@ reports:1
 and pcs windows applications:1
 estimating:1
 leadership and training:1
-business development strategy expert:1
-product marketing strategy expert:1
-operational systems efficiency expert:1
-wellness program development expert:1
-lifestyle change methodology expert:1
+business development strategy  expert:1
+product marketing strategy  expert:1
+operational systems efficiency  expert:1
+wellness program development  expert:1
+lifestyle change methodology  expert:1
 biology:1
 business law:1
 disease prevention:1
@@ -830,7 +830,7 @@ venipunctures:1
 data center migration:1
 system intergration:1
 cloud computing services:1
-application integration support:1
+application integration   support:1
 apache:1
 automation:1
 backup:1
@@ -841,7 +841,7 @@ data conversion:1
 dell:1
 dhcp:1
 disaster recovery:1
-disaster recovery planning:1
+disaster recovery   planning:1
 dns:1
 ftp:1
 hewlett packard:1
@@ -869,7 +869,7 @@ veritas clustering:1
 vm:1
 understands mobility assistance needs:1
 charting expertise:1
-able to lift pounds:1
+able to lift     pounds:1
 respiratory equipment training:1
 quick problem solver:1
 general housekeeping ability:1
@@ -898,12 +898,12 @@ communication proficiency:1
 team oriented with the ability to build strong relationships with individuals at various levels:1
 dead line results driven:1
 works well with little or no supervision:1
-developed the history of celebrex timeline of events for celebrex and why it is important to sales process contents of binder included every clinical study categorized into gi:1
+developed  the history of celebrex    timeline of events for celebrex and why it is important to sales process  contents of binder included every clinical study categorized into gi:1
 cv:1
 efficacy:1
 etc:1
 mentored numerous new team members:1
-executed teach the teacher nurse focused initiative on exubera device and drug education:1
+executed teach the teacher   nurse focused initiative on exubera device and drug education:1
 earned numerous convention trips:1
 led multiple poa special assignments at the district:1
 palliative care:1
@@ -911,7 +911,7 @@ patient advocate:1
 identifying building new service offerings:1
 creative problem solver innovator:1
 process transformation with change management:1
-healthcare informatics merging technical with operations:1
+healthcare informatics  merging technical with operations:1
 creating and maintaining a performance bases culture:1
 growing and developing high performing team:1
 oncology transplant rn with pharmaceutical research experience:1
@@ -920,13 +920,13 @@ creative problem solver:1
 innovative critical thinker:1
 leader:1
 change driver:1
-visio access:1
+visio   access:1
 nextgen electronic practice management super user:1
 nextgen electronic health record end user:1
 policytech:1
 vantage analytics:1
 valify purchased services analytics:1
-peoplesoft financials supply chain management:1
+peoplesoft financials   supply chain management:1
 lawson supply chain management:1
 go live:1
 adp:1
@@ -941,6 +941,14 @@ user training:1
 concept:1
 council:1
 e commerce:1
+electronic medical database:1
+microsoft publisher:1
+adobe dream weaver:1
+electronic      medical database:1
+microsoft      powerpoint:1
+microsoft      publisher:1
+adobe      dream weaver:1
+microsoft      outlook:1
 telecommunications knowledge:1
 customer service expert:1
 telecommunication skills:1
@@ -955,7 +963,7 @@ gait belt:1
 sliding board transfer:1
 mechanical lifts:1
 arts:1
-home health nursing:1
+home health  nursing:1
 shipping:1
 web design and programming:1
 reorganization procedural evaluations:1
@@ -965,8 +973,8 @@ great ability to lower costs increase efficiency:1
 all windows os:1
 all mac os:1
 advanced coding in fbml:1
-databases i designed still in use lbmmc obstat:1
-wars and nec preload db:1
+databases i designed still in use  lbmmc  obstat:1
+wars and nec   preload db:1
 net:1
 asp net:1
 ajax:1
@@ -997,7 +1005,7 @@ professional services management:1
 salesforce com:1
 clarity ppm tool:1
 various other systems:1
-strategic management harvard extension:1
+strategic management   harvard extension:1
 proven administrative highly organized:1
 leadership support event planning:1
 entrepreneurial conflict public speaking:1
@@ -1013,12 +1021,12 @@ ne:1
 rapport building:1
 reconciling:1
 website development:1
-sales software salesforce com:1
+sales software  salesforce com:1
 tapscan:1
-public relations software bacon s mediasource:1
+public relations software  bacon s mediasource:1
 factiva:1
-desktop publishing software photoshop:1
-phones transportation:1
+desktop publishing software  photoshop:1
+phones  transportation:1
 business operations organization:1
 client account management:1
 negotiations expert:1
@@ -1034,18 +1042,18 @@ local business development:1
 c suite executive targeting:1
 exceed profit and sales goals:1
 sales management:1
-skill set growth strategies new opportunity identification and development scientific strategy best practice scientific excellence implementation strong technical expertise research and product development cross functional experience regulatory affairs:1
+skill set   growth strategies new opportunity identification and development   scientific strategy best practice scientific excellence implementation   strong technical expertise  research and product development    cross functional experience  regulatory affairs:1
 licensing:1
 clinical:1
-etc broad background in consumer healthcare otc s and medical devices proven record of new product development representing b sales ability to conduct and interpret consumer tests and translate consumer needs to products strong ideation:1
-and claims generation skills leadership of cross functional:1
-highly matrixed global teams extensive expertise in identification and development of high growth opportunities supervision of technical experts:1
+etc    broad background in consumer healthcare  otc s and medical devices    proven record of new product development  representing   b  sales    ability to conduct and interpret consumer tests and translate consumer needs to products   strong ideation:1
+and claims generation skills   leadership of cross functional:1
+highly matrixed global teams   extensive expertise in identification and development of high growth opportunities   supervision of technical experts:1
 formulators:1
-and administrative staff of all levels extensive experience in open innovation:1
-licensing and outsourcing comprehensive network of global opinion leaders and track record in leveraging consultants strong negotiation skills world recognized expert in oral healthcare r d working relationship with fda:1
-industry and research associations noteworthy accomplishments led the development of ept:1
-the world s first lateral diffusion stick based pregnancy test developed the current formula for listerine:1
-the world s leading mouthwash led r d on numerous solid:1
+and administrative staff of all levels   extensive experience in open innovation:1
+licensing and outsourcing   comprehensive network of global opinion leaders and track record in leveraging consultants   strong negotiation skills   world recognized expert in oral healthcare r d   working relationship with fda:1
+industry and research associations noteworthy accomplishments   led the development of ept:1
+the world s first lateral diffusion  stick based  pregnancy test   developed the current formula for listerine:1
+the world s leading mouthwash   led r d on numerous solid:1
 liquid:1
 and semi solid dosage forms on global brands including rolaids:1
 benadryl:1
@@ -1054,10 +1062,10 @@ lubriderm:1
 trident:1
 dentine:1
 aquafresh:1
-and sensodyne invented neuronal based biosensors:1
-a new class of biosensors assembled and directed one of the industry s first non destructive analysis labs identified:1
+and sensodyne   invented neuronal based biosensors:1
+a new class of biosensors   assembled and directed one of the industry s first non destructive analysis labs   identified:1
 in licensed:1
-and drove commercialization of gsk s largest selling oral care device developed process for pipeline development for gsk s venture group identified and led r d process for licensing aquafresh white strips created a new global platform as key growth area for gsk consumer healthcare identified and licensed early stage medical device concept b opportunity and drove it to clinical prototype within months led numerous multi national due diligence teams:1
+and drove commercialization of gsk s largest selling oral care device   developed process for pipeline development for gsk s venture group   identified and led r d process for licensing aquafresh white strips   created a new global platform as key growth area for gsk consumer healthcare   identified and licensed early stage medical device concept    b opportunity  and drove it to clinical prototype within   months   led numerous multi national due diligence teams:1
 including technical due diligence on block drug acquisition:1
 transmissions:1
 fda:1
@@ -1113,7 +1121,7 @@ analytical chemistry:1
 biotechnology:1
 technically proficient with microsoft word:1
 crm sales management system:1
-credit analysis automated underwriting learns new systems quickly:1
+credit analysis automated underwriting  learns new systems quickly:1
 basic billing:1
 law enforcement:1
 loss prevention:1
@@ -1127,13 +1135,13 @@ root cause analysis:1
 medicaid:1
 content management system:1
 federal regulations:1
-proficient epic:1
+proficient  epic:1
 interqual:1
 nice:1
 symposium:1
 foundations:1
 azz cardfile:1
-familiar excel:1
+familiar  excel:1
 dependable:1
 funds:1
 assisting patients:1
@@ -1158,7 +1166,7 @@ sales planning:1
 territory management:1
 interpersonal skills:1
 word processing:1
-microsoft office excel:1
+microsoft office  excel:1
 and access expertise:1
 internet:1
 pc mac software proficiency:1
@@ -1171,8 +1179,8 @@ wpm:1
 call center management experience:1
 proficient in customer account software:1
 conflict resolution proficiency:1
-customer relationship management software crm:1
-compassionate active listener who processes the ability to multi task:1
+customer relationship management software  crm:1
+compassionate  active listener who processes the ability to multi task:1
 community health:1
 dentistry:1
 financing:1
@@ -1181,7 +1189,7 @@ multitasking:1
 x rays:1
 patient evaluation intervention:1
 adept at prioritizing managing deadlines:1
-trained in pre and post surgical care:1
+trained in pre  and post surgical care:1
 competent in physical assessments:1
 minor surgery assistance awareness:1
 concise:1
@@ -1229,7 +1237,7 @@ windows os:1
 patient evaluation:1
 patient preparation:1
 respiratory therapy:1
-bilingual in spanish read:1
+bilingual in spanish  read:1
 write:1
 and speak:1
 issue resolution:1
@@ -1276,7 +1284,7 @@ microsoft visual studio:1
 ibm websphere:1
 websphere:1
 winrunner:1
-can lift up to lbs:1
+can lift up to     lbs:1
 knowledgeable computer skills in microsoft word and power point:1
 music production:1
 film act direct:1
@@ -1288,14 +1296,14 @@ resuscitation:1
 surgeon:1
 microsoft word and excell:1
 medisoft billing software:1
-arcommand billing software:1
+arcommand  billing software:1
 medicare medical and all other insurance private billing:1
 advanced knowledge in hmo and managed care:1
 computer literate:1
 quick and easy learning skills:1
 able to work under pressure:1
 excellent organization skills:1
-high typing skills minimum of wpm:1
+high typing skills minimum of      wpm:1
 spelling:1
 and writing skills:1
 high skills in business management and knowledge of supervising employees:1
@@ -1311,7 +1319,7 @@ ms dos:1
 russian:1
 typing skills:1
 critical care:1
-fluent in spanish:1
+fluent  in spanish:1
 efficient:1
 prioritize multiple deadlines:1
 work well independently:1
@@ -1329,7 +1337,7 @@ specification:1
 make travel arrangements:1
 making travel arrangements:1
 professional summary:1
-strategic healthcare professional with over years in operations leadership medical practice management:1
+strategic healthcare professional with over    years in operations leadership  medical practice management:1
 hospital administration:1
 and medicare services:1
 core qualifications:1
@@ -1338,9 +1346,9 @@ population health management:1
 medicare and medicaid services:1
 performance and quality improvement:1
 reimbursement methodologies:1
-icd cm:1
-icd pcs:1
-hcpcs cpt:1
+icd    cm:1
+icd    pcs:1
+hcpcs  cpt:1
 anatomy and physiology:1
 accountable care organization:1
 revenue cycle:1
@@ -1352,7 +1360,7 @@ physician quality reporting system microsoft office suite:1
 idx:1
 nextgen:1
 docutap:1
-virtual physician assistant vpa:1
+virtual physician assistant  vpa:1
 navinet:1
 medview:1
 sam:1
@@ -1383,28 +1391,27 @@ using critical thinking skills:1
 monitoring and preparing hemovacs:1
 casting:1
 external fixation:1
-typing greater then words a minute:1
-networking computer:1
+typing  greater then    words a minute:1
+networking  computer:1
 computer management:1
-rebuild repair computer hardware:1
-computer software installation operating systems:1
+rebuild repair computer  hardware:1
+computer software installation  operating systems:1
 photoshop experience:1
 excel experience:1
 microsoft office experience:1
 spreadsheet experience:1
 power point experience:1
-graduate assistant team lead:1
-lead implementation of optical character recognition ocr system in registrar office:1
+graduate assistant   team lead:1
+lead implementation of optical character recognition  ocr  system in registrar office:1
 technical proficiencies:1
-hcis ehr meditech magic:1
-cs x and x athena:1
-pm tools ms word:1
+hcis ehr       meditech magic:1
+cs    x and   x  athena:1
+pm tools       ms word:1
 quick base:1
 project:1
 dictation:1
 team lead:1
 magic:1
-midas:1
 ocr:1
 order entry:1
 pacs:1
@@ -1429,7 +1436,7 @@ cpa:1
 memory:1
 technical training:1
 medical terminology expert:1
-icd international classification of disease systems:1
+icd     international classification of disease systems:1
 billing and collection procedures expert:1
 hospital inpatient and outpatient records:1
 inpatient records coding proficiency:1
@@ -1443,7 +1450,7 @@ research and data analysis:1
 close attention to detail:1
 adept m:1
 ulti tasker:1
-office support phones:1
+office support  phones:1
 faxing:1
 excellent verbal communication:1
 ms windows proficient:1
@@ -1487,9 +1494,9 @@ paralegal:1
 areas of expertise include:1
 statistics and data analysis:1
 operationalizing best practices:1
-teaching facilitating coaching mentoring:1
+teaching  facilitating  coaching  mentoring:1
 marketing and public relations:1
-lean six sigma improvement methodology:1
+lean  six sigma improvement methodology:1
 advanced analytics:1
 process and performance improvement planning:1
 gap analysis:1
@@ -1497,11 +1504,11 @@ process control:1
 statistical process control:1
 human resource management:1
 data validation:1
-computer literate microsoft word:1
+computer literate  microsoft word:1
 microsoft picture:1
 smart draw vp:1
 spss and statit statistical programs:1
-other programs such as midas:1
+other programs such as  midas:1
 infoview business object:1
 kphc:1
 lotus note:1
@@ -1511,7 +1518,7 @@ product expertise:1
 or selling training:1
 educational programs:1
 market trends:1
-medicaid business development:1
+medicaid  business development:1
 ms excel:1
 ms powerpoint:1
 new business development:1
@@ -1544,14 +1551,14 @@ dds:1
 rhit:1
 payroll processing:1
 protected health information:1
-microsoft office years:1
+microsoft office      years:1
 talent acquisition:1
-training and development years groups society for human resource management january to present:1
+training and development      years   groups society for human resource management january      to present:1
 business development and sales:1
 ats experience with various programs:1
-effective and strong communicator written and oral skills:1
+effective and strong communicator  written and oral  skills:1
 organizational ability and multi tasking skills:1
-problem solver creativity and forethought in anticipating and solving complex project issues:1
+problem solver   creativity and forethought in anticipating and solving complex project issues:1
 ability to respond in a flexible manner and reprioritize work as situations change:1
 ability to demonstrate sound judgment by taking appropriate actions regarding questionable findings or concerns:1
 ability to work independently and as part of an effective team environment:1
@@ -1595,6 +1602,7 @@ transmitting and transporting files:1
 managing office supplies:1
 records management systems:1
 sensitive material handling:1
+data entry documentation:1
 report development:1
 resolving discrepancies:1
 prioritizing important tasks:1
@@ -1612,15 +1620,15 @@ google analytics:1
 marketing strategy:1
 print advertising:1
 project leader:1
-healthcare industry executive with over years experience including years managing full service home healthcare facilities including profit and loss responsibility:1
+healthcare industry executive with over    years  experience including    years managing full service home healthcare facilities including profit and loss responsibility:1
 clinical and operations management:1
 quality improvement and control:1
 personnel employee relations:1
-customer service and business development strong leadership skills and experience in:1
-team building leadership:1
+customer service and business development   strong leadership skills and experience in:1
+team building   leadership:1
 implementing best practices:1
 performance and productivity improvements:1
-finance accounting profit and loss accountability:1
+finance   accounting profit and loss accountability:1
 budgeting and pricing:1
 operational management:1
 time and organizational management:1
@@ -1646,17 +1654,17 @@ analytics:1
 budgeting forecasting:1
 database marketing:1
 customer segmentation:1
-logical and analytical thinking written and oral communication customer service oriented problem solving motivated self starter critical and creative thinking over years medical technician background technology background data processing functions qualifications certified computer technician extremely customer service oriented highly reliable technician flexible work schedule security clearance technology background certified electronic health records specialist certified medical supply technician:1
+logical and analytical thinking written and oral communication    customer service oriented problem solving      motivated self starter critical and creative thinking    over   years medical technician background technology background      data processing functions qualifications certified computer technician        extremely customer service oriented highly reliable technician          flexible work schedule security clearance            technology background certified electronic health records specialist certified medical supply technician:1
 peripherals:1
 publications:1
 budgeting proficiency:1
 promotes positive behavior:1
-people skills strong interpersonal skills:1
+people skills  strong interpersonal skills:1
 advanced problem solving:1
 great organizational skills:1
-advanced time management capabilities quick learner:1
+advanced time management capabilities  quick learner:1
 skilled in oracle and wcn databases:1
-knowledge of international business practices and government structure official sensitive security clearance obtained october:1
+knowledge of international business practices and government structure  official sensitive security clearance obtained october:1
 budgeting and finance:1
 strong verbal communication:1
 staff development:1
@@ -1676,21 +1684,22 @@ training personnel:1
 communication:1
 empowering:1
 budget control:1
-transforming leftovers into soups salads and delicious meals development of a stable staff:1
-and happy residents able to generate all aspects of state regulations:1
-records and logs kept up to date family functions and special events are especially fun and happy professional and caring able to adapt to any circumstance and cook to perfection:1
-bilingual speak:1
-read and write english and spanish fluently advanced in word:1
+transforming leftovers into soups salads and delicious meals   development of a stable staff:1
+and happy residents   able to generate all aspects of state regulations:1
+records and logs kept up to date   family functions and special events  are especially fun and happy   professional and caring   able to adapt to any circumstance and cook to perfection:1
+bilingual:1
+speak:1
+read and write english and spanish fluently    advanced in word:1
 microsoft:1
 explorer:1
-midas proficient in excel cpr certified excellent customer service:1
+proficient in excel    cpr certified  excellent customer service:1
 critical thinker and problem solver:1
 brassring and taleo candidate tracking systems:1
 training and experience in infovision ii:1
 retail link:1
-and spectra databases used to analyze sales numbers and performance:1
-and create progressive goals for upcoming months:1
-merchandising networking reporting:1
+and spectra  databases  used to analyze sales numbers and performance:1
+and create  progressive goals for upcoming months:1
+merchandising   networking   reporting:1
 lte:1
 cell tower:1
 lan wan:1
@@ -1722,11 +1731,11 @@ x:1
 excellent customer service:1
 certified in cpr and first aide:1
 fast learning and working skills:1
-collections receivables:1
+collections   receivables:1
 patient advocacy:1
-icd icd standards:1
+icd     icd    standards:1
 insurance verification:1
-marketing design:1
+marketing   design:1
 hippa compliance:1
 facs:1
 athena:1
@@ -1734,7 +1743,7 @@ centricity:1
 medical manager:1
 trucode:1
 nuemd:1
-powerpoint quickbooks:1
+powerpoint    quickbooks:1
 trained in asc coding:1
 hhm and medisoft billing systems:1
 technical expertise:1
@@ -1750,7 +1759,7 @@ medical invoicing:1
 accounts for:1
 basis:1
 collections:1
-biotechnology and pharmaceutical sales:1
+biotechnology and pharmaceutical  sales:1
 award winner sales professional:1
 sql server manager:1
 tableau server and desktop:1
@@ -1769,15 +1778,15 @@ performance analyst:1
 results focused:1
 goal oriented:1
 business financial analyst with extensive experience in the business:1
-nonprofit and health care sectors mba graduate with a focus on project management and administration superior analytical and quantitative skills with proficiency in data entry:1
+nonprofit and health care sectors  mba graduate with a focus on project management and administration  superior analytical and quantitative skills with proficiency in data entry:1
 crystal reports and various statistical software:1
-research analysis:1
-leadership supervision:1
+research   analysis:1
+leadership   supervision:1
 program policy development:1
 financial cost modeling:1
 clinical forecasting:1
-trending troubleshooting:1
-software tools ms office access:1
+trending   troubleshooting:1
+software   tools  ms office      access:1
 and word:1
 sage act:1
 fastrax pos:1
@@ -1815,14 +1824,9 @@ complaint handling dispute resolution:1
 records management:1
 key:1
 client relations:1
-customer needs assessment:1
 insurance collections:1
-report transcription:1
 service orientation:1
-writing:1
 minute taking:1
-multi task management:1
-reading comprehension:1
 microsoft outlook microsoft powerpoint:1
 visual content manager:1
 mainframe:1
@@ -1836,17 +1840,17 @@ issue receipts:1
 money:1
 observe patients:1
 typewriter:1
-analyst skills managed care contract analysis:1
+analyst skills   managed care contract analysis:1
 payment analysis and appeal:1
-quality data analysis and above average computer skills microsoft office suite:1
-adobe full version:1
+quality data analysis and  above average computer skills   microsoft office suite:1
+adobe  full version:1
 athena clarity:1
 internet and email proficiency:1
 adr:1
 budget development:1
 database applications:1
 rms:1
-organizational skills written communications skills verbal communication skills cultural awareness microsoft typing skills ability to focus efficiency self motivation ethical:1
+organizational skills written communications skills verbal communication skills cultural awareness  microsoft typing skills ability to focus efficiency self motivation ethical:1
 and excel:1
 fluent in french:1
 good judgment:1

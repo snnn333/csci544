@@ -1,4 +1,4 @@
-customer service:37
+customer service:36
 sales:31
 quality:26
 policies:23
@@ -42,7 +42,6 @@ presentations:11
 personnel:11
 benefits:10
 payroll:10
-problem solving:10
 outlook:10
 agency:10
 telephone:10
@@ -53,6 +52,7 @@ training:9
 managing:9
 mentoring:9
 time management:9
+problem solving:9
 delivery:9
 microsoft outlook:8
 microsoft excel:8
@@ -63,7 +63,6 @@ staffing:8
 mental health:8
 cpr:8
 letters:8
-call center:8
 problem solver:8
 network:8
 legal:8
@@ -76,6 +75,7 @@ government:7
 receptionist:7
 coding:7
 supervisor:7
+call center:7
 basic:7
 contracts:7
 ms office:7
@@ -113,7 +113,6 @@ administrative support:5
 crisis intervention:5
 retail sales:5
 auditing:5
-cpr certified:5
 icd:5
 selling:5
 supervising:5
@@ -151,6 +150,7 @@ quick learner:4
 client relations:4
 windows:4
 cash:4
+cpr certified:4
 cpt:4
 phlebotomy:4
 careful and active listener:4
@@ -182,9 +182,9 @@ ability to maintain confidentiality:4
 experienced interviewer and trainer:4
 able to perform in critical or unusual situations:4
 capable of dealing with cyclical workload pressures:4
-microsoft office microsoft word:4
-excel trained in basic spss software:4
-microsoft outlook internet explorer:4
+microsoft office  microsoft word:4
+excel  trained in basic spss software:4
+microsoft outlook  internet explorer:4
 google:4
 windows live:4
 childplus:4
@@ -240,7 +240,6 @@ vision:3
 fundraising:3
 law enforcement:3
 secretarial:3
-typing wpm:3
 charts:3
 assist patients:3
 technician:3
@@ -283,6 +282,7 @@ employee relations:3
 website:3
 group facilitation:3
 allegra:3
+google analytics:3
 first aid:3
 quality control:3
 liaison:2
@@ -321,10 +321,9 @@ mark:2
 creative problem solver:2
 strong organizational skills:2
 range of motion:2
-administrative support filing:2
 banking:2
 rapport:2
-medical billing and coding icd:2
+medical billing and coding  icd:2
 trade shows:2
 security:2
 community outreach:2
@@ -351,8 +350,8 @@ ekg s:2
 monitors:2
 paralegal:2
 time management skills:2
-computer skills xp professional windows:2
-computer skills hris:2
+computer skills   xp professional windows:2
+computer skills   hris:2
 xp professional windows:2
 essays:2
 management skills:2
@@ -445,6 +444,7 @@ dispatching:2
 goldmine:2
 lawson:2
 medisoft:2
+typing   wpm:2
 artiva:2
 staff training and development:2
 hippa compliance:2
@@ -496,7 +496,6 @@ admall:2
 salesforce:2
 mactive:2
 comscore:2
-google analytics:2
 federal government:1
 public policy:1
 mostly microsoft excel and microsoft word:1
@@ -578,24 +577,26 @@ paint:1
 tables:1
 team work:1
 wise:1
-customer service expert customer focused:1
-strong organizational skills skilled multi tasked:1
-creative problem solver deadline oriented:1
-active listening skills scheduling:1
-quick learner bilingual:1
-training development aptitude dentrix open dental training:1
+customer service expert          customer focused:1
+strong organizational skills        skilled multi tasked:1
+creative problem solver          deadline oriented:1
+active listening skills          scheduling:1
+quick learner          bilingual:1
+training development aptitude       dentrix open dental training:1
 credit card processing:1
+call     center:1
 case manager:1
 insurance sales:1
 listening:1
 training development:1
 accounts payable and receivable:1
+administrative  support   filing:1
 branding:1
-data entry ms excel ms office:1
-human resource recruiting:1
+data entry  ms excel  ms office:1
+human resource  recruiting:1
 mortgage loans:1
-office management selling:1
-taxes phone skills:1
+office management  selling:1
+taxes   phone skills:1
 websites:1
 highly analytical thinking with demonstrated talent for identifying:1
 scrutinizing:1
@@ -625,13 +626,13 @@ learning centers:1
 microsoft dynamics:1
 accounts payables:1
 accounts receivables:1
-benefit servicing systems icue:1
+benefit servicing systems  icue:1
 facet:1
 iset:1
 customer service management expertise:1
-medical benefit and claim systems kl library:1
+medical benefit and claim systems  kl library:1
 linx:1
-medical terminology records vlookup:1
+medical terminology records  vlookup:1
 team liaison:1
 negotiation competency:1
 seasoned in conflict resolution:1
@@ -639,8 +640,9 @@ courteous demeanor:1
 employee relations specialist:1
 troubleshooting skills:1
 telecommunication knowledge:1
-data entry ms excell:1
-office management phone skills:1
+administrative support  filing:1
+data entry  ms excell:1
+office management  phone skills:1
 emotional support:1
 hospice icd:1
 ids:1
@@ -650,12 +652,13 @@ event planning:1
 leadership training:1
 neat:1
 cameras:1
-type wpm:1
+type    wpm:1
 adding machine:1
 driving:1
 trains employees:1
 supervisory:1
 taking messages:1
+typing    wpm:1
 warrants:1
 excellent communication skills:1
 investigative skill:1
@@ -693,15 +696,15 @@ research i:1
 resuscitation:1
 spss:1
 written communication skills:1
-data analysis business artifacts documentation:1
-strategic planning business development:1
-team player workflow analysis:1
-product launches brand management:1
-ms project sql and databases:1
-risk mitigation and management data mapping:1
-service oriented architecture release planning:1
-collaboration tools test case scenarios:1
-requirements gathering gap analysis:1
+data analysis          business artifacts documentation:1
+strategic planning          business development:1
+team player          workflow analysis:1
+product launches          brand management:1
+ms project          sql and databases:1
+risk mitigation and management    data mapping:1
+service oriented architecture          release planning:1
+collaboration tools          test case scenarios:1
+requirements gathering          gap analysis:1
 brand management:1
 business processes:1
 cancer:1
@@ -785,17 +788,18 @@ professionalism:1
 honesty and integrity:1
 scheduling appointments:1
 labor relations:1
-resolving cash receipt discrepancies strong communication skills:1
+resolving cash receipt discrepancies   strong communication skills:1
 customer satisfaction training:1
-excellent customer service skills with monthly training and development on coaching to achieve higher levels of sales detail oriented:1
+excellent customer service skills with monthly training and development on coaching to achieve higher levels of sales  detail oriented:1
 merchandising seminars in fashion:1
-inventory ms office proficient:1
-writing letters and memos personnel training on policies and processes:1
-time management involving scheduling and payroll professional and friendly:1
+inventory   ms office proficient:1
+writing letters and memos   personnel training on policies and processes:1
+time management involving scheduling and payroll   professional and friendly:1
 strong verbal skills:1
 excellent written skills:1
-icd and cpt coding:1
+icd   and cpt coding:1
 cable:1
+customer    service:1
 human resources management:1
 order entry:1
 servers:1
@@ -839,7 +843,7 @@ punctual:1
 computer skills:1
 financial planning:1
 goal setting:1
-microsoft office outlook:1
+microsoft office  outlook:1
 and excel:1
 and public speaking:1
 creative problem solver ms windows proficient:1
@@ -879,13 +883,13 @@ conflict resolution techniques:1
 call center management experience:1
 telecommunications knowledge:1
 proficient with microsoft office suite:1
-multi tasking computer proficiency:1
-microsoft office word:1
-outlook programs aimsi:1
+multi tasking   computer proficiency:1
+microsoft office  word:1
+outlook   programs  aimsi:1
 oms systems:1
 ups worldship and alice:1
-apricot type wpm:1
-key touch by sign touch:1
+apricot    type    wpm:1
+key touch by sign   touch:1
 associate:1
 greetings:1
 its:1
@@ -920,9 +924,9 @@ radio:1
 spectrum analyzer:1
 supplier management:1
 validation:1
-word programs including excel and access:1
-epic and other electronic medical records:1
-and the database efforts to outcome eto working knowledge of sas and r:1
+word programs  including excel and access:1
+epic and other  electronic medical records:1
+and the database efforts to outcome  eto   working knowledge      of sas and r:1
 color:1
 dft:1
 electronic medical records:1
@@ -930,51 +934,51 @@ gl:1
 speaker:1
 sas:1
 fluent spanish:1
-superb sales professional store planning and design strong communication skills detail oriented personnel training and development time management proficient in ms office:1
+superb sales professional          store planning and design        strong communication skills          detail oriented        personnel training and development          time management        proficient in ms office:1
 strong communication skills:1
 personnel training:1
 areas of specialty domestic violence:1
 sexual abuse:1
 rape:1
-prostitution mental health:1
+prostitution  mental health:1
 substance abuse:1
 depression:1
 anxiety:1
 bipolar:1
-schizophrenia homelessness:1
+schizophrenia  homelessness:1
 community inclusion:1
 shelter system:1
 hra:1
 section:1
-community resources mental retardation:1
+community resources  mental retardation:1
 medication dispensing:1
 residential services:1
-autism runaway teenagers:1
+autism  runaway teenagers:1
 adhd:1
 add:1
 truancy:1
 family intervention:1
 psychology human behavior and personality disorder academic:1
 various agencies worked and volunteered and interned fr mayor bill di blasio cit advocate leticia james bronx congress jose senarator:1
-epillat upper manhattan cases reintegration from jail system back into the communities reintegration:1
+epillat  upper manhattan  cases reintegration from jail system back into the communities reintegration:1
 worked with autism:1
 mentally ill:1
 mentaly retarded:1
 group homes a risk youth:1
 human trafficker while doing office administration for both legal team of criminal lawyers as well as well as non for profit administration i did online banking:1
 consultation knowledge experience and worked along side side congress workers such as ruben diaz sr:1
-in the south bronx area where many low income super low income many in he shelter system unemployed many residing in shelter system due to poverty ad lack of income or jobs available or lack of education opportunities resources or chances to excel also:1
-worked along side and closely to the mr ruben diaz jr bronx borough president where i with became eager to follow and make change with in he bronx where i personally as raised in the bronx and fell prod to say i am a bromxite wwit ard work abo and ooprtniies attendeded and radated frm columbia university and bronxite congress created and became the bronx workforce:1
-i was pivotal part of all the new and availablle proarmas aha where programs for education training jobs scholarships college prep and class part of the workfoce program for the and at the dept of labor a new program which opened doors for all bronxites chances opportunities and a new style of life:1
+in the south bronx area  where many low income super low income many in he shelter system unemployed many residing in shelter system due to poverty ad lack of income or jobs available or lack of education opportunities resources or chances to excel  also:1
+worked along side and closely to the mr ruben diaz jr bronx borough president  where i with became eager to follow and make change with in he bronx where i personally as raised in the bronx and fell prod to say i am a bromxite wwit ard work abo and ooprtniies attendeded and radated frm columbia university and bronxite congress created and became the bronx workforce:1
+i was pivotal part of all the new and availablle proarmas aha where programs for education training jobs scholarships college prep and class  part of the workfoce   program  for the and at the dept of labor a new program which opened doors for all bronxites  chances opportunities and a new style of life:1
 to learn live and enjoy a new form of a style of live:1
-gainfully employed ending homeless most people or potential candidates with no experience to now becoming prepared gaining new set of specific skills and prepared for today s competitive market in nyc in my opinion it rescued many bronxite which went from no set of skills to now having the ability to get education training jobs and opportunities to better themselves or educate in areas of their choice many council congress and people with power took interest n helping ut th bronx in the map:1
-where we belonged and help the bcx boroughs quickly became involvement part took in the bronx s crisis intervention:1
-something i know all to well from my personal work educational and professional life worked outreach act team:1
-institutionalized hospital and accessed he transition from hospital to client discharge back t he community assist with entitlements benefits ssi ssd:1
+gainfully employed ending homeless  most people or potential candidates with no experience to now becoming prepared gaining new set of specific skills and prepared for today s competitive market in nyc  in my opinion it rescued many bronxite which went from no set of skills to now having the ability to get education training jobs and opportunities to better themselves or educate in areas of their choice many  council congress and people with power took interest n helping ut th bronx in the map:1
+where we belonged and help the bcx boroughs quickly became involvement part  took in the bronx s crisis intervention:1
+something i know all to well from my personal work educational and professional life   worked outreach act team:1
+institutionalized hospital and accessed he transition from  hospital to client discharge back t he community  assist with entitlements benefits ssi ssd:1
 food stamps:1
 housing:1
 medicaid:1
-shelter plus care ect assist ad promote clients independence and:1
+shelter plus care ect assist ad promote clients  independence and:1
 doh:1
 dv:1
 guardian:1
@@ -987,7 +991,7 @@ skills:1
 microsoft suite proficiency:1
 rightfax ventura:1
 lotus notes:1
-key by sight:1
+key  by sight:1
 dispatch:1
 collections:1
 analyzed official documents in order for migrant families to receive benefits:1
@@ -1035,12 +1039,13 @@ oncologist:1
 orthopedics:1
 pain management:1
 persuasion:1
+problem   solving:1
 real time:1
 sales experience:1
 sales training:1
 teamwork:1
-healthcare claims authorization:1
-computerized and paper claims submission people skills advanced problem solving:1
+healthcare  claims authorization:1
+computerized and paper claims submission people skills  advanced problem solving:1
 great organizational skills:1
 provider education and communication:1
 organizational planning:1
@@ -1116,21 +1121,21 @@ self awareness:1
 empathy:1
 boundary setting:1
 close attention to detail:1
-icd international classification of disease:1
+icd    international classification of disease:1
 adept multi tasker:1
-office support phones:1
+office support  phones:1
 records maintenance professional:1
 excellent verbal communication:1
-familiar with commercial private insurance:1
+familiar with commercial   private insurance:1
 resourceful and reliable worker:1
 excellent problem solver:1
 insurance and collections procedures:1
 composed and professional demeanor:1
-key kpm:1
+key       kpm:1
 nexgen:1
 ehr:1
 documentation filing:1
-scanning indexing:1
+scanning   indexing:1
 workflow onbase:1
 heat:1
 fast track:1
@@ -1140,28 +1145,28 @@ indexing:1
 reading:1
 sorting:1
 verbal communication:1
-more than years experience in healthcare:1
+more than    years experience in healthcare:1
 marketing and planning analysis:1
 develop:1
 and manage website for advocate physician partners regarding their managed care and clinical integration for population health management programs:1
 mined data to provide qualitative and quantitative analysis to key stakeholders:1
 including executive team:1
 regarding business initiatives:1
-implement innovative solutions to manage and improve patient health strategies include incorporating wearable apps in patient portal:1
+implement innovative solutions to manage and improve patient health   strategies include   incorporating wearable apps in patient portal:1
 telehealth appointments:1
 and online scheduling for immediate care:1
 extensive knowledge:1
 skills and experience with technical databases and software:1
-such as content management systems html code:1
-google analytics google adwords:1
-and microsoft office excel:1
+such as content management systems  html code:1
+google adwords:1
+and microsoft office   excel:1
 and word:1
 skills used:1
-i enjoy challenging sticks i try my best at being the best enjoy working as a team or self if needed:1
+i enjoy challenging sticks  i try my best at being the best  enjoy working as a team or self if needed:1
 staff lpn:1
-smith village chicago:1
+smith village   chicago:1
 il:1
-october to april:1
+october      to april:1
 responsibilities:1
 provide patient care:1
 manage a team of cna s:1
@@ -1172,20 +1177,20 @@ psych care:1
 med surg:1
 assited living care:1
 iv care management:1
-participated and completed weeks of training on total mds rai process:1
+participated and completed   weeks of training on total mds      rai process:1
 understanding the principals and:1
 process of the rai:1
 pps obra regulations and guidelines:1
-understanding mds coding for obra and:1
+understanding mds     coding for obra and:1
 pps:1
 able to accurately assess activities for daily living:1
 pps medicare timing and scheduling:1
 familiar with:1
-care assessments caas:1
+care assessments  caas:1
 understanding of rug iv payment prospective system:1
 clinical reimbursement:1
 for quality of care:1
-maximization of skilled nursing facility state federal medicare reimbursement programs:1
+maximization of skilled nursing facility state   federal  medicare  reimbursement programs:1
 utilizing the rug iv guidelines:1
 glucose testing:1
 dressing changes:1
@@ -1197,10 +1202,10 @@ standard first aid:1
 gt feeding management:1
 iv management:1
 daily:1
-computer and internet use years:1
+computer and internet use    years:1
 certifications licenses:1
-mds coordinator:1
-clinical reimbursement mds coordinator:1
+mds     coordinator:1
+clinical reimbursement  mds     coordinator:1
 diabetic:1
 geriatrics:1
 detail oriented merchandising:1
@@ -1219,8 +1224,8 @@ reporting and documentation:1
 computer charting:1
 diagnostic assessments:1
 fluent in conversational spanish:1
-competent in performing lead ekgs:1
-proficient in microsoft office word:1
+competent in performing    lead ekgs:1
+proficient in microsoft office  word:1
 highly organized with excellent communication skills:1
 willingness and rapid ability to learn that results in professional growth and cooperative relationships with colleagues:1
 blood draws:1
@@ -1253,6 +1258,7 @@ managerial:1
 strategic plans:1
 total quality management:1
 adaptive equipment:1
+cpr  certified:1
 home care:1
 meal prep:1
 medication management:1
@@ -1265,7 +1271,7 @@ maintains strict confidentiality:1
 knowledge of hmos:1
 medicare and medi cal:1
 medical manager software:1
-electronic medical record emr software:1
+electronic medical record  emr  software:1
 hipaa compliance:1
 team player with positive attitude:1
 effectively influences others:1
@@ -1277,8 +1283,8 @@ regulatory affairs:1
 budgeting expertise:1
 market research and analysis:1
 executive level:1
-proposals coaching:1
-teaching quality control:1
+proposals  coaching:1
+teaching  quality control:1
 corrective action:1
 drafting:1
 financing:1
@@ -1286,9 +1292,9 @@ legal research:1
 mergers and acquisitions:1
 securities:1
 team management:1
-client relations creative problem solving customer service:1
-academic advisement team leader effectivecommunicator:1
-project management relationship builder professional attitude marketing multi task management:1
+client relations   creative problem solving   customer service:1
+academic advisement   team leader    effectivecommunicator:1
+project management    relationship builder   professional attitude marketing   multi task management:1
 i am confident in my ability to navigate computers:1
 communicate effectively:1
 value teamwork:1
@@ -1320,7 +1326,7 @@ human resources management systems:1
 procedure compliance:1
 in person and telephone interviewing:1
 employment data tracking:1
-new hire onboarding orientation:1
+new hire onboarding   orientation:1
 termination documentation:1
 documentation and recordkeeping:1
 remote conferencing and communication:1
@@ -1351,18 +1357,18 @@ author:1
 motivation techniques specialist:1
 confident public speaker:1
 patient oriented:1
-technical skills operating systems ibm aix v:1
+technical skills  operating systems  ibm aix  v:1
 v:1
-v redhat linux v enterprise linux oracle solaris hardware ibm blade server:1
+v     redhat linux  v        enterprise linux  oracle solaris    hardware  ibm blade server:1
 hmc:1
 hp ilo:1
-dell idrac vsphere application server aws ec nim:1
+dell idrac  vsphere     application server  aws ec  nim:1
 hacmp clustering:1
-websphere application server x x:1
+websphere application server   x   x:1
 websphere portal server:1
-windows active directory:1
+windows           active directory:1
 microsoft iis server:1
-distribution server tools nagios:1
+distribution server  tools  nagios:1
 teradata msm:1
 hubeq:1
 itsm:1
@@ -1518,7 +1524,7 @@ complex problem solving:1
 highly detail oriented:1
 superior time management:1
 exceptionally organized:1
-advanced computer proficiency pc and mac:1
+advanced computer proficiency  pc and mac:1
 exceptional interpersonal communication:1
 effective leader:1
 staff training development:1
@@ -1536,7 +1542,7 @@ financial and accounting:1
 financial analysis:1
 financial analyst:1
 financial reporting:1
-financial management reporting:1
+financial management  reporting:1
 phone systems:1
 quickbooks pro:1
 tax preparation:1
@@ -1544,7 +1550,7 @@ year end:1
 phlebotomy knowledge:1
 data and statistical analysis:1
 blood bank background:1
-clia osha compliance:1
+clia   osha compliance:1
 sharp critical thinker:1
 manual dexterity:1
 lab testing and reporting:1
@@ -1609,6 +1615,6 @@ patience:1
 sales and:1
 health promotion:1
 nutrition counseling:1
-exercise testing prescription:1
+exercise testing   prescription:1
 health and fitness speaker:1
-microsoft office excel:1
+microsoft office  excel:1

@@ -52,7 +52,6 @@ css:8
 documentation:8
 budgets:8
 tv:8
-adobe photoshop:8
 conversion:8
 selling:8
 outlook:7
@@ -73,6 +72,7 @@ branding:7
 materials:7
 media relations:7
 press releases:7
+adobe photoshop:7
 competitive:7
 radio:7
 progress:7
@@ -206,7 +206,6 @@ media plan:3
 media planning:3
 ibm:3
 hp:3
-ms access:3
 advertisements:3
 contracts:3
 data management:3
@@ -259,7 +258,6 @@ vista:3
 sharepoint:3
 social media:3
 real time:3
-venture capital:3
 budget planning:3
 web development:3
 product marketing:3
@@ -313,6 +311,7 @@ cpa:2
 data analysis:2
 architecture:2
 operations:2
+ms access:2
 metrics:2
 people management:2
 quark xpress:2
@@ -336,8 +335,8 @@ specification:2
 print media:2
 after effects:2
 salesforce:2
-adobe package indesign:2
-ms office word:2
+adobe package  indesign:2
+ms office  word:2
 keynote:2
 concept:2
 customer relations:2
@@ -346,7 +345,7 @@ camera:2
 fluent in spanish:2
 data entry:2
 navision:2
-desktop publishing software photoshop:2
+desktop publishing software  photoshop:2
 great organizational skills:2
 detail oriented:2
 human resource:2
@@ -374,6 +373,7 @@ vba:2
 etc:2
 surveys:2
 linkedin:2
+pinterest:2
 tumblr:2
 creativity:2
 troubleshooting proficiency:2
@@ -408,6 +408,7 @@ excellent customer service skills:2
 conflict resolution:2
 underwriting:2
 mentoring:2
+venture capital:2
 market trends:2
 brand identity:2
 ip:2
@@ -434,7 +435,6 @@ office manager:2
 increase:2
 promotional:2
 liaison:2
-contract management:2
 very organized:2
 complaint resolution:2
 medical terminology knowledge:2
@@ -478,12 +478,12 @@ internet marketing:1
 msoffice:1
 content writing:1
 proficient in adobe photoshop and adobe premiere:1
-drawing storyboarding:1
+drawing   storyboarding:1
 explaining complex topics in simple terms:1
-problem solving troubleshooting:1
+problem solving   troubleshooting:1
 directing on camera talent:1
 sound design:1
-remixing sweetening:1
+remixing   sweetening:1
 musical scoring:1
 video format conversions and codecs:1
 communicating with others:1
@@ -496,10 +496,10 @@ google search:1
 display:1
 video campaigns:1
 google analytics measurement:1
-report tracking:1
+report   tracking:1
 facebook business manager:1
-ads manager power editor:1
-creative professional copy writing:1
+ads manager   power editor:1
+creative   professional copy writing:1
 ad building:1
 ad order entry:1
 advertising sales:1
@@ -540,7 +540,7 @@ invoices:1
 incoming calls:1
 switchboards:1
 clerk:1
-medical records ms word:1
+medical records ms  word:1
 shipping and receiving:1
 database systems:1
 incoming mail:1
@@ -598,14 +598,14 @@ red hat:1
 router:1
 switching:1
 tcp:1
-animation toon boom harmony:1
+animation  toon boom harmony:1
 tv paint:1
 adobe flash:1
-illustration adobe photoshop:1
+illustration  adobe photoshop:1
 aseprite:1
 paintool sai:1
 gimp:1
-post production adobe after effects:1
+post production  adobe after effects:1
 automate:1
 dell:1
 lenovo:1
@@ -620,15 +620,15 @@ site to site:1
 wifi network:1
 iptv active directory:1
 unified communications:1
-group policies disaster recovery dr:1
-data centers built and operations x helpdesk:1
+group policies disaster recovery  dr:1
+data centers built and operations   x  helpdesk:1
 desktop support:1
-telecom software development life cycle sdlc:1
+telecom software development life cycle  sdlc:1
 ms sql:1
 my sql:1
 share point internet:1
 intranet strong analytical skills:1
-key performance indicator kpi:1
+key performance indicator  kpi:1
 sla vendor management:1
 vendor contracts negotiations:1
 software licensing capital and operating budget:1
@@ -668,14 +668,14 @@ investments:1
 brand development:1
 strategic development:1
 web site:1
-traditional art media black and white photography:1
+traditional art media  black and white photography:1
 oil painting:1
 sculpture:1
-digital art programs photoshop:1
-digital animation maya:1
+digital art programs  photoshop:1
+digital animation  maya:1
 cloud based calendars:1
-diverse multicultural background dual citizenship american and brazilian:1
-educated in the san francisco bay area and in switzerland salesforce:1
+diverse multicultural background  dual citizenship american and brazilian:1
+educated in the san francisco bay area and in switzerland   salesforce:1
 bloomberg:1
 business solutions:1
 cooking:1
@@ -694,10 +694,10 @@ access database:1
 painter:1
 protools:1
 repairing:1
-proficient with video editing software final cut pro and edius:1
+proficient with video editing software  final cut pro and edius:1
 photojournalism and videography:1
 copy editing and proofreading:1
-managing skills advanced problem solving:1
+managing skills  advanced problem solving:1
 benefits and payroll coordination:1
 superb interpersonal skills:1
 background checks:1
@@ -727,7 +727,7 @@ transportation:1
 editing skills:1
 feature articles:1
 explorer:1
-advertising copy:1
+advertising  copy:1
 art direction:1
 bonds:1
 driving license:1
@@ -778,19 +778,19 @@ partner marketing:1
 paid social:1
 paid search:1
 email marketing:1
-b b b c:1
+b b   b c:1
 cro:1
 content marketing:1
 lead generation:1
 marketing automation:1
 strategic partnership:1
-project management including agile methodologies:1
-years of workfront experience as well as jira:1
+project management  including agile methodologies:1
+years of workfront experience  as well as jira:1
 trello:1
 slack:1
 and others:1
 html css:1
-multiple libraries jquery:1
+multiple libraries  jquery:1
 angular:1
 marketing strategy for audience definition and strategy to tactics mapping:1
 with high proficiency in microsoft excel:1
@@ -799,25 +799,25 @@ capable of writing user research scripts and testing plans:1
 conducting focus groups:1
 usability tests:1
 and other testing methods:1
-freelance media production crew member with both on set and office experience extensive experience dslr s lighting equipment:1
+freelance media production crew member with both on set and office experience  extensive experience dslr s   lighting equipment:1
 talented at creating:1
-supervising and budgeting a diverse range of network and independent productions detail orientated and committed to creating high quality finished products:1
-skilled editor with a background in final cut pro x and adobe software experienced in development:1
+supervising and budgeting a diverse range of network and independent productions  detail orientated and committed to creating high quality finished products:1
+skilled editor with a background in final cut pro   x and adobe software  experienced in development:1
 production and post production with a strong sense of grasping visual aesthetics:1
 excels at relationship building organization and making sound judgment under pressure and within tight deadlines:1
 mac and pc user:1
 experienced with canon eos and other dslr camera operating systems:1
-advanced proficiency in microsoft office word:1
+advanced proficiency in microsoft office  word:1
 outlook and publisher:1
+adobe  photoshop:1
 premiere:1
-and lightroom and expert in final cut pro x:1
-expert in social media outlets twitter:1
+and lightroom  and expert in final cut pro x:1
+expert in social media outlets  twitter:1
 vimeo:1
-pinterest:1
 blogger:1
 snapchat:1
 vine:1
-indiegogo and kickstarted marketing skills:1
+indiegogo and kickstarted  marketing skills:1
 creative strategies:1
 social campaigns:1
 etc within platforms:1
@@ -910,18 +910,18 @@ prototyping:1
 web sites:1
 web production:1
 m:1
-edia planning buying softward mediaocean:1
+edia planning buying softward  mediaocean:1
 dds:1
 mediavisor:1
 aspen:1
 strata:1
 dart dfa and dfp:1
-research software ims clear decisions mri:1
+research software  ims clear decisions  mri:1
 adviews:1
 snapshot:1
 srds:1
 emarketer:1
-other software salesforce:1
+other software  salesforce:1
 central desktop vzai:1
 hyperion:1
 mircsoft office suite:1
@@ -943,11 +943,11 @@ process driven:1
 reporting and analytics:1
 raisers edge:1
 donor perfect:1
-adobe creative suite photoshopcs:1
+adobe creative suite  photoshopcs:1
 dreamweavercs:1
 adobe writer:1
 corelpainter:1
-project management tools workamajig:1
+project management tools  workamajig:1
 basecamp:1
 donedone:1
 strong analytical skills:1
@@ -959,9 +959,9 @@ business process:1
 share point:1
 validation:1
 mac os os x systems:1
-technical software salesforce software crm jobscience github filezilla text wrangler sap business objects adobe acrobat tableau micro strategy jira zendesk:1
+technical software  salesforce software   crm   jobscience   github  filezilla  text wrangler  sap business objects  adobe acrobat  tableau  micro strategy  jira  zendesk:1
 proficient in word:1
-access sharepoint:1
+access   sharepoint:1
 multi line phone system:1
 articulate:1
 counseling:1
@@ -977,9 +977,9 @@ writing skills:1
 high ability to perform under stressful circumstances:1
 exceptional organizational skills:1
 effective problem solving skills:1
-people skills enthusiastic people person:1
+people skills  enthusiastic people person:1
 advanced problem solving:1
-weahter forecast smartmet work station:1
+weahter forecast  smartmet work station:1
 statistical analysis software:1
 numerical models analysis:1
 observational data analysis:1
@@ -1001,14 +1001,14 @@ digital strategy:1
 web metrics and seo optimization:1
 digital engagement:1
 community engagement:1
-digital insights and analytics adobe experience cloud:1
+digital insights and analytics  adobe experience cloud:1
 and looker:1
-conversion rate optimization a b testing qubit and adobe target:1
-email marketing marketing automation responsys and sfmc:1
-salesforce marketing cloud social studio:1
-data visualization tableau and chartio:1
-tagging attribution gtm and dtm:1
-strong quantitative and qualitative problem solving skills excellence in digital marketing including facebook:1
+conversion rate optimization  a b testing  qubit and adobe target:1
+email marketing   marketing automation  responsys and sfmc:1
+salesforce marketing cloud  social studio:1
+data visualization  tableau and chartio:1
+tagging   attribution  gtm and dtm:1
+strong quantitative and qualitative problem solving skills  excellence in digital marketing including facebook:1
 google:1
 and linkedin:1
 brand marketing:1
@@ -1020,7 +1020,7 @@ moz pro:1
 social media sites such as facebook:1
 youtube and instagram:1
 skype for business:1
-microsoft office suite venture capital financial model interests entrepreneurship:1
+microsoft office suite  venture capital financial model interests  entrepreneurship:1
 education:1
 basketball:1
 strength training:1
@@ -1028,17 +1028,18 @@ big data:1
 corporate finance:1
 java:1
 statistical analysis:1
+venture    capital:1
 professional summary:1
 digital marketing coordinator skilled in leveraging the power of blogs:1
-online communities and social media platforms to increase brand awareness and boost brand loyalty seo optimization expert adept at creating highly targeted web content that drives inbound traffic:1
+online communities and social media platforms to increase brand awareness and boost brand loyalty  seo optimization expert adept at creating highly targeted web content that drives inbound traffic:1
 core qualifications:1
 strategic media placement:1
 creative content:1
 special events planning:1
-years customer service sales experience:1
-google analytics adwords certified:1
+years customer service   sales experience:1
+google analytics   adwords certified:1
 reports generation and analysis:1
-seo sem:1
+seo   sem:1
 cashier:1
 media placement:1
 sales experience:1
@@ -1050,9 +1051,9 @@ organizing:1
 processors:1
 reengineering:1
 web programming:1
-independent self starter with analytical and statistical skills passion for data driven decision making:1
-strong organization and time management skills handles multiple projects and details simultaneously:1
-excellent oral and written communication skills communicates and collaborates cross functionally:1
+independent self starter with analytical and statistical skills  passion for data driven decision making:1
+strong organization and time management skills  handles multiple projects and details simultaneously:1
+excellent oral and written communication skills  communicates and collaborates cross functionally:1
 possesses an unquenchable thirst for learning and an insatiable hunger for self improvement:1
 database management:1
 decision making:1
@@ -1069,9 +1070,9 @@ year end:1
 cross media demand generation:1
 digital:1
 social and new media:1
-strategy and competitive planning:1
+strategy and competitive  planning:1
 lss green belt certified:1
-event and workshop strategy:1
+event  and workshop strategy:1
 value proposition creation:1
 content marketing strategies:1
 channel marketing and expansion:1
@@ -1083,7 +1084,7 @@ strategic and analytical thinking:1
 business planning:1
 professional communications:1
 benchmarks and timelines:1
-microsoft access excel:1
+microsoft access  excel:1
 word and visio net:1
 foxpro microsoft windows:1
 apple osx:1
@@ -1119,7 +1120,7 @@ terminal server:1
 unix:1
 upgrades:1
 upgrade:1
-administrative management functions:1
+administrative  management functions:1
 website management:1
 image control:1
 governmental relations:1
@@ -1161,7 +1162,7 @@ imovie:1
 ms publisher:1
 and final cut pro:1
 advance knowledge of social networks and social media tools:1
-pinterest youtube and snapchat:1
+youtube and snapchat:1
 sendible:1
 cyfe:1
 basecamp and more:1
@@ -1169,6 +1170,7 @@ strong writing skills:1
 research abilities:1
 strong organization and planning skills:1
 confidentiality:1
+contract management:1
 creative strategy:1
 doh:1
 general ledger:1
@@ -1218,37 +1220,37 @@ sales or:1
 stocking:1
 posting:1
 games:1
-analytics software google analytics:1
+analytics software  google analytics:1
 omniture:1
 looker:1
 adobe social:1
 netbase:1
 simon data:1
-email service provider bronto:1
+email service provider  bronto:1
 apsis:1
 digital marketing strategy:1
 search engine marketing:1
-vendor relations invodo product videos:1
-bloomreach merchandising analytics:1
-loopcommerce gift now:1
-olapic ugc:1
-certona suggested selling tool:1
-amazon amazon a pages:1
-website platforms ocp site manager:1
-atg oracle:1
+vendor relations  invodo  product videos:1
+bloomreach   merchandising analytics:1
+loopcommerce  gift now:1
+olapic  ugc:1
+certona  suggested selling tool:1
+amazon  amazon a  pages:1
+website platforms  ocp  site manager:1
+atg  oracle:1
 endeca:1
-professional skills email marketing:1
+professional skills  email marketing:1
 retail marketing:1
 product analysis:1
 styling:1
 campaign management:1
 general computer repair skills:1
-skills other organization involvement:1
+skills   other organization involvement:1
 adobe creative suites:1
 google docs:1
-proficient in social media facebook:1
+proficient in social media  facebook:1
 extensive art history knowledge and studio art:1
-fluent in asl american sign language:1
+fluent in asl  american sign language:1
 american sign language:1
 cash register:1
 computer repair:1
@@ -1261,6 +1263,7 @@ supervisory skills:1
 etl:1
 german:1
 hindi:1
+ms     access:1
 minitab:1
 punjabi:1
 python:1
@@ -1292,7 +1295,7 @@ retail sales:1
 turkish:1
 typesetting:1
 word processing:1
-website design development:1
+website design   development:1
 invisionapp:1
 adobe fireworks:1
 microsoft sharepoint:1
@@ -1300,7 +1303,7 @@ google adwords:1
 yahoo adcenter:1
 facebook ads:1
 twitter ads:1
-website measurement analysis:1
+website measurement   analysis:1
 google tag manager:1
 mouseflow:1
 unica netinsights:1
@@ -1347,31 +1350,32 @@ dialog:1
 invoicing:1
 pen:1
 general:1
-software proficiency microsoft office:1
+software proficiency  microsoft office:1
 microsoft works:1
 microsoft customer relationship management system:1
 microsoft publisher:1
-creative design and media proficiency adobe photoshop:1
+creative design and media proficiency  adobe photoshop:1
 pro tools:1
-web proficiency wordpress:1
+web proficiency  wordpress:1
 sitecore content management system:1
 hootsuite:1
-certifications hootsuite:1
+certifications  hootsuite:1
 brand strategy:1
 e commerce marketing:1
 industry analysis:1
 market positioning:1
 white papers:1
 telecommunications:1
-photoshop video editing software including avid:1
-final cut pro and apple imovie content development and strategy content management systems including blogger:1
-sitecore and wordpress copywriting and editing email campaigns google analytics apple mac platforms and applications microsoft office suite seo ppc campaigns salesforce radian and other social media listening tools social media platforms and engagement consoles video content development including scriptwriting and storyboarding:1
+photoshop   video editing software including avid:1
+final cut pro and apple imovie   content development and strategy   content management systems including blogger:1
+sitecore and wordpress   copywriting and editing   email campaigns   google analytics   apple mac platforms and applications   microsoft office suite   seo   ppc campaigns   salesforce   radian   and other social media listening tools   social media platforms and engagement consoles   video content development including scriptwriting and storyboarding:1
+contract  management:1
 dbm:1
 negotiation:1
 servers:1
 technical assistance:1
 solid knowledge of ap style:1
-excellent knowledge of use of microsoft office excel:1
+excellent knowledge of use of microsoft office   excel:1
 compliance:1
 website content management with opensource platforms:1
 proficient use of mass marketing systems:1
@@ -1407,7 +1411,7 @@ css and extensive experience with several cms systems:1
 knowledge of javascript:1
 jquery:1
 php and ajax:1
-ms project and visio basic:1
+ms project and visio  basic:1
 global marketing:1
 content development:1
 management skills:1

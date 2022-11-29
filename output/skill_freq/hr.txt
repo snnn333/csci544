@@ -36,10 +36,10 @@ coaching:20
 budget:20
 clients:18
 documentation:18
-benefits administration:18
 managing:18
 client:18
 sales:17
+benefits administration:17
 human resource:17
 peoplesoft:16
 research:16
@@ -70,7 +70,6 @@ billing:10
 delivery:10
 presentations:10
 inventory:10
-conflict resolution:10
 law:10
 negotiations:10
 bi:10
@@ -82,6 +81,7 @@ accounting:9
 labor relations:9
 materials:9
 microsoft office:9
+conflict resolution:9
 contracts:9
 letters:9
 payroll processing:9
@@ -120,8 +120,7 @@ tax:7
 newsletter:6
 employee development:6
 ms word:6
-training development:6
-ms office word:6
+training   development:6
 publisher:6
 direction:6
 profit:6
@@ -132,7 +131,6 @@ human resources management:6
 supervision:6
 mail:6
 employee handbooks:6
-year end:6
 call center:6
 quickbooks:6
 performance appraisal:6
@@ -150,6 +148,7 @@ budgets:6
 organizing:6
 c:6
 strategic planning:5
+ms office  word:5
 legal compliance:5
 mediation:5
 negotiating:5
@@ -157,9 +156,9 @@ structured:5
 surveys:5
 administrative assistant:5
 travel arrangements:5
-training employees:5
 spanish:5
 vendor management:5
+year end:5
 accounts payable:5
 credit:5
 ms office suite:5
@@ -184,10 +183,10 @@ microsoft excel:4
 art:4
 decision making:4
 vision:4
+training employees:4
 clarify:4
 job analysis:4
 negotiation:4
-hr policies procedures:4
 interpretation:4
 invoicing:4
 spreadsheet:4
@@ -231,7 +230,7 @@ video:3
 database management:3
 budget management:3
 employment law:3
-orientation on boarding:3
+orientation   on boarding:3
 hr program project management:3
 continuous improvement:3
 annual reports:3
@@ -253,6 +252,7 @@ protocols:3
 fashion:3
 faxes:3
 neat:3
+hr policies   procedures:3
 benchmarking:3
 microsoft sharepoint:3
 recruiter:3
@@ -339,7 +339,7 @@ teamwork collaboration:2
 social media marketing:2
 workday:2
 product manager:2
-staff recruitment retention:2
+staff recruitment   retention:2
 delegated examining:2
 recruiting and selection techniques:2
 phone system:2
@@ -357,9 +357,9 @@ customer services:2
 event management:2
 reconciling:2
 driving:2
-employee relations er:2
-hr information systems hris:2
-organization development od:2
+employee relations  er:2
+hr information systems  hris:2
+organization development  od:2
 adobe illustrator:2
 hub:2
 cash handling:2
@@ -387,7 +387,6 @@ business intelligence:2
 compensation:2
 employee engagement:2
 new hire paperwork:2
-self starter:2
 packaging:2
 pos:2
 unique:2
@@ -438,9 +437,9 @@ shipping:2
 excellent written:2
 strategic warehouse management:2
 this is where i added to my knowledge of how to run an organization in an ethical manor making sure all aspects of being true to an organization:2
-and making sure all policies and regulations are met within a timely manner making sure the organization does not have to suffer by paying unwanted fees taking them from the organizations cash flow knowing how to get any product or service to receiving location on time is another aspect of the key points learned during my undergrad education learning about entrepreneurship:2
-master of business administration grand canyon university:2
-dates from current expected graduation date:2
+and making sure all policies and regulations are met within a timely manner making sure the organization does not have to suffer by paying unwanted fees taking them from the organizations cash flow  knowing how to get any product or service to receiving location on time is another aspect of the key points learned during my undergrad education learning about entrepreneurship:2
+master of business administration   grand canyon university:2
+dates from          current  expected graduation date:2
 key points of education:2
 leadership organizations:2
 quantitative methods:2
@@ -474,7 +473,7 @@ fmla eeo flsa:1
 hris development:1
 benefit administration:1
 newsletter productions:1
-leadership training:1
+leadership   training:1
 osha:1
 pagemaker:1
 agency automation:1
@@ -484,30 +483,30 @@ microsoft publisher:1
 quark express:1
 quattro pro:1
 wordperfect:1
-type wpm and key by touch:1
+type    wpm and    key by touch:1
 microsoft programs word:1
-personnel management and telephone inquiries specialist:1
+personnel management  and telephone inquiries specialist:1
 excellent customer service skills with call quality and customer satisfaction as primary focus:1
 inbound and outbound contact center experience:1
 excellent oral and written presentation and seasoned in conflict resolution:1
 key by touch:1
-type wpm:1
+type    wpm:1
 microsoft outlook:1
 hr skills:1
 three new organization startups:1
 fmla ada eeo wc:1
-mediation advocacy:1
-hr policies procedures staff recruitment retention:1
+mediation   advocacy:1
+hr policies   procedures  staff recruitment   retention:1
 salary negotiations:1
 unemployment administration:1
 worker s compensation administration:1
 hris technologies:1
-hris applications lawson:1
+hris applications  lawson:1
 paychex:1
 human relations:1
 implement programs:1
 quantitative analysis:1
-team work:1
+team  work:1
 paralegal:1
 administrative skills:1
 microsoft office suites:1
@@ -517,13 +516,14 @@ managing the restaurant:1
 training material:1
 management consultation:1
 e recruitment:1
+hr policies procedures:1
 provision of excellent customer service:1
-micro soft applications word:1
-problem solve and serve as change agent to ensure that hr functions are included in organizational missions negotiate budget revisions to include hr initiatives ensure excellent customer service delivery:1
-provide state federal and soft skills management employee training conduct job analyses:1
+micro soft applications  word:1
+problem solve and serve as change agent to ensure that hr functions are included in organizational missions  negotiate budget revisions to include hr initiatives  ensure excellent customer service delivery:1
+provide state federal and soft skills management employee training  conduct job analyses:1
 as well as conduct compensation job market analysis:1
-and deliver and measure leadership training develop:1
-and monitor performance management develop:1
+and deliver and measure leadership training  develop:1
+and monitor performance management  develop:1
 and monitor personnel policies and procedures:1
 and manage full cycle recruitment:1
 a p:1
@@ -541,10 +541,10 @@ speaking:1
 purchase requisitions:1
 strategic plans:1
 management:1
-administrative support coach excellent communication skills:1
-customer service french human resources:1
-leadership team lead mentor effective communicator:1
-project lead researching spanish:1
+administrative support  coach  excellent communication skills:1
+customer service  french  human resources:1
+leadership  team lead  mentor  effective communicator:1
+project lead  researching  spanish:1
 aca:1
 as:1
 erp:1
@@ -555,14 +555,14 @@ employee handbook:1
 microsoft suite:1
 solomon:1
 knowledge of quickbooks:1
-systems excel:1
+systems  excel:1
 one note:1
 share point:1
 advise hr:1
 talx:1
 autonomy:1
 survey monkey:1
-training prosci change management certification:1
+training  prosci change management certification:1
 herrmann brain dominance instrument:1
 interview skills selection and development:1
 business communications:1
@@ -581,7 +581,7 @@ business development:1
 powerpoint presentations:1
 hr advisory services:1
 strategic recruitment planning:1
-orientation onboarding:1
+orientation   onboarding:1
 classification and position management:1
 special emphasis programs:1
 excellent interpersonal and coaching skills:1
@@ -590,18 +590,18 @@ talent assessments:1
 social media management and recruitment:1
 agency marketing and branding:1
 critical and analytical thinking:1
-leadership development lead hr special project:1
+leadership development  lead hr special project:1
 research and development:1
 event organizer:1
 journalism:1
-strategic training programs:1
+strategic   training programs:1
 groupwise:1
 incoming calls:1
 sterling inforsystems:1
 orange tree employment services:1
-kenexa ibm products:1
+kenexa   ibm products:1
 ultipro:1
-sarbanes oxley sox:1
+sarbanes oxley  sox:1
 employee performance:1
 entry level:1
 leads:1
@@ -628,11 +628,12 @@ store manager:1
 abc:1
 adr:1
 us army databases:1
+training  employees:1
 home healthcare:1
 voice and data:1
 tonya bell:1
 phr human resources professional:1
-organizational development strategic planning talent management:1
+organizational development   strategic planning   talent management:1
 access and publisher:1
 ceridian and kronos:1
 dca:1
@@ -666,7 +667,7 @@ on line learning:1
 quick books:1
 retail marketing:1
 title vii:1
-mid senior level coaching consultation:1
+mid   senior level coaching consultation:1
 partner with senior management and function management:1
 hr policy interpretation:1
 presentation facilitation:1
@@ -685,7 +686,8 @@ information technology:1
 marketing and sales:1
 software installation:1
 spss software:1
-internet e mail operations:1
+ms office   word:1
+internet   e mail operations:1
 key skills and management:1
 professional management skills:1
 meeting objectives:1
@@ -736,12 +738,14 @@ carl henry modern sales training:1
 client focused:1
 effective communication skills:1
 microsoft office proficient:1
+self  starter:1
 organized:1
 sensitive to customer needs:1
 ultimate software payroll and hris expertise:1
 kronos time and attendance expertise:1
 paychex proficient:1
 nettime proficient:1
+benefits   administration:1
 business research:1
 business startup:1
 italian:1
@@ -749,20 +753,22 @@ sigma:1
 advanced excel:1
 vba:1
 sap hcm:1
-success factors compensation:1
+success factors  compensation:1
 microsoft project management:1
-service now askhr:1
+service now  askhr:1
 smartsheet:1
 panaya:1
-silkroad red carpet:1
+silkroad   red carpet:1
 administrative duties:1
 calendar maintenance:1
 bullhorn:1
-boolean searches google resume search:1
+boolean searches:1
+google resume search:1
 linkedin x ray search:1
 the ladder:1
 github:1
-tech fetch monster:1
+tech fetch:1
+monster:1
 career builder:1
 linkedin:1
 indeed:1
@@ -772,18 +778,18 @@ local government:1
 human resource management skills:1
 employee relations and mediation:1
 staff life cycle:1
-hris applications peoplesoft enterprise human resources:1
+hris applications  peoplesoft enterprise human resources:1
 e mailing tools ms outlook:1
 windows outlook:1
 yahoo and google:1
-networking skills job boards and networking sites:1
+networking skills  job boards and networking sites:1
 soft skills:1
 professional communication skills and interpersonal skills:1
-bilingual thai english:1
+bilingual thai   english:1
 excellent adaptability in new environments:1
 hard working:1
 flexible and reliable:1
-honest polite:1
+honest   polite:1
 shape decision making:1
 excellent customer service skills:1
 creative:1
@@ -809,9 +815,9 @@ quick learner:1
 administrative management:1
 great organizational skills:1
 people skills:1
-payroll benefits administration employment law fmla ada eeo wc hr policies procedures staffing retention employee relations hr program project management orientation on boarding hris technologies training development performance management:1
+payroll   benefits administration   employment law   fmla ada eeo wc   hr policies     procedures   staffing   retention  employee relations   hr   program project management   orientation     on boarding   hris   technologies   training     development   performance   management:1
 advance in administering employer website for halogen:1
-fidelity payroll and k:1
+fidelity  payroll and    k:1
 kelly:1
 discovery benefits and pcr applicant tracking system:1
 intermediate knowledge in applicant one:1
@@ -819,7 +825,7 @@ del tek and reynolds:1
 advance knowledge of microsoft powerpoint:1
 and words:1
 beginner knowledge of microsoft access:1
-beginner knowledge in content management system cms:1
+beginner knowledge in content management system  cms:1
 ctc:1
 gdc:1
 sla:1
@@ -851,7 +857,7 @@ off boarding:1
 sequoia:1
 google drive:1
 google calendar:1
-microsoft office suite word:1
+microsoft office suite  word:1
 cisco:1
 client relations:1
 diagnosis:1
@@ -866,8 +872,8 @@ sharp problem solver:1
 active listening skills:1
 courteous demeanor:1
 energetic work attitude:1
-professional and friendly careful and active listener multi tasking careful and active listener:1
-professional human resources certification phr:1
+professional and friendly  careful and active listener  multi tasking  careful and active listener:1
+professional human resources certification  phr:1
 june:1
 newspapers:1
 peoplesoft hrms:1
@@ -875,14 +881,14 @@ tv:1
 retirement:1
 health and welfare:1
 leave of absence and ethics:1
-creative problem solving skills o:1
-rganized with attention to detail c:1
+creative problem solving skills  o:1
+rganized with attention to detail  c:1
 omputer proficient:1
-customer service b:1
-enefits p:1
-ayroll r:1
-ecords management e:1
-mployee relations o:1
+customer service  b:1
+enefits  p:1
+ayroll  r:1
+ecords management  e:1
+mployee relations  o:1
 n boarding and training:1
 adp and sage payroll:1
 talent aquisition:1
@@ -893,13 +899,13 @@ new construction:1
 permitting:1
 program implementation:1
 renovations:1
-shrm hr generalist certificate:1
+shrm   hr generalist certificate:1
 cihrg member:1
 shrm member:1
 adp vantage:1
 adp recruiting:1
-jd edwards jde:1
-payroll certificate via fred pryor seminars:1
+jd edwards  jde:1
+payroll      certificate via fred pryor seminars:1
 all windows versions and mac os platforms:1
 benefits and payroll coordination:1
 staff recruiting and retention:1
@@ -935,20 +941,22 @@ medical manager:1
 troubleshoot:1
 professional and friendly:1
 careful and active listener:1
-exceptional multi tasker:1
+exceptional  multi tasker:1
 delivers exceptional customer service:1
 clean and professional appearance:1
 reliable team worker:1
 engaging personality:1
 personal skills:1
+conflict  resolution:1
 accurate and detailed:1
 collaborative:1
 organization and efficiency:1
 exemplary verbal and written communication:1
 conflict mediation:1
+self starter:1
 hr experience in technology field:1
-internet applications have good understanding of sql:1
-css and javascript operating systems windows xp functional knowledge recruitment:1
+internet applications    have good understanding of sql:1
+css and javascript   operating systems  windows            xp  functional knowledge  recruitment:1
 organization management:1
 personal administration:1
 css:1
@@ -958,9 +966,9 @@ javascript:1
 painting:1
 sap hr:1
 scheme:1
-outlook and powerpoint sap database:1
-applicant tracking system strong organizational and adminstrative skills develop and implement creative solutions with cost:1
-efficiencey and deadlines articulate and effective communicator and trainer committed to achieving company and personal goals and high quality performance standards:1
+outlook and powerpoint  sap database:1
+applicant tracking system    strong organizational and adminstrative skills   develop and implement creative solutions with cost:1
+efficiencey and deadlines    articulate and effective communicator and trainer   committed to achieving company and personal goals and high quality performance standards:1
 business operations:1
 mba:1
 presenter:1
@@ -996,14 +1004,14 @@ performance evaluations:1
 eeo:1
 assistant manager:1
 sales training:1
-proficient in microsoft word suite word:1
+proficient in microsoft word suite  word:1
 outlook and access:1
 kronos timekeeper:1
 hyperion:1
 market research and analysis:1
 proficient in microsoft office and hris systems:1
-extensive hr experience including strategic talent acquisition orientation:1
-compensation employee retention:1
+extensive hr experience including strategic talent acquisition  orientation:1
+compensation  employee retention:1
 labor laws:1
 and implementing compliance:1
 policies and procedures:1
@@ -1082,7 +1090,7 @@ marketing plan:1
 quest:1
 service level agreement:1
 excellent telephone manner and high standard of communication skills:1
-able to deal with highly confidential matters professionally discreetly:1
+able to deal with highly confidential matters professionally   discreetly:1
 strong communicative:1
 interpersonal:1
 and leadership:1
@@ -1113,10 +1121,10 @@ exceptional problem solver:1
 excellent writing skills:1
 proficiency in microsoft excel:1
 powerpoint and the internet:1
-proficient in all microsoft applications and hris systems banner:1
+proficient in all microsoft applications and hris systems  banner:1
 peopleadmin:1
-personnel management information pmis system and benefits eligibility system bes:1
-vrs navigator vnav:1
+personnel management information  pmis  system and benefits eligibility system  bes:1
+vrs navigator  vnav:1
 editor:1
 all microsoft:1
 navigator:1
@@ -1156,7 +1164,7 @@ human:1
 resources:1
 strategy and planning:1
 verbal communication skills:1
-leave attendance entry exit:1
+leave   attendance entry   exit:1
 relevant coursework:1
 theories of human communication:1
 customer service oriented:1
@@ -1168,7 +1176,7 @@ works well in group setting:1
 interpersonal skills staffing and recruiting professional:1
 excellent time management:1
 proficient in ms office:1
-treats people with respect keeps commitments inspires the trust of others works with integrity:1
+treats people with respect  keeps commitments  inspires the trust of others  works with integrity:1
 multi tasking ability:1
 ability to learn quickly:1
 employee training:1
@@ -1180,3 +1188,4 @@ self motivated professional:1
 meeting deadlines:1
 time management skills:1
 telephone etiquette:1
+year  end:1

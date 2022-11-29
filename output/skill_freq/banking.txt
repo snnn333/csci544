@@ -109,7 +109,6 @@ fixed income:6
 approach:6
 networking:6
 hiring:6
-process improvement:6
 quality control:6
 team lead:6
 credit analysis:6
@@ -148,6 +147,7 @@ power point:5
 training programs:5
 producing:5
 taxes:5
+process improvement:5
 trainer:5
 detail oriented:5
 sharepoint:5
@@ -178,6 +178,7 @@ seminars:5
 strategic plans:4
 mandarin:4
 pos:4
+analytical:4
 mortgage loans:4
 cash:4
 operations:4
@@ -200,7 +201,6 @@ agency:4
 organizational skills:4
 sap:4
 outside sales:4
-microsoft access:4
 strategic management:4
 java:4
 statistics:4
@@ -234,7 +234,6 @@ loans:3
 lending:3
 receptionist:3
 retail sales:3
-analytical:3
 team player:3
 shipping:3
 calculus:3
@@ -262,7 +261,6 @@ new product development:3
 interpersonal skills:3
 oral:3
 email:3
-windows xp:3
 acquisitions:3
 mergers:3
 type:3
@@ -281,7 +279,6 @@ mutual funds:3
 award:3
 qa:3
 strong interpersonal skills:3
-asp net:3
 javascript:3
 enterprise:3
 operating systems:3
@@ -320,8 +317,8 @@ languages:3
 developer:3
 financial statement analysis:3
 marketing management:3
+microsoft access:3
 marketing strategies:3
-marketing sales:3
 presenting:3
 cics:3
 editing:3
@@ -342,6 +339,7 @@ producer:2
 vba:2
 and microsoft outlook:2
 excel at interfacing with others at all levels to ensure organizational goals are attained:2
+possess excellent interpersonal:2
 mortgage:2
 and sales:2
 escrow:2
@@ -391,6 +389,7 @@ executive management:2
 product development:2
 interpersonal:2
 lighting:2
+windows xp:2
 proposal:2
 san:2
 business administration:2
@@ -424,11 +423,11 @@ labor law:2
 goal setting:2
 receiving:2
 tables:2
+asp net:2
 css:2
 editor:2
 oct:2
 pl sql:2
-visual sourcesafe:2
 toad:2
 commercial loans:2
 conferences:2
@@ -504,14 +503,15 @@ cpr certified:2
 first aid:2
 business solutions:2
 citrix:2
+marketing sales:2
 phones:2
 market analysis:2
 instructor:2
 teaching:2
 council:2
 equities:2
-microsoft office word:2
-financial planning analysis:2
+microsoft office  word:2
+financial planning   analysis:2
 financial consulting:2
 quantitative analysis:2
 invoicing:2
@@ -534,18 +534,18 @@ jcl:2
 vsam:2
 mainframe:2
 excellent work ethic:2
-typing wpm:2
+typing    wpm:2
 adobe pagemaker:2
 dreamweaver:2
 cch atx:2
 ma:2
 tax compliance:2
 telemarketing:2
-sales software salesforce com:1
+sales software  salesforce com:1
 tapscan:1
-public relations software bacon s mediasource:1
+public relations software  bacon s mediasource:1
 factiva:1
-desktop publishing software photoshop:1
+desktop publishing software  photoshop:1
 business development expertise:1
 confluence:1
 sales professional:1
@@ -559,25 +559,25 @@ ffinancial analysis:1
 sstrategic plans:1
 ggoogle g suite:1
 ttechnology savvy:1
-programming language c c:1
+programming language  c c:1
 matlab:1
 r:1
 lua:1
-machine learning supervised learning:1
+machine learning  supervised learning:1
 unsupervised learning:1
 deep neural networks:1
-finance corporate banking:1
+finance  corporate banking:1
 financial forecasting:1
-language english:1
+language  english:1
 chinese:1
 customer engagement:1
 clerical support and the ability to interact effectively with a diverse group of individuals at various ages:1
 proactive approach to build long lasting customer relationships and expanding my client portfolios:1
-possess excellent interpersonal analytical:1
 and organizational skills excel within a highly competitive environment through effectively managing:1
 training and motivating a diverse team:1
-excellent working knowledge using both ibm and mac systems microsoft excel:1
-fluent in english and spanish reading and writingbeing recognize from merchant manager retail small business credit consultant:1
+excellent working knowledge using both ibm and mac systems  microsoft excel:1
+fluent in english and spanish  reading and writingbeing recognize from merchant manager:1
+retail small business credit consultant:1
 and payroll partner numerous times:1
 being nominated for searching for stars and attending the dinner ceremony:1
 notary public:1
@@ -594,7 +594,7 @@ top sales:1
 account executive:1
 field account:1
 subprime:1
-thorough and comprehensive knowledge of policies and procedures bankruptcy:1
+thorough and comprehensive knowledge of policies and procedures  bankruptcy:1
 fdcpa:1
 fcra:1
 ssa:1
@@ -618,12 +618,12 @@ spo tool:1
 vendorscape:1
 control link:1
 expert user of ms word:1
-and oracle applications i have skills in escalation complaint handling and audit processes in modification:1
+and oracle applications  i have skills in escalation complaint handling and audit processes in  modification:1
 shortsale:1
 recovery:1
 property preservation:1
-reo and the executive office i possess strong leadership:1
-critical logical thinking:1
+reo and the executive office  i possess strong leadership:1
+critical   logical thinking:1
 organizational and negotiation skills:1
 effective written and verbal communication presentation skills:1
 goal driven:1
@@ -651,12 +651,12 @@ lotus:1
 peach tree:1
 phone system:1
 cash handling enthusiastic people person:1
-great organizational skills knowledgeable of microsoft word:1
+great organizational skills  knowledgeable of microsoft word:1
 excel spss:1
 in and outbound call center:1
 excellent customer service assistance:1
 answering phones:1
-type wpm:1
+type    wpm:1
 microsoft word and excel:1
 accounts payable and receivable:1
 checkout process:1
@@ -688,9 +688,9 @@ pipeline:1
 reviewing financial statements:1
 real estate analysis:1
 highly creative:1
-financial analytical experience:1
+financial   analytical experience:1
 facilities management experience:1
-leading it related projects teams:1
+leading it related projects   teams:1
 adobe acrobat:1
 facilities management:1
 investment strategies:1
@@ -709,6 +709,7 @@ cash deposits:1
 cpi:1
 customer service skills:1
 listening:1
+microsoft  access:1
 microsoft power point:1
 organizational development:1
 procurement:1
@@ -716,20 +717,19 @@ protocols:1
 app development:1
 pick:1
 technical training:1
-accounting banking budgets business development business plans capital markets:1
-cash flow analysis cognos consulting:1
-contract negotiations corporate finance:1
-credit debt and equity financing:1
-essbase finance financial planning analysis:1
-foreign exchange hyperion jd edwards lotus market analysis:1
-marketing strategies marketing and sales:1
-microsoft office applications oracle project management:1
-recruitment sales strategic planning:1
+accounting  banking  budgets  business development  business plans  capital markets:1
+cash flow analysis  cognos  consulting:1
+contract negotiations  corporate finance:1
+credit  debt and equity financing:1
+essbase  finance  financial planning   analysis:1
+foreign exchange  hyperion  jd edwards  lotus        market analysis:1
+marketing strategies  marketing and sales:1
+microsoft office applications  oracle  project management:1
+recruitment  sales  strategic planning:1
 detail oriented excellent problem solving skills and extensive social media marketing experience:1
 results oriented with the ability to lead organizations to successful product launches and higher revenues:1
 expertise in developing client relations:1
 proactive approach has resulted in capturing numerous accounts and expanding client base:1
-possess excellent interpersonal:1
 and organizational skills:1
 excel within highly competitive environments where leadership skills are the keys to success:1
 creative with broad based background in highly competitive and dynamic organizations:1
@@ -750,10 +750,10 @@ executive leadership:1
 sales prism:1
 ncino:1
 genesis customer relationship management system:1
-client product implementation system cpi:1
+client product implementation system  cpi:1
 siebel systems:1
 act system:1
-microsoft office xp excel:1
+microsoft office xp  excel:1
 ibm is series:1
 boss:1
 afs:1
@@ -844,7 +844,8 @@ based on excellent analytical skills:1
 compatibility for both:1
 independent and teamwork:1
 risk management assessor:1
-proficient with bloomberg reuters newswire applications along with ms office proficiency:1
+proficient with bloomberg   reuters newswire applications along with ms office proficiency:1
+asp  net:1
 ajax:1
 asm:1
 business objects:1
@@ -856,6 +857,8 @@ itil:1
 windows applications:1
 oracle database:1
 service level agreement:1
+visual sourcesafe:1
+visual  sourcesafe:1
 vi:1
 microsoft visual studio:1
 visual studio:1
@@ -906,7 +909,7 @@ nt:1
 pci:1
 specification:1
 upgrades:1
-as administrator:1
+as     administrator:1
 web application:1
 security as:1
 setting goals and objectives:1
@@ -916,15 +919,15 @@ system upgrade migration back up:1
 management and teamwork:1
 data backup and retrieval as:1
 prioritization tasks:1
-clear quest sharepoint:1
+clear quest   sharepoint:1
 product template:1
 rpgle ile:1
 technical specifications creations:1
 strong knowledge of itil:1
 cl:1
-integration across ipc incident:1
+integration across ipc  incident:1
 problem:1
-utility query and sql change management:1
+utility  query and sql   change management:1
 aldom acces:1
 adaptation model ethical management:1
 analyst programmer:1
@@ -952,7 +955,7 @@ lexisnexis:1
 computer skills:1
 proficient in microsoft excel:1
 kspm ten key:1
-accurate typing wpm:1
+accurate typing    wpm:1
 professional skills:1
 strong analytical skills:1
 ability to effectively multi task:1
@@ -1035,6 +1038,7 @@ ftp:1
 macintosh:1
 meeting facilitation:1
 k:1
+windows   xp:1
 office equipment:1
 pc maintenance:1
 programmer:1
@@ -1043,10 +1047,10 @@ system integration:1
 desktop support:1
 t sql:1
 troubleshoot:1
-account analysis reconciliation:1
-accounts payable accounts receivable:1
-bank reconciliations business:1
-due diligence financial report preparation:1
+account analysis   reconciliation:1
+accounts payable  accounts receivable:1
+bank reconciliations   business:1
+due diligence  financial report preparation:1
 general ledger accounting:1
 microsoft exchange:1
 space planning:1
@@ -1093,11 +1097,11 @@ first aid certified:1
 clean driving record:1
 mental health:1
 psychology:1
-healthcare intravenous therapy:1
+healthcare  intravenous therapy:1
 medisoft:1
 computerized charting:1
 std counseling:1
-breastfeeding educator people skills great bedside manner:1
+breastfeeding educator people skills  great bedside manner:1
 enthusiastic people person:1
 great organizational skills:1
 go live:1
@@ -1181,7 +1185,7 @@ financial analysis and reporting:1
 great plains:1
 jd edwards:1
 mark:1
-and power point software microsoft word:1
+and power point software  microsoft word:1
 outlook and databases clarity system:1
 boston post and hmis database system:1
 business strategies:1
@@ -1206,18 +1210,18 @@ feasibility studies:1
 german:1
 korean:1
 years of experience in system z and distributed applications development on z os:1
-programming languages cobol:1
+programming languages   cobol:1
 pl i:1
 egl:1
-databases db:1
+databases   db:1
 idms adso:1
-mq and enterprise connectivity esb:1
+mq and enterprise connectivity   esb:1
 message broker:1
 business rules and events:1
 business process management:1
 mobile and cloud:1
-middleware was:1
-specialize in ibm software focusing on ibm rational and websphere solutions rdz:1
+middleware   was:1
+specialize in ibm software focusing on ibm rational and websphere solutions   rdz:1
 raa:1
 rbd egl:1
 rtcz:1
@@ -1261,7 +1265,7 @@ corporate recruiting:1
 concept:1
 business operations:1
 sales planning:1
-outlook share point:1
+outlook  share point:1
 wells fargo systems:1
 budgeting and finance:1
 process implementation:1
@@ -1270,19 +1274,19 @@ risk management processes and analysis:1
 budget management:1
 supervision skills:1
 litigation vendor management experience:1
-service level agreement sla management experience:1
+service level agreement  sla  management experience:1
 vendor selection and relationship management experience:1
 esx server administration:1
-system center configuration manager sccm management administration:1
+system center configuration manager  sccm  management administration:1
 familiarity with installation:1
 maintenance and monitoring of networking equipment:1
-administration of mobileiron bes ms server windows xp ms office suite version lotus notes exchange microsoft lync esx netapp servers mimecast citrix xen suite active directory:1
+administration of  mobileiron bes  ms server           windows   xp       ms office suite version           lotus notes          exchange       microsoft lync  esx netapp servers  mimecast  citrix xen suite  active directory:1
 remote desktop software troubleshooting:1
-legal apps filesite w outlook integration pdfdocs suite carpe diem toa software:1
-project lead on pilot installs rollouts of software:1
-hardware operating systems:1
-completed microsoft certified information technology professional training mcitp:1
-portfolio wealth management:1
+legal apps  filesite w outlook integration  pdfdocs suite  carpe diem  toa software:1
+project lead on pilot installs   rollouts of software:1
+hardware   operating systems:1
+completed microsoft certified information technology professional training  mcitp:1
+portfolio   wealth management:1
 financial modelling:1
 global finance:1
 product management slabware:1
@@ -1302,25 +1306,26 @@ improve process:1
 program implementation:1
 risk analysis and assessment:1
 verbal communication:1
-retail wholesale lending:1
-agency jumbo financing:1
+retail   wholesale lending:1
+agency   jumbo financing:1
 consumer lending:1
 indirect lending:1
 portfolio management:1
 streamline operations:1
 new market expansion:1
 multi site operations:1
-strategic tactical planning:1
+strategic   tactical planning:1
 team recruitment and leadership:1
 risk assessment and analysis:1
-mergers acquisition:1
+mergers   acquisition:1
 educational seminars:1
-language proficient in chinese:1
+process  improvement:1
+language  proficient in chinese:1
 fluent in english:1
-office microsoft word:1
+office  microsoft word:1
 prezi:1
-programming vba:1
-microsoft office suite factset ipreo:1
+programming  vba:1
+microsoft office suite    factset    ipreo:1
 dec:1
 investment strategy:1
 research product:1
@@ -1329,12 +1334,13 @@ key by touch:1
 developing business relationships:1
 focused:1
 manufacturing process:1
+marketing   sales:1
 mrp:1
 retail management:1
-notary medallion microsoft word:1
-excel detail oriented:1
-ms office word:1
-web multimedia coldfusion:1
+notary       medallion       microsoft word:1
+excel       detail oriented:1
+ms office  word:1
+web multimedia  coldfusion:1
 search optimization:1
 web server administration:1
 content management systems:1
@@ -1346,10 +1352,10 @@ event management:1
 multimedia:1
 optimization:1
 web server:1
-os mvs:1
+os   mvs:1
 z os:1
-databases db vasm oracle:1
-tools utilities tso ispf:1
+databases   db  vasm oracle:1
+tools utilities   tso ispf:1
 racf:1
 opc:1
 xpeditor:1
@@ -1364,11 +1370,11 @@ clear quest:1
 fault analyzer:1
 sdsf:1
 ftp ibm utilities:1
-jcl utilities db admin panel sonar rdz mq shooter:1
-languages cobol:1
+jcl utilities  db  admin panel sonar rdz mq shooter:1
+languages   cobol:1
 rexx and java:1
-pc applications ms word:1
-oltp cics:1
+pc applications   ms word:1
+oltp   cics:1
 cobol ii:1
 ibm mvs:1
 ispf:1
@@ -1393,17 +1399,17 @@ microsoft office proficiency:1
 meticulous attention to detail:1
 excellent time management skills:1
 schedule management:1
-proficient with most office equipment fax machine:1
+proficient with most office equipment  fax machine:1
 multi functional device:1
 multi line phone:1
 and microsoft office:1
 possess exceptional organizational:1
 and time management skills as well as the ability to multitask:1
-typing wpm ten key kspm:1
+typing    wpm ten key       kspm:1
 data entry customer liaison support:1
-agency management system ams:1
+agency management system  ams:1
 sagitata:1
-the agency manager tam applied system:1
+the agency manager  tam  applied system:1
 crm software systems:1
 quick learner:1
 ten key:1
@@ -1411,7 +1417,7 @@ administrative skills:1
 customer liaison:1
 social media platforms:1
 microsoft word for windows:1
-oracle i and developer:1
+oracle  i and developer:1
 dba:1
 marketing materials:1
 online help:1
@@ -1457,22 +1463,23 @@ accounts payables:1
 accounts receivables:1
 legal issues:1
 investment valuation:1
-excellent verbal and written communication skills with strong interpersonal skills:1
-strong analytical and research skills:1
-excellent team player:1
+excellent verbal and written     communication skills with strong interpersonal skills:1
+strong analytical and     research skills:1
+excellent     team player:1
 strong leadership abilities and team building skills:1
 dynamic and self motivated:1
-creative and result oriented:1
+creative and     result oriented:1
 excellent organizational:1
 project management and planning skills:1
-ability to work well under pressure:1
-adherence to deadlines:1
+ability to work well under     pressure:1
+adherence     to deadlines:1
 multitask:1
 reliable:1
-responsible conscientious:1
+responsible:1
+conscientious:1
 easy going:1
 demonstrated initiative and creativity in problem solving:1
-eager for self improvement:1
+eager for     self improvement:1
 proficiency with personal computers and pertinent mainframe systems and software packages:1
 including ms office suite:1
 aml ofac monitoring software:1
@@ -1485,23 +1492,23 @@ prime:1
 serving:1
 solid communication:1
 and leadership skills:1
-business financial analysis:1
+business   financial analysis:1
 month end close:1
 fixed assets:1
-streamline processes review implement software policies accounts payable:1
+streamline processes  review   implement software   policies  accounts payable:1
 and expense reports:1
 software:1
-accounting winteam:1
+accounting   winteam:1
 citrix budgeting:1
-peoplesoft ability:1
+peoplesoft  ability:1
 brio reporting:1
-accpac fas best:1
+accpac  fas best:1
 and quickbooks:1
-general outlook:1
+general   outlook:1
 microsoft:1
 corrigo work order network:1
 mortgageware:1
-as jack henry jd edwards:1
+as     jack henry  jd edwards:1
 and campus vue:1
 electronic commerce:1
 all microsoft:1

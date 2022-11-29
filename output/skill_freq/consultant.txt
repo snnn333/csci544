@@ -2,7 +2,7 @@ clients:42
 windows:41
 sales:37
 client:36
-project management:35
+project management:34
 excel:31
 access:29
 documentation:28
@@ -38,7 +38,6 @@ scheduling:14
 microsoft office:14
 finance:13
 servers:13
-change management:13
 consultant:13
 networking:12
 payroll:12
@@ -49,6 +48,7 @@ functional:12
 visio:12
 citrix:12
 hardware:12
+change management:12
 troubleshooting:12
 outlook:12
 ms office:12
@@ -60,7 +60,6 @@ business development:11
 vpn:11
 technical support:11
 troubleshoot:11
-quality assurance:11
 powerpoint:11
 focus:10
 operating systems:10
@@ -72,6 +71,7 @@ insurance:10
 credit:10
 workflow:10
 time management:10
+quality assurance:10
 budgeting:10
 ibm:9
 developer:9
@@ -126,7 +126,6 @@ mentoring:7
 iso:7
 filing:6
 human resources:6
-team building:6
 risk management:6
 vendor management:6
 asp net:6
@@ -151,7 +150,6 @@ account management:6
 basic:6
 unique:6
 forecasting:6
-financial reporting:6
 crm:6
 information technology:6
 recruitment:6
@@ -195,6 +193,7 @@ taxes:5
 peoplesoft:5
 securities:5
 spreadsheets:5
+financial reporting:5
 hp:5
 coding:5
 visual basic:5
@@ -207,6 +206,7 @@ direction:5
 organizational:5
 video:5
 ad:5
+team building:5
 packaging:5
 dns:5
 customer satisfaction:5
@@ -264,7 +264,7 @@ spanish:4
 administrative:4
 innovation:4
 procurement:4
-oracle g:4
+oracle   g:4
 training:4
 it support:4
 coaching:4
@@ -416,7 +416,6 @@ fluent in english:3
 ada:2
 employee relations:2
 scanning:2
-c net:2
 ajax:2
 art:2
 business objects:2
@@ -452,7 +451,7 @@ strong interpersonal skills:2
 database administration:2
 middleware:2
 oracle applications:2
-oracle application server:2
+oracle application          server:2
 oracle enterprise manager:2
 oracle dba:2
 people skills:2
@@ -536,7 +535,7 @@ fluent in english and urdu:2
 functional in spanish:2
 dc:2
 years:2
-excel years:2
+excel    years:2
 concept:2
 online marketing:2
 trend:2
@@ -669,7 +668,6 @@ uml:2
 adobe photoshop:2
 indesign:2
 complex problem solving:2
-report writing:2
 german:2
 positioning:2
 web servers:2
@@ -690,7 +688,7 @@ strong analytical skills:2
 administrative support:2
 internet:2
 and social media savvy:2
-script review breakdowns:2
+script review   breakdowns:2
 movie magic:2
 arabic:2
 time:2
@@ -703,7 +701,10 @@ magic:2
 media production:2
 camera:2
 business process improvement:1
+team  building:1
 organizational development:1
+c  net:1
+c   net:1
 third generation:1
 ado:1
 agresso:1
@@ -714,7 +715,7 @@ dhtml:1
 http:1
 monitors:1
 ms dos:1
-object oriented analysis design:1
+object oriented analysis   design:1
 ooad:1
 oncology:1
 oracle and sql:1
@@ -737,7 +738,7 @@ bbrand marketing:1
 bbusiness development:1
 pproduct development:1
 ccontent creation:1
-strategy operations:1
+strategy   operations:1
 process optimization:1
 digital transformation:1
 cross functional team management:1
@@ -763,14 +764,14 @@ kanban:1
 lean:1
 human centered design:1
 design thinking:1
-microsoft windows operating systems windows nt:1
+microsoft windows  operating systems windows nt:1
 xp:1
 and win:1
 iseries ifs:1
 iseries navigator:1
 ibm tivoli:1
 administration tools for windows server:1
-networking tcp ip:1
+networking  tcp ip:1
 wsus:1
 secureid:1
 active directory users and computers:1
@@ -807,7 +808,7 @@ exceptional problem solver:1
 quality management care team member:1
 community resources specialist:1
 insurance benefits verification and authorizations:1
-business processes case management:1
+business processes   case management:1
 criminal justice:1
 electronic medical records:1
 program development:1
@@ -852,7 +853,7 @@ debit:1
 tax compliance:1
 adobe proficient:1
 windows xp proficiency:1
-windows expertise:1
+windows   expertise:1
 proficient in ms office:1
 crm expertise:1
 dealersocket proficiency:1
@@ -938,8 +939,8 @@ algorithm:1
 architecture:1
 digital design:1
 systems programming:1
-familiar with spss software expert at ms word:1
-excel and powerpoint proficient in databases such as gartner:1
+familiar with spss software     expert at ms word:1
+excel and powerpoint     proficient in databases such as gartner:1
 forrester:1
 datamonitor:1
 onesource:1
@@ -968,38 +969,38 @@ travel planning:1
 content collateral web design with adobe creative suite:1
 php client:1
 japanese linguistics and localization with sdl tool:1
-microsoft net visual basic and c:1
-blaze advisor net rules engine:1
-visual basic and c programming introduction and advanced concepts:1
-blaze advisor net:1
-microsoft c net framework:1
+microsoft  net visual basic and c:1
+blaze advisor  net rules engine:1
+visual basic     and c   programming   introduction and advanced concepts:1
+blaze advisor  net:1
+microsoft c   net     framework:1
 developed technical specifications:1
 business object models in xml:1
-tfs source control html:1
+tfs source control  html:1
 technical leadership:1
 real time processing:1
 sql server management:1
-microsoft visual studio and:1
+microsoft visual studio      and:1
 microsoft office excel:1
-powerpoint iwork numbers:1
+powerpoint  iwork numbers:1
 pages:1
-keynote quicktime quickbooks tweet adder adobe readers gotomeeting join me preview skype:1
-excel and microsoft office read schematics and blue prints:1
+keynote  quicktime  quickbooks  tweet adder  adobe readers  gotomeeting  join me  preview  skype:1
+excel and microsoft office           read schematics and blue prints:1
 consolidations:1
 schematics:1
-healthcare analytics years:1
-physician engagement years:1
-project management years:1
-sales years:1
-marketing strategy years:1
-tableau years:1
-public speaking years:1
-machine learning years:1
-financial analysis years:1
-databases year:1
-sql year:1
-business development years:1
-business intelligence years:1
+healthcare analytics    years:1
+physician engagement    years:1
+project management    years:1
+sales    years:1
+marketing strategy    years:1
+tableau    years:1
+public speaking    years:1
+machine learning    years:1
+financial analysis    years:1
+databases    year:1
+sql    year:1
+business development    years:1
+business intelligence    years:1
 user experience design:1
 business intelligence:1
 competitive intelligence:1
@@ -1025,7 +1026,7 @@ marketing collateral:1
 access basic:1
 sql windows:1
 power systems:1
-excel office project evaluation media relations employee and volunteer training grant certification project coordination:1
+excel   office project evaluation media relations employee and volunteer training grant certification project coordination:1
 behavioral health:1
 chi:1
 event coordination:1
@@ -1036,27 +1037,27 @@ cancer:1
 disease prevention:1
 environmental health:1
 social services:1
-sql server r:1
+sql server     r:1
 vm ware:1
 ms visio:1
 sap business objects bi suite:1
 and cview sap business objects suite:1
 ms reporting suite:1
-industry software sql server studio:1
+industry software  sql server studio:1
 empcenter:1
 cqcs:1
 dna sme:1
 imc:1
 esoms:1
 and cview:1
-web design internet explorer:1
+web design   internet explorer:1
 chrome:1
 firefox:1
 and html:1
-operating systems ms windows professional enterprise xp:1
+operating systems   ms windows professional enterprise xp:1
 novell netware:1
-server environments sql:1
-sql r:1
+server environments   sql:1
+sql     r:1
 and rpg metadata:1
 ceridian encore:1
 ssrs:1
@@ -1104,12 +1105,12 @@ prime:1
 quantitative analysis:1
 security clearance:1
 sop:1
-executive positioning communications:1
+executive positioning   communications:1
 thought leadership and content development:1
 executive platform development:1
 ghostwriting:1
 social strategy:1
-speakers bureau:1
+speakers  bureau:1
 mri residental software:1
 budget creation:1
 scheduling appointments:1
@@ -1132,10 +1133,10 @@ sem:1
 product testing:1
 promotions:1
 and writing proposals:1
-ability to attract and retain key personnel excellent at coaching and mentoring key personnel in all disciplines get teams involved by incorporating their ideas promote a culture of strong ownership encourage employees to do their best ms windows xp:1
+ability to attract and retain key personnel   excellent at coaching and mentoring key personnel in all disciplines   get teams involved by incorporating their ideas   promote a culture of strong ownership   encourage employees to do their best  ms windows xp:1
 ms office xp:1
 excel and powerpoint:1
-ms project and ms outlook proficiency level with is excellent erp mrp jd edwards:1
+ms project and ms outlook   proficiency level with is excellent     erp   mrp  jd edwards:1
 cash flow:1
 jd edwards:1
 machinery:1
@@ -1258,15 +1259,15 @@ voice communications:1
 website design:1
 zenworks:1
 pressure and rate transient analyses:1
-decline curve analysis fekete harmony:1
+decline curve analysis  fekete harmony:1
 volumetrics and material balance:1
-economic analysis aries:1
+economic analysis  aries:1
 knowledge in sec reserves estimation concepts:1
 reservoir management:1
 history matching and production forecast:1
 compositional and black oil simulation:1
-enhance oil recovery waterflooding:1
-co injection:1
+enhance oil recovery  waterflooding:1
+co  injection:1
 wag:1
 and polymer flood:1
 knowledgeable in unconventional resourse evaluation and modeling of fractured systems:1
@@ -1279,36 +1280,36 @@ nexus vip:1
 petrel:1
 visage:1
 petra:1
-co prophet:1
+co  prophet:1
 fekete harmony:1
-kinder morgan co scoping model:1
+kinder morgan co  scoping model:1
 desktop pvt:1
-tough and toughreact:1
+tough  and toughreact:1
 arcgis:1
 envi:1
 and unix:1
 ambulance:1
 management training:1
 radio:1
-apple support apple workstations:1
+apple support  apple workstations:1
 apple servers:1
 ipad:1
 iphone:1
 mobile device management:1
 apple remote desktop:1
 xsan:1
-network support open directory:1
+network support  open directory:1
 afp:1
 smb:1
 nfs:1
 alvarion:1
 ubiquiti:1
-software support filemaker pro:1
+software support  filemaker pro:1
 filemaker server:1
 final cut pro:1
 maya:1
 demonstrated:1
-hands on experience in lean agile:1
+hands on experience in   lean agile:1
 waterfall:1
 uat:1
 business requirements:1
@@ -1317,8 +1318,8 @@ demand management:1
 resource management:1
 and project management lifecycle:1
 business correspondence:1
-staff development:1
-a certification:1
+staff           development:1
+a  certification:1
 cabling:1
 ms windows:1
 wiring:1
@@ -1355,7 +1356,7 @@ protein isolation:1
 transcription profiling:1
 elisa assay:1
 expert in design control:1
-iso environment:1
+iso      environment:1
 extraction:1
 separation and purification techniques:1
 trained in lab safety:1
@@ -1368,7 +1369,7 @@ presentations expert:1
 charismatic public speaker:1
 skilled in working with special needs adults:1
 proficient in creating and maintaining schedules:1
-taught aseptic technique lessons to over participants:1
+taught aseptic technique lessons to over     participants:1
 instructional technologies knowledge:1
 intuitive people management skills:1
 assisted in oos investigations:1
@@ -1382,7 +1383,7 @@ psi blast:1
 tree view:1
 gen bank:1
 pub med:1
-gene pix pro analysis of cogs and cdd:1
+gene pix pro     analysis of cogs and cdd:1
 citrix sever:1
 ftp clients:1
 isotrain:1
@@ -1411,21 +1412,22 @@ technical training:1
 toc:1
 transcription:1
 assessment:1
-project management consult with clients to gain detailed information used to develop comprehensive:1
+project management   consult with clients to gain detailed information used to develop comprehensive:1
 project plans and tasks:1
-process improvements the ability to devise and implement processes:1
+process improvements   the ability to devise and implement processes:1
 procedures:1
 systems and:1
 internal controls to strengthen operations and enhance customer satisfaction:1
-professional training and development extensive knowledge of electronic health care software and:1
+professional training and development   extensive knowledge of electronic health care software and:1
 its clinical functionality as it relates to clinic workflow including documentation:1
 orders and medications:1
-business processes:1
+business        processes:1
 community health:1
 group facilitation:1
 needs analysis:1
 program design and evaluation:1
 project plans:1
+quality        assurance:1
 strategic management:1
 teamwork:1
 vb net:1
@@ -1522,25 +1524,25 @@ territory:1
 budgeting forecasting:1
 cobit:1
 processor:1
-sarbanes oxley sox:1
+sarbanes oxley  sox:1
 sox:1
 broker dealer:1
 payments:1
 autocad:1
 orcadd:1
-c customer support:1
+c   customer support:1
 data acquisition:1
 fda:1
 interface design:1
 labview:1
 ms power point:1
 microsoft project:1
-microsoft windows ms word:1
+microsoft windows  ms word:1
 organizational leadership:1
 procedure writing:1
 quality improvement:1
-technical support presentations:1
-marine corps air force:1
+technical support  presentations:1
+marine corps  air force:1
 instructing:1
 machinist:1
 weapons:1
@@ -1561,14 +1563,16 @@ facilities management:1
 ids:1
 network associates:1
 proxy:1
-financial aptitude with in depth knowledge of sourcing vendors for medical supplies specifically with purchasing and sale of medical supplies:1
-critical thinking proficiency sound decision making abilities in time sensitive situations:1
+financial aptitude with in depth knowledge of sourcing vendors for medical supplies   specifically with purchasing and sale of medical supplies:1
+critical thinking proficiency   sound decision making abilities in time sensitive situations:1
 cultural awareness and sensitivity:1
-extensive experience with microsoft office word:1
+extensive experience with microsoft office  word:1
 confident public speaker:1
 relationship and team building skills with emphasizes in conflict resolution:1
+change           management:1
 corporate communications:1
-program development and implementation:1
+program   development and implementation:1
+project          management:1
 trainer:1
 billing system:1
 ejb:1
@@ -1583,20 +1587,20 @@ team work:1
 user documentation:1
 xhtml:1
 applications:1
-r and i:1
+r   and   i:1
 modules:1
-inventory inv:1
-bill of materials bom:1
-work in process wip:1
-engineering eng:1
-order management om:1
-purchasing po:1
+inventory  inv:1
+bill of materials  bom:1
+work in process  wip:1
+engineering  eng:1
+order management  om:1
+purchasing  po:1
 oracle edi gateway:1
 shipping execution:1
-material requirement planning mrp:1
+material requirement planning  mrp:1
 iprocurement:1
 quality qa:1
-approval management ame:1
+approval management  ame:1
 oracle endeca:1
 tools language:1
 toad:1
@@ -1655,7 +1659,7 @@ ibm websphere:1
 team builder:1
 microsoft office user specialist:1
 microsoft office xp:1
-windows x:1
+windows   x:1
 photographer:1
 project lead:1
 quarkxpress:1
@@ -1685,10 +1689,12 @@ interpersonal skills:1
 cost analysis:1
 doors:1
 external audits:1
+financial           reporting:1
 general ledger accounts:1
 oracle application:1
 oracle financials:1
 oracle financial:1
+report          writing:1
 system analyst:1
 tax research:1
 experience with ifc jeopardy projects:1
@@ -1697,7 +1703,7 @@ experience with several ifc portfolio databases:1
 accounting system:1
 bulgarian:1
 equity:1
-russian fluent:1
+russian  fluent:1
 spread sheet:1
 anti virus:1
 cne:1
@@ -1714,7 +1720,7 @@ novell servers:1
 organizational design:1
 reengineering:1
 y k:1
-microsoft office suite indesign quickbooks experience with spss and various crm:1
+microsoft office suite   indesign   quickbooks experience with spss and various crm:1
 and marketing automation systems:1
 negotiating contracts:1
 industry research:1
@@ -1724,12 +1730,12 @@ portuguese:1
 reception:1
 search engine optimization:1
 fluent in spanish:1
-personal and professional integrity extensive knowledge of marijuana staff management and hr experience strains:1
-marijuana products staff training and development extensive knowledge of extracting and experience concentrates especially co payroll experience extracting operations management experience experience operating co extraction dispensary:1
-mip equipment compliance:1
-licensing knowledge and metrc and mjfreeway experience all experience facilities:1
+personal and professional integrity          extensive knowledge of marijuana staff management and hr experience          strains:1
+marijuana products staff training and development          extensive knowledge of extracting and experience          concentrates  especially co  payroll experience          extracting  operations management experience          experience operating co  extraction  dispensary:1
+mip           equipment compliance:1
+licensing knowledge and          metrc and mjfreeway experience all experience          facilities:1
 dispensary:1
-mip marketing skills and experience quickbooks and excel experience:1
+mip  marketing skills and experience          quickbooks and excel experience:1
 training employees:1
 inspecting:1
 energy trading:1
@@ -1769,7 +1775,7 @@ cheerful and energetic:1
 resolution oriented:1
 dependable and reliable:1
 savvy negotiator:1
-exceptional multi tasker personnel training and development:1
+exceptional multi  tasker personnel training and development:1
 excellent interpersonal and coaching skills:1
 calm under pressure:1
 excellent quantitative skills:1
@@ -1809,6 +1815,7 @@ litigation:1
 microsoft office applications:1
 msc:1
 physics:1
+report writing:1
 sound:1
 training programmes:1
 compensation administration:1
@@ -1823,20 +1830,20 @@ deadline driven:1
 marketing and sales specialist:1
 new program and promotion implementation:1
 procedure development:1
-human resources information systems hris:1
+human resources information systems  hris:1
 bookkeeping:1
 russian:1
 russian language:1
 summit:1
 ukrainian:1
 process improvements:1
-compliance accountability:1
-applying lean principles to various businesses:1
+compliance   accountability:1
+applying  lean  principles to various businesses:1
 job descriptions:1
 press releases:1
 company news letters:1
 grass roots marketing:1
-event project management:1
+event   project management:1
 turning chaos into order:1
 using resources on hand before spending:1
 social media marketing:1
@@ -1850,7 +1857,7 @@ training materials:1
 type:1
 vendor relations:1
 written and communication skills:1
-business process improvement redesign:1
+business process improvement   redesign:1
 agile scrum:1
 business transformation:1
 pmo:1
@@ -1884,17 +1891,17 @@ managerial:1
 office automation:1
 copiers:1
 scanner:1
-type wpm:1
+type    wpm:1
 implementation level knowledge of front arena:1
 adaptiv:1
-opics proficient in excel:1
+opics   proficient in excel:1
 brand management:1
 content development:1
 marketing communications:1
-marketing sales:1
+marketing   sales:1
 masonry:1
 addressing customer concerns:1
-people skills enthusiastic people person:1
+people skills  enthusiastic people person:1
 advanced problem solving:1
 great organizational skills:1
 visual displays:1
@@ -1944,7 +1951,7 @@ cultural competency:1
 knowledge management systems design and implementation:1
 adobe cs:1
 strong understanding of supply chain principles with an expertise in warehouse management:1
-functional knowledge in the end to end warehouse systems with an experience in manhattan associates warehouse systems:1
+functional knowledge in the end to end warehouse systems with an experience in manhattan associates  warehouse systems:1
 complete understanding of inbound:1
 inventory and outbound in a warehouse:1
 excellent knowledge in software development life cycle with an emphasis in analysis and testing:1
@@ -1952,15 +1959,15 @@ ability to clearly define and execute test plans and procedures:1
 ability to meet deadlines and deliver projects on time:1
 strong analytical and problem solving skills:1
 hands on experience in troubleshooting computer hardware peripherals:1
-programming languages java:1
-web technologies html:1
-development ide eclipse:1
+programming languages    java:1
+web technologies              html:1
+development ide                eclipse:1
 microsoft visual studio:1
 matlab:1
-database microsoft sql server r:1
-oracle i g g:1
-testing tool microsoft test manager:1
-software suite manhattan associates scope:1
+database                             microsoft sql server r:1
+oracle  i   g   g:1
+testing tool                        microsoft test manager:1
+software suite                     manhattan associates scope:1
 oracle s peoplesoft supply chain management scm:1
 strategic thinker:1
 driven:1
@@ -1969,7 +1976,7 @@ operations analysis:1
 process development and execution:1
 support:1
 and development:1
-banquet catering director:1
+banquet   catering director:1
 put together the menus for different family functions:1
 business meetings:1
 luncheon s and special functions:1
@@ -1981,7 +1988,7 @@ instituted a program for the operation and maintenance of all equipment used in 
 implemented an employee incentive program to improve the quality and timely service of all customers on and off premises:1
 ensured timely deliveries of lunches and platters for off premise catering and managed vehicle sanitation and safety for drivers and other personnel:1
 general manager:1
-responsible for overseeing scheduling and training of to part and full time employees:1
+responsible for overseeing scheduling and training of    to    part and full time employees:1
 that made up the marina:1
 motel and restaurant operations:1
 always maintained the highest degree of customer service to customers and ensure that all employees are following these most basic and very important company standards:1
@@ -1993,7 +2000,7 @@ developed a timely response and follow up program for customer complaints:1
 ensuring proper corrective actions were in place to avoid future complaints:1
 put together the required business plans and laid out the marketing and operating budget:1
 for the construction loan of the restaurant:1
-vendor purchasing supervisor:1
+vendor   purchasing supervisor:1
 research different vendors and process credit applications necessary to set up accounts with these vendors:1
 to handle the purchases of food:1
 beverage and equipment:1
@@ -2003,20 +2010,20 @@ between the purveyors and vendors:1
 monitor the performance of the different purveyor s we purchase from to ensure we are getting the best price:1
 quality and service:1
 we deserve:1
-set up and maintained the food beverage inventory and placed the orders with each purveyor on a daily and weekly basis:1
+set up and maintained the food   beverage inventory and placed the orders with each purveyor on a daily and weekly basis:1
 managed the physical inventory process on a biweekly basis:1
 and computer input of all relevant documentation:1
-to monitor accurate food beverage costs:1
+to monitor accurate food   beverage costs:1
 maintained the par levels set up for the different food:1
 beverages and supplies utilized throughout the entire operation:1
 checked all incoming shipments for accuracy of invoices:1
 bill of laden and various shipping certificates:1
 examined goods for quality:1
-quantity and any damages or shortages that may be present with deliveries oversight and maintenance of proper storage practices for all types of food and supplies received:1
-license permit specialist:1
+quantity and any damages or shortages that may be present with deliveries  oversight and maintenance of proper storage practices for all types of food and supplies received:1
+license   permit specialist:1
 set up accounts with the different insurance agencies to procure and manage the property:1
 liability:1
-and workers comp health insurance for the company:1
+and workers comp   health insurance for the company:1
 filed the paperwork for the application and maintenance of the business licenses:1
 abc license and health department permits required to operate the restaurant and marina:1
 worked with the bookkeeper:1
@@ -2027,11 +2034,11 @@ quarterly and annual:1
 tax filings:1
 sql server mysql:1
 data analysis and visualization:1
-c net framework:1
+c   net framework:1
 azure devops:1
-editing final cut seven:1
+editing  final cut seven:1
 production scheduling:1
-eediting final cut seven:1
+eediting  final cut seven:1
 pproduction scheduling:1
 complex data transformations:1
 data operations abilities:1
@@ -2060,15 +2067,15 @@ install software:1
 systems engineering:1
 professional summary:1
 experienced:1
-results oriented customer service supervisor with a proven record of achieving business goals and objectives adept at communicating with all levels of management:1
-and internal departments to coordinate overall customer experience efforts demonstrate success implementing and executing key projects:1
-leadership years:1
-proven project management skills year:1
+results oriented customer service supervisor with a proven record of achieving business goals and objectives  adept at communicating with all levels of management:1
+and internal departments to coordinate overall customer experience efforts  demonstrate success implementing and executing key projects:1
+leadership     years:1
+proven project management skills    year:1
 strategic account planning:1
 manage cross functional teams:1
 customer experience retention:1
 excellent negotiation skills:1
-planning prioritizing:1
+planning   prioritizing:1
 flexible thinker:1
 not a destroyer of value:1
 hazardous waste:1
@@ -2079,19 +2086,19 @@ yardi voyager:1
 real page:1
 on site:1
 mri:1
-p l:1
-brand product management:1
+p   l:1
+brand   product management:1
 channel strategies:1
 lead generation:1
 complex selling:1
-software technology:1
+software   technology:1
 manufacturing:1
 sourcing:1
 sales enablement:1
 business competitive analysis:1
 creative design:1
-content communications:1
-social media digital:1
+content   communications:1
+social media   digital:1
 events:1
-crm automation apps:1
-call center telemarketing:1
+crm   automation apps:1
+call center   telemarketing:1

@@ -222,7 +222,6 @@ telephone:3
 internet marketing:3
 adobe photoshop:3
 leadership skills:3
-manufacturing processes:3
 negotiator:3
 programming:3
 researching:3
@@ -334,8 +333,8 @@ customer relations:2
 innovation:2
 team leader:2
 teacher:2
-sales software salesforce com:2
-desktop publishing software photoshop:2
+sales software  salesforce com:2
+desktop publishing software  photoshop:2
 hazardous waste:2
 regulatory compliance:2
 reading:2
@@ -448,7 +447,6 @@ twitter:2
 pr:2
 administrative:2
 back up:2
-marketing sales:2
 orthopedics:2
 financial operations:2
 telecom:2
@@ -483,6 +481,7 @@ mail:2
 speeches:2
 asset management:2
 sales support:2
+manufacturing processes:2
 recruiter:2
 clientele:2
 conversion:2
@@ -565,15 +564,15 @@ letters and memos:1
 minute taking:1
 multi task management:1
 service orientation:1
-business development sales leadership:1
+business development   sales leadership:1
 client development:1
 market expansion team:1
-building leadership:1
+building    leadership:1
 client engagement:1
-market analysis competitive positioning:1
+market analysis competitive  positioning:1
 sales presentations:1
-vendor sourcing relations:1
-profit improvement:1
+vendor  sourcing relations:1
+profit  improvement:1
 compliance management:1
 process management:1
 voip:1
@@ -604,11 +603,11 @@ hiring recommendations:1
 interviewing:1
 multi tasking ability:1
 proficient with microsoft word:1
-access and outlook express optimizer:1
+access and outlook express   optimizer:1
 wfx:1
 stafferlink:1
 healthtrust:1
-and bullhorn maintaining active databases of various hospital proprietary software technology systems:1
+and bullhorn  maintaining active databases of various hospital proprietary software technology systems:1
 appointment setting:1
 art:1
 business analyst:1
@@ -617,12 +616,12 @@ business process expert:1
 call center manager:1
 cost accounting:1
 customer service expert:1
-database administrator e business director:1
+database administrator   e business director:1
 estimating:1
 iso:1
 production management:1
 program implementation:1
-fca kain automotive training steps to digital success:1
+fca kain automotive training    steps to digital success:1
 chrysler certified employee:1
 crm training:1
 special events:1
@@ -638,7 +637,7 @@ forecasting and planning:1
 requirements gathering:1
 scope and project definition:1
 technology architecture analysis:1
-integrated reporting information system iris:1
+integrated reporting information system  iris:1
 portfolio management:1
 cost benefit analysis:1
 functional requirements:1
@@ -667,10 +666,10 @@ professional and friendly:1
 mulch tasking:1
 client relations computer proficiency data collection:1
 filing and great telephone skills:1
-self starter self motivated:1
+self   starter   self motivated:1
 hungry for growth and continuous learning:1
 proactive and energetic:1
-banking credit decisions:1
+banking  credit decisions:1
 credit evaluation:1
 buyer:1
 buying procurement:1
@@ -684,7 +683,7 @@ invoices:1
 payments:1
 skip tracer:1
 bankruptcy:1
-sales account management business development:1
+sales account management  business development:1
 staff management and training:1
 financial services:1
 new hires:1
@@ -730,11 +729,12 @@ supply chain and resource management:1
 cost control and profit maximization:1
 business forecasting and strategy ms office suite:1
 macromedia flash and:1
-programming skills html:1
+programming skills   html:1
 balance sheets:1
 chemistry:1
 macromedia flash:1
 gross profit:1
+manufacturing           processes:1
 market development:1
 pricing strategies:1
 publication:1
@@ -743,7 +743,7 @@ strategicsourcing:1
 medical sales:1
 web development:1
 cloud document:1
-publisher management:1
+publisher          management:1
 google drive:1
 billings:1
 brand identity:1
@@ -755,16 +755,16 @@ determined team player:1
 versatile sales techniques:1
 time management skills with ability to prioritize results:1
 proficient in powerpoint:1
-excel and online survey tools ms access:1
+excel and online survey tools  ms access:1
 oracle basic:1
-operating systems windows xp vista nt servers:1
+operating systems  windows            xp vista nt servers:1
 mac os x:1
-erp basic sap r:1
+erp  basic sap r:1
 sap mm knowledge:1
-software applications internet explorer:1
-editing tools adobe photoshop:1
-general productivity ms office:1
-project management tools microsoft word:1
+software  applications  internet explorer:1
+editing tools  adobe photoshop:1
+general productivity  ms office:1
+project management tools  microsoft word:1
 automobiles:1
 graphs:1
 hand tools:1
@@ -793,15 +793,15 @@ customer driven:1
 proposal preperation:1
 crm planning and management:1
 budget preparation:1
-contract negotiations executive management:1
+contract negotiations  executive management:1
 marketing transportation route planning and analysis:1
-customer relationship management crm software salesforce:1
-healthcare gpos:1
-government and education consortiums:1
+customer relationship management  crm  software  salesforce:1
+healthcare  gpos:1
+government and education  consortiums:1
 international sales:1
 latin:1
 marketing and sales:1
-sales analysis forecasting:1
+sales analysis   forecasting:1
 translation:1
 proficient with large cooking machines:1
 great culinary skills:1
@@ -827,7 +827,7 @@ benefits administrator:1
 benefits administration:1
 ibm:1
 investments i:1
-outlook salesforce com crm customer relationship management virtual and cloud computing environment:1
+outlook  salesforce com crm  customer relationship management   virtual and cloud computing environment:1
 energy saving:1
 newsletter:1
 salesforce com crm:1
@@ -849,14 +849,14 @@ patient safety:1
 complex sales strategy:1
 public policy:1
 enterprise software:1
-software as a service saas:1
-infrastructure as a service iaas:1
+software as a service  saas:1
+infrastructure as a service  iaas:1
 technical analysis:1
 public sector:1
 sales reporting:1
 public presentations:1
 strong leadership communication skills:1
-fortune partner experience:1
+fortune     partner experience:1
 exceeds sales goals:1
 cross functional team management:1
 negotiations expert:1
@@ -864,8 +864,8 @@ goal oriented:1
 attitude:1
 drive:1
 motivation:1
-salesforce crm:1
-top ranked sales executive leading largenational account management organizations organizational psychology and managementexcellence in strategic business policy sciences direct sales trainer and staff developmentplanning and control manager public and client relations marketing and economic policy revenue and market expansion resource optimization excellent communicator compelling leadership skills complex project negotiator international business and marketing advanced problem solving abilities:1
+salesforce   crm:1
+top ranked sales executive leading largenational account management organizations organizational psychology and managementexcellence in strategic business policy sciences direct sales trainer and staff developmentplanning and control manager public and client relations marketing and economic policy revenue and market expansion  resource optimization excellent communicator compelling leadership skills complex project negotiator international business and marketing advanced problem solving abilities:1
 adp:1
 business law:1
 case management:1
@@ -893,7 +893,7 @@ problem solver:1
 software development:1
 training materials:1
 writer:1
-types wpm:1
+types    wpm:1
 sales force and outlook:1
 communications skills:1
 hazardous waste management:1
@@ -925,10 +925,10 @@ energetic:1
 highly organized:1
 mac:1
 very organized:1
-proficient in the use of ms office word excel powerpoint:1
+proficient in the use of  ms office  word  excel  powerpoint:1
 voyager:1
 shopper:1
-tally focus integrated erp software for retail garment stores:1
+tally   focus integrated erp software for retail garment stores:1
 automation:1
 mathematics:1
 siemens:1
@@ -979,19 +979,19 @@ marketing skills:1
 designed:1
 developed and implemented marketing and sales campaigns:1
 evaluated target markets and proposed marketing strategies:1
-managed all phases of direct mail projects monitored production teams recruited and guided vendors:1
+managed all phases of direct mail projects  monitored production teams  recruited and guided vendors:1
 writing skills:1
 wrote creative copy for catalogs:1
 brochures and social media:1
 researched and conceived newsletter articles:1
 produced variety of business materials:1
-including letters:1
+including  letters:1
 reports:1
 proposals and forms:1
 proof read and edited all referenced written materials:1
-promoted products and services generated leads and initiated sales:1
-established and improved client communications maintained ongoing relationships:1
-addressed customer inquiries interpreted and delivered information proposed suggestions provided guidance:1
+promoted products and services  generated leads and initiated sales:1
+established and improved client communications  maintained ongoing relationships:1
+addressed customer inquiries  interpreted and delivered information  proposed suggestions  provided guidance:1
 identified:1
 investigated and negotiated conflicts:1
 conducted surveys and analyzed results:1
@@ -1006,33 +1006,33 @@ personal communication:1
 extensive knowledge of it:1
 operations and management:1
 tapscan:1
-public relations software bacon s mediasource:1
+public relations software  bacon s mediasource:1
 factiva:1
-microsoft office excel:1
+microsoft office      excel:1
 accounting and tax software quick books:1
 drake:1
-occupational safety osha:1
-federal energy management professional femp:1
-web design httml:1
+occupational safety   osha:1
+federal energy management professional  femp:1
+web   design httml:1
 keynote:1
 sengrid:1
 facebook advertising:1
 instagram:1
-facebook analytics comfortable with all google suite products google analytics:1
+facebook analytics  comfortable with all google suite products   google analytics:1
 comfortable providing recommendations on basic elements of design:1
 brand marketing:1
 content creation:1
 pos and inventory training:1
 internal conflict resolution:1
 training and development:1
-budgets cost reduction:1
+budgets   cost reduction:1
 client retention:1
 pos applications software quickbooks pos:1
 pacific amber pos:1
 and lightspeed pos:1
 proficient in software such as quickbooks and microsoft office applications:1
 advanced use of the windows xp:1
-and windows operating systems:1
+and windows    operating systems:1
 cost reduction:1
 managment:1
 excel spreadsheets:1
@@ -1051,6 +1051,7 @@ roofing:1
 assisted living:1
 interpersonal and communication:1
 internal medicine:1
+marketing sales:1
 rehabilitation:1
 distributor sales:1
 territory sales:1
@@ -1060,11 +1061,11 @@ sales teams:1
 sales accounts:1
 strategic accounts:1
 sales promotions:1
-travel meeting sales:1
+travel   meeting sales:1
 technology application sales:1
 clients management:1
 forecasts:1
-travel meeting operations:1
+travel   meeting operations:1
 training development:1
 corporate operations:1
 employee engagement:1
@@ -1106,12 +1107,12 @@ structured:1
 general financial accounting and control:1
 strong analytical and attention detail:1
 multi tasking with strong deadline driven:1
-advanced computer skills microsoft office suites word:1
-and access and quickbooks:1
+advanced computer skills  microsoft office suites   word:1
+and access  and quickbooks:1
 analyst:1
 develop business:1
 extremely organized:1
-client assessment and analysis:1
+client assessment and  analysis:1
 team liaison:1
 product sales:1
 ontime delivery:1
@@ -1135,7 +1136,7 @@ network security:1
 channel partners:1
 proficient in ntreis:1
 north texas real estate information services:1
-proficient in centralized showing services:1
+proficient  in centralized showing services:1
 proficient in smart locating apartment data:1
 proficient in zumper:1
 creating:1
@@ -1145,7 +1146,7 @@ creating ads and generating leads:1
 proficient in microsoft office:1
 such as word:1
 proficient in the use of microsoft office suite:1
-proficient in the use of crm zoho:1
+proficient in the use of crm   zoho:1
 excels in:1
 fund raising with senior level executives:1
 in kind donations with business owners:1
@@ -1158,7 +1159,7 @@ birmingham southern college:1
 birmingham:1
 al:1
 awarded jimmy and emil hell scholarship arts scholarship for ballet accomplishments:1
-champions school of real estate licensed active realtor:1
+champions school of real estate   licensed active realtor:1
 marketing and management:1
 restaurant management:1
 business intelligence:1
@@ -1227,16 +1228,18 @@ typewriter:1
 voice mail:1
 word processing:1
 superb customer service:1
-cold calling relationship building:1
+cold calling  relationship building:1
 various crm software products including salesforce:1
 salespoint:1
-zoho and outlook developing marketing materials:1
-complaint resolution business to business:1
+zoho:1
+and outlook  developing marketing materials:1
+complaint resolution:1
+business to business:1
 cabinets:1
 directing large teams:1
 motivating team members:1
 identifying and capturing new markets:1
-leadership performance analysis:1
+leadership  performance analysis:1
 and budget development and forecasting:1
 consultative sales:1
 product support:1
@@ -1294,7 +1297,7 @@ adobe:1
 fluent in english:1
 financial analyst:1
 financial reporting:1
-jd edwards:1
+jd  edwards:1
 program development:1
 abc:1
 business intelligence software:1
@@ -1304,10 +1307,10 @@ application development:1
 computer maintenance:1
 it strategy:1
 real time:1
-fluent in oral written spanish:1
+fluent in oral   written spanish:1
 reading competency in french:1
 proficient in microsoft word:1
-and outlook mas:1
+and outlook  mas:1
 mas:1
 greatplains:1
 computer:1
@@ -1328,7 +1331,7 @@ edit:1
 film:1
 fund raising:1
 graphics:1
-marketing communications:1
+marketing   communications:1
 media planning and placement:1
 press releases:1
 s:1
@@ -1355,7 +1358,7 @@ strong communicator:1
 skilled in ms office:1
 product training and placement:1
 exceptional customer service skills:1
-sales software cmr s salesforce com:1
+sales software cmr s  salesforce com:1
 salesloft:1
 sales genius and rainking:1
 proficient in all microsoft office products:1
@@ -1373,13 +1376,13 @@ multitasking:1
 sales and development:1
 client and employee management:1
 excellent customer service skills:1
-privileges fiduciary understanding:1
+privileges   fiduciary understanding:1
 budgeting and financial planning:1
 responsible and reliable highly motivated for career advancement able to deal in a mature manner with problem solving willing to learn and accept constructive criticism willing to help good attitude around others calm and focused good knowledge of social media able to use own initiative and work as part of a team excellent communication and organizational skills versed in all aspects of marketing campaigns from concept development to execution and launch skilled marketing professional focused on exceeding revenue goals builder of strategic partnership new customer acquisition expert who emphasizes a mix online and offline marketing strategies:1
 new customer acquisition:1
 new program and promotion implementation:1
 adept multi tasker:1
-ms office word:1
+ms office  word:1
 constant contact:1
 asa:1
 prospecting cold calling:1
@@ -1398,7 +1401,7 @@ goto meeting:1
 linkedin:1
 marketing automation software:1
 lead generation software:1
-concepts applications of chemistry:1
+concepts   applications of chemistry:1
 contract research:1
 analytical lab equipment:1
 translating:1
@@ -1410,11 +1413,11 @@ educational materials:1
 educational programs:1
 injury prevention:1
 sales plans:1
-career summary sales professional:1
+career summary   sales professional:1
 i am a professional that has extensive training and experience in technical sales:1
-and leadership development my career objective is to work as part of a team of people:1
-whose goals and ambition is to move a company forward to success in growth and profit i fit best in a place where creativity and vision are welcomed and technology and personal growth thrive i offer skills in the use of microsoft products:1
-and customer service and support i have what it takes to create vision:1
+and leadership development   my career objective is to work as part of a team of people:1
+whose goals and ambition is to move a company forward to success in growth and profit   i fit best in a place where creativity and vision are welcomed and technology and personal growth thrive   i offer skills in the use of microsoft products:1
+and customer service and support   i have what it takes to create vision:1
 establish and track goals:1
 and become a catalyst of influence through integrity and a positive attitude:1
 core strengths:1
@@ -1452,9 +1455,10 @@ social media marketing:1
 client acquisition:1
 fox and bullhorn crm ats experience:1
 graphic:1
+marketing   sales:1
 skills experience total years last used:1
 microsoft office suite expert:1
-quicken quick books expert:1
+quicken  quick books expert:1
 adobe creative suite expert:1
 microsoft project expert:1
 community health:1
@@ -1488,16 +1492,16 @@ new opportunity prospecting:1
 category management:1
 enthusiastic:1
 professional demeanor:1
-microsoft suite excel:1
+microsoft suite  excel:1
 retail link:1
 computer proficient:1
 expense control:1
 multi tasking management:1
 html coding:1
 cna certificate:1
-microsoft software word:1
-people skills great customer service:1
-language intermediate level spanish speaker:1
+microsoft software  word:1
+people skills  great customer service:1
+language  intermediate level spanish speaker:1
 analytical skills:1
 business development and operations:1
 closing and negotiation:1
