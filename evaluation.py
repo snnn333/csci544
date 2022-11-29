@@ -46,7 +46,7 @@ def save_score(score_file, resumes, intros):
             predictions = intros[id]
             references = resumes[key]
             score = get_bert_score(predictions, references)
-            out.write("{}, {}, {}".format(id, category, score))
+            out.write("{}, {}, {}\n".format(id, category, format(score, '.4f')))
 
 if __name__ == "__main__":
 
