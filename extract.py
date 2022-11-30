@@ -94,12 +94,13 @@ def extract_expr(expr_file):
 
             id = exps_list['id']
             exps = exps_list['experiences']
+            wkex = ""
             if exps:
-                wkex = "I have "+str(len(exps))+ " work experiences. "
+                wkex += "I have "+str(len(exps))+ " work experiences. "
                 for exp in exps:
                     jobtitle = exp['jobtitle']
                     if jobtitle:
-                        wkex = "As a "+jobtitle+", "
+                        wkex += "As a "+jobtitle+", "
 
                     startsdate = exp['startsdate']
                     endsdate = exp['endsdate']
@@ -113,7 +114,7 @@ def extract_expr(expr_file):
                     if jobduty:
                         wkex += "And my major duty is "+jobduty
             else:
-                wkex = "I have no experiences."
+                wkex += "I have no experiences."
 
             exp_out.write("{}|{}\n".format(id, wkex))
             expr_info[id] = wkex
@@ -140,7 +141,7 @@ def generate_intro(edu_info, expr_info, skil_info):
         intro = ""
         if edu_info[key]:
             college, major, degree = edu_info[key].split('|')
-            intro += "I got my "+ degree + " in "+ major + " from "+college + ". "
+            intro += "I got my "+ degree.strip() + " in "+ major.strip() + " from "+college.strip() + ". "
         
         if expr_info[key]:
             intro += expr_info[key] + " "
